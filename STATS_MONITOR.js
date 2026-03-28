@@ -16,6 +16,7 @@ const { getPositionFromHistory } = require('./POSITION_FALLBACK');
 const { getTeamStreak, getStreakStats, getScoringStreak, getScoringStreakStats, getGoalStreak, getGoalStreakStats } = require('./WINNING_STREAK');
 const { checkAndSendPreMatchEmails, sendGoalsCardsEmail } = require('./PRE_MATCH_STREAKS');
 const { refreshDailyMatches } = require('./DAILY_MATCHES');
+const { checkLiveForPlayoff, discoverPlayoffMatches } = require('./PLAYOFF_DISCOVERY');
 const NotificationTracker = require('./NOTIFICATION_TRACKER');
 const lifecycle = require('./LIFECYCLE_MANAGER');
 const logger = require('./LOG_MANAGER');
@@ -1038,6 +1039,32 @@ async function monitorSchedule(scheduleFile) {
             } catch (e) {
                 logger.error(`   ⚠️  Eroare sendGoalsCardsEmail: ${e.message}`);
             }
+        }
+
+        // PLAYOFF DISCOVERY la 08:05 — Puppeteer scraping FlashScore Championship Group
+        const discoveryKey = `playoff_discovery_${nowDate.toISOString().split('T')[0]}`;
+        if (nowDate.getHours() === 8 && nowDate.getMinutes() >= 5 && nowDate.getMinutes() < 8 && !monitorSchedule._refreshDone?.[discoveryKey]) {
+            try {
+                logger.info('🇷🇴 PLAYOFF DISCOVERY 08:05 — căutare meciuri Championship Group...');
+                const result = await discoverPlayoffMatches();
+                if (result.added > 0) {
+                    logger.info(`   ✅ Descoperite ${result.added} meciuri playoff! Regenerez programul...`);
+                    const { generateCheckSchedule } = require('./GENERATE_CHECK_SCHEDULE');
+                    const matchesFile = path.join(__dirname, `meciuri-${nowDate.getFullYear()}-${String(nowDate.getMonth()+1).padStart(2,'0')}-${String(nowDate.getDate()).padStart(2,'0')}.json`);
+                    generateCheckSchedule(matchesFile);
+                }
+            } catch (e) {
+                logger.error(`   ⚠️  Eroare playoff discovery: ${e.message}`);
+            }
+            if (!monitorSchedule._refreshDone) monitorSchedule._refreshDone = {};
+            monitorSchedule._refreshDone[discoveryKey] = true;
+        }
+
+        // LIVE FEED CHECK — verifică la fiecare ciclu dacă sunt meciuri playoff live nedescoperite
+        try {
+            await checkLiveForPlayoff();
+        } catch (e) {
+            // Silent — nu blocăm monitorizarea
         }
 
         // REFRESH MECIURI la 13:00 - prinde meciuri adăugate târziu de FlashScore
