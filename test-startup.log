@@ -1,0 +1,789 @@
+✅ Email SERVICE inițializat
+[32minfo[39m: ✅ Configurație email încărcată
+ {"timestamp":"2026-02-01 02:55:32"}
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 39
+   Data actualizare: vineri, 30 ianuarie 2026 la 01:03:30
+[32minfo[39m: 
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     █████╗ ██████╗ ██╗    ███████╗███╗   ███╗ █████╗ ██████╗ ████████╗    ███████╗
+║    ██╔══██╗██╔══██╗██║    ██╔════╝████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝    ██╔════╝
+║    ███████║██████╔╝██║    ███████╗██╔████╔██║███████║██████╔╝   ██║       ███████╗
+║    ██╔══██║██╔═══╝ ██║    ╚════██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║       ╚════██║
+║    ██║  ██║██║     ██║    ███████║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║       ███████║
+║    ╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚══════╝
+║                                                               ║
+║              Sistem Automat de Analiză Pattern-uri           ║
+║           FlashScore API → HT Stats → Email Alert            ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+ {"timestamp":"2026-02-01 02:55:32"}
+[32minfo[39m: 
+🚀 WORKFLOW COMPLET HT - API SMART 5
+ {"timestamp":"2026-02-01 02:55:32"}
+[32minfo[39m: ============================================================ {"timestamp":"2026-02-01 02:55:32"}
+[32minfo[39m: 
+📅 STEP 1: GENERARE LISTĂ MECIURI ZILNICĂ
+ {"timestamp":"2026-02-01 02:55:32"}
+[32minfo[39m: ============================================================ {"timestamp":"2026-02-01 02:55:32"}
+
+⚽ GENERARE LISTĂ MECIURI - 01.02.2026
+
+📡 Se extrag date din FlashScore...
+   Total meciuri în feed: 996
+   Meciuri din ziua curentă + mâine dimineață: 951
+   Meciuri TOP ligi: 71
+
+✅ Găsite 71 meciuri pentru astăzi:
+
+Distribuție pe ligi:
+   BRAZIL: Paulista A2 - First stage: 5 meciuri
+   NETHERLANDS: Eredivisie: 5 meciuri
+   SPAIN: LaLiga2: 5 meciuri
+   FRANCE: Ligue 1: 5 meciuri
+   ARGENTINA: Liga Profesional - Apertura: 4 meciuri
+   BRAZIL: Paulista: 4 meciuri
+   ITALY: Serie A: 4 meciuri
+   ENGLAND: Premier League: 4 meciuri
+   GREECE: Super League: 4 meciuri
+   BRAZIL: Paulista A4: 3 meciuri
+   POLAND: Ekstraklasa: 3 meciuri
+   BELGIUM: Jupiler Pro League: 3 meciuri
+   SPAIN: LaLiga: 3 meciuri
+   SERBIA: Mozzart Bet Super Liga: 3 meciuri
+   PORTUGAL: Liga Portugal: 3 meciuri
+   BELGIUM: Challenger Pro League: 2 meciuri
+   SWITZERLAND: Super League: 2 meciuri
+   SCOTLAND: Premiership: 2 meciuri
+   TURKEY: Super Lig: 2 meciuri
+   GERMANY: Bundesliga: 2 meciuri
+   ROMANIA: Superliga: 2 meciuri
+   GERMANY: 2. Bundesliga: 1 meciuri
+
+💾 Salvat: meciuri-2026-02-01.json
+   Calea completă: /home/florian/API SMART 5/meciuri-2026-02-01.json
+
+[32minfo[39m: 
+✅ SUCCESS: 71 meciuri găsite pentru astăzi! {"timestamp":"2026-02-01 02:55:33"}
+[32minfo[39m: 
+⏰ STEP 2: GENERARE PROGRAM VERIFICĂRI
+ {"timestamp":"2026-02-01 02:55:35"}
+[32minfo[39m: ============================================================ {"timestamp":"2026-02-01 02:55:35"}
+
+📅 GENERARE PROGRAM VERIFICĂRI - 01.02.2026
+
+📊 Meciuri de procesat: 71
+   ⏭️  Skip (verificare în trecut): Sao Jose EC vs Inter de Limeira
+   ⏭️  Skip (verificare în trecut): Sertaozinho vs Linense
+   ⏭️  Skip (terminat): Sao-Carlense vs AEA Aracatuba
+   ⏭️  Skip (terminat): Penapolense vs Jacarei FC
+   ⏭️  Skip (verificare în trecut): Vocem vs Taquaritinga
+   ⏭️  Skip (verificare în trecut): Independiente vs Velez Sarsfield
+   ⏭️  Skip (verificare în trecut): Primavera vs Portuguesa
+   ⏭️  Skip (verificare în trecut): Sao Paulo vs Santos
+   ✅ Atl. Tucuman vs Huracan
+      Start: 03:00 | Verificare: 03:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Talleres Cordoba vs Platense
+      Start: 03:00 | Verificare: 03:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Excelsior vs Ajax
+      Start: 13:15 | Verificare: 14:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Motor Lublin vs Pogon Szczecin
+      Start: 13:15 | Verificare: 14:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Torino vs Lecce
+      Start: 13:30 | Verificare: 14:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ St. Liege vs Anderlecht
+      Start: 14:30 | Verificare: 15:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ K. Lierse S.K. vs Beerschot VA
+      Start: 14:30 | Verificare: 15:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Kortrijk vs Sporting Lokeren
+      Start: 14:30 | Verificare: 15:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Dusseldorf vs Paderborn
+      Start: 14:30 | Verificare: 15:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Santo Andre vs Agua Santa
+      Start: 15:00 | Verificare: 15:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Real Madrid vs Rayo Vallecano
+      Start: 15:00 | Verificare: 15:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Almeria vs Ceuta
+      Start: 15:00 | Verificare: 15:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Luzern vs St. Gallen
+      Start: 15:00 | Verificare: 15:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Heracles vs Sittard
+      Start: 15:30 | Verificare: 16:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ PSV vs Feyenoord
+      Start: 15:30 | Verificare: 16:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Novi Pazar vs Sp. Subotica
+      Start: 15:30 | Verificare: 16:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Wisla Plock vs Rakow
+      Start: 15:45 | Verificare: 16:38 (min 53 - DUPĂ PAUZĂ)
+   ✅ Aston Villa vs Brentford
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Manchester Utd vs Fulham
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Nottingham vs Crystal Palace
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Lyon vs Lille
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Levadiakos vs Asteras Tripolis
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Como vs Atalanta
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Hibernian vs Rangers
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Cukaricki vs Crvena zvezda
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ TSC vs Vojvodina
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Genclerbirligi vs Gaziantep
+      Start: 16:00 | Verificare: 16:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Stuttgart vs Freiburg
+      Start: 16:30 | Verificare: 17:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Dender vs Genk
+      Start: 17:00 | Verificare: 17:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Celtic vs Falkirk
+      Start: 17:00 | Verificare: 17:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Farul Constanta vs Univ. Craiova
+      Start: 17:15 | Verificare: 18:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Betis vs Valencia
+      Start: 17:15 | Verificare: 18:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Eibar vs Gijon
+      Start: 17:15 | Verificare: 18:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Panathinaikos vs Kifisia
+      Start: 17:30 | Verificare: 18:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Gil Vicente vs Famalicao
+      Start: 17:30 | Verificare: 18:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Basel vs Thun
+      Start: 17:30 | Verificare: 18:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Heerenveen vs Utrecht
+      Start: 17:45 | Verificare: 18:38 (min 53 - DUPĂ PAUZĂ)
+   ✅ Angers vs Metz
+      Start: 18:15 | Verificare: 19:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Nice vs Brest
+      Start: 18:15 | Verificare: 19:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Toulouse vs Auxerre
+      Start: 18:15 | Verificare: 19:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Tottenham vs Manchester City
+      Start: 18:30 | Verificare: 19:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Dortmund vs Heidenheim
+      Start: 18:30 | Verificare: 19:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Legia vs Korona Kielce
+      Start: 18:30 | Verificare: 19:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Cremonese vs Inter
+      Start: 19:00 | Verificare: 19:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Galatasaray vs Kayserispor
+      Start: 19:00 | Verificare: 19:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ PAOK vs Panserraikos
+      Start: 19:30 | Verificare: 20:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Getafe vs Celta Vigo
+      Start: 19:30 | Verificare: 20:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Castellon vs Andorra
+      Start: 19:30 | Verificare: 20:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Huesca vs Cadiz CF
+      Start: 19:30 | Verificare: 20:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Taubate vs Ituano
+      Start: 20:00 | Verificare: 20:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Sporting CP vs Nacional
+      Start: 20:00 | Verificare: 20:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ FCSB vs Csikszereda M. Ciuc
+      Start: 20:00 | Verificare: 20:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Leuven vs KV Mechelen
+      Start: 20:15 | Verificare: 21:08 (min 53 - DUPĂ PAUZĂ)
+   ✅ Osasco Sporting vs Juventus-SP
+      Start: 21:00 | Verificare: 21:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ AEK Athens vs Olympiacos Piraeus
+      Start: 21:00 | Verificare: 21:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ FC Volendam vs G.A. Eagles
+      Start: 21:00 | Verificare: 21:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Strasbourg vs PSG
+      Start: 21:45 | Verificare: 22:38 (min 53 - DUPĂ PAUZĂ)
+   ✅ Parma vs Juventus
+      Start: 21:45 | Verificare: 22:38 (min 53 - DUPĂ PAUZĂ)
+   ✅ Barracas Central vs Dep. Riestra
+      Start: 22:00 | Verificare: 22:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Granada CF vs Racing Santander
+      Start: 22:00 | Verificare: 22:53 (min 53 - DUPĂ PAUZĂ)
+   ✅ Tondela vs Benfica
+      Start: 22:30 | Verificare: 23:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Mirassol vs Novorizontino
+      Start: 23:30 | Verificare: 00:23 (min 53 - DUPĂ PAUZĂ)
+   ✅ Noroeste vs Velo Clube
+      Start: 00:30 | Verificare: 01:23 (min 53 - DUPĂ PAUZĂ)
+
+📊 Total verificări programate: 63
+[32minfo[39m: 
+💾 Salvat: verificari-2026-02-01.json {"timestamp":"2026-02-01 02:55:35"}
+[32minfo[39m: 
+✅ SUCCESS: 63 verificări programate! {"timestamp":"2026-02-01 02:55:35"}
+[32minfo[39m: 
+============================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 
+✅ PREGĂTIRE COMPLETĂ!
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 📊 Lista meciurilor: ✅ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ⏰ Program verificări HT: ✅ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 
+🔍 Pornire monitorizare HT...
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ============================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 📅 Pornire scheduler automat rapoarte... {"timestamp":"2026-02-01 02:55:37"}
+
+============================================================
+📅 REPORT SCHEDULER - PORNIT
+============================================================
+
+   📊 Raport LUNAR:      1 a fiecărei luni la 08:00
+   📊 Raport SĂPTĂMÂNAL: În fiecare Marți la 08:00
+
+   ⏰ Verificare: La fiecare 60 secunde
+
+============================================================
+
+[32minfo[39m: ✅ Scheduler rapoarte pornit!
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 
+🔍 STEP 3: PORNIRE MONITORIZARE AUTOMATĂ
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ============================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 
+🚀 Pornire daemon monitorizare...
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 📊 Pornire NOTIFICATION MONITOR (tracking notificări)... {"timestamp":"2026-02-01 02:55:37"}
+🔧 Browser Pool inițializat: MAX 2 browsere simultan
+[32minfo[39m: 
+================================================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 🚀 STARTING NOTIFICATION MONITOR {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ================================================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m:    Check interval: 60 seconds {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m:    Runtime: ♾️  NELIMITAT (restart zilnic via cron) {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ================================================================================
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 
+================================================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 🔔 NOTIFICATION MONITOR - 02:55:37 {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ================================================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 
+📊 Active notifications (din 01.02.2026): 2 {"timestamp":"2026-02-01 02:55:37"}
+✅ Interval pornit: notification-monitor (60000ms)
+[32minfo[39m: ✅ NOTIFICATION MONITOR pornit!
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 💰 Pornire SIMPLE ODDS MONITOR (monitorizare cote live)... {"timestamp":"2026-02-01 02:55:37"}
+2026-02-01 02:55:37 [INFO]: 
+================================================================================
+2026-02-01 02:55:37 [INFO]: 🚀 SIMPLE ODDS MONITOR - START
+2026-02-01 02:55:37 [INFO]: ================================================================================
+2026-02-01 02:55:37 [INFO]: ⏱️  Interval: 2 minute
+2026-02-01 02:55:37 [INFO]: 🕐 Start: 01.02.2026, 02:55:37
+2026-02-01 02:55:37 [INFO]: ================================================================================
+
+2026-02-01 02:55:37 [INFO]: 
+================================================================================
+2026-02-01 02:55:37 [INFO]: 🔄 SIMPLE ODDS MONITOR - Check Cycle - 02:55:37
+2026-02-01 02:55:37 [INFO]: ================================================================================
+2026-02-01 02:55:37 [INFO]: 📊 Meciuri active: 2
+2026-02-01 02:55:37 [INFO]: 
+⏰ 02:55:37 - Verificare: Alverca vs Estrela
+2026-02-01 02:55:37 [INFO]:    🔍 Căutare pe Superbet: Alverca vs Estrela
+   ✅ Meci găsit: "Alverca·Estrela Amadora" (ID: 8935319)
+2026-02-01 02:55:37 [INFO]: ✅ SIMPLE ODDS MONITOR pornit!
+
+[32minfo[39m: ✅ SIMPLE ODDS MONITOR pornit!
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 🚨 Pornire MATCH VERIFICATION ALERTER... {"timestamp":"2026-02-01 02:55:37"}
+
+🚨 MATCH VERIFICATION ALERTER - START
+⏱️  Verificare la fiecare 5 minute
+
+✅ ALERTER pornit!
+
+[32minfo[39m: ✅ ALERTER pornit!
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 🤖 Pornire AUTO-VALIDATOR (validare automată pronosticuri)... {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ✅ AUTO-VALIDATOR pornit în background (validare la fiecare 6h)!
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 🎯 Pornire STATS MONITOR (verificare pattern-uri la orele programate)... {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 
+🔍 STATS MONITOR - START
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 📂 Fișier program: verificari-2026-02-01.json {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ⏱️  Interval verificare: 60 secunde {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 📅 Data: 01.02.2026
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ⚠️  Lock file găsit pentru proces mort (PID: 134218), cleanup... {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 🔒 Lock file creat: PID 1412
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 📊 Total verificări: 63
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 🕐 PROGRAM:
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 1. 03:53 - Atl. Tucuman vs Huracan [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 2. 03:53 - Talleres Cordoba vs Platense [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 3. 14:08 - Excelsior vs Ajax [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 4. 14:08 - Motor Lublin vs Pogon Szczecin [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 5. 14:23 - Torino vs Lecce [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 6. 15:23 - St. Liege vs Anderlecht [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 7. 15:23 - K. Lierse S.K. vs Beerschot VA [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 8. 15:23 - Kortrijk vs Sporting Lokeren [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 9. 15:23 - Dusseldorf vs Paderborn [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 10. 15:53 - Santo Andre vs Agua Santa [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 11. 15:53 - Real Madrid vs Rayo Vallecano [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 12. 15:53 - Almeria vs Ceuta [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 13. 15:53 - Luzern vs St. Gallen [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 14. 16:23 - Heracles vs Sittard [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 15. 16:23 - PSV vs Feyenoord [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 16. 16:23 - Novi Pazar vs Sp. Subotica [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 17. 16:38 - Wisla Plock vs Rakow [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 18. 16:53 - Aston Villa vs Brentford [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 19. 16:53 - Manchester Utd vs Fulham [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 20. 16:53 - Nottingham vs Crystal Palace [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 21. 16:53 - Lyon vs Lille [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 22. 16:53 - Levadiakos vs Asteras Tripolis [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 23. 16:53 - Como vs Atalanta [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 24. 16:53 - Hibernian vs Rangers [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 25. 16:53 - Cukaricki vs Crvena zvezda [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 26. 16:53 - TSC vs Vojvodina [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 27. 16:53 - Genclerbirligi vs Gaziantep [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 28. 17:23 - Stuttgart vs Freiburg [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 29. 17:53 - Dender vs Genk [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 30. 17:53 - Celtic vs Falkirk [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 31. 18:08 - Farul Constanta vs Univ. Craiova [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 32. 18:08 - Betis vs Valencia [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 33. 18:08 - Eibar vs Gijon [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 34. 18:23 - Panathinaikos vs Kifisia [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 35. 18:23 - Gil Vicente vs Famalicao [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 36. 18:23 - Basel vs Thun [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 37. 18:38 - Heerenveen vs Utrecht [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 38. 19:08 - Angers vs Metz [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 39. 19:08 - Nice vs Brest [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 40. 19:08 - Toulouse vs Auxerre [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 41. 19:23 - Tottenham vs Manchester City [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 42. 19:23 - Dortmund vs Heidenheim [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 43. 19:23 - Legia vs Korona Kielce [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 44. 19:53 - Cremonese vs Inter [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 45. 19:53 - Galatasaray vs Kayserispor [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 46. 20:23 - PAOK vs Panserraikos [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 47. 20:23 - Getafe vs Celta Vigo [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 48. 20:23 - Castellon vs Andorra [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 49. 20:23 - Huesca vs Cadiz CF [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 50. 20:53 - Taubate vs Ituano [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 51. 20:53 - Sporting CP vs Nacional [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 52. 20:53 - FCSB vs Csikszereda M. Ciuc [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 53. 21:08 - Leuven vs KV Mechelen [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 54. 21:53 - Osasco Sporting vs Juventus-SP [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 55. 21:53 - AEK Athens vs Olympiacos Piraeus [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 56. 21:53 - FC Volendam vs G.A. Eagles [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 57. 22:38 - Strasbourg vs PSG [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 58. 22:38 - Parma vs Juventus [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 59. 22:53 - Barracas Central vs Dep. Riestra [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 60. 22:53 - Granada CF vs Racing Santander [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 61. 23:23 - Tondela vs Benfica [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 62. 00:23 - Mirassol vs Novorizontino [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 63. 01:23 - Noroeste vs Velo Clube [programat] {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 
+============================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 🚀 Monitorizare activă...
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: 📊 Încărcare JSON PROCENTE... {"timestamp":"2026-02-01 02:55:37"}
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 39
+   Data actualizare: vineri, 30 ianuarie 2026 la 01:03:30
+[32minfo[39m: ✅ JSON PROCENTE încărcat cu succes!
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ✅ EmailNotifier inițializat!
+ {"timestamp":"2026-02-01 02:55:37"}
+✅ Interval pornit: stats-monitor (60000ms)
+[32minfo[39m: ✅ STATS MONITOR pornit!
+ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ============================================================ {"timestamp":"2026-02-01 02:55:37"}
+[32minfo[39m: ✅ Toate monitoarele pornite!
+ {"timestamp":"2026-02-01 02:55:37"}
+2026-02-01 02:55:37 [INFO]:    ✅ Event ID: 8935319
+2026-02-01 02:55:37 [INFO]:    💰 Extragere cote...
+[32minfo[39m: 
+📧 Trimit notificare START... {"timestamp":"2026-02-01 02:55:47"}
+2026-02-01 02:55:47 [INFO]:    ❌ Nu am putut extrage cotele
+2026-02-01 02:55:47 [INFO]: 
+⏰ 02:55:47 - Verificare: Independiente vs Velez Sarsfield
+2026-02-01 02:55:47 [INFO]:    🔍 Căutare pe Superbet: Independiente vs Velez Sarsfield
+   ✅ Meci găsit: "CA Independiente·Velez Sarsfield" (ID: 11590905)
+2026-02-01 02:55:47 [INFO]:    ✅ Event ID: 11590905
+2026-02-01 02:55:47 [INFO]:    💰 Extragere cote...
+2026-02-01 02:55:57 [INFO]:    ❌ Nu am putut extrage cotele
+2026-02-01 02:55:57 [INFO]: ================================================================================
+
+[32minfo[39m:    🔓 Skip filtrare minut pentru: Alverca vs Estrela {"timestamp":"2026-02-01 02:55:58"}
+✅ Email trimis: <4c28339c-448a-06dd-ea6b-f7d2d121b0a5@gmail.com>
+   Subject: 🚀 API SMART 5 - SYSTEM STARTED
+✅ Startup notification trimisă
+[32minfo[39m: ✅ Notificare START trimisă!
+ {"timestamp":"2026-02-01 02:55:59"}
+[32minfo[39m: 📊 Meciuri active (în curs): 2
+ {"timestamp":"2026-02-01 02:55:59"}
+[32minfo[39m: 
+🔍 Checking: Alverca vs Estrela {"timestamp":"2026-02-01 02:55:59"}
+[32minfo[39m:    Event: UN GOL în repriza 2 (Total Goluri peste 0.5) {"timestamp":"2026-02-01 02:55:59"}
+[32minfo[39m:    Status: MONITORING {"timestamp":"2026-02-01 02:55:59"}
+[32minfo[39m:    ⏱️  Current minute: 89 {"timestamp":"2026-02-01 02:55:59"}
+[32minfo[39m:    🎯 Extragere cote LIVE cu Puppeteer... {"timestamp":"2026-02-01 02:56:00"}
+
+🎯 EXTRAGERE COTE SUPERBET (Puppeteer - POOL)
+
+============================================================
+⚽ Meci: Alverca vs Estrela
+🔧 Browser Pool: MAX 2 browsere simultan
+🚀 Lansare browser (1/2)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+
+📥 Accesare Superbet.ro...
+✅ Pagină încărcată
+
+🔍 Căutare meci: Alverca vs Estrela...
+   ⚠️  Nu am găsit câmp search, caut direct în pagină...
+
+📊 Căutare cote în pagină...
+   ⚠️  Meciul nu a fost găsit automat
+
+💰 Extragere cote...
+
+✅ Cote extrase:
+{
+  "match_result": {},
+  "over_under": {},
+  "btts": {},
+  "team_goals": {},
+  "corners": {},
+  "cards": {},
+  "timestamp": "2026-02-01T00:56:04.931Z"
+}
+
+============================================================
+✅ Browser închis (0/2 rămase)
+[32minfo[39m:    ⚠️  Cotă validă nu a fost găsită pentru Over 2.5 {"timestamp":"2026-02-01 02:56:05"}
+[32minfo[39m: 
+🔍 Checking: Independiente vs Velez Sarsfield {"timestamp":"2026-02-01 02:56:05"}
+[32minfo[39m:    Event: Independiente marchează peste 1.5 goluri {"timestamp":"2026-02-01 02:56:05"}
+[32minfo[39m:    Status: MONITORING {"timestamp":"2026-02-01 02:56:05"}
+[32minfo[39m:    ⏱️  Current minute: 0 {"timestamp":"2026-02-01 02:56:05"}
+[32minfo[39m:    🎯 Extragere cote LIVE cu Puppeteer... {"timestamp":"2026-02-01 02:56:06"}
+
+🎯 EXTRAGERE COTE SUPERBET (Puppeteer - POOL)
+
+============================================================
+⚽ Meci: Independiente vs Velez Sarsfield
+🔧 Browser Pool: MAX 2 browsere simultan
+🚀 Lansare browser (1/2)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+
+📥 Accesare Superbet.ro...
+✅ Pagină încărcată
+
+🔍 Căutare meci: Independiente vs Velez Sarsfield...
+   ⚠️  Nu am găsit câmp search, caut direct în pagină...
+
+📊 Căutare cote în pagină...
+   ⚠️  Meciul nu a fost găsit automat
+
+💰 Extragere cote...
+
+✅ Cote extrase:
+{
+  "match_result": {},
+  "over_under": {},
+  "btts": {},
+  "team_goals": {},
+  "corners": {},
+  "cards": {},
+  "timestamp": "2026-02-01T00:56:09.029Z"
+}
+
+============================================================
+✅ Browser închis (0/2 rămase)
+[32minfo[39m:    ⚠️  Cotă validă nu a fost găsită pentru Over 2.5 {"timestamp":"2026-02-01 02:56:09"}
+[32minfo[39m: 
+📈 STATISTICS: {"timestamp":"2026-02-01 02:56:09"}
+[32minfo[39m:    Total: 168 {"timestamp":"2026-02-01 02:56:09"}
+[32minfo[39m:    Monitoring: 2 {"timestamp":"2026-02-01 02:56:09"}
+[32minfo[39m:    Completed: 110 {"timestamp":"2026-02-01 02:56:09"}
+[32minfo[39m:    Failed: 56 {"timestamp":"2026-02-01 02:56:09"}
+[32minfo[39m:    Success rate: 66% {"timestamp":"2026-02-01 02:56:09"}
+[32minfo[39m: 
+================================================================================
+ {"timestamp":"2026-02-01 02:56:09"}
+[32minfo[39m: 
+================================================================================ {"timestamp":"2026-02-01 02:56:37"}
+[32minfo[39m: 🔔 NOTIFICATION MONITOR - 02:56:37 {"timestamp":"2026-02-01 02:56:37"}
+[32minfo[39m: ================================================================================ {"timestamp":"2026-02-01 02:56:37"}
+[32minfo[39m: 
+📊 Active notifications (din 01.02.2026): 2 {"timestamp":"2026-02-01 02:56:37"}
+[32minfo[39m: [02:56:37] Check #1 {"timestamp":"2026-02-01 02:56:37"}
+[32minfo[39m:    ⏳ Următoarea verificare: 03:53 (Atl. Tucuman vs Huracan) - în 56 minute {"timestamp":"2026-02-01 02:56:37"}
+[32minfo[39m:    🔓 Skip filtrare minut pentru: Alverca vs Estrela {"timestamp":"2026-02-01 02:56:37"}
+[32minfo[39m: 📊 Meciuri active (în curs): 2
+ {"timestamp":"2026-02-01 02:56:38"}
+[32minfo[39m: 
+🔍 Checking: Alverca vs Estrela {"timestamp":"2026-02-01 02:56:38"}
+[32minfo[39m:    Event: UN GOL în repriza 2 (Total Goluri peste 0.5) {"timestamp":"2026-02-01 02:56:38"}
+[32minfo[39m:    Status: MONITORING {"timestamp":"2026-02-01 02:56:38"}
+[32minfo[39m:    ⏱️  Current minute: 89 {"timestamp":"2026-02-01 02:56:38"}
+[32minfo[39m:    🎯 Extragere cote LIVE cu Puppeteer... {"timestamp":"2026-02-01 02:56:39"}
+
+🎯 EXTRAGERE COTE SUPERBET (Puppeteer - POOL)
+
+============================================================
+⚽ Meci: Alverca vs Estrela
+🔧 Browser Pool: MAX 2 browsere simultan
+🚀 Lansare browser (1/2)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+
+📥 Accesare Superbet.ro...
+✅ Pagină încărcată
+
+🔍 Căutare meci: Alverca vs Estrela...
+   ⚠️  Nu am găsit câmp search, caut direct în pagină...
+
+📊 Căutare cote în pagină...
+   ⚠️  Meciul nu a fost găsit automat
+
+💰 Extragere cote...
+
+✅ Cote extrase:
+{
+  "match_result": {},
+  "over_under": {},
+  "btts": {},
+  "team_goals": {},
+  "corners": {},
+  "cards": {},
+  "timestamp": "2026-02-01T00:56:42.288Z"
+}
+
+============================================================
+✅ Browser închis (0/2 rămase)
+[32minfo[39m:    ⚠️  Cotă validă nu a fost găsită pentru Over 2.5 {"timestamp":"2026-02-01 02:56:42"}
+[32minfo[39m: 
+🔍 Checking: Independiente vs Velez Sarsfield {"timestamp":"2026-02-01 02:56:42"}
+[32minfo[39m:    Event: Independiente marchează peste 1.5 goluri {"timestamp":"2026-02-01 02:56:42"}
+[32minfo[39m:    Status: MONITORING {"timestamp":"2026-02-01 02:56:42"}
+[32minfo[39m:    ⏱️  Current minute: 0 {"timestamp":"2026-02-01 02:56:43"}
+[32minfo[39m:    🎯 Extragere cote LIVE cu Puppeteer... {"timestamp":"2026-02-01 02:56:43"}
+
+🎯 EXTRAGERE COTE SUPERBET (Puppeteer - POOL)
+
+============================================================
+⚽ Meci: Independiente vs Velez Sarsfield
+🔧 Browser Pool: MAX 2 browsere simultan
+🚀 Lansare browser (1/2)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+
+📥 Accesare Superbet.ro...
+✅ Pagină încărcată
+
+🔍 Căutare meci: Independiente vs Velez Sarsfield...
+   ⚠️  Nu am găsit câmp search, caut direct în pagină...
+
+📊 Căutare cote în pagină...
+   ⚠️  Meciul nu a fost găsit automat
+
+💰 Extragere cote...
+
+✅ Cote extrase:
+{
+  "match_result": {},
+  "over_under": {},
+  "btts": {},
+  "team_goals": {},
+  "corners": {},
+  "cards": {},
+  "timestamp": "2026-02-01T00:56:46.509Z"
+}
+
+============================================================
+✅ Browser închis (0/2 rămase)
+[32minfo[39m:    ⚠️  Cotă validă nu a fost găsită pentru Over 2.5 {"timestamp":"2026-02-01 02:56:46"}
+[32minfo[39m: 
+📈 STATISTICS: {"timestamp":"2026-02-01 02:56:46"}
+[32minfo[39m:    Total: 168 {"timestamp":"2026-02-01 02:56:46"}
+[32minfo[39m:    Monitoring: 2 {"timestamp":"2026-02-01 02:56:46"}
+[32minfo[39m:    Completed: 110 {"timestamp":"2026-02-01 02:56:46"}
+[32minfo[39m:    Failed: 56 {"timestamp":"2026-02-01 02:56:46"}
+[32minfo[39m:    Success rate: 66% {"timestamp":"2026-02-01 02:56:46"}
+[32minfo[39m: 
+================================================================================
+ {"timestamp":"2026-02-01 02:56:46"}
+[32minfo[39m: 
+================================================================================ {"timestamp":"2026-02-01 02:57:37"}
+[32minfo[39m: 🔔 NOTIFICATION MONITOR - 02:57:37 {"timestamp":"2026-02-01 02:57:37"}
+[32minfo[39m: ================================================================================ {"timestamp":"2026-02-01 02:57:37"}
+[32minfo[39m: 
+📊 Active notifications (din 01.02.2026): 2 {"timestamp":"2026-02-01 02:57:37"}
+2026-02-01 02:57:37 [INFO]: 
+================================================================================
+2026-02-01 02:57:37 [INFO]: 🔄 SIMPLE ODDS MONITOR - Check Cycle - 02:57:37
+2026-02-01 02:57:37 [INFO]: ================================================================================
+2026-02-01 02:57:37 [INFO]: 📊 Meciuri active: 2
+2026-02-01 02:57:37 [INFO]: 
+⏰ 02:57:37 - Verificare: Alverca vs Estrela
+2026-02-01 02:57:37 [INFO]:    🔍 Căutare pe Superbet: Alverca vs Estrela
+2026-02-01 02:57:37 [INFO]:    ✅ Event ID: 8935319
+2026-02-01 02:57:37 [INFO]:    💰 Extragere cote...
+2026-02-01 02:57:47 [INFO]:    ❌ Nu am putut extrage cotele
+2026-02-01 02:57:47 [INFO]: 
+⏰ 02:57:47 - Verificare: Independiente vs Velez Sarsfield
+2026-02-01 02:57:47 [INFO]:    🔍 Căutare pe Superbet: Independiente vs Velez Sarsfield
+2026-02-01 02:57:47 [INFO]:    ✅ Event ID: 11590905
+2026-02-01 02:57:47 [INFO]:    💰 Extragere cote...
+2026-02-01 02:57:57 [INFO]:    ❌ Nu am putut extrage cotele
+2026-02-01 02:57:57 [INFO]: ================================================================================
+
+[32minfo[39m: [02:57:57] Check #2 {"timestamp":"2026-02-01 02:57:57"}
+[32minfo[39m:    ⏳ Următoarea verificare: 03:53 (Atl. Tucuman vs Huracan) - în 55 minute {"timestamp":"2026-02-01 02:57:57"}
+[32minfo[39m:    🔓 Skip filtrare minut pentru: Alverca vs Estrela {"timestamp":"2026-02-01 02:57:57"}
+[32minfo[39m: 📊 Meciuri active (în curs): 2
+ {"timestamp":"2026-02-01 02:57:58"}
+[32minfo[39m: 
+🔍 Checking: Alverca vs Estrela {"timestamp":"2026-02-01 02:57:58"}
+[32minfo[39m:    Event: UN GOL în repriza 2 (Total Goluri peste 0.5) {"timestamp":"2026-02-01 02:57:58"}
+[32minfo[39m:    Status: MONITORING {"timestamp":"2026-02-01 02:57:58"}
+[32minfo[39m:    ⏱️  Current minute: 89 {"timestamp":"2026-02-01 02:57:59"}
+[32minfo[39m:    🎯 Extragere cote LIVE cu Puppeteer... {"timestamp":"2026-02-01 02:57:59"}
+
+🎯 EXTRAGERE COTE SUPERBET (Puppeteer - POOL)
+
+============================================================
+⚽ Meci: Alverca vs Estrela
+🔧 Browser Pool: MAX 2 browsere simultan
+🚀 Lansare browser (1/2)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+
+📥 Accesare Superbet.ro...
+✅ Pagină încărcată
+
+🔍 Căutare meci: Alverca vs Estrela...
+   ⚠️  Nu am găsit câmp search, caut direct în pagină...
+
+📊 Căutare cote în pagină...
+   ⚠️  Meciul nu a fost găsit automat
+
+💰 Extragere cote...
+
+✅ Cote extrase:
+{
+  "match_result": {},
+  "over_under": {},
+  "btts": {},
+  "team_goals": {},
+  "corners": {},
+  "cards": {},
+  "timestamp": "2026-02-01T00:58:02.911Z"
+}
+
+============================================================
+✅ Browser închis (0/2 rămase)
+[32minfo[39m:    ⚠️  Cotă validă nu a fost găsită pentru Over 2.5 {"timestamp":"2026-02-01 02:58:03"}
+[32minfo[39m: 
+🔍 Checking: Independiente vs Velez Sarsfield {"timestamp":"2026-02-01 02:58:03"}
+[32minfo[39m:    Event: Independiente marchează peste 1.5 goluri {"timestamp":"2026-02-01 02:58:03"}
+[32minfo[39m:    Status: MONITORING {"timestamp":"2026-02-01 02:58:03"}
+[32minfo[39m:    ⏱️  Current minute: 0 {"timestamp":"2026-02-01 02:58:03"}
+[32minfo[39m:    🎯 Extragere cote LIVE cu Puppeteer... {"timestamp":"2026-02-01 02:58:04"}
+
+🎯 EXTRAGERE COTE SUPERBET (Puppeteer - POOL)
+
+============================================================
+⚽ Meci: Independiente vs Velez Sarsfield
+🔧 Browser Pool: MAX 2 browsere simultan
+🚀 Lansare browser (1/2)
+[1m[43m[30m
+  Puppeteer old Headless deprecation warning:[0m[33m
+    In the near future `headless: true` will default to the new Headless mode
+    for Chrome instead of the old Headless implementation. For more
+    information, please see https://developer.chrome.com/articles/new-headless/.
+    Consider opting in early by passing `headless: "new"` to `puppeteer.launch()`
+    If you encounter any bugs, please report them to https://github.com/puppeteer/puppeteer/issues/new/choose.[0m
+
+
+📥 Accesare Superbet.ro...
+✅ Pagină încărcată
+
+🔍 Căutare meci: Independiente vs Velez Sarsfield...
+   ⚠️  Nu am găsit câmp search, caut direct în pagină...
+
+📊 Căutare cote în pagină...
+   ⚠️  Meciul nu a fost găsit automat
+
+💰 Extragere cote...
+
+✅ Cote extrase:
+{
+  "match_result": {},
+  "over_under": {},
+  "btts": {},
+  "team_goals": {},
+  "corners": {},
+  "cards": {},
+  "timestamp": "2026-02-01T00:58:07.074Z"
+}
+
+============================================================
+✅ Browser închis (0/2 rămase)
+[32minfo[39m:    ⚠️  Cotă validă nu a fost găsită pentru Over 2.5 {"timestamp":"2026-02-01 02:58:07"}
+[32minfo[39m: 
+📈 STATISTICS: {"timestamp":"2026-02-01 02:58:07"}
+[32minfo[39m:    Total: 168 {"timestamp":"2026-02-01 02:58:07"}
+[32minfo[39m:    Monitoring: 2 {"timestamp":"2026-02-01 02:58:07"}
+[32minfo[39m:    Completed: 110 {"timestamp":"2026-02-01 02:58:07"}
+[32minfo[39m:    Failed: 56 {"timestamp":"2026-02-01 02:58:07"}
+[32minfo[39m:    Success rate: 66% {"timestamp":"2026-02-01 02:58:07"}
+[32minfo[39m: 
+================================================================================
+ {"timestamp":"2026-02-01 02:58:07"}
+
+
+🛑 OPRIRE SISTEM - Cleanup timers...
+
+
+🧹 LIFECYCLE MANAGER - Cleanup total...
+   Opresc 2 interval(e)
+   Opresc 0 timeout(uri)
+   ✓ Interval oprit: notification-monitor
+   ✓ Interval oprit: stats-monitor
+✅ Cleanup complet!
+
+[32minfo[39m: 
+
+🛑 Oprire sistem...
+ {"timestamp":"2026-02-01 02:58:26"}

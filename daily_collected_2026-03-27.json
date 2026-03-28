@@ -1,0 +1,151 @@
+{
+  "date": "2026-03-27",
+  "generated": "2026-03-28T09:00:17.501Z",
+  "totalMatches": 1,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Argentinos Jrs",
+        "awayTeam": "Lanus",
+        "date": "27.03.2026, 02:00",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Argentinos Jrs",
+          "away": "Lanus"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.54",
+            "Ball Possession": "72",
+            "Total shots": "9",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "5",
+            "Yellow Cards": "0",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "11",
+            "Fouls": "3",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.34",
+            "Ball Possession": "28",
+            "Total shots": "6",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "3",
+            "Throw ins": "9",
+            "Fouls": "8",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Argentinos Jrs",
+          "away": "Lanus"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.64",
+            "Ball Possession": "62",
+            "Total shots": "16",
+            "Shots on target": "5",
+            "Big Chances": "4",
+            "Corner Kicks": "7",
+            "Yellow Cards": "2",
+            "Shots off target": "6",
+            "Offsides": "1",
+            "Free Kicks": "14",
+            "Throw ins": "17",
+            "Fouls": "10",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.06",
+            "Ball Possession": "38",
+            "Total shots": "11",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "1",
+            "Yellow Cards": "4",
+            "Shots off target": "7",
+            "Offsides": "1",
+            "Free Kicks": "10",
+            "Throw ins": "15",
+            "Fouls": "14",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Argentinos Jrs",
+          "away": "Lanus"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.10",
+            "Ball Possession": "53",
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Big Chances": "3",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "6",
+            "Throw ins": "6",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.72",
+            "Ball Possession": "47",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "1",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "6",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "tx59wY8O",
+        "extractedAt": "2026-03-28T09:00:17.495Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

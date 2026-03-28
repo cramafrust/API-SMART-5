@@ -1,0 +1,19 @@
+[Unit]
+Description=API SMART 5 - Watchdog Monitor
+After=network.target
+
+[Service]
+Type=simple
+User=florian
+WorkingDirectory=/home/florian/API SMART 5
+ExecStart=/usr/bin/node /home/florian/API SMART 5/API-SMART-5.js watchdog
+Restart=always
+RestartSec=10
+StandardOutput=append:/home/florian/API SMART 5/logs/watchdog-service.log
+StandardError=append:/home/florian/API SMART 5/logs/watchdog-error.log
+
+# Environment
+Environment="NODE_ENV=production"
+
+[Install]
+WantedBy=multi-user.target

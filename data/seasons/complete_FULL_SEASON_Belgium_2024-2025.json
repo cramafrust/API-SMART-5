@@ -1,0 +1,16 @@
+{
+  "campionat": {
+    "nume": "Pro League",
+    "nume_complet": "Belgian First Division A",
+    "tara": "Belgia",
+    "id_flashscore": "BELGIUM_FIRST_DIVISION_A",
+    "sezon": "2024-2025",
+    "sistem_organizare": "REGULAR_SEASON_PLAYOFFS",
+    "numar_echipe": 16,
+    "numar_total_etape": 30,
+    "data_start_sezon": "2024-07-26",
+    "data_sfarsit_sezon": "2025-05-18",
+    "explicatie_sistem": "Sezon regulat (30 etape) + Playoffs Championship (top 6 se bat pentru titlu) + Playoffs Europe (locurile 7-14)."
+  },
+  "meciuri": []
+}

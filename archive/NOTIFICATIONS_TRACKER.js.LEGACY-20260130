@@ -1,0 +1,381 @@
+/**
+ * 📊 NOTIFICATIONS_TRACKER.js
+ *
+ * Salvează toate notificările trimise cu:
+ * - Pattern-urile detectate
+ * - Pronosticurile făcute
+ * - Cotele de la case de pariuri (Superbet/Netbet)
+ * - Ulterior: validare dacă pattern-ul a ieșit
+ *
+ * FUNCȚIONALITATE:
+ * - Tracking notificări în timp real
+ * - Salvare JSON persistent
+ * - Integrare cu BETTING_ODDS_SCRAPER
+ * - Validare rezultate post-meci
+ *
+ * USAGE:
+ *   const tracker = require('./NOTIFICATIONS_TRACKER');
+ *   await tracker.saveNotification(matchData, patterns, odds);
+ */
+
+const fs = require('fs');
+const path = require('path');
+
+// Fișier tracking
+const TRACKING_FILE = path.join(__dirname, 'notifications-tracking.json');
+
+/**
+ * Mapare pattern-uri → pronosticuri pentru pariuri
+ */
+const PATTERN_TO_BET = {
+    // Goluri meci
+    'OVER_2_5_GOLURI_MECI': { market: 'Total Goals', bet: 'Over 2.5' },
+    'OVER_3_5_GOLURI_MECI': { market: 'Total Goals', bet: 'Over 3.5' },
+    'UNDER_2_5_GOLURI_MECI': { market: 'Total Goals', bet: 'Under 2.5' },
+
+    // BTTS
+    'BTTS_GOLURI_AMBELE': { market: 'Both Teams To Score', bet: 'Yes' },
+    'BTTS_NU': { market: 'Both Teams To Score', bet: 'No' },
+
+    // Goluri echipă (Over Team Goals)
+    'OVER_1_5_GOLURI': { market: 'Team Total Goals', bet: 'Over 1.5' },
+    'OVER_2_5_GOLURI': { market: 'Team Total Goals', bet: 'Over 2.5' },
+
+    // Cornere
+    'OVER_CORNERE_R2': { market: 'Team Corners 2nd Half', bet: 'Over 3.5' },
+    'OVER_CORNERE_MECI': { market: 'Total Match Corners', bet: 'Over 9.5' },
+
+    // Cartonașe
+    'CARTONASE_R2': { market: 'Total Cards 2nd Half', bet: 'Over 2.5' },
+    'CARTONASE_MECI': { market: 'Total Match Cards', bet: 'Over 4.5' }
+};
+
+/**
+ * Încarcă fișierul de tracking (sau creează unul nou)
+ */
+function loadTrackingData() {
+    if (!fs.existsSync(TRACKING_FILE)) {
+        return {
+            metadata: {
+                createdAt: new Date().toISOString(),
+                version: '1.0.0'
+            },
+            notifications: []
+        };
+    }
+
+    try {
+        const content = fs.readFileSync(TRACKING_FILE, 'utf8');
+        return JSON.parse(content);
+    } catch (error) {
+        console.error(`❌ Eroare la citire tracking: ${error.message}`);
+
+        // Backup fișier corupt
+        const backupPath = TRACKING_FILE.replace('.json', `.backup-${Date.now()}.json`);
+        if (fs.existsSync(TRACKING_FILE)) {
+            fs.copyFileSync(TRACKING_FILE, backupPath);
+            console.log(`🔄 Backup salvat: ${backupPath}`);
+        }
+
+        return {
+            metadata: {
+                createdAt: new Date().toISOString(),
+                version: '1.0.0'
+            },
+            notifications: []
+        };
+    }
+}
+
+/**
+ * Salvează datele de tracking
+ */
+function saveTrackingData(data) {
+    try {
+        fs.writeFileSync(TRACKING_FILE, JSON.stringify(data, null, 2), 'utf8');
+        return true;
+    } catch (error) {
+        console.error(`❌ Eroare la salvare tracking: ${error.message}`);
+        return false;
+    }
+}
+
+/**
+ * Generează ID unic pentru notificare
+ */
+function generateNotificationId(matchId, timestamp) {
+    return `${matchId}_${timestamp}`;
+}
+
+/**
+ * Convertește pattern în pronostic pentru pariuri
+ */
+function getPatternPrediction(patternName, teamName) {
+    const betInfo = PATTERN_TO_BET[patternName];
+
+    if (!betInfo) {
+        // Pattern necunoscut, returnează descriere generică
+        return {
+            market: 'Unknown',
+            bet: patternName,
+            description: `Pattern: ${patternName}`
+        };
+    }
+
+    // Pentru pattern-uri pe echipă specifică
+    if (betInfo.market.includes('Team')) {
+        return {
+            market: betInfo.market,
+            bet: betInfo.bet,
+            team: teamName,
+            description: `${teamName} ${betInfo.bet}`
+        };
+    }
+
+    // Pattern-uri pe meci
+    return {
+        market: betInfo.market,
+        bet: betInfo.bet,
+        description: betInfo.bet
+    };
+}
+
+/**
+ * Salvează o notificare nouă în tracking
+ *
+ * @param {object} matchData - Date meci (homeTeam, awayTeam, league, etc.)
+ * @param {array} patterns - Array de pattern-uri detectate
+ * @param {object} odds - Cote de la case de pariuri (opțional)
+ * @returns {object} - { success, notificationId }
+ */
+async function saveNotification(matchData, patterns, odds = null) {
+    console.log(`\n📊 TRACKING NOTIFICARE\n`);
+    console.log('='.repeat(60));
+
+    const trackingData = loadTrackingData();
+    const timestamp = Date.now();
+    const notificationId = generateNotificationId(matchData.matchId, timestamp);
+
+    console.log(`📝 ID Notificare: ${notificationId}`);
+    console.log(`⚽ Meci: ${matchData.homeTeam} vs ${matchData.awayTeam}`);
+    console.log(`📋 Pattern-uri: ${patterns.length}`);
+
+    // Construiește datele pentru fiecare pattern
+    const patternsData = patterns.map(pattern => {
+        const teamName = pattern.team === 'gazda' ? matchData.homeTeam :
+                        pattern.team === 'oaspete' ? matchData.awayTeam :
+                        'Meci';
+
+        const prediction = getPatternPrediction(pattern.name, teamName);
+
+        return {
+            patternName: pattern.name,
+            team: pattern.team || 'meci',
+            teamName: teamName,
+            probability: pattern.probability,
+            tier: pattern.tier,
+            position: pattern.position,
+            isEstimate: pattern.isEstimate || false,
+            prediction: prediction,
+            odds: odds ? {
+                superbet: odds.superbet || null,
+                netbet: odds.netbet || null
+            } : null
+        };
+    });
+
+    // Crează notificarea
+    const notification = {
+        id: notificationId,
+        timestamp: new Date(timestamp).toISOString(),
+        timestampUnix: timestamp,
+
+        match: {
+            matchId: matchData.matchId,
+            homeTeam: matchData.homeTeam,
+            awayTeam: matchData.awayTeam,
+            league: matchData.leagueName || matchData.league,
+            country: matchData.country,
+            htScore: `${matchData.scor.pauza_gazda}-${matchData.scor.pauza_oaspete}`,
+            htScoreHome: matchData.scor.pauza_gazda,
+            htScoreAway: matchData.scor.pauza_oaspete
+        },
+
+        patterns: patternsData,
+
+        statistics: {
+            home: {
+                shotsOnTarget: matchData.statistici.suturi_pe_poarta.pauza_gazda,
+                totalShots: matchData.statistici.total_suturi.pauza_gazda,
+                corners: matchData.statistici.cornere.repriza_1_gazda,
+                yellowCards: matchData.statistici.cartonase_galbene.pauza_gazda,
+                redCards: matchData.statistici.cartonase_rosii.pauza_gazda
+            },
+            away: {
+                shotsOnTarget: matchData.statistici.suturi_pe_poarta.pauza_oaspete,
+                totalShots: matchData.statistici.total_suturi.pauza_oaspete,
+                corners: matchData.statistici.cornere.repriza_1_oaspete,
+                yellowCards: matchData.statistici.cartonase_galbene.pauza_oaspete,
+                redCards: matchData.statistici.cartonase_rosii.pauza_oaspete
+            }
+        },
+
+        // Rezultat final (se completează mai târziu)
+        result: null,
+        validated: false,
+        validatedAt: null
+    };
+
+    // Adaugă la lista de notificări
+    trackingData.notifications.push(notification);
+
+    // Salvează
+    const saved = saveTrackingData(trackingData);
+
+    if (saved) {
+        console.log(`✅ Notificare salvată în tracking`);
+        console.log(`📁 Total notificări trackuite: ${trackingData.notifications.length}`);
+        console.log('='.repeat(60));
+
+        return {
+            success: true,
+            notificationId: notificationId,
+            patternsCount: patterns.length
+        };
+    } else {
+        console.log(`❌ Eroare la salvare tracking`);
+        console.log('='.repeat(60));
+
+        return {
+            success: false,
+            error: 'Failed to save tracking data'
+        };
+    }
+}
+
+/**
+ * Găsește notificări nevalidate pentru un meci
+ */
+function findPendingNotifications(matchId) {
+    const trackingData = loadTrackingData();
+
+    return trackingData.notifications.filter(notification =>
+        notification.match.matchId === matchId &&
+        !notification.validated
+    );
+}
+
+/**
+ * Actualizează rezultatul pentru o notificare
+ */
+function updateNotificationResult(notificationId, result, validationDetails) {
+    const trackingData = loadTrackingData();
+
+    const notification = trackingData.notifications.find(n => n.id === notificationId);
+
+    if (!notification) {
+        console.error(`❌ Notificare nu există: ${notificationId}`);
+        return false;
+    }
+
+    notification.result = result;
+    notification.validated = true;
+    notification.validatedAt = new Date().toISOString();
+    notification.validationDetails = validationDetails;
+
+    return saveTrackingData(trackingData);
+}
+
+/**
+ * Afișează statistici tracking
+ */
+function displayTrackingStats() {
+    const trackingData = loadTrackingData();
+
+    const total = trackingData.notifications.length;
+    const validated = trackingData.notifications.filter(n => n.validated).length;
+    const pending = total - validated;
+
+    console.log(`\n📊 STATISTICI TRACKING NOTIFICĂRI\n`);
+    console.log('='.repeat(60));
+    console.log(`📝 Total notificări: ${total}`);
+    console.log(`✅ Validate: ${validated}`);
+    console.log(`⏳ În așteptare: ${pending}`);
+
+    if (validated > 0) {
+        const successful = trackingData.notifications.filter(n =>
+            n.validated && n.validationDetails && n.validationDetails.success
+        ).length;
+
+        const successRate = Math.round((successful / validated) * 100);
+        console.log(`\n🎯 Rate succes: ${successRate}% (${successful}/${validated})`);
+    }
+
+    console.log('='.repeat(60));
+}
+
+/**
+ * Export notificări ca CSV pentru analiză
+ */
+function exportToCSV(outputPath) {
+    const trackingData = loadTrackingData();
+
+    let csv = 'ID,Timestamp,Match,League,HT Score,Pattern,Prediction,Probability,Odds Superbet,Odds Netbet,Validated,Success\n';
+
+    trackingData.notifications.forEach(notification => {
+        notification.patterns.forEach(pattern => {
+            const row = [
+                notification.id,
+                notification.timestamp,
+                `${notification.match.homeTeam} vs ${notification.match.awayTeam}`,
+                notification.match.league,
+                notification.match.htScore,
+                pattern.patternName,
+                pattern.prediction.description,
+                pattern.probability,
+                pattern.odds?.superbet || 'N/A',
+                pattern.odds?.netbet || 'N/A',
+                notification.validated ? 'Yes' : 'No',
+                notification.validationDetails?.success || 'Pending'
+            ].join(',');
+
+            csv += row + '\n';
+        });
+    });
+
+    fs.writeFileSync(outputPath, csv, 'utf8');
+    console.log(`✅ Export CSV salvat: ${outputPath}`);
+}
+
+// Export
+module.exports = {
+    saveNotification,
+    findPendingNotifications,
+    updateNotificationResult,
+    displayTrackingStats,
+    exportToCSV,
+    loadTrackingData
+};
+
+// CLI usage
+if (require.main === module) {
+    const args = process.argv.slice(2);
+
+    if (args[0] === 'stats') {
+        displayTrackingStats();
+    } else if (args[0] === 'export' && args[1]) {
+        exportToCSV(args[1]);
+    } else {
+        console.log(`
+📖 USAGE:
+
+   node NOTIFICATIONS_TRACKER.js stats
+   node NOTIFICATIONS_TRACKER.js export output.csv
+
+📝 EXEMPLU:
+
+   node NOTIFICATIONS_TRACKER.js stats
+   node NOTIFICATIONS_TRACKER.js export notifications-export.csv
+`);
+    }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "match": {
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "Santa Clara",
+      "date": "03.11.2025, 22:45",
+      "league": "PORTUGAL: Liga Portugal",
+      "country": "Unknown",
+      "season": "2024-2025",
+      "round": null,
+      "roundNumber": null,
+      "homePositionBefore": null,
+      "awayPositionBefore": null,
+      "homeTier": null,
+      "awayTier": null
+    },
+    "halftime": {
+      "teams": {
+        "home": "Gil Vicente",
+        "away": "Santa Clara"
+      },
+      "score": {
+        "home": "1",
+        "away": "0"
+      },
+      "statistics": {
+        "home": {
+          "Expected Goals (xG)": "0.42",
+          "Ball Possession": "38",
+          "Total shots": "4",
+          "Shots on target": "1",
+          "Big Chances": "1",
+          "Corner Kicks": "1",
+          "Shots off target": "3",
+          "Offsides": "0",
+          "Free Kicks": "6",
+          "Fouls": "6",
+          "Goalkeeper Saves": "2"
+        },
+        "away": {
+          "Expected Goals (xG)": "0.28",
+          "Ball Possession": "62",
+          "Total shots": "8",
+          "Shots on target": "2",
+          "Big Chances": "0",
+          "Corner Kicks": "0",
+          "Shots off target": "3",
+          "Offsides": "0",
+          "Free Kicks": "6",
+          "Fouls": "6",
+          "Goalkeeper Saves": "0"
+        }
+      }
+    },
+    "fulltime": {
+      "teams": {
+        "home": "Gil Vicente",
+        "away": "Santa Clara"
+      },
+      "score": {
+        "home": "3",
+        "away": "3"
+      },
+      "statistics": {
+        "home": {
+          "Expected Goals (xG)": "0.57",
+          "Ball Possession": "38",
+          "Total shots": "9",
+          "Shots on target": "3",
+          "Big Chances": "1",
+          "Corner Kicks": "2",
+          "Yellow Cards": "2",
+          "Shots off target": "4",
+          "Offsides": "0",
+          "Free Kicks": "14",
+          "Fouls": "16",
+          "Goalkeeper Saves": "4"
+        },
+        "away": {
+          "Expected Goals (xG)": "0.56",
+          "Ball Possession": "62",
+          "Total shots": "15",
+          "Shots on target": "4",
+          "Big Chances": "1",
+          "Corner Kicks": "0",
+          "Yellow Cards": "3",
+          "Shots off target": "6",
+          "Offsides": "1",
+          "Free Kicks": "16",
+          "Fouls": "14",
+          "Goalkeeper Saves": "2"
+        }
+      }
+    },
+    "htScoreReal": null,
+    "metadata": {
+      "matchId": "8As6zKD4",
+      "extractedAt": "2025-11-04T13:44:15.597Z",
+      "source": "FlashScore API"
+    }
+  }
+]

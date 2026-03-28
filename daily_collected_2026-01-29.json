@@ -1,0 +1,1639 @@
+{
+  "date": "2026-01-29",
+  "generated": "2026-01-30T11:13:35.416Z",
+  "totalMatches": 17,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Salzburg",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Aston Villa",
+          "away": "Salzburg"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "3",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "9",
+            "Shots on target": "5",
+            "Shots off target": "1",
+            "Offsides": "5",
+            "Fouls": "5"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Aston Villa",
+          "away": "Salzburg"
+        },
+        "score": {
+          "home": "3",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "14",
+            "Shots on target": "9",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "14",
+            "Shots on target": "8",
+            "Shots off target": "3",
+            "Offsides": "6",
+            "Fouls": "13"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Aston Villa",
+          "away": "Salzburg"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "11",
+            "Shots on target": "6",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "3"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "dtgagL7e",
+        "extractedAt": "2026-01-30T11:06:05.694Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Basel",
+        "awayTeam": "Plzen",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Basel",
+          "away": "Plzen"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "11",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "7"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Basel",
+          "away": "Plzen"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "13",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "14"
+          },
+          "away": {
+            "Total shots": "15",
+            "Shots on target": "3",
+            "Shots off target": "8",
+            "Offsides": "1",
+            "Fouls": "16"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Basel",
+          "away": "Plzen"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "9"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "67A6TD6M",
+        "extractedAt": "2026-01-30T11:06:33.728Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Betis",
+        "awayTeam": "Feyenoord",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Betis",
+          "away": "Feyenoord"
+        },
+        "score": {
+          "home": "2",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "11",
+            "Shots on target": "3",
+            "Shots off target": "5",
+            "Offsides": "2",
+            "Fouls": "4"
+          },
+          "away": {
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "7"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Betis",
+          "away": "Feyenoord"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "16",
+            "Shots on target": "5",
+            "Shots off target": "7",
+            "Offsides": "3",
+            "Fouls": "13"
+          },
+          "away": {
+            "Total shots": "14",
+            "Shots on target": "5",
+            "Shots off target": "5",
+            "Offsides": "6",
+            "Fouls": "13"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Betis",
+          "away": "Feyenoord"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Shots off target": "3",
+            "Offsides": "4",
+            "Fouls": "6"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "t4qHtrOk",
+        "extractedAt": "2026-01-30T11:07:02.162Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Celtic",
+        "awayTeam": "Utrecht",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Celtic",
+          "away": "Utrecht"
+        },
+        "score": {
+          "home": "3",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Fouls": "5"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Celtic",
+          "away": "Utrecht"
+        },
+        "score": {
+          "home": "4",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "5",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "12"
+          },
+          "away": {
+            "Total shots": "6",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "7"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Celtic",
+          "away": "Utrecht"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "WUXov4Ks",
+        "extractedAt": "2026-01-30T11:07:30.300Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Crvena zvezda",
+        "awayTeam": "Celta Vigo",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Crvena zvezda",
+          "away": "Celta Vigo"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "1",
+            "Shots on target": "1",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "10"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Crvena zvezda",
+          "away": "Celta Vigo"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "12",
+            "Shots on target": "2",
+            "Shots off target": "6",
+            "Offsides": "1",
+            "Fouls": "12"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "18"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Crvena zvezda",
+          "away": "Celta Vigo"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "11",
+            "Shots on target": "1",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Fouls": "4"
+          },
+          "away": {
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "b17t6J8b",
+        "extractedAt": "2026-01-30T11:07:58.392Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "FC Porto",
+        "awayTeam": "Rangers",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "FC Porto",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": "3",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Shots off target": "3",
+            "Offsides": "2",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Fouls": "7"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "FC Porto",
+          "away": "Rangers"
+        },
+        "score": {
+          "home": "3",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "12",
+            "Shots on target": "3",
+            "Shots off target": "7",
+            "Offsides": "3",
+            "Fouls": "17"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Fouls": "13"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "FC Porto",
+          "away": "Rangers"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "6"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "8t2K6ysJ",
+        "extractedAt": "2026-01-30T11:08:26.778Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "FCSB",
+        "awayTeam": "Fenerbahce",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "FCSB",
+          "away": "Fenerbahce"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "7",
+            "Shots on target": "4",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "9",
+            "Shots on target": "5",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "3"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "FCSB",
+          "away": "Fenerbahce"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "15",
+            "Shots on target": "8",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Fouls": "11"
+          },
+          "away": {
+            "Total shots": "17",
+            "Shots on target": "8",
+            "Shots off target": "8",
+            "Offsides": "3",
+            "Fouls": "11"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "FCSB",
+          "away": "Fenerbahce"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "8",
+            "Shots on target": "4",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "CC5WiTml",
+        "extractedAt": "2026-01-30T11:08:54.930Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "G.A. Eagles",
+        "awayTeam": "Braga",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "G.A. Eagles",
+          "away": "Braga"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "2"
+          },
+          "away": {
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Fouls": "3"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "G.A. Eagles",
+          "away": "Braga"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Shots off target": "3",
+            "Offsides": "2",
+            "Fouls": "11"
+          },
+          "away": {
+            "Total shots": "9",
+            "Shots on target": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "5"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "G.A. Eagles",
+          "away": "Braga"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "7",
+            "Shots on target": "0",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "4taE2p26",
+        "extractedAt": "2026-01-30T11:09:22.927Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Genk",
+        "awayTeam": "Malmo FF",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Genk",
+          "away": "Malmo FF"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "13",
+            "Shots on target": "5",
+            "Shots off target": "7",
+            "Offsides": "1",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "7"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Genk",
+          "away": "Malmo FF"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "25",
+            "Shots on target": "9",
+            "Shots off target": "11",
+            "Offsides": "3",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "13"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Genk",
+          "away": "Malmo FF"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "12",
+            "Shots on target": "4",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Fouls": "2"
+          },
+          "away": {
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "6"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "W6NkcbqA",
+        "extractedAt": "2026-01-30T11:09:50.938Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Lille",
+        "awayTeam": "Freiburg",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Lille",
+          "away": "Freiburg"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "2",
+            "Shots on target": "0",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Fouls": "9"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Lille",
+          "away": "Freiburg"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "4",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "16"
+          },
+          "away": {
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "17"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Lille",
+          "away": "Freiburg"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "8",
+            "Shots on target": "4",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "zeSM1kaM",
+        "extractedAt": "2026-01-30T11:10:18.941Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Ludogorets",
+        "awayTeam": "Nice",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Ludogorets",
+          "away": "Nice"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "13",
+            "Shots on target": "6",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "11",
+            "Shots on target": "2",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "5"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Ludogorets",
+          "away": "Nice"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "19",
+            "Shots on target": "8",
+            "Shots off target": "6",
+            "Offsides": "2",
+            "Fouls": "12"
+          },
+          "away": {
+            "Total shots": "19",
+            "Shots on target": "4",
+            "Shots off target": "9",
+            "Offsides": "0",
+            "Fouls": "13"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Ludogorets",
+          "away": "Nice"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "YgdLOwwo",
+        "extractedAt": "2026-01-30T11:10:47.070Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Lyon",
+        "awayTeam": "PAOK",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Lyon",
+          "away": "PAOK"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "9",
+            "Shots on target": "5",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "8"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Lyon",
+          "away": "PAOK"
+        },
+        "score": {
+          "home": "4",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "19",
+            "Shots on target": "8",
+            "Shots off target": "8",
+            "Offsides": "4",
+            "Fouls": "15"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Fouls": "12"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Lyon",
+          "away": "PAOK"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Shots off target": "6",
+            "Offsides": "2",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Fouls": "4"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "rPmGJiel",
+        "extractedAt": "2026-01-30T11:11:15.138Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Maccabi Tel Aviv",
+        "awayTeam": "Bologna",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Maccabi Tel Aviv",
+          "away": "Bologna"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "10"
+          },
+          "away": {
+            "Total shots": "15",
+            "Shots on target": "7",
+            "Shots off target": "2",
+            "Offsides": "5",
+            "Fouls": "8"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Maccabi Tel Aviv",
+          "away": "Bologna"
+        },
+        "score": {
+          "home": "0",
+          "away": "3"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Shots off target": "3",
+            "Offsides": "2",
+            "Fouls": "16"
+          },
+          "away": {
+            "Total shots": "24",
+            "Shots on target": "11",
+            "Shots off target": "7",
+            "Offsides": "8",
+            "Fouls": "21"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Maccabi Tel Aviv",
+          "away": "Bologna"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "0",
+            "Shots on target": "0",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "9",
+            "Shots on target": "4",
+            "Shots off target": "5",
+            "Offsides": "3",
+            "Fouls": "13"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "MFAcd3tQ",
+        "extractedAt": "2026-01-30T11:11:43.399Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Midtjylland",
+        "awayTeam": "Din. Zagreb",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Midtjylland",
+          "away": "Din. Zagreb"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Fouls": "11"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Midtjylland",
+          "away": "Din. Zagreb"
+        },
+        "score": {
+          "home": "2",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "5",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Fouls": "18"
+          },
+          "away": {
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "14"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Midtjylland",
+          "away": "Din. Zagreb"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "4",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "3"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "YNmxfbcD",
+        "extractedAt": "2026-01-30T11:12:11.365Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Nottingham",
+        "awayTeam": "Ferencvaros",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Nottingham",
+          "away": "Ferencvaros"
+        },
+        "score": {
+          "home": "2",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "6"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Nottingham",
+          "away": "Ferencvaros"
+        },
+        "score": {
+          "home": "4",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "20",
+            "Shots on target": "10",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Fouls": "10"
+          },
+          "away": {
+            "Total shots": "9",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "14"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Nottingham",
+          "away": "Ferencvaros"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "12",
+            "Shots on target": "7",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "3"
+          },
+          "away": {
+            "Total shots": "2",
+            "Shots on target": "0",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "KAztrDLF",
+        "extractedAt": "2026-01-30T11:12:39.323Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Panathinaikos",
+        "awayTeam": "AS Roma",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Panathinaikos",
+          "away": "AS Roma"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "8",
+            "Shots on target": "0",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "9"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Panathinaikos",
+          "away": "AS Roma"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "11",
+            "Shots on target": "1",
+            "Shots off target": "7",
+            "Offsides": "2",
+            "Fouls": "10"
+          },
+          "away": {
+            "Total shots": "11",
+            "Shots on target": "4",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Fouls": "17"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Panathinaikos",
+          "away": "AS Roma"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "4"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "2P8Hs9jg",
+        "extractedAt": "2026-01-30T11:13:07.375Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Sturm Graz",
+        "awayTeam": "Brann",
+        "date": "29.01.2026, 22:00",
+        "league": "EUROPE: Europa League - League phase",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Sturm Graz",
+          "away": "Brann"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "2",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "3"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Sturm Graz",
+          "away": "Brann"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "15",
+            "Shots on target": "5",
+            "Shots off target": "7",
+            "Offsides": "1",
+            "Fouls": "21"
+          },
+          "away": {
+            "Total shots": "17",
+            "Shots on target": "6",
+            "Shots off target": "8",
+            "Offsides": "1",
+            "Fouls": "4"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Sturm Graz",
+          "away": "Brann"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "12"
+          },
+          "away": {
+            "Total shots": "12",
+            "Shots on target": "5",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Fouls": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "riCQCqr4",
+        "extractedAt": "2026-01-30T11:13:35.381Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

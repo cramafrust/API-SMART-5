@@ -1,0 +1,295 @@
+{
+  "date": "2026-03-24",
+  "generated": "2026-03-25T09:00:21.077Z",
+  "totalMatches": 2,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Estudiantes L.P.",
+        "awayTeam": "Central Cordoba",
+        "date": "24.03.2026, 00:00",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Estudiantes L.P.",
+          "away": "Central Cordoba"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.17",
+            "Ball Possession": "62",
+            "Total shots": "17",
+            "Shots on target": "7",
+            "Big Chances": "1",
+            "Corner Kicks": "7",
+            "Yellow Cards": "0",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "9",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.07",
+            "Ball Possession": "38",
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "4",
+            "Fouls": "8",
+            "Goalkeeper Saves": "6"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Estudiantes L.P.",
+          "away": "Central Cordoba"
+        },
+        "score": {
+          "home": "5",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "3.68",
+            "Ball Possession": "55",
+            "Total shots": "25",
+            "Shots on target": "13",
+            "Big Chances": "5",
+            "Corner Kicks": "8",
+            "Yellow Cards": "2",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Free Kicks": "13",
+            "Throw ins": "15",
+            "Fouls": "10",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.15",
+            "Ball Possession": "45",
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "3",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "10",
+            "Throw ins": "17",
+            "Fouls": "13",
+            "Goalkeeper Saves": "7"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Estudiantes L.P.",
+          "away": "Central Cordoba"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.51",
+            "Ball Possession": "46",
+            "Total shots": "8",
+            "Shots on target": "6",
+            "Big Chances": "4",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "6",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "54",
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "13",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "zqAWBcvA",
+        "extractedAt": "2026-03-25T09:00:17.552Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Huracan",
+        "awayTeam": "Barracas Central",
+        "date": "24.03.2026, 02:15",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Huracan",
+          "away": "Barracas Central"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.17",
+            "Ball Possession": "69",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "11",
+            "Throw ins": "5",
+            "Fouls": "5",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.01",
+            "Ball Possession": "31",
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "9",
+            "Fouls": "11",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Huracan",
+          "away": "Barracas Central"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.69",
+            "Ball Possession": "69",
+            "Total shots": "15",
+            "Shots on target": "4",
+            "Big Chances": "1",
+            "Corner Kicks": "7",
+            "Yellow Cards": "2",
+            "Shots off target": "10",
+            "Offsides": "1",
+            "Free Kicks": "14",
+            "Throw ins": "15",
+            "Fouls": "9",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.97",
+            "Ball Possession": "31",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "5",
+            "Yellow Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "9",
+            "Throw ins": "15",
+            "Fouls": "14",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Huracan",
+          "away": "Barracas Central"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.52",
+            "Ball Possession": "69",
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "1",
+            "Shots off target": "6",
+            "Offsides": "1",
+            "Free Kicks": "3",
+            "Throw ins": "10",
+            "Fouls": "4",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.96",
+            "Ball Possession": "31",
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "4",
+            "Throw ins": "6",
+            "Fouls": "3",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "pfc22p7D",
+        "extractedAt": "2026-03-25T09:00:21.071Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

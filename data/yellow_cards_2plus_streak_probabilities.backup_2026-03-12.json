@@ -1,0 +1,5157 @@
+{
+  "_meta": {
+    "description": "Probabilitatea de 1+/2+ cartonașe după N meciuri cu 2+ cartonașe galbene",
+    "generatedAt": "2026-03-10T13:00:34.742Z",
+    "source": "RECALCULATE_ALL.js",
+    "usage": "yellow_cards_2plus_streak_probabilities.json",
+    "streakLengths": "3W-7W",
+    "condition": "2+ per meci",
+    "nextThresholds": "2+, 1+"
+  },
+  "threshold_2plus": {
+    "global": {
+      "3W": {
+        "TOP": {
+          "scored": 1715,
+          "total": 2667,
+          "rate": 64.3
+        },
+        "MID": {
+          "scored": 1005,
+          "total": 1530,
+          "rate": 65.7
+        },
+        "LOW": {
+          "scored": 283,
+          "total": 410,
+          "rate": 69
+        }
+      },
+      "4W": {
+        "TOP": {
+          "scored": 1102,
+          "total": 1677,
+          "rate": 65.7
+        },
+        "MID": {
+          "scored": 639,
+          "total": 980,
+          "rate": 65.2
+        },
+        "LOW": {
+          "scored": 178,
+          "total": 270,
+          "rate": 65.9
+        }
+      },
+      "5W": {
+        "TOP": {
+          "scored": 713,
+          "total": 1074,
+          "rate": 66.4
+        },
+        "MID": {
+          "scored": 418,
+          "total": 619,
+          "rate": 67.5
+        },
+        "LOW": {
+          "scored": 117,
+          "total": 170,
+          "rate": 68.8
+        }
+      },
+      "6W": {
+        "TOP": {
+          "scored": 464,
+          "total": 692,
+          "rate": 67.1
+        },
+        "MID": {
+          "scored": 277,
+          "total": 411,
+          "rate": 67.4
+        },
+        "LOW": {
+          "scored": 73,
+          "total": 113,
+          "rate": 64.6
+        }
+      },
+      "7W": {
+        "TOP": {
+          "scored": 311,
+          "total": 453,
+          "rate": 68.7
+        },
+        "MID": {
+          "scored": 194,
+          "total": 272,
+          "rate": 71.3
+        },
+        "LOW": {
+          "scored": 54,
+          "total": 70,
+          "rate": 77.1
+        }
+      }
+    },
+    "perLeague": {
+      "AUSTRIA: Bundesliga": {
+        "3W": {
+          "TOP": {
+            "scored": 42,
+            "total": 54,
+            "rate": 77.8
+          },
+          "MID": {
+            "scored": 37,
+            "total": 52,
+            "rate": 71.2
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 11,
+            "rate": 72.7
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 29,
+            "total": 41,
+            "rate": 70.7
+          },
+          "MID": {
+            "scored": 26,
+            "total": 37,
+            "rate": 70.3
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 7,
+            "rate": 57.1
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 19,
+            "total": 27,
+            "rate": 70.4
+          },
+          "MID": {
+            "scored": 17,
+            "total": 26,
+            "rate": 65.4
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 12,
+            "total": 19,
+            "rate": 63.2
+          },
+          "MID": {
+            "scored": 14,
+            "total": 17,
+            "rate": 82.4
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 7,
+            "total": 12,
+            "rate": 58.3
+          },
+          "MID": {
+            "scored": 9,
+            "total": 14,
+            "rate": 64.3
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          }
+        }
+      },
+      "BELGIUM: Challenger Pro League": {
+        "3W": {
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "BELGIUM: Jupiler Pro League": {
+        "3W": {
+          "TOP": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          },
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "BELGIUM: Regular Season": {
+        "3W": {
+          "MID": {
+            "scored": 32,
+            "total": 50,
+            "rate": 64
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 8,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 51,
+            "total": 88,
+            "rate": 58
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 20,
+            "total": 32,
+            "rate": 62.5
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          },
+          "TOP": {
+            "scored": 30,
+            "total": 51,
+            "rate": 58.8
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 8,
+            "total": 19,
+            "rate": 42.1
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 19,
+            "total": 30,
+            "rate": 63.3
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 4,
+            "total": 8,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 12,
+            "total": 18,
+            "rate": 66.7
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 2,
+            "total": 4,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 8,
+            "total": 12,
+            "rate": 66.7
+          }
+        }
+      },
+      "BRAZIL: Serie A": {
+        "3W": {
+          "MID": {
+            "scored": 62,
+            "total": 89,
+            "rate": 69.7
+          },
+          "TOP": {
+            "scored": 101,
+            "total": 133,
+            "rate": 75.9
+          },
+          "LOW": {
+            "scored": 23,
+            "total": 28,
+            "rate": 82.1
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 44,
+            "total": 60,
+            "rate": 73.3
+          },
+          "TOP": {
+            "scored": 70,
+            "total": 98,
+            "rate": 71.4
+          },
+          "LOW": {
+            "scored": 16,
+            "total": 23,
+            "rate": 69.6
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 34,
+            "total": 44,
+            "rate": 77.3
+          },
+          "TOP": {
+            "scored": 53,
+            "total": 69,
+            "rate": 76.8
+          },
+          "LOW": {
+            "scored": 14,
+            "total": 16,
+            "rate": 87.5
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 27,
+            "total": 34,
+            "rate": 79.4
+          },
+          "TOP": {
+            "scored": 40,
+            "total": 53,
+            "rate": 75.5
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 13,
+            "rate": 76.9
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 20,
+            "total": 26,
+            "rate": 76.9
+          },
+          "TOP": {
+            "scored": 34,
+            "total": 40,
+            "rate": 85
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 10,
+            "rate": 70
+          }
+        }
+      },
+      "GERMANY: Bundesliga": {
+        "3W": {
+          "MID": {
+            "scored": 35,
+            "total": 58,
+            "rate": 60.3
+          },
+          "TOP": {
+            "scored": 60,
+            "total": 105,
+            "rate": 57.1
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 11,
+            "rate": 90.9
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 16,
+            "total": 31,
+            "rate": 51.6
+          },
+          "TOP": {
+            "scored": 36,
+            "total": 59,
+            "rate": 61
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 10,
+            "rate": 80
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 13,
+            "total": 16,
+            "rate": 81.3
+          },
+          "TOP": {
+            "scored": 21,
+            "total": 36,
+            "rate": 58.3
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 8,
+            "rate": 37.5
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 9,
+            "total": 13,
+            "rate": 69.2
+          },
+          "TOP": {
+            "scored": 15,
+            "total": 20,
+            "rate": 75
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 3,
+            "rate": 0
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 7,
+            "total": 9,
+            "rate": 77.8
+          },
+          "TOP": {
+            "scored": 9,
+            "total": 15,
+            "rate": 60
+          }
+        }
+      },
+      "CYPRUS: First Division": {
+        "3W": {
+          "MID": {
+            "scored": 20,
+            "total": 25,
+            "rate": 80
+          },
+          "TOP": {
+            "scored": 19,
+            "total": 22,
+            "rate": 86.4
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 14,
+            "total": 19,
+            "rate": 73.7
+          },
+          "TOP": {
+            "scored": 9,
+            "total": 19,
+            "rate": 47.4
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 13,
+            "total": 14,
+            "rate": 92.9
+          },
+          "TOP": {
+            "scored": 5,
+            "total": 9,
+            "rate": 55.6
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 11,
+            "total": 13,
+            "rate": 84.6
+          },
+          "TOP": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 9,
+            "total": 11,
+            "rate": 81.8
+          },
+          "TOP": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "EUROPE: Champions League": {
+        "3W": {
+          "TOP": {
+            "scored": 37,
+            "total": 56,
+            "rate": 66.1
+          },
+          "MID": {
+            "scored": 10,
+            "total": 13,
+            "rate": 76.9
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 19,
+            "total": 32,
+            "rate": 59.4
+          },
+          "MID": {
+            "scored": 9,
+            "total": 10,
+            "rate": 90
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 5,
+            "total": 6,
+            "rate": 83.3
+          },
+          "TOP": {
+            "scored": 11,
+            "total": 18,
+            "rate": 61.1
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 2,
+            "total": 3,
+            "rate": 66.7
+          },
+          "TOP": {
+            "scored": 5,
+            "total": 9,
+            "rate": 55.6
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        }
+      },
+      "UEFA Champions League": {
+        "3W": {
+          "TOP": {
+            "scored": 3,
+            "total": 11,
+            "rate": 27.3
+          },
+          "MID": {
+            "scored": 2,
+            "total": 4,
+            "rate": 50
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 0,
+            "total": 2,
+            "rate": 0
+          },
+          "TOP": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "EUROPE: Conference League": {
+        "3W": {
+          "TOP": {
+            "scored": 86,
+            "total": 124,
+            "rate": 69.4
+          },
+          "MID": {
+            "scored": 24,
+            "total": 30,
+            "rate": 80
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 6,
+            "rate": 83.3
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 52,
+            "total": 73,
+            "rate": 71.2
+          },
+          "MID": {
+            "scored": 16,
+            "total": 21,
+            "rate": 76.2
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 5,
+            "rate": 60
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 28,
+            "total": 46,
+            "rate": 60.9
+          },
+          "MID": {
+            "scored": 5,
+            "total": 8,
+            "rate": 62.5
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 15,
+            "total": 20,
+            "rate": 75
+          },
+          "MID": {
+            "scored": 2,
+            "total": 5,
+            "rate": 40
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 8,
+            "total": 9,
+            "rate": 88.9
+          },
+          "MID": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        }
+      },
+      "EUROPE: Conference League - League phase": {
+        "3W": {
+          "TOP": {
+            "scored": 22,
+            "total": 29,
+            "rate": 75.9
+          },
+          "MID": {
+            "scored": 2,
+            "total": 6,
+            "rate": 33.3
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 14,
+            "total": 19,
+            "rate": 73.7
+          },
+          "MID": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 6,
+            "total": 9,
+            "rate": 66.7
+          },
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 3,
+            "total": 5,
+            "rate": 60
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          }
+        }
+      },
+      "ENGLAND: Championship": {
+        "3W": {
+          "LOW": {
+            "scored": 28,
+            "total": 41,
+            "rate": 68.3
+          },
+          "TOP": {
+            "scored": 68,
+            "total": 112,
+            "rate": 60.7
+          },
+          "MID": {
+            "scored": 39,
+            "total": 64,
+            "rate": 60.9
+          }
+        },
+        "4W": {
+          "LOW": {
+            "scored": 14,
+            "total": 27,
+            "rate": 51.9
+          },
+          "TOP": {
+            "scored": 41,
+            "total": 68,
+            "rate": 60.3
+          },
+          "MID": {
+            "scored": 18,
+            "total": 38,
+            "rate": 47.4
+          }
+        },
+        "5W": {
+          "LOW": {
+            "scored": 8,
+            "total": 14,
+            "rate": 57.1
+          },
+          "TOP": {
+            "scored": 24,
+            "total": 41,
+            "rate": 58.5
+          },
+          "MID": {
+            "scored": 12,
+            "total": 18,
+            "rate": 66.7
+          }
+        },
+        "6W": {
+          "LOW": {
+            "scored": 5,
+            "total": 8,
+            "rate": 62.5
+          },
+          "TOP": {
+            "scored": 15,
+            "total": 24,
+            "rate": 62.5
+          },
+          "MID": {
+            "scored": 7,
+            "total": 11,
+            "rate": 63.6
+          }
+        },
+        "7W": {
+          "LOW": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          },
+          "TOP": {
+            "scored": 6,
+            "total": 15,
+            "rate": 40
+          },
+          "MID": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          }
+        }
+      },
+      "NORWAY: Eliteserien": {
+        "3W": {
+          "TOP": {
+            "scored": 29,
+            "total": 65,
+            "rate": 44.6
+          },
+          "MID": {
+            "scored": 20,
+            "total": 33,
+            "rate": 60.6
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 7,
+            "rate": 42.9
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 15,
+            "total": 28,
+            "rate": 53.6
+          },
+          "MID": {
+            "scored": 10,
+            "total": 19,
+            "rate": 52.6
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 7,
+            "total": 15,
+            "rate": 46.7
+          },
+          "MID": {
+            "scored": 3,
+            "total": 10,
+            "rate": 30
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 5,
+            "total": 7,
+            "rate": 71.4
+          },
+          "MID": {
+            "scored": 1,
+            "total": 3,
+            "rate": 33.3
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 1,
+            "total": 5,
+            "rate": 20
+          },
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "NETHERLANDS: Eredivisie": {
+        "3W": {
+          "TOP": {
+            "scored": 24,
+            "total": 48,
+            "rate": 50
+          },
+          "MID": {
+            "scored": 13,
+            "total": 30,
+            "rate": 43.3
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 4,
+            "rate": 50
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 11,
+            "total": 24,
+            "rate": 45.8
+          },
+          "MID": {
+            "scored": 5,
+            "total": 13,
+            "rate": 38.5
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 2,
+            "rate": 0
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 7,
+            "total": 11,
+            "rate": 63.6
+          },
+          "MID": {
+            "scored": 2,
+            "total": 5,
+            "rate": 40
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 5,
+            "total": 7,
+            "rate": 71.4
+          },
+          "MID": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 3,
+            "total": 5,
+            "rate": 60
+          },
+          "MID": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        }
+      },
+      "EUROPE: Europa League": {
+        "3W": {
+          "TOP": {
+            "scored": 40,
+            "total": 51,
+            "rate": 78.4
+          },
+          "MID": {
+            "scored": 9,
+            "total": 12,
+            "rate": 75
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 17,
+            "total": 37,
+            "rate": 45.9
+          },
+          "MID": {
+            "scored": 5,
+            "total": 7,
+            "rate": 71.4
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 8,
+            "total": 13,
+            "rate": 61.5
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 4,
+            "total": 6,
+            "rate": 66.7
+          }
+        }
+      },
+      "UEFA Europa League": {
+        "3W": {
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 2,
+            "total": 5,
+            "rate": 40
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "GERMANY: 2. Bundesliga": {
+        "3W": {
+          "TOP": {
+            "scored": 90,
+            "total": 133,
+            "rate": 67.7
+          },
+          "MID": {
+            "scored": 45,
+            "total": 67,
+            "rate": 67.2
+          },
+          "LOW": {
+            "scored": 14,
+            "total": 28,
+            "rate": 50
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 70,
+            "total": 90,
+            "rate": 77.8
+          },
+          "MID": {
+            "scored": 29,
+            "total": 44,
+            "rate": 65.9
+          },
+          "LOW": {
+            "scored": 12,
+            "total": 14,
+            "rate": 85.7
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 50,
+            "total": 70,
+            "rate": 71.4
+          },
+          "MID": {
+            "scored": 16,
+            "total": 29,
+            "rate": 55.2
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 12,
+            "rate": 66.7
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 31,
+            "total": 50,
+            "rate": 62
+          },
+          "MID": {
+            "scored": 8,
+            "total": 15,
+            "rate": 53.3
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 7,
+            "rate": 71.4
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 21,
+            "total": 30,
+            "rate": 70
+          },
+          "MID": {
+            "scored": 4,
+            "total": 8,
+            "rate": 50
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 4,
+            "rate": 50
+          }
+        }
+      },
+      "GREECE: Super League": {
+        "3W": {
+          "TOP": {
+            "scored": 74,
+            "total": 105,
+            "rate": 70.5
+          },
+          "MID": {
+            "scored": 39,
+            "total": 50,
+            "rate": 78
+          },
+          "LOW": {
+            "scored": 14,
+            "total": 18,
+            "rate": 77.8
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 55,
+            "total": 74,
+            "rate": 74.3
+          },
+          "MID": {
+            "scored": 29,
+            "total": 39,
+            "rate": 74.4
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 14,
+            "rate": 64.3
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 38,
+            "total": 53,
+            "rate": 71.7
+          },
+          "MID": {
+            "scored": 18,
+            "total": 28,
+            "rate": 64.3
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 9,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 26,
+            "total": 38,
+            "rate": 68.4
+          },
+          "MID": {
+            "scored": 13,
+            "total": 18,
+            "rate": 72.2
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 9,
+            "rate": 77.8
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 21,
+            "total": 25,
+            "rate": 84
+          },
+          "MID": {
+            "scored": 11,
+            "total": 13,
+            "rate": 84.6
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          }
+        }
+      },
+      "SPAIN: LaLiga": {
+        "3W": {
+          "MID": {
+            "scored": 104,
+            "total": 146,
+            "rate": 71.2
+          },
+          "TOP": {
+            "scored": 138,
+            "total": 210,
+            "rate": 65.7
+          },
+          "LOW": {
+            "scored": 27,
+            "total": 36,
+            "rate": 75
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 80,
+            "total": 104,
+            "rate": 76.9
+          },
+          "TOP": {
+            "scored": 102,
+            "total": 138,
+            "rate": 73.9
+          },
+          "LOW": {
+            "scored": 19,
+            "total": 27,
+            "rate": 70.4
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 57,
+            "total": 79,
+            "rate": 72.2
+          },
+          "TOP": {
+            "scored": 70,
+            "total": 102,
+            "rate": 68.6
+          },
+          "LOW": {
+            "scored": 11,
+            "total": 18,
+            "rate": 61.1
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 41,
+            "total": 57,
+            "rate": 71.9
+          },
+          "TOP": {
+            "scored": 50,
+            "total": 69,
+            "rate": 72.5
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 11,
+            "rate": 81.8
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 33,
+            "total": 41,
+            "rate": 80.5
+          },
+          "TOP": {
+            "scored": 34,
+            "total": 50,
+            "rate": 68
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 8,
+            "rate": 75
+          }
+        }
+      },
+      "FRANCE: Ligue 1": {
+        "3W": {
+          "TOP": {
+            "scored": 56,
+            "total": 108,
+            "rate": 51.9
+          },
+          "MID": {
+            "scored": 38,
+            "total": 67,
+            "rate": 56.7
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 11,
+            "rate": 81.8
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 31,
+            "total": 56,
+            "rate": 55.4
+          },
+          "MID": {
+            "scored": 22,
+            "total": 38,
+            "rate": 57.9
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 8,
+            "rate": 50
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 23,
+            "total": 30,
+            "rate": 76.7
+          },
+          "MID": {
+            "scored": 17,
+            "total": 22,
+            "rate": 77.3
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 14,
+            "total": 22,
+            "rate": 63.6
+          },
+          "MID": {
+            "scored": 9,
+            "total": 17,
+            "rate": 52.9
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 3,
+            "rate": 0
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 9,
+            "total": 14,
+            "rate": 64.3
+          },
+          "MID": {
+            "scored": 6,
+            "total": 9,
+            "rate": 66.7
+          }
+        }
+      },
+      "POLAND: Ekstraklasa": {
+        "3W": {
+          "TOP": {
+            "scored": 74,
+            "total": 107,
+            "rate": 69.2
+          },
+          "MID": {
+            "scored": 34,
+            "total": 55,
+            "rate": 61.8
+          },
+          "LOW": {
+            "scored": 18,
+            "total": 26,
+            "rate": 69.2
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 44,
+            "total": 74,
+            "rate": 59.5
+          },
+          "MID": {
+            "scored": 21,
+            "total": 32,
+            "rate": 65.6
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 18,
+            "rate": 44.4
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 27,
+            "total": 43,
+            "rate": 62.8
+          },
+          "MID": {
+            "scored": 12,
+            "total": 21,
+            "rate": 57.1
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 8,
+            "rate": 25
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 18,
+            "total": 26,
+            "rate": 69.2
+          },
+          "MID": {
+            "scored": 8,
+            "total": 12,
+            "rate": 66.7
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 9,
+            "total": 17,
+            "rate": 52.9
+          },
+          "MID": {
+            "scored": 7,
+            "total": 8,
+            "rate": 87.5
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        }
+      },
+      "PORTUGAL: Liga Portugal": {
+        "3W": {
+          "TOP": {
+            "scored": 74,
+            "total": 101,
+            "rate": 73.3
+          },
+          "MID": {
+            "scored": 52,
+            "total": 65,
+            "rate": 80
+          },
+          "LOW": {
+            "scored": 14,
+            "total": 18,
+            "rate": 77.8
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 55,
+            "total": 74,
+            "rate": 74.3
+          },
+          "MID": {
+            "scored": 35,
+            "total": 50,
+            "rate": 70
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 12,
+            "rate": 66.7
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 42,
+            "total": 55,
+            "rate": 76.4
+          },
+          "MID": {
+            "scored": 30,
+            "total": 34,
+            "rate": 88.2
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 34,
+            "total": 41,
+            "rate": 82.9
+          },
+          "MID": {
+            "scored": 25,
+            "total": 30,
+            "rate": 83.3
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 8,
+            "rate": 62.5
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 28,
+            "total": 34,
+            "rate": 82.4
+          },
+          "MID": {
+            "scored": 17,
+            "total": 25,
+            "rate": 68
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          }
+        }
+      },
+      "ENGLAND: Premier League": {
+        "3W": {
+          "TOP": {
+            "scored": 105,
+            "total": 176,
+            "rate": 59.7
+          },
+          "MID": {
+            "scored": 89,
+            "total": 145,
+            "rate": 61.4
+          },
+          "LOW": {
+            "scored": 13,
+            "total": 24,
+            "rate": 54.2
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 68,
+            "total": 103,
+            "rate": 66
+          },
+          "MID": {
+            "scored": 51,
+            "total": 87,
+            "rate": 58.6
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 12,
+            "rate": 58.3
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 47,
+            "total": 67,
+            "rate": 70.1
+          },
+          "MID": {
+            "scored": 33,
+            "total": 51,
+            "rate": 64.7
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 7,
+            "rate": 71.4
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 26,
+            "total": 46,
+            "rate": 56.5
+          },
+          "MID": {
+            "scored": 22,
+            "total": 32,
+            "rate": 68.8
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 5,
+            "rate": 40
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 14,
+            "total": 22,
+            "rate": 63.6
+          },
+          "TOP": {
+            "scored": 19,
+            "total": 26,
+            "rate": 73.1
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "ROMANIA: Superliga": {
+        "3W": {
+          "TOP": {
+            "scored": 113,
+            "total": 176,
+            "rate": 64.2
+          },
+          "MID": {
+            "scored": 39,
+            "total": 72,
+            "rate": 54.2
+          },
+          "LOW": {
+            "scored": 12,
+            "total": 17,
+            "rate": 70.6
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 75,
+            "total": 111,
+            "rate": 67.6
+          },
+          "MID": {
+            "scored": 23,
+            "total": 38,
+            "rate": 60.5
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 12,
+            "rate": 83.3
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 53,
+            "total": 75,
+            "rate": 70.7
+          },
+          "MID": {
+            "scored": 15,
+            "total": 22,
+            "rate": 68.2
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 10,
+            "rate": 60
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 33,
+            "total": 52,
+            "rate": 63.5
+          },
+          "MID": {
+            "scored": 9,
+            "total": 15,
+            "rate": 60
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 5,
+            "rate": 40
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 22,
+            "total": 33,
+            "rate": 66.7
+          },
+          "MID": {
+            "scored": 4,
+            "total": 8,
+            "rate": 50
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "SCOTLAND: Premiership": {
+        "3W": {
+          "TOP": {
+            "scored": 26,
+            "total": 41,
+            "rate": 63.4
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 9,
+            "rate": 44.4
+          },
+          "MID": {
+            "scored": 19,
+            "total": 36,
+            "rate": 52.8
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 18,
+            "total": 26,
+            "rate": 69.2
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 4,
+            "rate": 50
+          },
+          "MID": {
+            "scored": 9,
+            "total": 18,
+            "rate": 50
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 13,
+            "total": 18,
+            "rate": 72.2
+          },
+          "MID": {
+            "scored": 5,
+            "total": 9,
+            "rate": 55.6
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 8,
+            "total": 13,
+            "rate": 61.5
+          },
+          "MID": {
+            "scored": 2,
+            "total": 5,
+            "rate": 40
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 5,
+            "total": 8,
+            "rate": 62.5
+          },
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "UNKNOWN: SCOTLANDPremiership_MULTI_2023-2025": {
+        "3W": {
+          "TOP": {
+            "scored": 13,
+            "total": 20,
+            "rate": 65
+          },
+          "MID": {
+            "scored": 17,
+            "total": 24,
+            "rate": 70.8
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 6,
+            "rate": 50
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 8,
+            "total": 13,
+            "rate": 61.5
+          },
+          "MID": {
+            "scored": 10,
+            "total": 16,
+            "rate": 62.5
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 2,
+            "total": 7,
+            "rate": 28.6
+          },
+          "MID": {
+            "scored": 5,
+            "total": 9,
+            "rate": 55.6
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          },
+          "MID": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        }
+      },
+      "SERBIA: Mozzart Bet Super Liga": {
+        "3W": {
+          "TOP": {
+            "scored": 96,
+            "total": 146,
+            "rate": 65.8
+          },
+          "LOW": {
+            "scored": 12,
+            "total": 14,
+            "rate": 85.7
+          },
+          "MID": {
+            "scored": 43,
+            "total": 61,
+            "rate": 70.5
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 59,
+            "total": 96,
+            "rate": 61.5
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 11,
+            "rate": 54.5
+          },
+          "MID": {
+            "scored": 28,
+            "total": 42,
+            "rate": 66.7
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 39,
+            "total": 59,
+            "rate": 66.1
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 6,
+            "rate": 50
+          },
+          "MID": {
+            "scored": 20,
+            "total": 28,
+            "rate": 71.4
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 24,
+            "total": 39,
+            "rate": 61.5
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 15,
+            "total": 20,
+            "rate": 75
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 16,
+            "total": 24,
+            "rate": 66.7
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 11,
+            "total": 15,
+            "rate": 73.3
+          }
+        }
+      },
+      "SPAIN: LaLiga2": {
+        "3W": {
+          "MID": {
+            "scored": 21,
+            "total": 34,
+            "rate": 61.8
+          },
+          "LOW": {
+            "scored": 16,
+            "total": 25,
+            "rate": 64
+          },
+          "TOP": {
+            "scored": 31,
+            "total": 52,
+            "rate": 59.6
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 18,
+            "total": 21,
+            "rate": 85.7
+          },
+          "LOW": {
+            "scored": 11,
+            "total": 15,
+            "rate": 73.3
+          },
+          "TOP": {
+            "scored": 16,
+            "total": 31,
+            "rate": 51.6
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 11,
+            "total": 18,
+            "rate": 61.1
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 11,
+            "rate": 72.7
+          },
+          "TOP": {
+            "scored": 11,
+            "total": 16,
+            "rate": 68.8
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 7,
+            "total": 10,
+            "rate": 70
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 8,
+            "rate": 75
+          },
+          "TOP": {
+            "scored": 5,
+            "total": 11,
+            "rate": 45.5
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 4,
+            "total": 7,
+            "rate": 57.1
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 6,
+            "rate": 66.7
+          },
+          "TOP": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          }
+        }
+      },
+      "SWEDEN: Allsvenskan": {
+        "3W": {
+          "LOW": {
+            "scored": 11,
+            "total": 19,
+            "rate": 57.9
+          },
+          "TOP": {
+            "scored": 41,
+            "total": 68,
+            "rate": 60.3
+          },
+          "MID": {
+            "scored": 25,
+            "total": 42,
+            "rate": 59.5
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 23,
+            "total": 40,
+            "rate": 57.5
+          },
+          "MID": {
+            "scored": 14,
+            "total": 25,
+            "rate": 56
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 11,
+            "rate": 63.6
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 8,
+            "total": 22,
+            "rate": 36.4
+          },
+          "MID": {
+            "scored": 9,
+            "total": 14,
+            "rate": 64.3
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 6,
+            "rate": 66.7
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 3,
+            "total": 9,
+            "rate": 33.3
+          },
+          "TOP": {
+            "scored": 2,
+            "total": 8,
+            "rate": 25
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 4,
+            "rate": 50
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 1,
+            "total": 3,
+            "rate": 33.3
+          },
+          "TOP": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 2,
+            "rate": 0
+          }
+        }
+      },
+      "SWITZERLAND: Super League": {
+        "3W": {
+          "MID": {
+            "scored": 36,
+            "total": 52,
+            "rate": 69.2
+          },
+          "TOP": {
+            "scored": 50,
+            "total": 72,
+            "rate": 69.4
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 3,
+            "rate": 33.3
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 25,
+            "total": 36,
+            "rate": 69.4
+          },
+          "TOP": {
+            "scored": 33,
+            "total": 50,
+            "rate": 66
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 19,
+            "total": 25,
+            "rate": 76
+          },
+          "TOP": {
+            "scored": 17,
+            "total": 33,
+            "rate": 51.5
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 11,
+            "total": 19,
+            "rate": 57.9
+          },
+          "TOP": {
+            "scored": 12,
+            "total": 17,
+            "rate": 70.6
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 8,
+            "total": 11,
+            "rate": 72.7
+          },
+          "TOP": {
+            "scored": 7,
+            "total": 12,
+            "rate": 58.3
+          }
+        }
+      },
+      "ITALY: Serie A": {
+        "3W": {
+          "TOP": {
+            "scored": 72,
+            "total": 114,
+            "rate": 63.2
+          },
+          "MID": {
+            "scored": 57,
+            "total": 76,
+            "rate": 75
+          },
+          "LOW": {
+            "scored": 13,
+            "total": 17,
+            "rate": 76.5
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 45,
+            "total": 71,
+            "rate": 63.4
+          },
+          "MID": {
+            "scored": 38,
+            "total": 57,
+            "rate": 66.7
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 13,
+            "rate": 76.9
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 30,
+            "total": 43,
+            "rate": 69.8
+          },
+          "MID": {
+            "scored": 29,
+            "total": 38,
+            "rate": 76.3
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 10,
+            "rate": 80
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 19,
+            "total": 30,
+            "rate": 63.3
+          },
+          "MID": {
+            "scored": 15,
+            "total": 29,
+            "rate": 51.7
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 8,
+            "rate": 62.5
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 10,
+            "total": 19,
+            "rate": 52.6
+          },
+          "MID": {
+            "scored": 9,
+            "total": 14,
+            "rate": 64.3
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 5,
+            "rate": 60
+          }
+        }
+      },
+      "DENMARK: Superliga": {
+        "3W": {
+          "TOP": {
+            "scored": 30,
+            "total": 56,
+            "rate": 53.6
+          },
+          "MID": {
+            "scored": 19,
+            "total": 38,
+            "rate": 50
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 18,
+            "total": 30,
+            "rate": 60
+          },
+          "MID": {
+            "scored": 12,
+            "total": 19,
+            "rate": 63.2
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 13,
+            "total": 18,
+            "rate": 72.2
+          },
+          "MID": {
+            "scored": 5,
+            "total": 12,
+            "rate": 41.7
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 8,
+            "total": 12,
+            "rate": 66.7
+          },
+          "MID": {
+            "scored": 3,
+            "total": 5,
+            "rate": 60
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 2,
+            "rate": 0
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 5,
+            "total": 8,
+            "rate": 62.5
+          },
+          "MID": {
+            "scored": 1,
+            "total": 3,
+            "rate": 33.3
+          }
+        }
+      },
+      "TURKEY: Super Lig": {
+        "3W": {
+          "TOP": {
+            "scored": 48,
+            "total": 78,
+            "rate": 61.5
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 10,
+            "rate": 90
+          },
+          "MID": {
+            "scored": 21,
+            "total": 30,
+            "rate": 70
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 38,
+            "total": 48,
+            "rate": 79.2
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 9,
+            "rate": 77.8
+          },
+          "MID": {
+            "scored": 10,
+            "total": 21,
+            "rate": 47.6
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 22,
+            "total": 38,
+            "rate": 57.9
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 7,
+            "rate": 57.1
+          },
+          "MID": {
+            "scored": 2,
+            "total": 9,
+            "rate": 22.2
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 14,
+            "total": 22,
+            "rate": 63.6
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 10,
+            "total": 14,
+            "rate": 71.4
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 3,
+            "rate": 66.7
+          },
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      }
+    }
+  },
+  "threshold_1plus": {
+    "global": {
+      "3W": {
+        "TOP": {
+          "scored": 2339,
+          "total": 2667,
+          "rate": 87.7
+        },
+        "MID": {
+          "scored": 1371,
+          "total": 1530,
+          "rate": 89.6
+        },
+        "LOW": {
+          "scored": 368,
+          "total": 410,
+          "rate": 89.8
+        }
+      },
+      "4W": {
+        "TOP": {
+          "scored": 1493,
+          "total": 1677,
+          "rate": 89
+        },
+        "MID": {
+          "scored": 881,
+          "total": 980,
+          "rate": 89.9
+        },
+        "LOW": {
+          "scored": 231,
+          "total": 270,
+          "rate": 85.6
+        }
+      },
+      "5W": {
+        "TOP": {
+          "scored": 944,
+          "total": 1074,
+          "rate": 87.9
+        },
+        "MID": {
+          "scored": 560,
+          "total": 619,
+          "rate": 90.5
+        },
+        "LOW": {
+          "scored": 159,
+          "total": 170,
+          "rate": 93.5
+        }
+      },
+      "6W": {
+        "TOP": {
+          "scored": 635,
+          "total": 692,
+          "rate": 91.8
+        },
+        "MID": {
+          "scored": 376,
+          "total": 411,
+          "rate": 91.5
+        },
+        "LOW": {
+          "scored": 99,
+          "total": 113,
+          "rate": 87.6
+        }
+      },
+      "7W": {
+        "TOP": {
+          "scored": 419,
+          "total": 453,
+          "rate": 92.5
+        },
+        "MID": {
+          "scored": 244,
+          "total": 272,
+          "rate": 89.7
+        },
+        "LOW": {
+          "scored": 67,
+          "total": 70,
+          "rate": 95.7
+        }
+      }
+    },
+    "perLeague": {
+      "AUSTRIA: Bundesliga": {
+        "3W": {
+          "TOP": {
+            "scored": 50,
+            "total": 54,
+            "rate": 92.6
+          },
+          "MID": {
+            "scored": 50,
+            "total": 52,
+            "rate": 96.2
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 11,
+            "rate": 90.9
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 37,
+            "total": 41,
+            "rate": 90.2
+          },
+          "MID": {
+            "scored": 37,
+            "total": 37,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 7,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 25,
+            "total": 27,
+            "rate": 92.6
+          },
+          "MID": {
+            "scored": 22,
+            "total": 26,
+            "rate": 84.6
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 18,
+            "total": 19,
+            "rate": 94.7
+          },
+          "MID": {
+            "scored": 16,
+            "total": 17,
+            "rate": 94.1
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 12,
+            "total": 12,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 11,
+            "total": 14,
+            "rate": 78.6
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          }
+        }
+      },
+      "BELGIUM: Challenger Pro League": {
+        "3W": {
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "BELGIUM: Jupiler Pro League": {
+        "3W": {
+          "TOP": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          },
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "BELGIUM: Regular Season": {
+        "3W": {
+          "MID": {
+            "scored": 44,
+            "total": 50,
+            "rate": 88
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 8,
+            "rate": 75
+          },
+          "TOP": {
+            "scored": 77,
+            "total": 88,
+            "rate": 87.5
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 29,
+            "total": 32,
+            "rate": 90.6
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 45,
+            "total": 51,
+            "rate": 88.2
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 18,
+            "total": 19,
+            "rate": 94.7
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 27,
+            "total": 30,
+            "rate": 90
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 6,
+            "total": 8,
+            "rate": 75
+          },
+          "TOP": {
+            "scored": 17,
+            "total": 18,
+            "rate": 94.4
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 11,
+            "total": 12,
+            "rate": 91.7
+          }
+        }
+      },
+      "BRAZIL: Serie A": {
+        "3W": {
+          "MID": {
+            "scored": 83,
+            "total": 89,
+            "rate": 93.3
+          },
+          "TOP": {
+            "scored": 122,
+            "total": 133,
+            "rate": 91.7
+          },
+          "LOW": {
+            "scored": 27,
+            "total": 28,
+            "rate": 96.4
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 59,
+            "total": 60,
+            "rate": 98.3
+          },
+          "TOP": {
+            "scored": 94,
+            "total": 98,
+            "rate": 95.9
+          },
+          "LOW": {
+            "scored": 21,
+            "total": 23,
+            "rate": 91.3
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 43,
+            "total": 44,
+            "rate": 97.7
+          },
+          "TOP": {
+            "scored": 65,
+            "total": 69,
+            "rate": 94.2
+          },
+          "LOW": {
+            "scored": 16,
+            "total": 16,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 32,
+            "total": 34,
+            "rate": 94.1
+          },
+          "TOP": {
+            "scored": 53,
+            "total": 53,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 11,
+            "total": 13,
+            "rate": 84.6
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 25,
+            "total": 26,
+            "rate": 96.2
+          },
+          "TOP": {
+            "scored": 40,
+            "total": 40,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 10,
+            "rate": 100
+          }
+        }
+      },
+      "GERMANY: Bundesliga": {
+        "3W": {
+          "MID": {
+            "scored": 51,
+            "total": 58,
+            "rate": 87.9
+          },
+          "TOP": {
+            "scored": 91,
+            "total": 105,
+            "rate": 86.7
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 11,
+            "rate": 90.9
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 23,
+            "total": 31,
+            "rate": 74.2
+          },
+          "TOP": {
+            "scored": 51,
+            "total": 59,
+            "rate": 86.4
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 10,
+            "rate": 90
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 15,
+            "total": 16,
+            "rate": 93.8
+          },
+          "TOP": {
+            "scored": 28,
+            "total": 36,
+            "rate": 77.8
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 11,
+            "total": 13,
+            "rate": 84.6
+          },
+          "TOP": {
+            "scored": 19,
+            "total": 20,
+            "rate": 95
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 8,
+            "total": 9,
+            "rate": 88.9
+          },
+          "TOP": {
+            "scored": 12,
+            "total": 15,
+            "rate": 80
+          }
+        }
+      },
+      "CYPRUS: First Division": {
+        "3W": {
+          "MID": {
+            "scored": 24,
+            "total": 25,
+            "rate": 96
+          },
+          "TOP": {
+            "scored": 21,
+            "total": 22,
+            "rate": 95.5
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 19,
+            "total": 19,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 15,
+            "total": 19,
+            "rate": 78.9
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 14,
+            "total": 14,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 7,
+            "total": 9,
+            "rate": 77.8
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 13,
+            "total": 13,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 11,
+            "total": 11,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "EUROPE: Champions League": {
+        "3W": {
+          "TOP": {
+            "scored": 51,
+            "total": 56,
+            "rate": 91.1
+          },
+          "MID": {
+            "scored": 12,
+            "total": 13,
+            "rate": 92.3
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 30,
+            "total": 32,
+            "rate": 93.8
+          },
+          "MID": {
+            "scored": 10,
+            "total": 10,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 5,
+            "total": 6,
+            "rate": 83.3
+          },
+          "TOP": {
+            "scored": 15,
+            "total": 18,
+            "rate": 83.3
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 9,
+            "total": 9,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          }
+        }
+      },
+      "UEFA Champions League": {
+        "3W": {
+          "TOP": {
+            "scored": 5,
+            "total": 11,
+            "rate": 45.5
+          },
+          "MID": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 0,
+            "total": 2,
+            "rate": 0
+          },
+          "TOP": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "EUROPE: Conference League": {
+        "3W": {
+          "TOP": {
+            "scored": 116,
+            "total": 124,
+            "rate": 93.5
+          },
+          "MID": {
+            "scored": 29,
+            "total": 30,
+            "rate": 96.7
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 6,
+            "rate": 83.3
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 68,
+            "total": 73,
+            "rate": 93.2
+          },
+          "MID": {
+            "scored": 20,
+            "total": 21,
+            "rate": 95.2
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 5,
+            "rate": 60
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 42,
+            "total": 46,
+            "rate": 91.3
+          },
+          "MID": {
+            "scored": 6,
+            "total": 8,
+            "rate": 75
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 17,
+            "total": 20,
+            "rate": 85
+          },
+          "MID": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 8,
+            "total": 9,
+            "rate": 88.9
+          },
+          "MID": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        }
+      },
+      "EUROPE: Conference League - League phase": {
+        "3W": {
+          "TOP": {
+            "scored": 27,
+            "total": 29,
+            "rate": 93.1
+          },
+          "MID": {
+            "scored": 5,
+            "total": 6,
+            "rate": 83.3
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 18,
+            "total": 19,
+            "rate": 94.7
+          },
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 6,
+            "total": 9,
+            "rate": 66.7
+          },
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "ENGLAND: Championship": {
+        "3W": {
+          "LOW": {
+            "scored": 38,
+            "total": 41,
+            "rate": 92.7
+          },
+          "TOP": {
+            "scored": 95,
+            "total": 112,
+            "rate": 84.8
+          },
+          "MID": {
+            "scored": 56,
+            "total": 64,
+            "rate": 87.5
+          }
+        },
+        "4W": {
+          "LOW": {
+            "scored": 19,
+            "total": 27,
+            "rate": 70.4
+          },
+          "TOP": {
+            "scored": 55,
+            "total": 68,
+            "rate": 80.9
+          },
+          "MID": {
+            "scored": 31,
+            "total": 38,
+            "rate": 81.6
+          }
+        },
+        "5W": {
+          "LOW": {
+            "scored": 11,
+            "total": 14,
+            "rate": 78.6
+          },
+          "TOP": {
+            "scored": 35,
+            "total": 41,
+            "rate": 85.4
+          },
+          "MID": {
+            "scored": 16,
+            "total": 18,
+            "rate": 88.9
+          }
+        },
+        "6W": {
+          "LOW": {
+            "scored": 7,
+            "total": 8,
+            "rate": 87.5
+          },
+          "TOP": {
+            "scored": 22,
+            "total": 24,
+            "rate": 91.7
+          },
+          "MID": {
+            "scored": 9,
+            "total": 11,
+            "rate": 81.8
+          }
+        },
+        "7W": {
+          "LOW": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          },
+          "TOP": {
+            "scored": 12,
+            "total": 15,
+            "rate": 80
+          },
+          "MID": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          }
+        }
+      },
+      "NORWAY: Eliteserien": {
+        "3W": {
+          "TOP": {
+            "scored": 56,
+            "total": 65,
+            "rate": 86.2
+          },
+          "MID": {
+            "scored": 32,
+            "total": 33,
+            "rate": 97
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 7,
+            "rate": 71.4
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 21,
+            "total": 28,
+            "rate": 75
+          },
+          "MID": {
+            "scored": 18,
+            "total": 19,
+            "rate": 94.7
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 10,
+            "total": 15,
+            "rate": 66.7
+          },
+          "MID": {
+            "scored": 9,
+            "total": 10,
+            "rate": 90
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 7,
+            "total": 7,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        }
+      },
+      "NETHERLANDS: Eredivisie": {
+        "3W": {
+          "TOP": {
+            "scored": 37,
+            "total": 48,
+            "rate": 77.1
+          },
+          "MID": {
+            "scored": 24,
+            "total": 30,
+            "rate": 80
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 15,
+            "total": 24,
+            "rate": 62.5
+          },
+          "MID": {
+            "scored": 11,
+            "total": 13,
+            "rate": 84.6
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 9,
+            "total": 11,
+            "rate": 81.8
+          },
+          "MID": {
+            "scored": 3,
+            "total": 5,
+            "rate": 60
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          },
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          },
+          "MID": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        }
+      },
+      "EUROPE: Europa League": {
+        "3W": {
+          "TOP": {
+            "scored": 47,
+            "total": 51,
+            "rate": 92.2
+          },
+          "MID": {
+            "scored": 11,
+            "total": 12,
+            "rate": 91.7
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 29,
+            "total": 37,
+            "rate": 78.4
+          },
+          "MID": {
+            "scored": 5,
+            "total": 7,
+            "rate": 71.4
+          },
+          "LOW": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 10,
+            "total": 13,
+            "rate": 76.9
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 7,
+            "total": 7,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 5,
+            "total": 6,
+            "rate": 83.3
+          }
+        }
+      },
+      "UEFA Europa League": {
+        "3W": {
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 2,
+            "total": 5,
+            "rate": 40
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          },
+          "TOP": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 0,
+            "total": 1,
+            "rate": 0
+          }
+        }
+      },
+      "GERMANY: 2. Bundesliga": {
+        "3W": {
+          "TOP": {
+            "scored": 122,
+            "total": 133,
+            "rate": 91.7
+          },
+          "MID": {
+            "scored": 60,
+            "total": 67,
+            "rate": 89.6
+          },
+          "LOW": {
+            "scored": 23,
+            "total": 28,
+            "rate": 82.1
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 85,
+            "total": 90,
+            "rate": 94.4
+          },
+          "MID": {
+            "scored": 40,
+            "total": 44,
+            "rate": 90.9
+          },
+          "LOW": {
+            "scored": 14,
+            "total": 14,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 65,
+            "total": 70,
+            "rate": 92.9
+          },
+          "MID": {
+            "scored": 25,
+            "total": 29,
+            "rate": 86.2
+          },
+          "LOW": {
+            "scored": 11,
+            "total": 12,
+            "rate": 91.7
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 45,
+            "total": 50,
+            "rate": 90
+          },
+          "MID": {
+            "scored": 12,
+            "total": 15,
+            "rate": 80
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 7,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 28,
+            "total": 30,
+            "rate": 93.3
+          },
+          "MID": {
+            "scored": 6,
+            "total": 8,
+            "rate": 75
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          }
+        }
+      },
+      "GREECE: Super League": {
+        "3W": {
+          "TOP": {
+            "scored": 92,
+            "total": 105,
+            "rate": 87.6
+          },
+          "MID": {
+            "scored": 47,
+            "total": 50,
+            "rate": 94
+          },
+          "LOW": {
+            "scored": 18,
+            "total": 18,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 62,
+            "total": 74,
+            "rate": 83.8
+          },
+          "MID": {
+            "scored": 37,
+            "total": 39,
+            "rate": 94.9
+          },
+          "LOW": {
+            "scored": 14,
+            "total": 14,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 47,
+            "total": 53,
+            "rate": 88.7
+          },
+          "MID": {
+            "scored": 26,
+            "total": 28,
+            "rate": 92.9
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 9,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 34,
+            "total": 38,
+            "rate": 89.5
+          },
+          "MID": {
+            "scored": 17,
+            "total": 18,
+            "rate": 94.4
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 9,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 25,
+            "total": 25,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 13,
+            "total": 13,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          }
+        }
+      },
+      "SPAIN: LaLiga": {
+        "3W": {
+          "MID": {
+            "scored": 133,
+            "total": 146,
+            "rate": 91.1
+          },
+          "TOP": {
+            "scored": 183,
+            "total": 210,
+            "rate": 87.1
+          },
+          "LOW": {
+            "scored": 34,
+            "total": 36,
+            "rate": 94.4
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 100,
+            "total": 104,
+            "rate": 96.2
+          },
+          "TOP": {
+            "scored": 124,
+            "total": 138,
+            "rate": 89.9
+          },
+          "LOW": {
+            "scored": 20,
+            "total": 27,
+            "rate": 74.1
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 74,
+            "total": 79,
+            "rate": 93.7
+          },
+          "TOP": {
+            "scored": 88,
+            "total": 102,
+            "rate": 86.3
+          },
+          "LOW": {
+            "scored": 17,
+            "total": 18,
+            "rate": 94.4
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 53,
+            "total": 57,
+            "rate": 93
+          },
+          "TOP": {
+            "scored": 61,
+            "total": 69,
+            "rate": 88.4
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 11,
+            "rate": 90.9
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 38,
+            "total": 41,
+            "rate": 92.7
+          },
+          "TOP": {
+            "scored": 46,
+            "total": 50,
+            "rate": 92
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          }
+        }
+      },
+      "FRANCE: Ligue 1": {
+        "3W": {
+          "TOP": {
+            "scored": 87,
+            "total": 108,
+            "rate": 80.6
+          },
+          "MID": {
+            "scored": 59,
+            "total": 67,
+            "rate": 88.1
+          },
+          "LOW": {
+            "scored": 11,
+            "total": 11,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 52,
+            "total": 56,
+            "rate": 92.9
+          },
+          "MID": {
+            "scored": 33,
+            "total": 38,
+            "rate": 86.8
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 8,
+            "rate": 62.5
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 29,
+            "total": 30,
+            "rate": 96.7
+          },
+          "MID": {
+            "scored": 20,
+            "total": 22,
+            "rate": 90.9
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 4,
+            "rate": 75
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 21,
+            "total": 22,
+            "rate": 95.5
+          },
+          "MID": {
+            "scored": 15,
+            "total": 17,
+            "rate": 88.2
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 3,
+            "rate": 66.7
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 12,
+            "total": 14,
+            "rate": 85.7
+          },
+          "MID": {
+            "scored": 8,
+            "total": 9,
+            "rate": 88.9
+          }
+        }
+      },
+      "POLAND: Ekstraklasa": {
+        "3W": {
+          "TOP": {
+            "scored": 98,
+            "total": 107,
+            "rate": 91.6
+          },
+          "MID": {
+            "scored": 49,
+            "total": 55,
+            "rate": 89.1
+          },
+          "LOW": {
+            "scored": 23,
+            "total": 26,
+            "rate": 88.5
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 62,
+            "total": 74,
+            "rate": 83.8
+          },
+          "MID": {
+            "scored": 30,
+            "total": 32,
+            "rate": 93.8
+          },
+          "LOW": {
+            "scored": 17,
+            "total": 18,
+            "rate": 94.4
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 37,
+            "total": 43,
+            "rate": 86
+          },
+          "MID": {
+            "scored": 21,
+            "total": 21,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 8,
+            "rate": 87.5
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 25,
+            "total": 26,
+            "rate": 96.2
+          },
+          "MID": {
+            "scored": 10,
+            "total": 12,
+            "rate": 83.3
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 2,
+            "rate": 50
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 15,
+            "total": 17,
+            "rate": 88.2
+          },
+          "MID": {
+            "scored": 7,
+            "total": 8,
+            "rate": 87.5
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        }
+      },
+      "PORTUGAL: Liga Portugal": {
+        "3W": {
+          "TOP": {
+            "scored": 91,
+            "total": 101,
+            "rate": 90.1
+          },
+          "MID": {
+            "scored": 59,
+            "total": 65,
+            "rate": 90.8
+          },
+          "LOW": {
+            "scored": 17,
+            "total": 18,
+            "rate": 94.4
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 71,
+            "total": 74,
+            "rate": 95.9
+          },
+          "MID": {
+            "scored": 44,
+            "total": 50,
+            "rate": 88
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 12,
+            "rate": 75
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 50,
+            "total": 55,
+            "rate": 90.9
+          },
+          "MID": {
+            "scored": 32,
+            "total": 34,
+            "rate": 94.1
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 40,
+            "total": 41,
+            "rate": 97.6
+          },
+          "MID": {
+            "scored": 29,
+            "total": 30,
+            "rate": 96.7
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 31,
+            "total": 34,
+            "rate": 91.2
+          },
+          "MID": {
+            "scored": 20,
+            "total": 25,
+            "rate": 80
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          }
+        }
+      },
+      "ENGLAND: Premier League": {
+        "3W": {
+          "TOP": {
+            "scored": 153,
+            "total": 176,
+            "rate": 86.9
+          },
+          "MID": {
+            "scored": 128,
+            "total": 145,
+            "rate": 88.3
+          },
+          "LOW": {
+            "scored": 16,
+            "total": 24,
+            "rate": 66.7
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 91,
+            "total": 103,
+            "rate": 88.3
+          },
+          "MID": {
+            "scored": 78,
+            "total": 87,
+            "rate": 89.7
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 12,
+            "rate": 83.3
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 61,
+            "total": 67,
+            "rate": 91
+          },
+          "MID": {
+            "scored": 45,
+            "total": 51,
+            "rate": 88.2
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 7,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 38,
+            "total": 46,
+            "rate": 82.6
+          },
+          "MID": {
+            "scored": 30,
+            "total": 32,
+            "rate": 93.8
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 22,
+            "total": 22,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 23,
+            "total": 26,
+            "rate": 88.5
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "ROMANIA: Superliga": {
+        "3W": {
+          "TOP": {
+            "scored": 154,
+            "total": 176,
+            "rate": 87.5
+          },
+          "MID": {
+            "scored": 60,
+            "total": 72,
+            "rate": 83.3
+          },
+          "LOW": {
+            "scored": 16,
+            "total": 17,
+            "rate": 94.1
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 103,
+            "total": 111,
+            "rate": 92.8
+          },
+          "MID": {
+            "scored": 32,
+            "total": 38,
+            "rate": 84.2
+          },
+          "LOW": {
+            "scored": 11,
+            "total": 12,
+            "rate": 91.7
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 66,
+            "total": 75,
+            "rate": 88
+          },
+          "MID": {
+            "scored": 20,
+            "total": 22,
+            "rate": 90.9
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 10,
+            "rate": 90
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 48,
+            "total": 52,
+            "rate": 92.3
+          },
+          "MID": {
+            "scored": 14,
+            "total": 15,
+            "rate": 93.3
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 5,
+            "rate": 60
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 32,
+            "total": 33,
+            "rate": 97
+          },
+          "MID": {
+            "scored": 7,
+            "total": 8,
+            "rate": 87.5
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "SCOTLAND: Premiership": {
+        "3W": {
+          "TOP": {
+            "scored": 40,
+            "total": 41,
+            "rate": 97.6
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 9,
+            "rate": 88.9
+          },
+          "MID": {
+            "scored": 28,
+            "total": 36,
+            "rate": 77.8
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 25,
+            "total": 26,
+            "rate": 96.2
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 14,
+            "total": 18,
+            "rate": 77.8
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 17,
+            "total": 18,
+            "rate": 94.4
+          },
+          "MID": {
+            "scored": 8,
+            "total": 9,
+            "rate": 88.9
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 12,
+            "total": 13,
+            "rate": 92.3
+          },
+          "MID": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "UNKNOWN: SCOTLANDPremiership_MULTI_2023-2025": {
+        "3W": {
+          "TOP": {
+            "scored": 17,
+            "total": 20,
+            "rate": 85
+          },
+          "MID": {
+            "scored": 22,
+            "total": 24,
+            "rate": 91.7
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 6,
+            "rate": 83.3
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 12,
+            "total": 13,
+            "rate": 92.3
+          },
+          "MID": {
+            "scored": 14,
+            "total": 16,
+            "rate": 87.5
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          },
+          "MID": {
+            "scored": 7,
+            "total": 9,
+            "rate": 77.8
+          },
+          "LOW": {
+            "scored": 1,
+            "total": 1,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          }
+        }
+      },
+      "SERBIA: Mozzart Bet Super Liga": {
+        "3W": {
+          "TOP": {
+            "scored": 128,
+            "total": 146,
+            "rate": 87.7
+          },
+          "LOW": {
+            "scored": 13,
+            "total": 14,
+            "rate": 92.9
+          },
+          "MID": {
+            "scored": 52,
+            "total": 61,
+            "rate": 85.2
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 87,
+            "total": 96,
+            "rate": 90.6
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 11,
+            "rate": 81.8
+          },
+          "MID": {
+            "scored": 39,
+            "total": 42,
+            "rate": 92.9
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 54,
+            "total": 59,
+            "rate": 91.5
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 6,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 27,
+            "total": 28,
+            "rate": 96.4
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 35,
+            "total": 39,
+            "rate": 89.7
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 19,
+            "total": 20,
+            "rate": 95
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 21,
+            "total": 24,
+            "rate": 87.5
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 14,
+            "total": 15,
+            "rate": 93.3
+          }
+        }
+      },
+      "SPAIN: LaLiga2": {
+        "3W": {
+          "MID": {
+            "scored": 31,
+            "total": 34,
+            "rate": 91.2
+          },
+          "LOW": {
+            "scored": 21,
+            "total": 25,
+            "rate": 84
+          },
+          "TOP": {
+            "scored": 47,
+            "total": 52,
+            "rate": 90.4
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 21,
+            "total": 21,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 13,
+            "total": 15,
+            "rate": 86.7
+          },
+          "TOP": {
+            "scored": 29,
+            "total": 31,
+            "rate": 93.5
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 15,
+            "total": 18,
+            "rate": 83.3
+          },
+          "LOW": {
+            "scored": 11,
+            "total": 11,
+            "rate": 100
+          },
+          "TOP": {
+            "scored": 14,
+            "total": 16,
+            "rate": 87.5
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 10,
+            "total": 10,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 8,
+            "rate": 75
+          },
+          "TOP": {
+            "scored": 9,
+            "total": 11,
+            "rate": 81.8
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 6,
+            "rate": 83.3
+          },
+          "TOP": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          }
+        }
+      },
+      "SWEDEN: Allsvenskan": {
+        "3W": {
+          "LOW": {
+            "scored": 18,
+            "total": 19,
+            "rate": 94.7
+          },
+          "TOP": {
+            "scored": 62,
+            "total": 68,
+            "rate": 91.2
+          },
+          "MID": {
+            "scored": 39,
+            "total": 42,
+            "rate": 92.9
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 30,
+            "total": 40,
+            "rate": 75
+          },
+          "MID": {
+            "scored": 19,
+            "total": 25,
+            "rate": 76
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 11,
+            "rate": 81.8
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 16,
+            "total": 22,
+            "rate": 72.7
+          },
+          "MID": {
+            "scored": 12,
+            "total": 14,
+            "rate": 85.7
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 6,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 8,
+            "total": 9,
+            "rate": 88.9
+          },
+          "TOP": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 4,
+            "rate": 50
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 2,
+            "total": 3,
+            "rate": 66.7
+          },
+          "TOP": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      },
+      "SWITZERLAND: Super League": {
+        "3W": {
+          "MID": {
+            "scored": 47,
+            "total": 52,
+            "rate": 90.4
+          },
+          "TOP": {
+            "scored": 61,
+            "total": 72,
+            "rate": 84.7
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 3,
+            "rate": 66.7
+          }
+        },
+        "4W": {
+          "MID": {
+            "scored": 31,
+            "total": 36,
+            "rate": 86.1
+          },
+          "TOP": {
+            "scored": 45,
+            "total": 50,
+            "rate": 90
+          }
+        },
+        "5W": {
+          "MID": {
+            "scored": 22,
+            "total": 25,
+            "rate": 88
+          },
+          "TOP": {
+            "scored": 32,
+            "total": 33,
+            "rate": 97
+          }
+        },
+        "6W": {
+          "MID": {
+            "scored": 18,
+            "total": 19,
+            "rate": 94.7
+          },
+          "TOP": {
+            "scored": 16,
+            "total": 17,
+            "rate": 94.1
+          }
+        },
+        "7W": {
+          "MID": {
+            "scored": 10,
+            "total": 11,
+            "rate": 90.9
+          },
+          "TOP": {
+            "scored": 12,
+            "total": 12,
+            "rate": 100
+          }
+        }
+      },
+      "ITALY: Serie A": {
+        "3W": {
+          "TOP": {
+            "scored": 98,
+            "total": 114,
+            "rate": 86
+          },
+          "MID": {
+            "scored": 71,
+            "total": 76,
+            "rate": 93.4
+          },
+          "LOW": {
+            "scored": 17,
+            "total": 17,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 64,
+            "total": 71,
+            "rate": 90.1
+          },
+          "MID": {
+            "scored": 50,
+            "total": 57,
+            "rate": 87.7
+          },
+          "LOW": {
+            "scored": 13,
+            "total": 13,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 37,
+            "total": 43,
+            "rate": 86
+          },
+          "MID": {
+            "scored": 33,
+            "total": 38,
+            "rate": 86.8
+          },
+          "LOW": {
+            "scored": 9,
+            "total": 10,
+            "rate": 90
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 28,
+            "total": 30,
+            "rate": 93.3
+          },
+          "MID": {
+            "scored": 25,
+            "total": 29,
+            "rate": 86.2
+          },
+          "LOW": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 17,
+            "total": 19,
+            "rate": 89.5
+          },
+          "MID": {
+            "scored": 12,
+            "total": 14,
+            "rate": 85.7
+          },
+          "LOW": {
+            "scored": 5,
+            "total": 5,
+            "rate": 100
+          }
+        }
+      },
+      "DENMARK: Superliga": {
+        "3W": {
+          "TOP": {
+            "scored": 44,
+            "total": 56,
+            "rate": 78.6
+          },
+          "MID": {
+            "scored": 33,
+            "total": 38,
+            "rate": 86.8
+          },
+          "LOW": {
+            "scored": 4,
+            "total": 4,
+            "rate": 100
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 26,
+            "total": 30,
+            "rate": 86.7
+          },
+          "MID": {
+            "scored": 18,
+            "total": 19,
+            "rate": 94.7
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 16,
+            "total": 18,
+            "rate": 88.9
+          },
+          "MID": {
+            "scored": 11,
+            "total": 12,
+            "rate": 91.7
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 11,
+            "total": 12,
+            "rate": 91.7
+          },
+          "MID": {
+            "scored": 4,
+            "total": 5,
+            "rate": 80
+          },
+          "LOW": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 8,
+            "total": 8,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 1,
+            "total": 3,
+            "rate": 33.3
+          }
+        }
+      },
+      "TURKEY: Super Lig": {
+        "3W": {
+          "TOP": {
+            "scored": 65,
+            "total": 78,
+            "rate": 83.3
+          },
+          "LOW": {
+            "scored": 10,
+            "total": 10,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 27,
+            "total": 30,
+            "rate": 90
+          }
+        },
+        "4W": {
+          "TOP": {
+            "scored": 46,
+            "total": 48,
+            "rate": 95.8
+          },
+          "LOW": {
+            "scored": 7,
+            "total": 9,
+            "rate": 77.8
+          },
+          "MID": {
+            "scored": 16,
+            "total": 21,
+            "rate": 76.2
+          }
+        },
+        "5W": {
+          "TOP": {
+            "scored": 30,
+            "total": 38,
+            "rate": 78.9
+          },
+          "LOW": {
+            "scored": 6,
+            "total": 7,
+            "rate": 85.7
+          },
+          "MID": {
+            "scored": 8,
+            "total": 9,
+            "rate": 88.9
+          }
+        },
+        "6W": {
+          "TOP": {
+            "scored": 18,
+            "total": 22,
+            "rate": 81.8
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        },
+        "7W": {
+          "TOP": {
+            "scored": 13,
+            "total": 14,
+            "rate": 92.9
+          },
+          "LOW": {
+            "scored": 3,
+            "total": 3,
+            "rate": 100
+          },
+          "MID": {
+            "scored": 2,
+            "total": 2,
+            "rate": 100
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1159 @@
+{
+  "date": "2026-01-30",
+  "generated": "2026-01-31T09:01:39.165Z",
+  "totalMatches": 12,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Zaglebie",
+        "awayTeam": "GKS Katowice",
+        "date": "30.01.2026, 19:00",
+        "league": "POLAND: Ekstraklasa",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 5,
+        "awayPositionBefore": 10,
+        "homeTier": "TOP_1-5",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Zaglebie",
+          "away": "GKS Katowice"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "7"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Zaglebie",
+          "away": "GKS Katowice"
+        },
+        "score": {
+          "home": "0",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "11",
+            "Shots on target": "1",
+            "Shots off target": "8",
+            "Offsides": "0",
+            "Fouls": "12"
+          },
+          "away": {
+            "Total shots": "16",
+            "Shots on target": "7",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Fouls": "15"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Zaglebie",
+          "away": "GKS Katowice"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "0",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "4",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "MmhScGcB",
+        "extractedAt": "2026-01-31T09:00:08.031Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Antalyaspor",
+        "awayTeam": "Trabzonspor",
+        "date": "30.01.2026, 19:00",
+        "league": "TURKEY: Super Lig",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 11,
+        "awayPositionBefore": 3,
+        "homeTier": "LOW_11-15",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Antalyaspor",
+          "away": "Trabzonspor"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "6"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Antalyaspor",
+          "away": "Trabzonspor"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "19"
+          },
+          "away": {
+            "Total shots": "14",
+            "Shots on target": "4",
+            "Shots off target": "7",
+            "Offsides": "4",
+            "Fouls": "12"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Antalyaspor",
+          "away": "Trabzonspor"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "14"
+          },
+          "away": {
+            "Total shots": "9",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Fouls": "6"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "OUaNhCG8",
+        "extractedAt": "2026-01-31T09:00:18.276Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Kasimpasa",
+        "awayTeam": "Samsunspor",
+        "date": "30.01.2026, 19:00",
+        "league": "TURKEY: Super Lig",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 15,
+        "awayPositionBefore": 6,
+        "homeTier": "LOW_11-15",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Kasimpasa",
+          "away": "Samsunspor"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Fouls": "8"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Kasimpasa",
+          "away": "Samsunspor"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "11",
+            "Shots on target": "1",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "21"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Fouls": "22"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Kasimpasa",
+          "away": "Samsunspor"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "0",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "14"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "14"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "drbVjjoL",
+        "extractedAt": "2026-01-31T09:00:21.789Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Magdeburg",
+        "awayTeam": "Hannover",
+        "date": "30.01.2026, 19:30",
+        "league": "GERMANY: 2. Bundesliga",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 15,
+        "awayPositionBefore": 5,
+        "homeTier": "LOW_11-15",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Magdeburg",
+          "away": "Hannover"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "10"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Magdeburg",
+          "away": "Hannover"
+        },
+        "score": {
+          "home": "1",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "13",
+            "Shots on target": "4",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "11"
+          },
+          "away": {
+            "Total shots": "12",
+            "Shots on target": "3",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Fouls": "18"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Magdeburg",
+          "away": "Hannover"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "6",
+            "Shots on target": "2",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "MsH6u2K5",
+        "extractedAt": "2026-01-31T09:00:29.966Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Nurnberg",
+        "awayTeam": "Preussen Munster",
+        "date": "30.01.2026, 19:30",
+        "league": "GERMANY: 2. Bundesliga",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 8,
+        "awayPositionBefore": 12,
+        "homeTier": "MID_6-10",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Nurnberg",
+          "away": "Preussen Munster"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "11",
+            "Shots on target": "4",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Fouls": "4"
+          },
+          "away": {
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "6"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Nurnberg",
+          "away": "Preussen Munster"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "17",
+            "Shots on target": "5",
+            "Shots off target": "7",
+            "Offsides": "0",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "10",
+            "Shots on target": "4",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "15"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Nurnberg",
+          "away": "Preussen Munster"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "3"
+          },
+          "away": {
+            "Total shots": "6",
+            "Shots on target": "4",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "9"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "WGQVuWVo",
+        "extractedAt": "2026-01-31T09:00:33.401Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "FC Koln",
+        "awayTeam": "Wolfsburg",
+        "date": "30.01.2026, 21:30",
+        "league": "GERMANY: Bundesliga",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": 12,
+        "homeTier": null,
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "FC Koln",
+          "away": "Wolfsburg"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "11",
+            "Shots on target": "2",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Fouls": "3"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "0",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Fouls": "8"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "FC Koln",
+          "away": "Wolfsburg"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "15",
+            "Shots on target": "3",
+            "Shots off target": "7",
+            "Offsides": "2",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "14",
+            "Shots on target": "3",
+            "Shots off target": "8",
+            "Offsides": "3",
+            "Fouls": "16"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "FC Koln",
+          "away": "Wolfsburg"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "9",
+            "Shots on target": "3",
+            "Shots off target": "3",
+            "Offsides": "3",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "IFDxuLrh",
+        "extractedAt": "2026-01-31T09:00:41.437Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "RAAL La Louviere",
+        "awayTeam": "Gent",
+        "date": "30.01.2026, 21:45",
+        "league": "BELGIUM: Jupiler Pro League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 13,
+        "awayPositionBefore": 5,
+        "homeTier": "LOW_11-14",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "RAAL La Louviere",
+          "away": "Gent"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "5"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "RAAL La Louviere",
+          "away": "Gent"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "13"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "12"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "RAAL La Louviere",
+          "away": "Gent"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "7"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "raExqVbk",
+        "extractedAt": "2026-01-31T09:00:53.597Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Lens",
+        "awayTeam": "Le Havre",
+        "date": "30.01.2026, 21:45",
+        "league": "FRANCE: Ligue 1",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 1,
+        "awayPositionBefore": 15,
+        "homeTier": "TOP_1-5",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Lens",
+          "away": "Le Havre"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "5"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Lens",
+          "away": "Le Havre"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "15",
+            "Shots on target": "3",
+            "Shots off target": "9",
+            "Offsides": "0",
+            "Fouls": "20"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Fouls": "10"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Lens",
+          "away": "Le Havre"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "0",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Fouls": "11"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "5"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "KK1DFmc6",
+        "extractedAt": "2026-01-31T09:01:01.952Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Lazio",
+        "awayTeam": "Genoa",
+        "date": "30.01.2026, 21:45",
+        "league": "ITALY: Serie A",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 8,
+        "awayPositionBefore": 16,
+        "homeTier": "MID_6-10",
+        "awayTier": "BOTTOM_16-20"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Lazio",
+          "away": "Genoa"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "0",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "4"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Fouls": "7"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Lazio",
+          "away": "Genoa"
+        },
+        "score": {
+          "home": "3",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "14",
+            "Shots on target": "4",
+            "Shots off target": "5",
+            "Offsides": "2",
+            "Fouls": "12"
+          },
+          "away": {
+            "Total shots": "16",
+            "Shots on target": "4",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "12"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Lazio",
+          "away": "Genoa"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "8",
+            "Shots on target": "4",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "5"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "dE47A6aN",
+        "extractedAt": "2026-01-31T09:01:10.756Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Bristol City",
+        "awayTeam": "Derby",
+        "date": "30.01.2026, 22:00",
+        "league": "ENGLAND: Championship",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 9,
+        "awayPositionBefore": 6,
+        "homeTier": "MID_7-15",
+        "awayTier": "TOP_1-6"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Bristol City",
+          "away": "Derby"
+        },
+        "score": {
+          "home": "0",
+          "away": "3"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "3"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Shots off target": "3",
+            "Offsides": "2",
+            "Fouls": "9"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Bristol City",
+          "away": "Derby"
+        },
+        "score": {
+          "home": "0",
+          "away": "5"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "7",
+            "Shots on target": "1",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "17",
+            "Shots on target": "7",
+            "Shots off target": "6",
+            "Offsides": "3",
+            "Fouls": "15"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Bristol City",
+          "away": "Derby"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "9",
+            "Shots on target": "4",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "6"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "6PDrMbJt",
+        "extractedAt": "2026-01-31T09:01:19.530Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Espanyol",
+        "awayTeam": "Alaves",
+        "date": "30.01.2026, 22:00",
+        "league": "SPAIN: LaLiga",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 5,
+        "awayPositionBefore": 10,
+        "homeTier": "TOP_1-5",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Espanyol",
+          "away": "Alaves"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "6",
+            "Shots on target": "5",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "4"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Espanyol",
+          "away": "Alaves"
+        },
+        "score": {
+          "home": "1",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Shots off target": "5",
+            "Offsides": "4",
+            "Fouls": "15"
+          },
+          "away": {
+            "Total shots": "11",
+            "Shots on target": "7",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "15"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Espanyol",
+          "away": "Alaves"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Fouls": "11"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "Eaf6TZzf",
+        "extractedAt": "2026-01-31T09:01:28.435Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Vitoria Guimaraes",
+        "awayTeam": "Moreirense",
+        "date": "30.01.2026, 22:45",
+        "league": "PORTUGAL: Liga Portugal",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 8,
+        "awayPositionBefore": 6,
+        "homeTier": "MID_6-10",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Vitoria Guimaraes",
+          "away": "Moreirense"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "2",
+            "Shots on target": "0",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "11"
+          },
+          "away": {
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Shots off target": "3",
+            "Offsides": "2",
+            "Fouls": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Vitoria Guimaraes",
+          "away": "Moreirense"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "14",
+            "Shots on target": "2",
+            "Shots off target": "8",
+            "Offsides": "2",
+            "Fouls": "19"
+          },
+          "away": {
+            "Total shots": "10",
+            "Shots on target": "5",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Fouls": "12"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Vitoria Guimaraes",
+          "away": "Moreirense"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "12",
+            "Shots on target": "2",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "10"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "fHCZuAQN",
+        "extractedAt": "2026-01-31T09:01:39.158Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2177 @@
+{
+  "date": "2026-03-05",
+  "generated": "2026-03-06T09:02:03.708Z",
+  "totalMatches": 15,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Carabobo (Ven)",
+        "awayTeam": "Sporting Cristal (Per)",
+        "date": "05.03.2026, 00:00",
+        "league": "SOUTH AMERICA: Copa Libertadores - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Carabobo (Ven)",
+          "away": "Sporting Cristal (Per)"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.51",
+            "Ball Possession": "48",
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "5",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Free Kicks": "7",
+            "Throw ins": "14",
+            "Fouls": "7",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.90",
+            "Ball Possession": "52",
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "11",
+            "Fouls": "7",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Carabobo (Ven)",
+          "away": "Sporting Cristal (Per)"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.97",
+            "Ball Possession": "56",
+            "Total shots": "15",
+            "Shots on target": "6",
+            "Big Chances": "0",
+            "Corner Kicks": "9",
+            "Yellow Cards": "0",
+            "Shots off target": "7",
+            "Offsides": "7",
+            "Free Kicks": "16",
+            "Throw ins": "25",
+            "Fouls": "13",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.08",
+            "Ball Possession": "44",
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "4",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "13",
+            "Throw ins": "23",
+            "Fouls": "16",
+            "Goalkeeper Saves": "5"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Carabobo (Ven)",
+          "away": "Sporting Cristal (Per)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.46",
+            "Ball Possession": "63",
+            "Total shots": "8",
+            "Shots on target": "4",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "4",
+            "Free Kicks": "9",
+            "Throw ins": "11",
+            "Fouls": "6",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.18",
+            "Ball Possession": "37",
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "4",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "12",
+            "Fouls": "9",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "MJqXHvF8",
+        "extractedAt": "2026-03-06T09:00:16.289Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Caracas (Ven)",
+        "awayTeam": "Metropolitanos (Ven)",
+        "date": "05.03.2026, 00:00",
+        "league": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Caracas (Ven)",
+          "away": "Metropolitanos (Ven)"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.43",
+            "Ball Possession": "63",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "12",
+            "Fouls": "3",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.46",
+            "Ball Possession": "37",
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "3",
+            "Throw ins": "10",
+            "Fouls": "4",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Caracas (Ven)",
+          "away": "Metropolitanos (Ven)"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.49",
+            "Ball Possession": "61",
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "9",
+            "Throw ins": "22",
+            "Fouls": "13",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.58",
+            "Ball Possession": "39",
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "4",
+            "Free Kicks": "13",
+            "Throw ins": "17",
+            "Fouls": "9",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Caracas (Ven)",
+          "away": "Metropolitanos (Ven)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.06",
+            "Ball Possession": "58",
+            "Total shots": "2",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "3",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "5",
+            "Throw ins": "10",
+            "Fouls": "10",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.12",
+            "Ball Possession": "42",
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "4",
+            "Free Kicks": "10",
+            "Throw ins": "7",
+            "Fouls": "5",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "2uocuQ4j",
+        "extractedAt": "2026-03-06T09:00:32.278Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Palmeiras",
+        "awayTeam": "Novorizontino",
+        "date": "05.03.2026, 01:00",
+        "league": "BRAZIL: Paulista - Play Offs",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Palmeiras",
+          "away": "Novorizontino"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.64",
+            "Ball Possession": "75",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "3",
+            "Free Kicks": "9",
+            "Throw ins": "13",
+            "Fouls": "6",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.90",
+            "Ball Possession": "25",
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "2",
+            "Yellow Cards": "3",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "7",
+            "Fouls": "9",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Palmeiras",
+          "away": "Novorizontino"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.84",
+            "Ball Possession": "72",
+            "Total shots": "10",
+            "Shots on target": "2",
+            "Big Chances": "3",
+            "Corner Kicks": "7",
+            "Yellow Cards": "2",
+            "Shots off target": "5",
+            "Offsides": "4",
+            "Free Kicks": "14",
+            "Throw ins": "26",
+            "Fouls": "13",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.98",
+            "Ball Possession": "28",
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "4",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Free Kicks": "13",
+            "Throw ins": "18",
+            "Fouls": "14",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Palmeiras",
+          "away": "Novorizontino"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.20",
+            "Ball Possession": "69",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "5",
+            "Throw ins": "13",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "31",
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "11",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "t4ppNZw2",
+        "extractedAt": "2026-03-06T09:00:48.406Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Lanus",
+        "awayTeam": "Boca Juniors",
+        "date": "05.03.2026, 02:00",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Lanus",
+          "away": "Boca Juniors"
+        },
+        "score": {
+          "home": "0",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "49",
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "5",
+            "Throw ins": "10",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.44",
+            "Ball Possession": "51",
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "9",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Lanus",
+          "away": "Boca Juniors"
+        },
+        "score": {
+          "home": "0",
+          "away": "3"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.47",
+            "Ball Possession": "48",
+            "Total shots": "9",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "8",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "8",
+            "Throw ins": "25",
+            "Fouls": "9",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.90",
+            "Ball Possession": "52",
+            "Total shots": "11",
+            "Shots on target": "5",
+            "Big Chances": "2",
+            "Corner Kicks": "1",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "9",
+            "Throw ins": "16",
+            "Fouls": "8",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Lanus",
+          "away": "Boca Juniors"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.39",
+            "Ball Possession": "48",
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "6",
+            "Yellow Cards": "2",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "3",
+            "Throw ins": "15",
+            "Fouls": "4",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.46",
+            "Ball Possession": "52",
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "7",
+            "Fouls": "3",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "AiuJcyft",
+        "extractedAt": "2026-03-06T09:01:04.383Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "O'Higgins (Chi)",
+        "awayTeam": "Deportes Tolima (Col)",
+        "date": "05.03.2026, 02:30",
+        "league": "SOUTH AMERICA: Copa Libertadores - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "O'Higgins (Chi)",
+          "away": "Deportes Tolima (Col)"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.88",
+            "Ball Possession": "65",
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Red Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "3",
+            "Throw ins": "12",
+            "Fouls": "3",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.63",
+            "Ball Possession": "35",
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Red Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "3",
+            "Throw ins": "12",
+            "Fouls": "3",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "O'Higgins (Chi)",
+          "away": "Deportes Tolima (Col)"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.54",
+            "Ball Possession": "66",
+            "Total shots": "15",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "7",
+            "Yellow Cards": "2",
+            "Red Cards": "1",
+            "Shots off target": "9",
+            "Offsides": "1",
+            "Free Kicks": "5",
+            "Throw ins": "18",
+            "Fouls": "7",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.65",
+            "Ball Possession": "34",
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "2",
+            "Red Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "23",
+            "Fouls": "5",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "O'Higgins (Chi)",
+          "away": "Deportes Tolima (Col)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.66",
+            "Ball Possession": "67",
+            "Total shots": "11",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "5",
+            "Yellow Cards": "1",
+            "Red Cards": "1",
+            "Shots off target": "7",
+            "Offsides": "0",
+            "Free Kicks": "2",
+            "Throw ins": "6",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.02",
+            "Ball Possession": "33",
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Red Cards": "0",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "11",
+            "Fouls": "2",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "jo8E1BRs",
+        "extractedAt": "2026-03-06T09:01:07.969Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Atl. Nacional (Col)",
+        "awayTeam": "Millonarios (Col)",
+        "date": "05.03.2026, 02:30",
+        "league": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Atl. Nacional (Col)",
+          "away": "Millonarios (Col)"
+        },
+        "score": {
+          "home": "1",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.35",
+            "Ball Possession": "70",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "3",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Free Kicks": "6",
+            "Throw ins": "7",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.38",
+            "Ball Possession": "30",
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "2",
+            "Free Kicks": "6",
+            "Throw ins": "6",
+            "Fouls": "6",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Atl. Nacional (Col)",
+          "away": "Millonarios (Col)"
+        },
+        "score": {
+          "home": "1",
+          "away": "3"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.81",
+            "Ball Possession": "73",
+            "Total shots": "17",
+            "Shots on target": "4",
+            "Big Chances": "4",
+            "Corner Kicks": "11",
+            "Yellow Cards": "3",
+            "Shots off target": "7",
+            "Offsides": "2",
+            "Free Kicks": "16",
+            "Throw ins": "25",
+            "Fouls": "10",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.67",
+            "Ball Possession": "27",
+            "Total shots": "8",
+            "Shots on target": "4",
+            "Big Chances": "2",
+            "Corner Kicks": "0",
+            "Yellow Cards": "4",
+            "Shots off target": "2",
+            "Offsides": "4",
+            "Free Kicks": "10",
+            "Throw ins": "11",
+            "Fouls": "16",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Atl. Nacional (Col)",
+          "away": "Millonarios (Col)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.46",
+            "Ball Possession": "77",
+            "Total shots": "12",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "8",
+            "Yellow Cards": "2",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Free Kicks": "10",
+            "Throw ins": "18",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.29",
+            "Ball Possession": "23",
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "0",
+            "Yellow Cards": "3",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Free Kicks": "4",
+            "Throw ins": "5",
+            "Fouls": "10",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "As6In8CG",
+        "extractedAt": "2026-03-06T09:01:15.693Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Sportivo Trinidense (Par)",
+        "awayTeam": "Olimpia Asuncion (Par)",
+        "date": "05.03.2026, 02:30",
+        "league": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Sportivo Trinidense (Par)",
+          "away": "Olimpia Asuncion (Par)"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.73",
+            "Ball Possession": "30",
+            "Total shots": "10",
+            "Shots on target": "6",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "7",
+            "Fouls": "6",
+            "Goalkeeper Saves": "4"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.53",
+            "Ball Possession": "70",
+            "Total shots": "12",
+            "Shots on target": "5",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Free Kicks": "6",
+            "Throw ins": "7",
+            "Fouls": "4",
+            "Goalkeeper Saves": "6"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Sportivo Trinidense (Par)",
+          "away": "Olimpia Asuncion (Par)"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.15",
+            "Ball Possession": "34",
+            "Total shots": "16",
+            "Shots on target": "9",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "4",
+            "Red Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Free Kicks": "11",
+            "Throw ins": "23",
+            "Fouls": "13",
+            "Goalkeeper Saves": "7"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.02",
+            "Ball Possession": "66",
+            "Total shots": "19",
+            "Shots on target": "8",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "8",
+            "Offsides": "2",
+            "Free Kicks": "13",
+            "Throw ins": "18",
+            "Fouls": "11",
+            "Goalkeeper Saves": "9"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Sportivo Trinidense (Par)",
+          "away": "Olimpia Asuncion (Par)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.42",
+            "Ball Possession": "40",
+            "Total shots": "6",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "4",
+            "Red Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Free Kicks": "7",
+            "Throw ins": "16",
+            "Fouls": "7",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.49",
+            "Ball Possession": "60",
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "11",
+            "Fouls": "7",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "vLnVirXb",
+        "extractedAt": "2026-03-06T09:01:19.277Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "U. De Chile (Chi)",
+        "awayTeam": "Palestino (Chi)",
+        "date": "05.03.2026, 02:30",
+        "league": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "U. De Chile (Chi)",
+          "away": "Palestino (Chi)"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "62",
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "11",
+            "Fouls": "3",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.50",
+            "Ball Possession": "38",
+            "Total shots": "10",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Free Kicks": "3",
+            "Throw ins": "9",
+            "Fouls": "6",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "U. De Chile (Chi)",
+          "away": "Palestino (Chi)"
+        },
+        "score": {
+          "home": "1",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.99",
+            "Ball Possession": "66",
+            "Total shots": "12",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "7",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "13",
+            "Throw ins": "23",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.05",
+            "Ball Possession": "34",
+            "Total shots": "13",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "5",
+            "Yellow Cards": "2",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "17",
+            "Fouls": "13",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "U. De Chile (Chi)",
+          "away": "Palestino (Chi)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.91",
+            "Ball Possession": "71",
+            "Total shots": "9",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "5",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "12",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.55",
+            "Ball Possession": "29",
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "8",
+            "Fouls": "7",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "8xYr3Tdc",
+        "extractedAt": "2026-03-06T09:01:22.861Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Dep. Cuenca (Ecu)",
+        "awayTeam": "Libertad (Ecu)",
+        "date": "05.03.2026, 04:00",
+        "league": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Dep. Cuenca (Ecu)",
+          "away": "Libertad (Ecu)"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.70",
+            "Ball Possession": "44",
+            "Total shots": "15",
+            "Shots on target": "5",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "7",
+            "Offsides": "1",
+            "Free Kicks": "3",
+            "Throw ins": "7",
+            "Fouls": "7",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.42",
+            "Ball Possession": "56",
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "0",
+            "Yellow Cards": "0",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "9",
+            "Fouls": "3",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Dep. Cuenca (Ecu)",
+          "away": "Libertad (Ecu)"
+        },
+        "score": {
+          "home": "3",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.38",
+            "Ball Possession": "43",
+            "Total shots": "20",
+            "Shots on target": "7",
+            "Big Chances": "4",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "9",
+            "Offsides": "4",
+            "Free Kicks": "10",
+            "Throw ins": "18",
+            "Fouls": "13",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.88",
+            "Ball Possession": "57",
+            "Total shots": "16",
+            "Shots on target": "4",
+            "Big Chances": "3",
+            "Corner Kicks": "5",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "13",
+            "Throw ins": "16",
+            "Fouls": "10",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Dep. Cuenca (Ecu)",
+          "away": "Libertad (Ecu)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.68",
+            "Ball Possession": "41",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "3",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "3",
+            "Free Kicks": "7",
+            "Throw ins": "11",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.46",
+            "Ball Possession": "59",
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "5",
+            "Yellow Cards": "3",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "7",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "CpJJzl4N",
+        "extractedAt": "2026-03-06T09:01:26.449Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Radomiak Radom",
+        "awayTeam": "Arka Gdynia",
+        "date": "05.03.2026, 21:30",
+        "league": "POLAND: Ekstraklasa",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 8,
+        "awayPositionBefore": 15,
+        "homeTier": "MID_6-10",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Radomiak Radom",
+          "away": "Arka Gdynia"
+        },
+        "score": {
+          "home": "2",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.91",
+            "Ball Possession": "57",
+            "Total shots": "7",
+            "Shots on target": "4",
+            "Big Chances": "2",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "10",
+            "Throw ins": "4",
+            "Fouls": "8",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "43",
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "5",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Free Kicks": "8",
+            "Throw ins": "7",
+            "Fouls": "10",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Radomiak Radom",
+          "away": "Arka Gdynia"
+        },
+        "score": {
+          "home": "3",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.36",
+            "Ball Possession": "49",
+            "Total shots": "12",
+            "Shots on target": "5",
+            "Big Chances": "2",
+            "Corner Kicks": "3",
+            "Yellow Cards": "3",
+            "Shots off target": "7",
+            "Offsides": "1",
+            "Free Kicks": "18",
+            "Throw ins": "10",
+            "Fouls": "23",
+            "Goalkeeper Saves": "7"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.13",
+            "Ball Possession": "51",
+            "Total shots": "14",
+            "Shots on target": "8",
+            "Big Chances": "2",
+            "Corner Kicks": "7",
+            "Yellow Cards": "3",
+            "Shots off target": "3",
+            "Offsides": "3",
+            "Free Kicks": "23",
+            "Throw ins": "14",
+            "Fouls": "18",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Radomiak Radom",
+          "away": "Arka Gdynia"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.45",
+            "Ball Possession": "41",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "6",
+            "Fouls": "15",
+            "Goalkeeper Saves": "5"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.05",
+            "Ball Possession": "59",
+            "Total shots": "11",
+            "Shots on target": "6",
+            "Big Chances": "2",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "15",
+            "Throw ins": "7",
+            "Fouls": "8",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "EoX6jYko",
+        "extractedAt": "2026-03-06T09:01:36.173Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Basel",
+        "awayTeam": "Grasshoppers",
+        "date": "05.03.2026, 21:30",
+        "league": "SWITZERLAND: Super League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 4,
+        "awayPositionBefore": 11,
+        "homeTier": "TOP_1-5",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Basel",
+          "away": "Grasshoppers"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.07",
+            "Ball Possession": "54",
+            "Total shots": "2",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Free Kicks": "4",
+            "Throw ins": "13",
+            "Fouls": "2",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.47",
+            "Ball Possession": "46",
+            "Total shots": "10",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "7",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "2",
+            "Throw ins": "10",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Basel",
+          "away": "Grasshoppers"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.94",
+            "Ball Possession": "51",
+            "Total shots": "11",
+            "Shots on target": "4",
+            "Big Chances": "3",
+            "Corner Kicks": "4",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "12",
+            "Throw ins": "32",
+            "Fouls": "6",
+            "Goalkeeper Saves": "5"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.89",
+            "Ball Possession": "49",
+            "Total shots": "16",
+            "Shots on target": "5",
+            "Big Chances": "1",
+            "Corner Kicks": "9",
+            "Yellow Cards": "3",
+            "Red Cards": "1",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "21",
+            "Fouls": "12",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Basel",
+          "away": "Grasshoppers"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.87",
+            "Ball Possession": "48",
+            "Total shots": "9",
+            "Shots on target": "4",
+            "Big Chances": "3",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "19",
+            "Fouls": "4",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.42",
+            "Ball Possession": "52",
+            "Total shots": "6",
+            "Shots on target": "3",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "3",
+            "Red Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "11",
+            "Fouls": "8",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "pEsKTf9l",
+        "extractedAt": "2026-03-06T09:01:44.011Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Thun",
+        "awayTeam": "St. Gallen",
+        "date": "05.03.2026, 21:30",
+        "league": "SWITZERLAND: Super League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 1,
+        "awayPositionBefore": 2,
+        "homeTier": "TOP_1-5",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Thun",
+          "away": "St. Gallen"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.57",
+            "Ball Possession": "50",
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "3",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "3",
+            "Throw ins": "7",
+            "Fouls": "11",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.17",
+            "Ball Possession": "50",
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "3",
+            "Free Kicks": "11",
+            "Throw ins": "13",
+            "Fouls": "3",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Thun",
+          "away": "St. Gallen"
+        },
+        "score": {
+          "home": "2",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.69",
+            "Ball Possession": "50",
+            "Total shots": "11",
+            "Shots on target": "6",
+            "Big Chances": "5",
+            "Corner Kicks": "6",
+            "Yellow Cards": "5",
+            "Shots off target": "2",
+            "Offsides": "3",
+            "Free Kicks": "12",
+            "Throw ins": "16",
+            "Fouls": "25",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.59",
+            "Ball Possession": "50",
+            "Total shots": "17",
+            "Shots on target": "4",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "2",
+            "Shots off target": "4",
+            "Offsides": "4",
+            "Free Kicks": "25",
+            "Throw ins": "24",
+            "Fouls": "12",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Thun",
+          "away": "St. Gallen"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.12",
+            "Ball Possession": "51",
+            "Total shots": "8",
+            "Shots on target": "5",
+            "Big Chances": "4",
+            "Corner Kicks": "5",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Free Kicks": "9",
+            "Throw ins": "9",
+            "Fouls": "14",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.42",
+            "Ball Possession": "49",
+            "Total shots": "7",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "14",
+            "Throw ins": "11",
+            "Fouls": "9",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "QPUon3PF",
+        "extractedAt": "2026-03-06T09:01:47.557Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Tottenham",
+        "awayTeam": "Crystal Palace",
+        "date": "05.03.2026, 22:00",
+        "league": "ENGLAND: Premier League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 16,
+        "awayPositionBefore": 13,
+        "homeTier": "BOTTOM_16-20",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Tottenham",
+          "away": "Crystal Palace"
+        },
+        "score": {
+          "home": "1",
+          "away": "3"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.51",
+            "Ball Possession": "35",
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Red Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "5",
+            "Fouls": "11",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.40",
+            "Ball Possession": "65",
+            "Total shots": "5",
+            "Shots on target": "4",
+            "Big Chances": "3",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Red Cards": "0",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Free Kicks": "11",
+            "Throw ins": "6",
+            "Fouls": "7",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Tottenham",
+          "away": "Crystal Palace"
+        },
+        "score": {
+          "home": "1",
+          "away": "3"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.09",
+            "Ball Possession": "40",
+            "Total shots": "12",
+            "Shots on target": "4",
+            "Big Chances": "1",
+            "Corner Kicks": "6",
+            "Yellow Cards": "3",
+            "Red Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "14",
+            "Throw ins": "22",
+            "Fouls": "14",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.78",
+            "Ball Possession": "60",
+            "Total shots": "9",
+            "Shots on target": "4",
+            "Big Chances": "3",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "14",
+            "Throw ins": "13",
+            "Fouls": "14",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Tottenham",
+          "away": "Crystal Palace"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.58",
+            "Ball Possession": "46",
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "17",
+            "Fouls": "3",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.38",
+            "Ball Possession": "54",
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "3",
+            "Throw ins": "7",
+            "Fouls": "7",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "vwIIJTp9",
+        "extractedAt": "2026-03-06T09:01:56.574Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Boston River (Uru)",
+        "awayTeam": "Racing Montevideo (Uru)",
+        "date": "06.03.2026, 00:00",
+        "league": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Boston River (Uru)",
+          "away": "Racing Montevideo (Uru)"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.21",
+            "Ball Possession": "43",
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "0",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Free Kicks": "5",
+            "Throw ins": "14",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.10",
+            "Ball Possession": "57",
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "10",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Boston River (Uru)",
+          "away": "Racing Montevideo (Uru)"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.72",
+            "Ball Possession": "42",
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Free Kicks": "11",
+            "Throw ins": "24",
+            "Fouls": "13",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.67",
+            "Ball Possession": "58",
+            "Total shots": "18",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "7",
+            "Yellow Cards": "1",
+            "Shots off target": "8",
+            "Offsides": "1",
+            "Free Kicks": "13",
+            "Throw ins": "29",
+            "Fouls": "11",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Boston River (Uru)",
+          "away": "Racing Montevideo (Uru)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.51",
+            "Ball Possession": "42",
+            "Total shots": "2",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "10",
+            "Fouls": "9",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.57",
+            "Ball Possession": "58",
+            "Total shots": "15",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Free Kicks": "9",
+            "Throw ins": "19",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "80vnl0WN",
+        "extractedAt": "2026-03-06T09:02:00.116Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Nacional Asuncion (Par)",
+        "awayTeam": "Recoleta (Par)",
+        "date": "06.03.2026, 00:00",
+        "league": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Nacional Asuncion (Par)",
+          "away": "Recoleta (Par)"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.07",
+            "Ball Possession": "51",
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "20",
+            "Fouls": "6",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "49",
+            "Total shots": "1",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Free Kicks": "6",
+            "Throw ins": "9",
+            "Fouls": "8",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Nacional Asuncion (Par)",
+          "away": "Recoleta (Par)"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.01",
+            "Ball Possession": "56",
+            "Total shots": "12",
+            "Shots on target": "6",
+            "Big Chances": "3",
+            "Corner Kicks": "8",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "17",
+            "Throw ins": "37",
+            "Fouls": "12",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.14",
+            "Ball Possession": "44",
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "3",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "12",
+            "Throw ins": "21",
+            "Fouls": "17",
+            "Goalkeeper Saves": "5"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Nacional Asuncion (Par)",
+          "away": "Recoleta (Par)"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.94",
+            "Ball Possession": "62",
+            "Total shots": "9",
+            "Shots on target": "4",
+            "Big Chances": "3",
+            "Corner Kicks": "4",
+            "Yellow Cards": "2",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "9",
+            "Throw ins": "17",
+            "Fouls": "6",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.06",
+            "Ball Possession": "38",
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "12",
+            "Fouls": "9",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "vqVHrvfo",
+        "extractedAt": "2026-03-06T09:02:03.702Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Raport Zilnic - 2025-11-04</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .date {
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+        }
+        .stat-card.success {
+            background: #d5f4e6;
+            border: 2px solid #27ae60;
+        }
+        .stat-value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .stat-label {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th {
+            background: #34495e;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: normal;
+        }
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        tr:hover {
+            background: #f8f9fa;
+        }
+        .status {
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            display: inline-block;
+        }
+        .status.won {
+            background: #d5f4e6;
+            color: #27ae60;
+        }
+        .status.lost {
+            background: #fadbd8;
+            color: #e74c3c;
+        }
+        .status.unknown {
+            background: #fef5e7;
+            color: #f39c12;
+        }
+        .status.pending {
+            background: #e8f8f5;
+            color: #16a085;
+        }
+        .odds {
+            font-weight: bold;
+            color: #e67e22;
+        }
+        .probability {
+            color: #3498db;
+            font-weight: bold;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid #ecf0f1;
+            color: #7f8c8d;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Raport Zilnic Pronosticuri</h1>
+        <div class="date">2025-11-04</div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-value">22</div>
+                <div class="stat-label">Total Pronosticuri</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">20</div>
+                <div class="stat-label">Validate</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" style="color: #27ae60;">✅ 0</div>
+                <div class="stat-label">Câștigate</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" style="color: #e74c3c;">❌ 0</div>
+                <div class="stat-label">Pierdute</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" style="color: #f39c12;">⚠️ 20</div>
+                <div class="stat-label">Necunoscute</div>
+            </div>
+            <div class="stat-card success">
+                <div class="stat-value" style="color: #e74c3c;">0%</div>
+                <div class="stat-label">Success Rate</div>
+            </div>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Oră</th>
+                    <th>Meci</th>
+                    <th>Liga</th>
+                    <th>HT</th>
+                    <th>FT</th>
+                    <th>Eveniment Sugerat</th>
+                    <th>Prob.</th>
+                    <th>Cotă SB</th>
+                    <th>Cotă NB</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr>
+                    <td>16:47</td>
+                    <td><strong>Liverpool</strong> vs Chelsea</td>
+                    <td style="font-size: 11px;">Premier League</td>
+                    <td>1-0</td>
+                    <td>-</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>LIVERPOOL A ÎNDEPLINIT PATTERN-UL OVER_2_5_GOLURI, IAR ÎN 78% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE, ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">OVER_2_5_GOLURI | Liverpool</span>
+                    </td>
+                    <td class="probability">78%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status pending">⏳ PENDING</span></td>
+                </tr>
+                
+                <tr>
+                    <td>16:47</td>
+                    <td><strong>Liverpool</strong> vs Chelsea</td>
+                    <td style="font-size: 11px;">Premier League</td>
+                    <td>1-0</td>
+                    <td>-</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>MECI A ÎNDEPLINIT PATTERN-UL BTTS_GOLURI_AMBELE, IAR ÎN 72% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE, ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">BTTS_GOLURI_AMBELE | Meci</span>
+                    </td>
+                    <td class="probability">72%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status pending">⏳ PENDING</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:30</td>
+                    <td><strong>Bristol City</strong> vs Blackburn</td>
+                    <td style="font-size: 11px;">ENGLAND: Championship</td>
+                    <td>0-0</td>
+                    <td>0-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>BLACKBURN A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 78% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | Blackburn</span>
+                    </td>
+                    <td class="probability">77.78%</td>
+                    <td class="odds">1.74</td>
+                    <td class="odds">2.13</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:30</td>
+                    <td><strong>Derby</strong> vs Hull</td>
+                    <td style="font-size: 11px;">ENGLAND: Championship</td>
+                    <td>1-0</td>
+                    <td>2-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>DERBY A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 73% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | Derby</span>
+                    </td>
+                    <td class="probability">73.08%</td>
+                    <td class="odds">1.78</td>
+                    <td class="odds">2.09</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:30</td>
+                    <td><strong>Oxford Utd</strong> vs Stoke</td>
+                    <td style="font-size: 11px;">ENGLAND: Championship</td>
+                    <td>0-2</td>
+                    <td>0-3</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>OXFORD UTD A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 78% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | Oxford Utd</span>
+                    </td>
+                    <td class="probability">77.78%</td>
+                    <td class="odds">1.86</td>
+                    <td class="odds">1.95</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:30</td>
+                    <td><strong>Oxford Utd</strong> vs Stoke</td>
+                    <td style="font-size: 11px;">ENGLAND: Championship</td>
+                    <td>0-2</td>
+                    <td>0-3</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>STOKE A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 89% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 8 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.8 | Stoke</span>
+                    </td>
+                    <td class="probability">88.89%</td>
+                    <td class="odds">1.86</td>
+                    <td class="odds">1.95</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:44</td>
+                    <td><strong>Coventry</strong> vs Sheffield Utd</td>
+                    <td style="font-size: 11px;">ENGLAND: Championship</td>
+                    <td>0-1</td>
+                    <td>3-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>COVENTRY A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 84% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | Coventry</span>
+                    </td>
+                    <td class="probability">84%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">2.03</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:44</td>
+                    <td><strong>Coventry</strong> vs Sheffield Utd</td>
+                    <td style="font-size: 11px;">ENGLAND: Championship</td>
+                    <td>0-1</td>
+                    <td>3-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>SHEFFIELD UTD A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 100% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 7 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.7 | Sheffield Utd</span>
+                    </td>
+                    <td class="probability">100%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">2.03</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:44</td>
+                    <td><strong>Coventry</strong> vs Sheffield Utd</td>
+                    <td style="font-size: 11px;">ENGLAND: Championship</td>
+                    <td>0-1</td>
+                    <td>3-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>SHEFFIELD UTD A AVUT 0 CORNERE ȘI 0 ȘUTURI PE POARTĂ LA PAUZĂ, IAR ÎN 71% DIN CAZURILE CÂND AM ÎNREGISTRAT ASTFEL DE ATACURI EFICIENTE, ECHIPA ÎN CAUZĂ A MAI AVUT MINIM 2 CORNERE ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_6.3 | Sheffield Utd</span>
+                    </td>
+                    <td class="probability">71.43%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">2.03</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:44</td>
+                    <td><strong>Coventry</strong> vs Sheffield Utd</td>
+                    <td style="font-size: 11px;">ENGLAND: Championship</td>
+                    <td>0-1</td>
+                    <td>3-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>ÎN ACEST MECI AU FOST DISTRIBUITE 3 CARTONAȘE GALBENE PÂNĂ LA PAUZĂ, IAR ÎN 100% DIN CAZURILE CÂND AM ÎNREGISTRAT ASTFEL DE MECIURI INTENSE, S-A DAT CEL PUȚIN UN CARTONAȘ SUPLIMENTAR ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_9.3 | Meci</span>
+                    </td>
+                    <td class="probability">100%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:45</td>
+                    <td><strong>Bodo/Glimt</strong> vs Monaco</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>0-1</td>
+                    <td>0-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>ÎN ACEST MECI AU FOST DISTRIBUITE 3 CARTONAȘE GALBENE PÂNĂ LA PAUZĂ, IAR ÎN 100% DIN CAZURILE CÂND AM ÎNREGISTRAT ASTFEL DE MECIURI INTENSE, S-A DAT CEL PUȚIN UN CARTONAȘ SUPLIMENTAR ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_9.3 | Meci</span>
+                    </td>
+                    <td class="probability">100%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:46</td>
+                    <td><strong>Juventus</strong> vs Sporting CP</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-1</td>
+                    <td>1-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>JUVENTUS A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 86% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 6 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.6 | Juventus</span>
+                    </td>
+                    <td class="probability">85.71%</td>
+                    <td class="odds">1.92</td>
+                    <td class="odds">2.03</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:46</td>
+                    <td><strong>Juventus</strong> vs Sporting CP</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-1</td>
+                    <td>1-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>JUVENTUS A AVUT 0 CORNERE ȘI 0 ȘUTURI PE POARTĂ LA PAUZĂ, IAR ÎN 90% DIN CAZURILE CÂND AM ÎNREGISTRAT ASTFEL DE ATACURI EFICIENTE, ECHIPA ÎN CAUZĂ A MAI AVUT MINIM 2 CORNERE ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_6.3 | Juventus</span>
+                    </td>
+                    <td class="probability">90.48%</td>
+                    <td class="odds">1.92</td>
+                    <td class="odds">2.03</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:46</td>
+                    <td><strong>Juventus</strong> vs Sporting CP</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-1</td>
+                    <td>1-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>ÎN ACEST MECI AU FOST DISTRIBUITE 3 CARTONAȘE GALBENE PÂNĂ LA PAUZĂ, IAR ÎN 100% DIN CAZURILE CÂND AM ÎNREGISTRAT ASTFEL DE MECIURI INTENSE, S-A DAT CEL PUȚIN UN CARTONAȘ SUPLIMENTAR ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_9.3 | Meci</span>
+                    </td>
+                    <td class="probability">100%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:46</td>
+                    <td><strong>Olympiacos Piraeus</strong> vs PSV</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-0</td>
+                    <td>1-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>OLYMPIACOS PIRAEUS A AVUT 0 CORNERE ȘI 0 ȘUTURI PE POARTĂ LA PAUZĂ, IAR ÎN 90% DIN CAZURILE CÂND AM ÎNREGISTRAT ASTFEL DE ATACURI EFICIENTE, ECHIPA ÎN CAUZĂ A MAI AVUT MINIM 2 CORNERE ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_6.3 | Olympiacos Piraeus</span>
+                    </td>
+                    <td class="probability">90.48%</td>
+                    <td class="odds">1.85</td>
+                    <td class="odds">2.04</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:47</td>
+                    <td><strong>Olympiacos Piraeus</strong> vs PSV</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-0</td>
+                    <td>1-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>OLYMPIACOS PIRAEUS A AVUT 0 CORNERE ȘI 0 ȘUTURI PE POARTĂ LA PAUZĂ, IAR ÎN 90% DIN CAZURILE CÂND AM ÎNREGISTRAT ASTFEL DE ATACURI EFICIENTE, ECHIPA ÎN CAUZĂ A MAI AVUT MINIM 2 CORNERE ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_6.3 | Olympiacos Piraeus</span>
+                    </td>
+                    <td class="probability">90.48%</td>
+                    <td class="odds">1.85</td>
+                    <td class="odds">2.04</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:49</td>
+                    <td><strong>Tottenham</strong> vs FC Copenhagen</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-0</td>
+                    <td>4-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>TOTTENHAM A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 85% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | Tottenham</span>
+                    </td>
+                    <td class="probability">85.19%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">1.93</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:49</td>
+                    <td><strong>Tottenham</strong> vs FC Copenhagen</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-0</td>
+                    <td>4-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>FC COPENHAGEN A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 85% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | FC Copenhagen</span>
+                    </td>
+                    <td class="probability">85.19%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">1.93</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:49</td>
+                    <td><strong>Tottenham</strong> vs FC Copenhagen</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-0</td>
+                    <td>4-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>TOTTENHAM A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 85% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | Tottenham</span>
+                    </td>
+                    <td class="probability">85.19%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">1.93</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:49</td>
+                    <td><strong>Tottenham</strong> vs FC Copenhagen</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-0</td>
+                    <td>4-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>FC COPENHAGEN A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 85% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | FC Copenhagen</span>
+                    </td>
+                    <td class="probability">85.19%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">1.93</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:49</td>
+                    <td><strong>Tottenham</strong> vs FC Copenhagen</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-0</td>
+                    <td>4-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>TOTTENHAM A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 85% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | Tottenham</span>
+                    </td>
+                    <td class="probability">85.19%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">1.93</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:49</td>
+                    <td><strong>Tottenham</strong> vs FC Copenhagen</td>
+                    <td style="font-size: 11px;">EUROPE: Champions League - League phase</td>
+                    <td>1-0</td>
+                    <td>4-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>FC COPENHAGEN A AVUT UN TOTAL DE 0 ACȚIUNI OFENSIVE (0 ȘUTURI PE POARTĂ + 0 CORNERE) PÂNĂ LA PAUZĂ ȘI NU A MARCAT ÎNCĂ, IAR ÎN 85% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE (MINIMUM 5 ACȚIUNI), ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_5.5 | FC Copenhagen</span>
+                    </td>
+                    <td class="probability">85.19%</td>
+                    <td class="odds">1.84</td>
+                    <td class="odds">1.93</td>
+                    <td><span class="status unknown">⚠️ NECUNOSCUT</span></td>
+                </tr>
+                
+            </tbody>
+        </table>
+
+        <div class="footer">
+            <p style="margin: 10px 0; color: #7f8c8d; font-size: 11px;">
+                <strong>Notă despre cote:</strong> Cotele afișate (SB = Superbet, NB = Netbet) sunt cele de la momentul
+                notificării (pauză/HT). Acestea pot varia în repriza a 2-a în funcție de evoluția meciului.
+            </p>
+            <p style="margin: 10px 0; color: #7f8c8d; font-size: 11px;">
+                <strong>Status:</strong> ✅ CÂȘTIGAT = pronosticul s-a îndeplinit | ❌ PIERDUT = pronosticul nu s-a îndeplinit |
+                ⚠️ NECUNOSCUT = lipsesc date pentru validare | ⏳ PENDING = în așteptarea validării
+            </p>
+            <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 15px 0;">
+            🤖 Generat automat de API SMART 5 - Auto-Validation System<br>
+            26.01.2026, 21:45:12
+        </div>
+    </div>
+</body>
+</html>

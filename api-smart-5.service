@@ -1,0 +1,23 @@
+[Unit]
+Description=API SMART 5 - Football Pattern Analyzer
+After=network.target
+
+[Service]
+Type=simple
+User=florian
+WorkingDirectory=/home/florian/API SMART 5
+ExecStart=/usr/bin/node /home/florian/API SMART 5/API-SMART-5.js full
+Restart=always
+RestartSec=10
+StandardOutput=append:/home/florian/API SMART 5/logs/service-output.log
+StandardError=append:/home/florian/API SMART 5/logs/service-error.log
+
+# Environment
+Environment="NODE_ENV=production"
+
+# Security & Resource Limits
+LimitNOFILE=4096
+Nice=0
+
+[Install]
+WantedBy=multi-user.target

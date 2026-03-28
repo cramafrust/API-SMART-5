@@ -1,0 +1,23 @@
+{
+  "leagues": {
+    "SPAIN: LaLiga__2024-2025": {
+      "discoveredIds": [
+        "fZ3ZZjGG"
+      ],
+      "discoveredMatches": {
+        "fZ3ZZjGG": {
+          "home": "Valencia",
+          "away": "Osasuna"
+        }
+      },
+      "processedIds": [
+        "fZ3ZZjGG"
+      ],
+      "failedIds": [],
+      "lastDiscovery": "2026-03-01T18:50:14.973Z",
+      "lastProcessing": "2026-03-01T18:50:16.412Z"
+    }
+  },
+  "lastRun": "2026-03-01T18:50:16.413Z",
+  "totalProcessed": 1
+}

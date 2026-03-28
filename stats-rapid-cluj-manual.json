@@ -1,0 +1,830 @@
+{
+  "matchId": "zZSLsJYI",
+  "core": {
+    "DA": "2",
+    "DZ": "2",
+    "DB": "13",
+    "DD": "1769886410",
+    "AW": "1",
+    "DC": "1769882400",
+    "DS": "0",
+    "DE": "0",
+    "DF": "0",
+    "DG": "0",
+    "DH": "0",
+    "DI": "0",
+    "DL": "1",
+    "DM": "",
+    "CO": "y",
+    "CQ": "2|5|14|16|19|21|26|28|33|38|43|46|49|141|159|160|165|169|188|199|264|293|322|335|392|406|409|411|417|419|454|467|471|498|500|516|523|539|547|549|550|574|581|591|592|604|618|619|620|623|624|625|628|638|643|645|646|647|652|653|655|656|657|659|660|661|662|663|665|707|713|741|751|759|781|813|823|825|839|841|851|863|875|879|883|895|899|905|931|933|939|941|943|945|947|961|967|973|991|995|997|1001|1003|1005|1007|1011|1027|1051|1053|1059|1077|1085|1089|1097|1113|1121|1161|1167",
+    "DX": "ST,PS,LI,PMS,OD,HH,TTS,SCR,LT,TA,TV",
+    "DEI": "https://static.flashscore.com/res/image/data/xGFfaiWg-bemxTG1b-8vn2oaqs.png",
+    "DV": "1",
+    "DT": "",
+    "SC": "623",
+    "SB": "1",
+    "SD": "Unibetro",
+    "A1": "89c13186f41fa7a785d090b5e3bdfd01"
+  },
+  "summary": [
+    {
+      "AC": "1st Half",
+      "IG": "0",
+      "IH": "0"
+    },
+    {
+      "III": "M3E984xf",
+      "IA": "1",
+      "IB": "20'",
+      "IE": "1",
+      "IF": "Hromada J.",
+      "IU": "/player/hromada-jakub/UuyeZAnc/",
+      "ICT": "",
+      "IK": "Yellow Card",
+      "IM": "UuyeZAnc",
+      "IJ": "237",
+      "IL": "misses next match"
+    },
+    {
+      "III": "CnnPlOgJ",
+      "IA": "1",
+      "IB": "41'",
+      "IE": "1",
+      "IF": "Onea R.",
+      "IU": "/player/onea-razvan/Amdi84EP/",
+      "ICT": "",
+      "IK": "Yellow Card",
+      "IM": "Amdi84EP"
+    },
+    {
+      "AC": "2nd Half",
+      "IG": "0",
+      "IH": "0"
+    },
+    {
+      "MIT": "CAP",
+      "MIV": "14 047",
+      "TA": "Arena Sport 1 (Cro), Arena Sport 2 (Bih), Arena Sport 7 (Cro), Digi Online (Rou), Digi Sport 1 (Rou), MAXtv To Go (Cro), Orange TV Go (Rou), Prima Sport 1 (Rou), Prima TV (Rou)"
+    },
+    {
+      "TVT": "Arena Sport 1 (Cro), Arena Sport 2 (Bih), Arena Sport 7 (Cro), Digi Online (Rou), Digi Sport 1 (Rou), MAXtv To Go (Cro), Orange TV Go (Rou), Prima Sport 1 (Rou), Prima TV (Rou)",
+      "TVB": "1xBet, bet365"
+    },
+    {
+      "A1": "be1fdf92a6bb49dbd7676706ceee09a3"
+    }
+  ],
+  "statsData": [
+    {
+      "SE": "Match"
+    },
+    {
+      "SF": "Top stats"
+    },
+    {
+      "SD": "432",
+      "SG": "Expected goals (xG)",
+      "SH": "0.24",
+      "SI": "0.23"
+    },
+    {
+      "SD": "12",
+      "SG": "Ball possession",
+      "SH": "47%",
+      "SI": "53%"
+    },
+    {
+      "SD": "34",
+      "SG": "Total shots",
+      "SH": "7",
+      "SI": "5"
+    },
+    {
+      "SD": "13",
+      "SG": "Shots on target",
+      "SH": "1",
+      "SI": "1"
+    },
+    {
+      "SD": "459",
+      "SG": "Big chances",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "16",
+      "SG": "Corner kicks",
+      "SH": "2",
+      "SI": "1"
+    },
+    {
+      "SD": "342",
+      "SG": "Passes",
+      "SH": "80% (171/214)",
+      "SI": "88% (225/257)"
+    },
+    {
+      "SD": "23",
+      "SG": "Yellow cards",
+      "SH": "2",
+      "SI": "0"
+    },
+    {
+      "SF": "Shots"
+    },
+    {
+      "SD": "432",
+      "SG": "Expected goals (xG)",
+      "SH": "0.24",
+      "SI": "0.23"
+    },
+    {
+      "SD": "499",
+      "SG": "xG on target (xGOT)",
+      "SH": "0.00",
+      "SI": "0.39"
+    },
+    {
+      "SD": "34",
+      "SG": "Total shots",
+      "SH": "7",
+      "SI": "5"
+    },
+    {
+      "SD": "13",
+      "SG": "Shots on target",
+      "SH": "1",
+      "SI": "1"
+    },
+    {
+      "SD": "14",
+      "SG": "Shots off target",
+      "SH": "3",
+      "SI": "3"
+    },
+    {
+      "SD": "158",
+      "SG": "Blocked shots",
+      "SH": "3",
+      "SI": "1"
+    },
+    {
+      "SD": "461",
+      "SG": "Shots inside the box",
+      "SH": "2",
+      "SI": "3"
+    },
+    {
+      "SD": "463",
+      "SG": "Shots outside the box",
+      "SH": "4",
+      "SI": "2"
+    },
+    {
+      "SD": "457",
+      "SG": "Hit the woodwork",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SF": "Attack"
+    },
+    {
+      "SD": "459",
+      "SG": "Big chances",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "16",
+      "SG": "Corner kicks",
+      "SH": "2",
+      "SI": "1"
+    },
+    {
+      "SD": "471",
+      "SG": "Touches in opposition box",
+      "SH": "6",
+      "SI": "6"
+    },
+    {
+      "SD": "521",
+      "SG": "Accurate through passes",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "17",
+      "SG": "Offsides",
+      "SH": "1",
+      "SI": "0"
+    },
+    {
+      "SD": "15",
+      "SG": "Free kicks",
+      "SH": "6",
+      "SI": "10"
+    },
+    {
+      "SF": "Passes"
+    },
+    {
+      "SD": "342",
+      "SG": "Passes",
+      "SH": "80% (171/214)",
+      "SI": "88% (225/257)"
+    },
+    {
+      "SD": "517",
+      "SG": "Long passes",
+      "SH": "48% (15/31)",
+      "SI": "68% (17/25)"
+    },
+    {
+      "SD": "467",
+      "SG": "Passes in final third",
+      "SH": "60% (41/68)",
+      "SI": "80% (37/46)"
+    },
+    {
+      "SD": "433",
+      "SG": "Crosses",
+      "SH": "6% (1/17)",
+      "SI": "40% (2/5)"
+    },
+    {
+      "SD": "503",
+      "SG": "Expected assists (xA)",
+      "SH": "0.18",
+      "SI": "0.19"
+    },
+    {
+      "SD": "18",
+      "SG": "Throw ins",
+      "SH": "11",
+      "SI": "16"
+    },
+    {
+      "SF": "Defense"
+    },
+    {
+      "SD": "21",
+      "SG": "Fouls",
+      "SH": "10",
+      "SI": "6"
+    },
+    {
+      "SD": "475",
+      "SG": "Tackles",
+      "SH": "50% (7/14)",
+      "SI": "86% (6/7)"
+    },
+    {
+      "SD": "513",
+      "SG": "Duels won",
+      "SH": "27",
+      "SI": "31"
+    },
+    {
+      "SD": "479",
+      "SG": "Clearances",
+      "SH": "6",
+      "SI": "18"
+    },
+    {
+      "SD": "434",
+      "SG": "Interceptions",
+      "SH": "4",
+      "SI": "3"
+    },
+    {
+      "SD": "507",
+      "SG": "Errors leading to shot",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "509",
+      "SG": "Errors leading to goal",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SF": "Goalkeeping"
+    },
+    {
+      "SD": "19",
+      "SG": "Goalkeeper saves",
+      "SH": "1",
+      "SI": "1"
+    },
+    {
+      "SD": "501",
+      "SG": "xGOT faced",
+      "SH": "0.39",
+      "SI": "0.00"
+    },
+    {
+      "SD": "511",
+      "SG": "Goals prevented",
+      "SH": "0.39",
+      "SI": "0.00"
+    },
+    {
+      "SE": "1st Half"
+    },
+    {
+      "SF": "Top stats"
+    },
+    {
+      "SD": "432",
+      "SG": "Expected goals (xG)",
+      "SH": "0.24",
+      "SI": "0.23"
+    },
+    {
+      "SD": "12",
+      "SG": "Ball possession",
+      "SH": "46%",
+      "SI": "54%"
+    },
+    {
+      "SD": "34",
+      "SG": "Total shots",
+      "SH": "6",
+      "SI": "5"
+    },
+    {
+      "SD": "13",
+      "SG": "Shots on target",
+      "SH": "0",
+      "SI": "1"
+    },
+    {
+      "SD": "459",
+      "SG": "Big chances",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "16",
+      "SG": "Corner kicks",
+      "SH": "2",
+      "SI": "1"
+    },
+    {
+      "SD": "342",
+      "SG": "Passes",
+      "SH": "80% (157/196)",
+      "SI": "88% (213/242)"
+    },
+    {
+      "SD": "23",
+      "SG": "Yellow cards",
+      "SH": "2",
+      "SI": "0"
+    },
+    {
+      "SF": "Shots"
+    },
+    {
+      "SD": "432",
+      "SG": "Expected goals (xG)",
+      "SH": "0.24",
+      "SI": "0.23"
+    },
+    {
+      "SD": "499",
+      "SG": "xG on target (xGOT)",
+      "SH": "0.00",
+      "SI": "0.39"
+    },
+    {
+      "SD": "34",
+      "SG": "Total shots",
+      "SH": "6",
+      "SI": "5"
+    },
+    {
+      "SD": "13",
+      "SG": "Shots on target",
+      "SH": "0",
+      "SI": "1"
+    },
+    {
+      "SD": "14",
+      "SG": "Shots off target",
+      "SH": "3",
+      "SI": "3"
+    },
+    {
+      "SD": "158",
+      "SG": "Blocked shots",
+      "SH": "3",
+      "SI": "1"
+    },
+    {
+      "SD": "461",
+      "SG": "Shots inside the box",
+      "SH": "2",
+      "SI": "3"
+    },
+    {
+      "SD": "463",
+      "SG": "Shots outside the box",
+      "SH": "4",
+      "SI": "2"
+    },
+    {
+      "SD": "457",
+      "SG": "Hit the woodwork",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SF": "Attack"
+    },
+    {
+      "SD": "459",
+      "SG": "Big chances",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "16",
+      "SG": "Corner kicks",
+      "SH": "2",
+      "SI": "1"
+    },
+    {
+      "SD": "471",
+      "SG": "Touches in opposition box",
+      "SH": "6",
+      "SI": "6"
+    },
+    {
+      "SD": "521",
+      "SG": "Accurate through passes",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "17",
+      "SG": "Offsides",
+      "SH": "1",
+      "SI": "0"
+    },
+    {
+      "SD": "15",
+      "SG": "Free kicks",
+      "SH": "5",
+      "SI": "9"
+    },
+    {
+      "SF": "Passes"
+    },
+    {
+      "SD": "342",
+      "SG": "Passes",
+      "SH": "80% (157/196)",
+      "SI": "88% (213/242)"
+    },
+    {
+      "SD": "517",
+      "SG": "Long passes",
+      "SH": "52% (14/27)",
+      "SI": "67% (16/24)"
+    },
+    {
+      "SD": "467",
+      "SG": "Passes in final third",
+      "SH": "61% (40/66)",
+      "SI": "85% (34/40)"
+    },
+    {
+      "SD": "433",
+      "SG": "Crosses",
+      "SH": "7% (1/15)",
+      "SI": "40% (2/5)"
+    },
+    {
+      "SD": "503",
+      "SG": "Expected assists (xA)",
+      "SH": "0.17",
+      "SI": "0.18"
+    },
+    {
+      "SD": "18",
+      "SG": "Throw ins",
+      "SH": "9",
+      "SI": "15"
+    },
+    {
+      "SF": "Defense"
+    },
+    {
+      "SD": "21",
+      "SG": "Fouls",
+      "SH": "9",
+      "SI": "5"
+    },
+    {
+      "SD": "475",
+      "SG": "Tackles",
+      "SH": "50% (7/14)",
+      "SI": "83% (5/6)"
+    },
+    {
+      "SD": "513",
+      "SG": "Duels won",
+      "SH": "26",
+      "SI": "28"
+    },
+    {
+      "SD": "479",
+      "SG": "Clearances",
+      "SH": "5",
+      "SI": "17"
+    },
+    {
+      "SD": "434",
+      "SG": "Interceptions",
+      "SH": "4",
+      "SI": "2"
+    },
+    {
+      "SD": "507",
+      "SG": "Errors leading to shot",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "509",
+      "SG": "Errors leading to goal",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SF": "Goalkeeping"
+    },
+    {
+      "SD": "19",
+      "SG": "Goalkeeper saves",
+      "SH": "1",
+      "SI": "0"
+    },
+    {
+      "SD": "501",
+      "SG": "xGOT faced",
+      "SH": "0.39",
+      "SI": "0.00"
+    },
+    {
+      "SD": "511",
+      "SG": "Goals prevented",
+      "SH": "0.39",
+      "SI": "0.00"
+    },
+    {
+      "SE": "2nd Half"
+    },
+    {
+      "SF": "Top stats"
+    },
+    {
+      "SD": "432",
+      "SG": "Expected goals (xG)",
+      "SH": "0.00",
+      "SI": "0.00"
+    },
+    {
+      "SD": "12",
+      "SG": "Ball possession",
+      "SH": "58%",
+      "SI": "42%"
+    },
+    {
+      "SD": "34",
+      "SG": "Total shots",
+      "SH": "1",
+      "SI": "0"
+    },
+    {
+      "SD": "13",
+      "SG": "Shots on target",
+      "SH": "1",
+      "SI": "0"
+    },
+    {
+      "SD": "459",
+      "SG": "Big chances",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "16",
+      "SG": "Corner kicks",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "342",
+      "SG": "Passes",
+      "SH": "78% (14/18)",
+      "SI": "80% (12/15)"
+    },
+    {
+      "SF": "Shots"
+    },
+    {
+      "SD": "432",
+      "SG": "Expected goals (xG)",
+      "SH": "0.00",
+      "SI": "0.00"
+    },
+    {
+      "SD": "499",
+      "SG": "xG on target (xGOT)",
+      "SH": "0.00",
+      "SI": "0.00"
+    },
+    {
+      "SD": "34",
+      "SG": "Total shots",
+      "SH": "1",
+      "SI": "0"
+    },
+    {
+      "SD": "13",
+      "SG": "Shots on target",
+      "SH": "1",
+      "SI": "0"
+    },
+    {
+      "SD": "14",
+      "SG": "Shots off target",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "158",
+      "SG": "Blocked shots",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "461",
+      "SG": "Shots inside the box",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "463",
+      "SG": "Shots outside the box",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "457",
+      "SG": "Hit the woodwork",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SF": "Attack"
+    },
+    {
+      "SD": "459",
+      "SG": "Big chances",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "16",
+      "SG": "Corner kicks",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "471",
+      "SG": "Touches in opposition box",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "521",
+      "SG": "Accurate through passes",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "17",
+      "SG": "Offsides",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "15",
+      "SG": "Free kicks",
+      "SH": "1",
+      "SI": "1"
+    },
+    {
+      "SF": "Passes"
+    },
+    {
+      "SD": "342",
+      "SG": "Passes",
+      "SH": "78% (14/18)",
+      "SI": "80% (12/15)"
+    },
+    {
+      "SD": "517",
+      "SG": "Long passes",
+      "SH": "25% (1/4)",
+      "SI": "100% (1/1)"
+    },
+    {
+      "SD": "467",
+      "SG": "Passes in final third",
+      "SH": "50% (1/2)",
+      "SI": "50% (3/6)"
+    },
+    {
+      "SD": "503",
+      "SG": "Expected assists (xA)",
+      "SH": "0.01",
+      "SI": "0.01"
+    },
+    {
+      "SD": "18",
+      "SG": "Throw ins",
+      "SH": "2",
+      "SI": "1"
+    },
+    {
+      "SF": "Defense"
+    },
+    {
+      "SD": "21",
+      "SG": "Fouls",
+      "SH": "1",
+      "SI": "1"
+    },
+    {
+      "SD": "513",
+      "SG": "Duels won",
+      "SH": "1",
+      "SI": "3"
+    },
+    {
+      "SD": "479",
+      "SG": "Clearances",
+      "SH": "1",
+      "SI": "1"
+    },
+    {
+      "SD": "434",
+      "SG": "Interceptions",
+      "SH": "0",
+      "SI": "1"
+    },
+    {
+      "SD": "507",
+      "SG": "Errors leading to shot",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SD": "509",
+      "SG": "Errors leading to goal",
+      "SH": "0",
+      "SI": "0"
+    },
+    {
+      "SF": "Goalkeeping"
+    },
+    {
+      "SD": "19",
+      "SG": "Goalkeeper saves",
+      "SH": "0",
+      "SI": "1"
+    },
+    {
+      "SD": "501",
+      "SG": "xGOT faced",
+      "SH": "0.00",
+      "SI": "0.00"
+    },
+    {
+      "SD": "511",
+      "SG": "Goals prevented",
+      "SH": "0.00",
+      "SI": "0.00"
+    },
+    {
+      "A1": "936d04e72651b1c8a60a7966e0699327"
+    }
+  ],
+  "timestamp": 1769886725196
+}

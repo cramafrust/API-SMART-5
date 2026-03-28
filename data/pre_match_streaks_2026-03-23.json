@@ -1,0 +1,238 @@
+{
+  "_meta": {
+    "generatedAt": "2026-03-23T06:07:16.260Z",
+    "date": "23.03.2026",
+    "totalMatches": 7,
+    "totalAlerts": 16
+  },
+  "matches": {
+    "r1DNXnig": {
+      "matchId": "r1DNXnig",
+      "homeTeam": "San Diego FC",
+      "awayTeam": "Real Salt Lake",
+      "liga": "USA: MLS",
+      "ora": "01:00",
+      "timestamp": 1774220400,
+      "alerts": [
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "San Diego FC",
+          "side": "gazda",
+          "streak": 5,
+          "success": 445,
+          "total": 542,
+          "rate": 82.1,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "San Diego FC a avut 4+ șuturi pe poartă în 5 meciuri la rând → prob. 3+ — în 542 cazuri similare istorice, s-a întâmplat de 445 ori (82.1% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER",
+          "team": "Real Salt Lake",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1110,
+          "total": 1414,
+          "rate": 78.5,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Real Salt Lake meciurile au avut 3+ goluri în 3 meciuri la rând → prob. 2+ goluri — în 1414 cazuri similare istorice, s-a întâmplat de 1110 ori (78.5% reușită)"
+        },
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Real Salt Lake",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 515,
+          "total": 664,
+          "rate": 77.6,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Real Salt Lake a marcat 2+ goluri în 3 meciuri la rând → prob. să marcheze 1+ gol — în 664 cazuri similare istorice, s-a întâmplat de 515 ori (77.6% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Real Salt Lake",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1677,
+          "total": 2191,
+          "rate": 76.5,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Real Salt Lake a primit gol în 3 meciuri la rând → prob. să primească gol — în 2191 cazuri similare istorice, s-a întâmplat de 1677 ori (76.5% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Real Salt Lake",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1167,
+          "total": 1552,
+          "rate": 75.2,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Real Salt Lake a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 1552 cazuri similare istorice, s-a întâmplat de 1167 ori (75.2% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "San Diego FC",
+          "side": "gazda",
+          "streak": 7,
+          "success": 403,
+          "total": 552,
+          "rate": 73,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "San Diego FC a marcat în 7 meciuri la rând → prob. să marcheze și acum — în 552 cazuri similare istorice, s-a întâmplat de 403 ori (73% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "San Diego FC",
+          "side": "gazda",
+          "streak": 7,
+          "success": 432,
+          "total": 601,
+          "rate": 71.9,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "San Diego FC a comis 10+ faulturi în 7 meciuri la rând → prob. 11+ faulturi — în 601 cazuri similare istorice, s-a întâmplat de 432 ori (71.9% reușită)"
+        },
+        {
+          "patternId": "S19",
+          "category": "FAULTURI",
+          "team": "San Diego FC",
+          "side": "gazda",
+          "streak": 7,
+          "success": 432,
+          "total": 601,
+          "rate": 71.9,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "San Diego FC a comis 10+ faulturi în 7 meciuri la rând → prob. 11+ faulturi — în 601 cazuri similare istorice, s-a întâmplat de 432 ori (71.9% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Real Salt Lake",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1233,
+          "total": 1820,
+          "rate": 67.7,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Real Salt Lake a tras 10+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 1820 cazuri similare istorice, s-a întâmplat de 1233 ori (67.7% reușită)"
+        },
+        {
+          "patternId": "S11",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "San Diego FC",
+          "side": "gazda",
+          "streak": 5,
+          "success": 347,
+          "total": 542,
+          "rate": 64,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "San Diego FC a avut 4+ șuturi pe poartă în 5 meciuri la rând → prob. 4+ — în 542 cazuri similare istorice, s-a întâmplat de 347 ori (64% reușită)"
+        },
+        {
+          "patternId": "S11",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Real Salt Lake",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 932,
+          "total": 1552,
+          "rate": 60.1,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Real Salt Lake a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 4+ — în 1552 cazuri similare istorice, s-a întâmplat de 932 ori (60.1% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "San Diego FC",
+          "side": "gazda",
+          "streak": 3,
+          "success": 439,
+          "total": 951,
+          "rate": 46.2,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "San Diego FC a marcat în R1 în 3 meciuri la rând → prob. să marcheze în R1 — în 951 cazuri similare istorice, s-a întâmplat de 439 ori (46.2% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Real Salt Lake",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 439,
+          "total": 951,
+          "rate": 46.2,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Real Salt Lake a marcat în R1 în 3 meciuri la rând → prob. să marcheze în R1 — în 951 cazuri similare istorice, s-a întâmplat de 439 ori (46.2% reușită)"
+        }
+      ]
+    },
+    "lpj5NwHO": {
+      "matchId": "lpj5NwHO",
+      "homeTeam": "Unirea Slobozia",
+      "awayTeam": "Otelul",
+      "liga": "ROMANIA: Superliga - Relegation Group",
+      "ora": "20:30",
+      "timestamp": 1774290600,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Otelul",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 8,
+          "total": 10,
+          "rate": 80,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Otelul a luat 2+ cartonașe în 7 meciuri la rând → prob. 1+ cartonaș — în 10 cazuri similare istorice, s-a întâmplat de 8 ori (80% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Otelul",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 13,
+          "total": 21,
+          "rate": 61.9,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Otelul a primit gol în 7 meciuri la rând → prob. să primească gol — în 21 cazuri similare istorice, s-a întâmplat de 13 ori (61.9% reușită)"
+        },
+        {
+          "patternId": "S21",
+          "category": "CARTONAȘE",
+          "team": "Otelul",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 3,
+          "total": 10,
+          "rate": 30,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Otelul a luat 2+ cartonașe în 7 meciuri la rând → prob. 2+ cartonașe — în 10 cazuri similare istorice, s-a întâmplat de 3 ori (30% reușită)"
+        }
+      ]
+    }
+  }
+}

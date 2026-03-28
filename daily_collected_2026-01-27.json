@@ -1,0 +1,487 @@
+{
+  "date": "2026-01-27",
+  "generated": "2026-01-28T09:00:25.716Z",
+  "totalMatches": 5,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Beerschot VA",
+        "awayTeam": "Seraing",
+        "date": "27.01.2026, 21:00",
+        "league": "BELGIUM: Challenger Pro League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 4,
+        "awayPositionBefore": 13,
+        "homeTier": "TOP_1-5",
+        "awayTier": "LOW_11-14"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Beerschot VA",
+          "away": "Seraing"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "9",
+            "Shots on target": "2",
+            "Shots off target": "6",
+            "Offsides": "3",
+            "Fouls": "3"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Fouls": "8"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Beerschot VA",
+          "away": "Seraing"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "25",
+            "Shots on target": "8",
+            "Shots off target": "11",
+            "Offsides": "6",
+            "Fouls": "5"
+          },
+          "away": {
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Fouls": "21"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Beerschot VA",
+          "away": "Seraing"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "16",
+            "Shots on target": "6",
+            "Shots off target": "5",
+            "Offsides": "3",
+            "Fouls": "2"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "0",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Fouls": "13"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "GUZbD0ME",
+        "extractedAt": "2026-01-28T09:00:07.651Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Eupen",
+        "awayTeam": "Sporting Lokeren",
+        "date": "27.01.2026, 21:00",
+        "league": "BELGIUM: Challenger Pro League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 7,
+        "awayPositionBefore": 9,
+        "homeTier": "MID_6-10",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Eupen",
+          "away": "Sporting Lokeren"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "5",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "6",
+            "Shots on target": "3",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Fouls": "3"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Eupen",
+          "away": "Sporting Lokeren"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "12",
+            "Shots on target": "6",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Fouls": "19"
+          },
+          "away": {
+            "Total shots": "20",
+            "Shots on target": "7",
+            "Shots off target": "7",
+            "Offsides": "1",
+            "Fouls": "7"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Eupen",
+          "away": "Sporting Lokeren"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Fouls": "10"
+          },
+          "away": {
+            "Total shots": "14",
+            "Shots on target": "4",
+            "Shots off target": "6",
+            "Offsides": "1",
+            "Fouls": "4"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "EPHo4dq1",
+        "extractedAt": "2026-01-28T09:00:11.112Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Patro Eisden",
+        "awayTeam": "OC Charleroi",
+        "date": "27.01.2026, 21:00",
+        "league": "BELGIUM: Challenger Pro League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 5,
+        "awayPositionBefore": 17,
+        "homeTier": "TOP_1-5",
+        "awayTier": "BOTTOM_15-18"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Patro Eisden",
+          "away": "OC Charleroi"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Fouls": "4"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Patro Eisden",
+          "away": "OC Charleroi"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "9",
+            "Shots on target": "2",
+            "Shots off target": "5",
+            "Offsides": "3",
+            "Fouls": "15"
+          },
+          "away": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "5",
+            "Offsides": "2",
+            "Fouls": "12"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Patro Eisden",
+          "away": "OC Charleroi"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "8"
+          },
+          "away": {
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Fouls": "8"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "0MiCkcU7",
+        "extractedAt": "2026-01-28T09:00:14.536Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "RFC Liege",
+        "awayTeam": "Lommel SK",
+        "date": "27.01.2026, 21:00",
+        "league": "BELGIUM: Challenger Pro League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 6,
+        "awayPositionBefore": 3,
+        "homeTier": "MID_6-10",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "RFC Liege",
+          "away": "Lommel SK"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Fouls": "2"
+          },
+          "away": {
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Fouls": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "RFC Liege",
+          "away": "Lommel SK"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "12",
+            "Shots on target": "2",
+            "Shots off target": "5",
+            "Offsides": "4",
+            "Fouls": "9"
+          },
+          "away": {
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "12"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "RFC Liege",
+          "away": "Lommel SK"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Shots off target": "3",
+            "Offsides": "3",
+            "Fouls": "7"
+          },
+          "away": {
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "10"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "Sfv5iJae",
+        "extractedAt": "2026-01-28T09:00:18.063Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "St. Pauli",
+        "awayTeam": "RB Leipzig",
+        "date": "27.01.2026, 21:30",
+        "league": "GERMANY: Bundesliga",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 17,
+        "awayPositionBefore": 4,
+        "homeTier": "BOTTOM_16-18",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "St. Pauli",
+          "away": "RB Leipzig"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "2",
+            "Shots on target": "0",
+            "Shots off target": "1",
+            "Offsides": "3",
+            "Fouls": "3"
+          },
+          "away": {
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Fouls": "3"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "St. Pauli",
+          "away": "RB Leipzig"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Shots off target": "3",
+            "Offsides": "5",
+            "Fouls": "6"
+          },
+          "away": {
+            "Total shots": "12",
+            "Shots on target": "5",
+            "Shots off target": "5",
+            "Offsides": "3",
+            "Fouls": "8"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "St. Pauli",
+          "away": "RB Leipzig"
+        },
+        "statistics": {
+          "home": {
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Fouls": "3"
+          },
+          "away": {
+            "Total shots": "4",
+            "Shots on target": "3",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Fouls": "5"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "ObDLNPCO",
+        "extractedAt": "2026-01-28T09:00:25.706Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

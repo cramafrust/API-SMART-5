@@ -1,0 +1,1524 @@
+{
+  "version": "1.0",
+  "lastCalibration": "2026-01-29T22:52:03.695Z",
+  "calibrations": [
+    {
+      "date": "2026-01-29T22:52:03.695Z",
+      "adjustments": [
+        {
+          "pattern": "PATTERN_7.2.1",
+          "tier": "TOP",
+          "samples": 750,
+          "successRate": 49,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.0",
+          "tier": "BOTTOM",
+          "samples": 736,
+          "successRate": 59,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.0",
+          "tier": "TOP",
+          "samples": 510,
+          "successRate": 59,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.1",
+          "tier": "TOP",
+          "samples": 504,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.1",
+          "tier": "BOTTOM",
+          "samples": 489,
+          "successRate": 62,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.1",
+          "tier": "BOTTOM",
+          "samples": 457,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.2",
+          "tier": "TOP",
+          "samples": 445,
+          "successRate": 49,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.1",
+          "tier": "TOP",
+          "samples": 445,
+          "successRate": 49,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.2",
+          "tier": "TOP",
+          "samples": 445,
+          "successRate": 49,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.0",
+          "tier": "BOTTOM",
+          "samples": 388,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.1",
+          "tier": "TOP",
+          "samples": 346,
+          "successRate": 61,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.2",
+          "tier": "TOP",
+          "samples": 321,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.1",
+          "tier": "TOP",
+          "samples": 321,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.2",
+          "tier": "TOP",
+          "samples": 321,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.1",
+          "tier": "BOTTOM",
+          "samples": 313,
+          "successRate": 56,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.1",
+          "tier": "MID",
+          "samples": 306,
+          "successRate": 46,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.2",
+          "tier": "BOTTOM",
+          "samples": 301,
+          "successRate": 62,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.1",
+          "tier": "TOP",
+          "samples": 289,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.0",
+          "tier": "TOP",
+          "samples": 265,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.2",
+          "tier": "BOTTOM",
+          "samples": 265,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.1",
+          "tier": "BOTTOM",
+          "samples": 265,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.2",
+          "tier": "BOTTOM",
+          "samples": 265,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.0",
+          "tier": "MID",
+          "samples": 234,
+          "successRate": 54,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.2",
+          "tier": "TOP",
+          "samples": 232,
+          "successRate": 61,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.3",
+          "tier": "TOP",
+          "samples": 218,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.3",
+          "tier": "TOP",
+          "samples": 218,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.1.3",
+          "tier": "TOP",
+          "samples": 218,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.2.3",
+          "tier": "TOP",
+          "samples": 218,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.3.3",
+          "tier": "TOP",
+          "samples": 218,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.3",
+          "tier": "TOP",
+          "samples": 214,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.1",
+          "tier": "MID",
+          "samples": 208,
+          "successRate": 46,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.3",
+          "tier": "BOTTOM",
+          "samples": 202,
+          "successRate": 83,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.2",
+          "tier": "BOTTOM",
+          "samples": 196,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.1",
+          "tier": "BOTTOM",
+          "samples": 196,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.2",
+          "tier": "BOTTOM",
+          "samples": 196,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.2",
+          "tier": "TOP",
+          "samples": 192,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.1",
+          "tier": "TOP",
+          "samples": 192,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.2",
+          "tier": "TOP",
+          "samples": 192,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.5",
+          "tier": "TOP",
+          "samples": 190,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.5",
+          "tier": "BOTTOM",
+          "samples": 185,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.2",
+          "tier": "MID",
+          "samples": 177,
+          "successRate": 49,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.1",
+          "tier": "MID",
+          "samples": 177,
+          "successRate": 49,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.2",
+          "tier": "MID",
+          "samples": 177,
+          "successRate": 49,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.1",
+          "tier": "BOTTOM",
+          "samples": 175,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.3",
+          "tier": "BOTTOM",
+          "samples": 173,
+          "successRate": 69,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.1",
+          "tier": "MID",
+          "samples": 167,
+          "successRate": 56,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.1",
+          "tier": "TOP",
+          "samples": 161,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.3",
+          "tier": "TOP",
+          "samples": 160,
+          "successRate": 54,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.3",
+          "tier": "TOP",
+          "samples": 160,
+          "successRate": 54,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.1.3",
+          "tier": "TOP",
+          "samples": 160,
+          "successRate": 54,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.2.3",
+          "tier": "TOP",
+          "samples": 160,
+          "successRate": 54,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.3.3",
+          "tier": "TOP",
+          "samples": 160,
+          "successRate": 54,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.3",
+          "tier": "TOP",
+          "samples": 137,
+          "successRate": 64,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.1",
+          "tier": "BOTTOM",
+          "samples": 136,
+          "successRate": 62,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.3",
+          "tier": "BOTTOM",
+          "samples": 128,
+          "successRate": 59,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.3",
+          "tier": "BOTTOM",
+          "samples": 128,
+          "successRate": 59,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.1.3",
+          "tier": "BOTTOM",
+          "samples": 128,
+          "successRate": 59,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.2.3",
+          "tier": "BOTTOM",
+          "samples": 128,
+          "successRate": 59,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.3.3",
+          "tier": "BOTTOM",
+          "samples": 128,
+          "successRate": 59,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.1",
+          "tier": "MID",
+          "samples": 126,
+          "successRate": 48,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.0",
+          "tier": "UNKNOWN",
+          "samples": 123,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.2",
+          "tier": "MID",
+          "samples": 123,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.1",
+          "tier": "MID",
+          "samples": 123,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.2",
+          "tier": "MID",
+          "samples": 123,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.2",
+          "tier": "BOTTOM",
+          "samples": 117,
+          "successRate": 62,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.1",
+          "tier": "BOTTOM",
+          "samples": 117,
+          "successRate": 62,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.2",
+          "tier": "BOTTOM",
+          "samples": 117,
+          "successRate": 62,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.3",
+          "tier": "TOP",
+          "samples": 112,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.3",
+          "tier": "TOP",
+          "samples": 112,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.1.3",
+          "tier": "TOP",
+          "samples": 112,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.2.3",
+          "tier": "TOP",
+          "samples": 112,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.3.3",
+          "tier": "TOP",
+          "samples": 112,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.1",
+          "tier": "TOP",
+          "samples": 111,
+          "successRate": 54,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.2",
+          "tier": "TOP",
+          "samples": 108,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.1",
+          "tier": "TOP",
+          "samples": 108,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.2",
+          "tier": "TOP",
+          "samples": 108,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.0",
+          "tier": "MID",
+          "samples": 104,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.1",
+          "tier": "BOTTOM",
+          "samples": 100,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.3",
+          "tier": "BOTTOM",
+          "samples": 97,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.3",
+          "tier": "BOTTOM",
+          "samples": 97,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.1.3",
+          "tier": "BOTTOM",
+          "samples": 97,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.2.3",
+          "tier": "BOTTOM",
+          "samples": 97,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.3.3",
+          "tier": "BOTTOM",
+          "samples": 97,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.6",
+          "tier": "TOP",
+          "samples": 97,
+          "successRate": 61,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.2",
+          "tier": "MID",
+          "samples": 96,
+          "successRate": 61,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.4",
+          "tier": "BOTTOM",
+          "samples": 92,
+          "successRate": 72,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.6",
+          "tier": "BOTTOM",
+          "samples": 89,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.4",
+          "tier": "TOP",
+          "samples": 83,
+          "successRate": 48,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.1",
+          "tier": "UNKNOWN",
+          "samples": 80,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.3",
+          "tier": "MID",
+          "samples": 80,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.2",
+          "tier": "MID",
+          "samples": 80,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.1",
+          "tier": "MID",
+          "samples": 80,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.2",
+          "tier": "MID",
+          "samples": 80,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.3",
+          "tier": "MID",
+          "samples": 80,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.1.3",
+          "tier": "MID",
+          "samples": 80,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.2.3",
+          "tier": "MID",
+          "samples": 80,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.2.3.3",
+          "tier": "MID",
+          "samples": 80,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.3",
+          "tier": "MID",
+          "samples": 77,
+          "successRate": 61,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.5",
+          "tier": "MID",
+          "samples": 70,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.2",
+          "tier": "BOTTOM",
+          "samples": 69,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.1",
+          "tier": "BOTTOM",
+          "samples": 69,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.2",
+          "tier": "BOTTOM",
+          "samples": 69,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.3",
+          "tier": "TOP",
+          "samples": 67,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.3",
+          "tier": "TOP",
+          "samples": 67,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.1.3",
+          "tier": "TOP",
+          "samples": 67,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.2.3",
+          "tier": "TOP",
+          "samples": 67,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.3.3",
+          "tier": "TOP",
+          "samples": 67,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.4",
+          "tier": "TOP",
+          "samples": 65,
+          "successRate": 68,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.3",
+          "tier": "BOTTOM",
+          "samples": 65,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.3",
+          "tier": "BOTTOM",
+          "samples": 65,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.1.3",
+          "tier": "BOTTOM",
+          "samples": 65,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.2.3",
+          "tier": "BOTTOM",
+          "samples": 65,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.3.3",
+          "tier": "BOTTOM",
+          "samples": 65,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.3",
+          "tier": "MID",
+          "samples": 59,
+          "successRate": 63,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.1",
+          "tier": "MID",
+          "samples": 58,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.0",
+          "tier": "UNKNOWN",
+          "samples": 57,
+          "successRate": 54,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.3",
+          "tier": "MID",
+          "samples": 55,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.3",
+          "tier": "MID",
+          "samples": 55,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.1.3",
+          "tier": "MID",
+          "samples": 55,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.2.3",
+          "tier": "MID",
+          "samples": 55,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.3.3.3",
+          "tier": "MID",
+          "samples": 55,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.4",
+          "tier": "BOTTOM",
+          "samples": 55,
+          "successRate": 75,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.2",
+          "tier": "BOTTOM",
+          "samples": 52,
+          "successRate": 65,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.5",
+          "tier": "BOTTOM",
+          "samples": 52,
+          "successRate": 79,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.2",
+          "tier": "TOP",
+          "samples": 46,
+          "successRate": 59,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.2",
+          "tier": "UNKNOWN",
+          "samples": 46,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.6",
+          "tier": "MID",
+          "samples": 45,
+          "successRate": 56,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.3",
+          "tier": "BOTTOM",
+          "samples": 42,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.3",
+          "tier": "BOTTOM",
+          "samples": 42,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.1.3",
+          "tier": "BOTTOM",
+          "samples": 42,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.2.3",
+          "tier": "BOTTOM",
+          "samples": 42,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.3.3",
+          "tier": "BOTTOM",
+          "samples": 42,
+          "successRate": 57,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.7",
+          "tier": "TOP",
+          "samples": 42,
+          "successRate": 76,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.3",
+          "tier": "UNKNOWN",
+          "samples": 40,
+          "successRate": 68,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.2",
+          "tier": "MID",
+          "samples": 38,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.1",
+          "tier": "MID",
+          "samples": 38,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.2",
+          "tier": "MID",
+          "samples": 38,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.4.3",
+          "tier": "MID",
+          "samples": 37,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.3",
+          "tier": "MID",
+          "samples": 37,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.1.3",
+          "tier": "MID",
+          "samples": 37,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.2.3",
+          "tier": "MID",
+          "samples": 37,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.4.3.3",
+          "tier": "MID",
+          "samples": 37,
+          "successRate": 51,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.1",
+          "tier": "MID",
+          "samples": 36,
+          "successRate": 50,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.5",
+          "tier": "TOP",
+          "samples": 36,
+          "successRate": 67,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.7",
+          "tier": "BOTTOM",
+          "samples": 33,
+          "successRate": 55,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.5",
+          "tier": "UNKNOWN",
+          "samples": 32,
+          "successRate": 63,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.4",
+          "tier": "MID",
+          "samples": 31,
+          "successRate": 71,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.4",
+          "tier": "MID",
+          "samples": 30,
+          "successRate": 43,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.5+",
+          "tier": "BOTTOM",
+          "samples": 26,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.3",
+          "tier": "UNKNOWN",
+          "samples": 25,
+          "successRate": 56,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.1",
+          "tier": "UNKNOWN",
+          "samples": 24,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.5",
+          "tier": "MID",
+          "samples": 21,
+          "successRate": 71,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.5.3",
+          "tier": "MID",
+          "samples": 20,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.3",
+          "tier": "MID",
+          "samples": 20,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.1.3",
+          "tier": "MID",
+          "samples": 20,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.2.3",
+          "tier": "MID",
+          "samples": 20,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_8.5.3.3",
+          "tier": "MID",
+          "samples": 20,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.8",
+          "tier": "TOP",
+          "samples": 20,
+          "successRate": 80,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.6",
+          "tier": "UNKNOWN",
+          "samples": 17,
+          "successRate": 76,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.8",
+          "tier": "BOTTOM",
+          "samples": 17,
+          "successRate": 47,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.3",
+          "tier": "TOP",
+          "samples": 16,
+          "successRate": 63,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_1.3",
+          "tier": "BOTTOM",
+          "samples": 16,
+          "successRate": 69,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.7",
+          "tier": "MID",
+          "samples": 15,
+          "successRate": 53,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.2.1",
+          "tier": "UNKNOWN",
+          "samples": 14,
+          "successRate": 29,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_2.4",
+          "tier": "UNKNOWN",
+          "samples": 12,
+          "successRate": 67,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_3.4",
+          "tier": "UNKNOWN",
+          "samples": 12,
+          "successRate": 58,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_7.3.1",
+          "tier": "UNKNOWN",
+          "samples": 11,
+          "successRate": 18,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        },
+        {
+          "pattern": "PATTERN_4.7",
+          "tier": "UNKNOWN",
+          "samples": 10,
+          "successRate": 60,
+          "oldProbability": 0,
+          "newProbability": 50,
+          "adjustment": 15
+        }
+      ]
+    }
+  ],
+  "patterns": {}
+}

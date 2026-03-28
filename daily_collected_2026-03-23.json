@@ -1,0 +1,1021 @@
+{
+  "date": "2026-03-23",
+  "generated": "2026-03-24T09:00:58.050Z",
+  "totalMatches": 7,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Boca Juniors",
+        "awayTeam": "Instituto",
+        "date": "23.03.2026, 01:00",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Boca Juniors",
+          "away": "Instituto"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.05",
+            "Ball Possession": "75",
+            "Total shots": "12",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "0",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "9",
+            "Fouls": "2",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.55",
+            "Ball Possession": "25",
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "2",
+            "Throw ins": "2",
+            "Fouls": "5",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Boca Juniors",
+          "away": "Instituto"
+        },
+        "score": {
+          "home": "2",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.14",
+            "Ball Possession": "69",
+            "Total shots": "18",
+            "Shots on target": "5",
+            "Big Chances": "4",
+            "Corner Kicks": "7",
+            "Yellow Cards": "0",
+            "Shots off target": "7",
+            "Offsides": "1",
+            "Free Kicks": "10",
+            "Throw ins": "20",
+            "Fouls": "3",
+            "Goalkeeper Saves": "5"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.15",
+            "Ball Possession": "31",
+            "Total shots": "13",
+            "Shots on target": "5",
+            "Big Chances": "2",
+            "Corner Kicks": "6",
+            "Yellow Cards": "2",
+            "Shots off target": "6",
+            "Offsides": "2",
+            "Free Kicks": "3",
+            "Throw ins": "12",
+            "Fouls": "10",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Boca Juniors",
+          "away": "Instituto"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.09",
+            "Ball Possession": "59",
+            "Total shots": "6",
+            "Shots on target": "2",
+            "Big Chances": "3",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "5",
+            "Throw ins": "11",
+            "Fouls": "1",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.60",
+            "Ball Possession": "41",
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Free Kicks": "1",
+            "Throw ins": "10",
+            "Fouls": "5",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "8fTKk7N7",
+        "extractedAt": "2026-03-24T09:00:15.367Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "San Diego FC",
+        "awayTeam": "Real Salt Lake",
+        "date": "23.03.2026, 01:00",
+        "league": "USA: MLS",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 4,
+        "awayPositionBefore": 6,
+        "homeTier": "MID_6-10",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "San Diego FC",
+          "away": "Real Salt Lake"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.27",
+            "Ball Possession": "72",
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "0",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "4",
+            "Throw ins": "12",
+            "Fouls": "6",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.92",
+            "Ball Possession": "28",
+            "Total shots": "10",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Free Kicks": "6",
+            "Throw ins": "4",
+            "Fouls": "4",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "San Diego FC",
+          "away": "Real Salt Lake"
+        },
+        "score": {
+          "home": "2",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.77",
+            "Ball Possession": "59",
+            "Total shots": "15",
+            "Shots on target": "6",
+            "Big Chances": "3",
+            "Corner Kicks": "7",
+            "Yellow Cards": "3",
+            "Red Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Free Kicks": "12",
+            "Throw ins": "23",
+            "Fouls": "15",
+            "Goalkeeper Saves": "4"
+          },
+          "away": {
+            "Expected Goals (xG)": "3.04",
+            "Ball Possession": "41",
+            "Total shots": "21",
+            "Shots on target": "8",
+            "Big Chances": "5",
+            "Corner Kicks": "8",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "8",
+            "Offsides": "2",
+            "Free Kicks": "15",
+            "Throw ins": "8",
+            "Fouls": "12",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "San Diego FC",
+          "away": "Real Salt Lake"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.50",
+            "Ball Possession": "46",
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "3",
+            "Red Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "8",
+            "Throw ins": "11",
+            "Fouls": "9",
+            "Goalkeeper Saves": "4"
+          },
+          "away": {
+            "Expected Goals (xG)": "2.12",
+            "Ball Possession": "54",
+            "Total shots": "11",
+            "Shots on target": "6",
+            "Big Chances": "3",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Red Cards": "0",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "9",
+            "Throw ins": "4",
+            "Fouls": "8",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "r1DNXnig",
+        "extractedAt": "2026-03-24T09:00:23.531Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Corinthians",
+        "awayTeam": "Flamengo RJ",
+        "date": "23.03.2026, 01:30",
+        "league": "BRAZIL: Serie A Betano",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 11,
+        "awayPositionBefore": 4,
+        "homeTier": "LOW_11-15",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Corinthians",
+          "away": "Flamengo RJ"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.03",
+            "Ball Possession": "47",
+            "Total shots": "8",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "8",
+            "Fouls": "8",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.24",
+            "Ball Possession": "53",
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "8",
+            "Throw ins": "8",
+            "Fouls": "8",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Corinthians",
+          "away": "Flamengo RJ"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.51",
+            "Ball Possession": "55",
+            "Total shots": "13",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "6",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Free Kicks": "13",
+            "Throw ins": "18",
+            "Fouls": "21",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.36",
+            "Ball Possession": "45",
+            "Total shots": "10",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "3",
+            "Red Cards": "1",
+            "Shots off target": "5",
+            "Offsides": "2",
+            "Free Kicks": "21",
+            "Throw ins": "16",
+            "Fouls": "13",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Corinthians",
+          "away": "Flamengo RJ"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.48",
+            "Ball Possession": "65",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "3",
+            "Free Kicks": "5",
+            "Throw ins": "10",
+            "Fouls": "13",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.12",
+            "Ball Possession": "35",
+            "Total shots": "6",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Red Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "13",
+            "Throw ins": "8",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "Cx9wGgeA",
+        "extractedAt": "2026-03-24T09:00:31.660Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Argentinos Jrs",
+        "awayTeam": "Platense",
+        "date": "23.03.2026, 03:15",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Argentinos Jrs",
+          "away": "Platense"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.66",
+            "Ball Possession": "66",
+            "Total shots": "10",
+            "Shots on target": "3",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Free Kicks": "5",
+            "Throw ins": "14",
+            "Fouls": "12",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.29",
+            "Ball Possession": "34",
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "12",
+            "Throw ins": "9",
+            "Fouls": "5",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Argentinos Jrs",
+          "away": "Platense"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.95",
+            "Ball Possession": "70",
+            "Total shots": "22",
+            "Shots on target": "4",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "2",
+            "Shots off target": "11",
+            "Offsides": "2",
+            "Free Kicks": "14",
+            "Throw ins": "26",
+            "Fouls": "13",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.42",
+            "Ball Possession": "30",
+            "Total shots": "9",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Free Kicks": "13",
+            "Throw ins": "24",
+            "Fouls": "14",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Argentinos Jrs",
+          "away": "Platense"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.29",
+            "Ball Possession": "73",
+            "Total shots": "12",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "6",
+            "Offsides": "1",
+            "Free Kicks": "9",
+            "Throw ins": "12",
+            "Fouls": "1",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.13",
+            "Ball Possession": "27",
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Free Kicks": "1",
+            "Throw ins": "15",
+            "Fouls": "9",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "42QCexfT",
+        "extractedAt": "2026-03-24T09:00:35.272Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Ind. Rivadavia",
+        "awayTeam": "Rosario Central",
+        "date": "23.03.2026, 03:15",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Ind. Rivadavia",
+          "away": "Rosario Central"
+        },
+        "score": {
+          "home": "2",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.56",
+            "Ball Possession": "28",
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "0",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "8",
+            "Fouls": "6",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.18",
+            "Ball Possession": "72",
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Free Kicks": "6",
+            "Throw ins": "12",
+            "Fouls": "4",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Ind. Rivadavia",
+          "away": "Rosario Central"
+        },
+        "score": {
+          "home": "2",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.71",
+            "Ball Possession": "29",
+            "Total shots": "8",
+            "Shots on target": "4",
+            "Big Chances": "2",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "10",
+            "Throw ins": "18",
+            "Fouls": "14",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.65",
+            "Ball Possession": "71",
+            "Total shots": "13",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "8",
+            "Offsides": "2",
+            "Free Kicks": "14",
+            "Throw ins": "27",
+            "Fouls": "10",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Ind. Rivadavia",
+          "away": "Rosario Central"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.15",
+            "Ball Possession": "29",
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "6",
+            "Throw ins": "10",
+            "Fouls": "8",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.47",
+            "Ball Possession": "71",
+            "Total shots": "10",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "15",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "G0jn6S7l",
+        "extractedAt": "2026-03-24T09:00:38.785Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Unirea Slobozia",
+        "awayTeam": "Otelul",
+        "date": "23.03.2026, 20:30",
+        "league": "ROMANIA: Superliga - Relegation Group",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Unirea Slobozia",
+          "away": "Otelul"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.82",
+            "Ball Possession": "37",
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "0",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "9",
+            "Throw ins": "14",
+            "Fouls": "4",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.65",
+            "Ball Possession": "63",
+            "Total shots": "6",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "3",
+            "Free Kicks": "4",
+            "Throw ins": "13",
+            "Fouls": "9",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Unirea Slobozia",
+          "away": "Otelul"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.21",
+            "Ball Possession": "33",
+            "Total shots": "11",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "5",
+            "Yellow Cards": "1",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Free Kicks": "20",
+            "Throw ins": "22",
+            "Fouls": "9",
+            "Goalkeeper Saves": "4"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.76",
+            "Ball Possession": "67",
+            "Total shots": "11",
+            "Shots on target": "5",
+            "Big Chances": "2",
+            "Corner Kicks": "5",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "3",
+            "Free Kicks": "9",
+            "Throw ins": "31",
+            "Fouls": "20",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Unirea Slobozia",
+          "away": "Otelul"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.39",
+            "Ball Possession": "29",
+            "Total shots": "9",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Free Kicks": "11",
+            "Throw ins": "8",
+            "Fouls": "5",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.11",
+            "Ball Possession": "71",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "18",
+            "Fouls": "11",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "lpj5NwHO",
+        "extractedAt": "2026-03-24T09:00:54.501Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Estudiantes L.P.",
+        "awayTeam": "Central Cordoba",
+        "date": "24.03.2026, 00:00",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Estudiantes L.P.",
+          "away": "Central Cordoba"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.17",
+            "Ball Possession": "63",
+            "Total shots": "15",
+            "Shots on target": "7",
+            "Big Chances": "1",
+            "Corner Kicks": "7",
+            "Yellow Cards": "0",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "9",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.07",
+            "Ball Possession": "37",
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "4",
+            "Fouls": "8",
+            "Goalkeeper Saves": "6"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Estudiantes L.P.",
+          "away": "Central Cordoba"
+        },
+        "score": {
+          "home": "5",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "3.74",
+            "Ball Possession": "55",
+            "Total shots": "23",
+            "Shots on target": "13",
+            "Big Chances": "5",
+            "Corner Kicks": "8",
+            "Yellow Cards": "2",
+            "Shots off target": "6",
+            "Offsides": "0",
+            "Free Kicks": "13",
+            "Throw ins": "15",
+            "Fouls": "10",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.15",
+            "Ball Possession": "45",
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "3",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "10",
+            "Throw ins": "17",
+            "Fouls": "13",
+            "Goalkeeper Saves": "7"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Estudiantes L.P.",
+          "away": "Central Cordoba"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.57",
+            "Ball Possession": "46",
+            "Total shots": "8",
+            "Shots on target": "6",
+            "Big Chances": "4",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "6",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "54",
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "13",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "zqAWBcvA",
+        "extractedAt": "2026-03-24T09:00:58.041Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "_meta": {
+    "generatedAt": "2026-03-16T06:07:29.201Z",
+    "date": "16.03.2026",
+    "totalMatches": 16,
+    "totalAlerts": 22
+  },
+  "matches": {
+    "QkQmjk8D": {
+      "matchId": "QkQmjk8D",
+      "homeTeam": "San Jose Earthquakes",
+      "awayTeam": "Seattle Sounders",
+      "liga": "USA: MLS",
+      "ora": "01:00",
+      "timestamp": 1773615600,
+      "alerts": [
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Seattle Sounders",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 730,
+          "total": 922,
+          "rate": 79.2,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Seattle Sounders a avut 4+ șuturi pe poartă în 4 meciuri la rând → prob. 3+ — în 922 cazuri similare istorice, s-a întâmplat de 730 ori (79.2% reușită)"
+        },
+        {
+          "patternId": "S11",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Seattle Sounders",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 562,
+          "total": 922,
+          "rate": 61,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Seattle Sounders a avut 4+ șuturi pe poartă în 4 meciuri la rând → prob. 4+ — în 922 cazuri similare istorice, s-a întâmplat de 562 ori (61% reușită)"
+        }
+      ]
+    },
+    "UBYpBujI": {
+      "matchId": "UBYpBujI",
+      "homeTeam": "Pogon Szczecin",
+      "awayTeam": "Korona Kielce",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "20:00",
+      "timestamp": 1773684000,
+      "alerts": [
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Korona Kielce",
+          "side": "oaspete",
+          "streak": 11,
+          "success": 15,
+          "total": 18,
+          "rate": 83.3,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Korona Kielce a comis 12+ faulturi în 11 meciuri la rând → prob. 11+ faulturi — în 18 cazuri similare istorice, s-a întâmplat de 15 ori (83.3% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Korona Kielce",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 42,
+          "total": 53,
+          "rate": 79.2,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Korona Kielce a tras 12+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 53 cazuri similare istorice, s-a întâmplat de 42 ori (79.2% reușită)"
+        },
+        {
+          "patternId": "S17",
+          "category": "TOTAL ȘUTURI",
+          "team": "Korona Kielce",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 42,
+          "total": 53,
+          "rate": 79.2,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Korona Kielce a tras 12+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 53 cazuri similare istorice, s-a întâmplat de 42 ori (79.2% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Korona Kielce",
+          "side": "oaspete",
+          "streak": 11,
+          "success": 27,
+          "total": 35,
+          "rate": 77.1,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Korona Kielce a comis 10+ faulturi în 11 meciuri la rând → prob. 11+ faulturi — în 35 cazuri similare istorice, s-a întâmplat de 27 ori (77.1% reușită)"
+        },
+        {
+          "patternId": "S19",
+          "category": "FAULTURI",
+          "team": "Korona Kielce",
+          "side": "oaspete",
+          "streak": 11,
+          "success": 27,
+          "total": 35,
+          "rate": 77.1,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Korona Kielce a comis 10+ faulturi în 11 meciuri la rând → prob. 11+ faulturi — în 35 cazuri similare istorice, s-a întâmplat de 27 ori (77.1% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Korona Kielce",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 53,
+          "total": 69,
+          "rate": 76.8,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Korona Kielce a tras 10+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 69 cazuri similare istorice, s-a întâmplat de 53 ori (76.8% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Korona Kielce",
+          "side": "oaspete",
+          "streak": 13,
+          "success": 14,
+          "total": 19,
+          "rate": 73.7,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Korona Kielce a primit gol în 13 meciuri la rând → prob. să primească gol — în 19 cazuri similare istorice, s-a întâmplat de 14 ori (73.7% reușită)"
+        }
+      ]
+    },
+    "8Ax2774L": {
+      "matchId": "8Ax2774L",
+      "homeTeam": "U. Cluj",
+      "awayTeam": "CFR Cluj",
+      "liga": "ROMANIA: Superliga - Relegation Group",
+      "ora": "20:30",
+      "timestamp": 1773685800,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "U. Cluj",
+          "side": "gazda",
+          "streak": 5,
+          "success": 69,
+          "total": 79,
+          "rate": 87.3,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "U. Cluj a luat 2+ cartonașe în 5 meciuri la rând → prob. 1+ cartonaș — în 79 cazuri similare istorice, s-a întâmplat de 69 ori (87.3% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "U. Cluj",
+          "side": "gazda",
+          "streak": 10,
+          "success": 38,
+          "total": 49,
+          "rate": 77.6,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "U. Cluj a primit gol în 10 meciuri la rând → prob. să primească gol — în 49 cazuri similare istorice, s-a întâmplat de 38 ori (77.6% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "U. Cluj",
+          "side": "gazda",
+          "streak": 4,
+          "success": 70,
+          "total": 103,
+          "rate": 68,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "U. Cluj a tras 10+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 103 cazuri similare istorice, s-a întâmplat de 70 ori (68% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER",
+          "team": "U. Cluj",
+          "side": "gazda",
+          "streak": 6,
+          "success": 8,
+          "total": 12,
+          "rate": 66.7,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "U. Cluj meciurile au avut 3+ goluri în 6 meciuri la rând → prob. 2+ goluri — în 12 cazuri similare istorice, s-a întâmplat de 8 ori (66.7% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "CFR Cluj",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 51,
+          "total": 78,
+          "rate": 65.4,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "CFR Cluj a primit gol în 3 meciuri la rând → prob. să primească gol — în 78 cazuri similare istorice, s-a întâmplat de 51 ori (65.4% reușită)"
+        },
+        {
+          "patternId": "S21",
+          "category": "CARTONAȘE",
+          "team": "U. Cluj",
+          "side": "gazda",
+          "streak": 5,
+          "success": 50,
+          "total": 79,
+          "rate": 63.3,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "U. Cluj a luat 2+ cartonașe în 5 meciuri la rând → prob. 2+ cartonașe — în 79 cazuri similare istorice, s-a întâmplat de 50 ori (63.3% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "CFR Cluj",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 28,
+          "total": 48,
+          "rate": 58.3,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "CFR Cluj a tras 10+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 48 cazuri similare istorice, s-a întâmplat de 28 ori (58.3% reușită)"
+        }
+      ]
+    },
+    "0jR7cwU6": {
+      "matchId": "0jR7cwU6",
+      "homeTeam": "Brentford",
+      "awayTeam": "Wolves",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1773691200,
+      "alerts": [
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Brentford",
+          "side": "gazda",
+          "streak": 3,
+          "success": 106,
+          "total": 135,
+          "rate": 78.5,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Brentford a primit gol în 3 meciuri la rând → prob. să primească gol — în 135 cazuri similare istorice, s-a întâmplat de 106 ori (78.5% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Brentford",
+          "side": "gazda",
+          "streak": 3,
+          "success": 30,
+          "total": 59,
+          "rate": 50.8,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Brentford a marcat în R1 în 3 meciuri la rând → prob. să marcheze în R1 — în 59 cazuri similare istorice, s-a întâmplat de 30 ori (50.8% reușită)"
+        }
+      ]
+    },
+    "QPIxDkH6": {
+      "matchId": "QPIxDkH6",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Derby",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1773691200,
+      "alerts": [
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Derby",
+          "side": "oaspete",
+          "streak": 8,
+          "success": 42,
+          "total": 59,
+          "rate": 71.2,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Derby a primit gol în 8 meciuri la rând → prob. să primească gol — în 59 cazuri similare istorice, s-a întâmplat de 42 ori (71.2% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Derby",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 36,
+          "total": 52,
+          "rate": 69.2,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Derby a tras 12+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 52 cazuri similare istorice, s-a întâmplat de 36 ori (69.2% reușită)"
+        },
+        {
+          "patternId": "S17",
+          "category": "TOTAL ȘUTURI",
+          "team": "Derby",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 36,
+          "total": 52,
+          "rate": 69.2,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Derby a tras 12+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 52 cazuri similare istorice, s-a întâmplat de 36 ori (69.2% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Derby",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 58,
+          "total": 89,
+          "rate": 65.2,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Derby a tras 10+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 89 cazuri similare istorice, s-a întâmplat de 58 ori (65.2% reușită)"
+        }
+      ]
+    }
+  }
+}

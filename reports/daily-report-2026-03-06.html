@@ -1,0 +1,250 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Raport Zilnic - 2026-03-06</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .date {
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+        }
+        .stat-card.success {
+            background: #d5f4e6;
+            border: 2px solid #27ae60;
+        }
+        .stat-value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .stat-label {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th {
+            background: #34495e;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: normal;
+        }
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ecf0f1;
+        }
+        tr:hover {
+            background: #f8f9fa;
+        }
+        .status {
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            display: inline-block;
+        }
+        .status.won {
+            background: #d5f4e6;
+            color: #27ae60;
+        }
+        .status.lost {
+            background: #fadbd8;
+            color: #e74c3c;
+        }
+        .status.unknown {
+            background: #fef5e7;
+            color: #f39c12;
+        }
+        .status.pending {
+            background: #e8f8f5;
+            color: #16a085;
+        }
+        .odds {
+            font-weight: bold;
+            color: #e67e22;
+        }
+        .probability {
+            color: #3498db;
+            font-weight: bold;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid #ecf0f1;
+            color: #7f8c8d;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Raport Zilnic Pronosticuri</h1>
+        <div class="date">2026-03-06</div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-value">4</div>
+                <div class="stat-label">Total Pronosticuri</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value">4</div>
+                <div class="stat-label">Validate</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" style="color: #27ae60;">✅ 2</div>
+                <div class="stat-label">Câștigate</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" style="color: #e74c3c;">❌ 2</div>
+                <div class="stat-label">Pierdute</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" style="color: #f39c12;">⚠️ 0</div>
+                <div class="stat-label">Necunoscute</div>
+            </div>
+            <div class="stat-card success">
+                <div class="stat-value" style="color: #f39c12;">50.0%</div>
+                <div class="stat-label">Success Rate</div>
+            </div>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Oră</th>
+                    <th>Meci</th>
+                    <th>Liga</th>
+                    <th>HT</th>
+                    <th>FT</th>
+                    <th>Eveniment Sugerat</th>
+                    <th>Prob.</th>
+                    <th>Cotă SB</th>
+                    <th>Cotă NB</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr>
+                    <td>03:20</td>
+                    <td><strong>America De Cali (Col)</strong> vs Bucaramanga (Col)</td>
+                    <td style="font-size: 11px;">N/A</td>
+                    <td>1-1</td>
+                    <td>2-1</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>MECI DESCHIS CU SCOR EGAL ȘI 6+ ȘUTURI PE POARTĂ COMBINATE. ÎN 85% DIN CAZURI, S-A MARCAT CEL PUȚIN UN GOL ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_19 | meci</span>
+                    </td>
+                    <td class="probability">85.45%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status won">✅ CÂȘTIGAT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>20:24</td>
+                    <td><strong>Elversberg</strong> vs Magdeburg</td>
+                    <td style="font-size: 11px;">N/A</td>
+                    <td>0-0</td>
+                    <td>1-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>ELVERSBERG A AVUT 6 SUTURI TOTALE LA PAUZĂ (0 PE POARTĂ, 6 PE LÂNGĂ) ȘI NU A MARCAT ÎNCĂ, IAR ÎN 70% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE, ECHIPA ÎN CAUZĂ A MARCAT ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_2.1 | Elversberg</span>
+                    </td>
+                    <td class="probability">70%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status won">✅ CÂȘTIGAT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:39</td>
+                    <td><strong>RAAL La Louviere</strong> vs Antwerp</td>
+                    <td style="font-size: 11px;">N/A</td>
+                    <td>0-0</td>
+                    <td>0-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>RAAL LA LOUVIERE A AVUT 4 ȘUTURI PE POARTĂ PÂNĂ LA PAUZĂ ȘI NU A MARCAT, IAR ÎN 100% DIN CAZURILE CÂND AM ÎNREGISTRAT ACESTE SITUAȚII, ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_1.1 | RAAL La Louviere</span>
+                    </td>
+                    <td class="probability">100%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status lost">❌ PIERDUT</span></td>
+                </tr>
+                
+                <tr>
+                    <td>22:39</td>
+                    <td><strong>RAAL La Louviere</strong> vs Antwerp</td>
+                    <td style="font-size: 11px;">N/A</td>
+                    <td>0-0</td>
+                    <td>0-0</td>
+                    <td style="font-size: 10px; max-width: 400px;">
+                        <strong>RAAL LA LOUVIERE A AVUT 9 SUTURI TOTALE LA PAUZĂ (0 PE POARTĂ, 9 PE LÂNGĂ) ȘI NU A MARCAT ÎNCĂ, IAR ÎN 75% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE, ECHIPA ÎN CAUZĂ A MARCAT ÎN REPRIZA A DOUA.</strong><br>
+                        <span style="color: #7f8c8d; font-size: 9px;">PATTERN_2.4 | RAAL La Louviere</span>
+                    </td>
+                    <td class="probability">75%</td>
+                    <td class="odds">-</td>
+                    <td class="odds">-</td>
+                    <td><span class="status lost">❌ PIERDUT</span></td>
+                </tr>
+                
+            </tbody>
+        </table>
+
+        <div class="footer">
+            <p style="margin: 10px 0; color: #7f8c8d; font-size: 11px;">
+                <strong>Notă despre cote:</strong> Cotele afișate (SB = Superbet, NB = Netbet) sunt cele de la momentul
+                notificării (pauză/HT). Acestea pot varia în repriza a 2-a în funcție de evoluția meciului.
+            </p>
+            <p style="margin: 10px 0; color: #7f8c8d; font-size: 11px;">
+                <strong>Status:</strong> ✅ CÂȘTIGAT = pronosticul s-a îndeplinit | ❌ PIERDUT = pronosticul nu s-a îndeplinit |
+                ⚠️ NECUNOSCUT = lipsesc date pentru validare | ⏳ PENDING = în așteptarea validării
+            </p>
+            <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 15px 0;">
+            🤖 Generat automat de API SMART 5 - Auto-Validation System<br>
+            07.03.2026, 21:11:33
+        </div>
+    </div>
+</body>
+</html>

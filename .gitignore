@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+
+# Logs (generate automat, mari)
+logs/*.log
+logs/*.log.old.gz
+
+# Lock files & state files (generate la runtime)
+.auto-validator.lock
+.watchdog-shutdown.json
+.crash-state.json
+.no-matches-today.flag
+.monitor.lock
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Fișiere zilnice (generate automat zilnic)
+meciuri-*.json
+verificari-*.json
+final-verificari-*.json
+stats-*-HT.json
+
+# Daily collected & sent flags (generate automat)
+data/daily_collected_*.json
+data/prematch_daily_sent.json
+data/prematch_top30_sent.json
+data/prematch_goals_cards_sent.json
+data/prematch_top30_report_sent.json
+data/odds_monitor_state.json
+
+# Backups mari
+*.tar.gz
+backups/
+
+# Superbet analyzer (modul extern)
+superbet-analyzer/

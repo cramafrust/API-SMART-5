@@ -1,0 +1,1599 @@
+{
+  "date": "2026-03-09",
+  "generated": "2026-03-10T09:01:27.940Z",
+  "totalMatches": 11,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "FC Cincinnati",
+        "awayTeam": "Toronto FC",
+        "date": "09.03.2026, 01:00",
+        "league": "USA: MLS",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 7,
+        "awayPositionBefore": 9,
+        "homeTier": "MID_6-10",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "FC Cincinnati",
+          "away": "Toronto FC"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.39",
+            "Ball Possession": "55",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "8",
+            "Fouls": "5",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.42",
+            "Ball Possession": "45",
+            "Total shots": "6",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "5",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "10",
+            "Fouls": "7",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "FC Cincinnati",
+          "away": "Toronto FC"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.99",
+            "Ball Possession": "57",
+            "Total shots": "14",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "8",
+            "Yellow Cards": "2",
+            "Shots off target": "6",
+            "Offsides": "1",
+            "Free Kicks": "11",
+            "Throw ins": "21",
+            "Fouls": "14",
+            "Goalkeeper Saves": "4"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.72",
+            "Ball Possession": "43",
+            "Total shots": "11",
+            "Shots on target": "5",
+            "Big Chances": "2",
+            "Corner Kicks": "7",
+            "Yellow Cards": "2",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "14",
+            "Throw ins": "18",
+            "Fouls": "11",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "FC Cincinnati",
+          "away": "Toronto FC"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.60",
+            "Ball Possession": "59",
+            "Total shots": "9",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "4",
+            "Throw ins": "13",
+            "Fouls": "9",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.30",
+            "Ball Possession": "41",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "9",
+            "Throw ins": "8",
+            "Fouls": "4",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "S8e0UsLs",
+        "extractedAt": "2026-03-10T09:00:09.426Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Novorizontino",
+        "awayTeam": "Palmeiras",
+        "date": "09.03.2026, 01:30",
+        "league": "BRAZIL: Paulista - Play Offs",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Novorizontino",
+          "away": "Palmeiras"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.76",
+            "Ball Possession": "61",
+            "Total shots": "7",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "11",
+            "Throw ins": "13",
+            "Fouls": "9",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.70",
+            "Ball Possession": "39",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "9",
+            "Throw ins": "13",
+            "Fouls": "11",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Novorizontino",
+          "away": "Palmeiras"
+        },
+        "score": {
+          "home": "1",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.09",
+            "Ball Possession": "59",
+            "Total shots": "11",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "2",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "25",
+            "Throw ins": "32",
+            "Fouls": "15",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.04",
+            "Ball Possession": "41",
+            "Total shots": "9",
+            "Shots on target": "4",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Shots off target": "3",
+            "Offsides": "2",
+            "Free Kicks": "15",
+            "Throw ins": "26",
+            "Fouls": "25",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Novorizontino",
+          "away": "Palmeiras"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.33",
+            "Ball Possession": "57",
+            "Total shots": "4",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "14",
+            "Throw ins": "19",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.34",
+            "Ball Possession": "43",
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "6",
+            "Throw ins": "13",
+            "Fouls": "14",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "8AxWpwW8",
+        "extractedAt": "2026-03-10T09:00:26.326Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Eyupspor",
+        "awayTeam": "Kocaelispor",
+        "date": "09.03.2026, 15:00",
+        "league": "TURKEY: Super Lig",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 15,
+        "awayPositionBefore": 7,
+        "homeTier": "LOW_11-15",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Eyupspor",
+          "away": "Kocaelispor"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.97",
+            "Ball Possession": "62",
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Shots off target": "0",
+            "Offsides": "2",
+            "Free Kicks": "9",
+            "Throw ins": "11",
+            "Fouls": "5",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.83",
+            "Ball Possession": "38",
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "0",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Free Kicks": "5",
+            "Throw ins": "12",
+            "Fouls": "9",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Eyupspor",
+          "away": "Kocaelispor"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.15",
+            "Ball Possession": "67",
+            "Total shots": "11",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "4",
+            "Shots off target": "0",
+            "Offsides": "3",
+            "Free Kicks": "21",
+            "Throw ins": "23",
+            "Fouls": "13",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.61",
+            "Ball Possession": "33",
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "13",
+            "Throw ins": "20",
+            "Fouls": "21",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Eyupspor",
+          "away": "Kocaelispor"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.18",
+            "Ball Possession": "74",
+            "Total shots": "6",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Free Kicks": "12",
+            "Throw ins": "12",
+            "Fouls": "8",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.78",
+            "Ball Possession": "26",
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "8",
+            "Fouls": "12",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "GGWcgbP9",
+        "extractedAt": "2026-03-10T09:00:34.134Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Panetolikos",
+        "awayTeam": "Kifisia",
+        "date": "09.03.2026, 18:00",
+        "league": "GREECE: Super League",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 10,
+        "awayPositionBefore": 11,
+        "homeTier": "MID_6-10",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Panetolikos",
+          "away": "Kifisia"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.39",
+            "Ball Possession": "44",
+            "Total shots": "9",
+            "Shots on target": "3",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "11",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.30",
+            "Ball Possession": "56",
+            "Total shots": "3",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "4",
+            "Throw ins": "11",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Panetolikos",
+          "away": "Kifisia"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.79",
+            "Ball Possession": "43",
+            "Total shots": "14",
+            "Shots on target": "5",
+            "Big Chances": "1",
+            "Corner Kicks": "6",
+            "Yellow Cards": "3",
+            "Red Cards": "1",
+            "Shots off target": "5",
+            "Offsides": "2",
+            "Free Kicks": "12",
+            "Throw ins": "18",
+            "Fouls": "13",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.71",
+            "Ball Possession": "57",
+            "Total shots": "9",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "5",
+            "Yellow Cards": "2",
+            "Red Cards": "0",
+            "Shots off target": "6",
+            "Offsides": "2",
+            "Free Kicks": "13",
+            "Throw ins": "22",
+            "Fouls": "12",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Panetolikos",
+          "away": "Kifisia"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.40",
+            "Ball Possession": "42",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "3",
+            "Red Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Free Kicks": "7",
+            "Throw ins": "7",
+            "Fouls": "9",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.41",
+            "Ball Possession": "58",
+            "Total shots": "6",
+            "Shots on target": "0",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Red Cards": "0",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Free Kicks": "9",
+            "Throw ins": "11",
+            "Fouls": "7",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "jHVT32IN",
+        "extractedAt": "2026-03-10T09:00:41.754Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Mladost",
+        "awayTeam": "Novi Pazar",
+        "date": "09.03.2026, 19:00",
+        "league": "SERBIA: Mozzart Bet Super Liga",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 14,
+        "awayPositionBefore": 4,
+        "homeTier": "LOW_11-15",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Mladost",
+          "away": "Novi Pazar"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.00",
+            "Ball Possession": "53",
+            "Total shots": "0",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "17",
+            "Fouls": "3",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.46",
+            "Ball Possession": "47",
+            "Total shots": "4",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "3",
+            "Throw ins": "14",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Mladost",
+          "away": "Novi Pazar"
+        },
+        "score": {
+          "home": "0",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.40",
+            "Ball Possession": "55",
+            "Total shots": "6",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "7",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "3",
+            "Free Kicks": "15",
+            "Throw ins": "30",
+            "Fouls": "3",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.73",
+            "Ball Possession": "45",
+            "Total shots": "9",
+            "Shots on target": "4",
+            "Big Chances": "2",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "3",
+            "Throw ins": "25",
+            "Fouls": "15",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Mladost",
+          "away": "Novi Pazar"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.40",
+            "Ball Possession": "57",
+            "Total shots": "6",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "3",
+            "Free Kicks": "8",
+            "Throw ins": "13",
+            "Fouls": "0",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.27",
+            "Ball Possession": "43",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "0",
+            "Throw ins": "11",
+            "Fouls": "8",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "nsGlvhu3",
+        "extractedAt": "2026-03-10T09:00:49.729Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Alanyaspor",
+        "awayTeam": "Genclerbirligi",
+        "date": "09.03.2026, 19:00",
+        "league": "TURKEY: Super Lig",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 11,
+        "awayPositionBefore": 12,
+        "homeTier": "LOW_11-15",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Alanyaspor",
+          "away": "Genclerbirligi"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.86",
+            "Ball Possession": "63",
+            "Total shots": "8",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "2",
+            "Throw ins": "11",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.03",
+            "Ball Possession": "37",
+            "Total shots": "1",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "10",
+            "Fouls": "2",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Alanyaspor",
+          "away": "Genclerbirligi"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.48",
+            "Ball Possession": "59",
+            "Total shots": "18",
+            "Shots on target": "7",
+            "Big Chances": "1",
+            "Corner Kicks": "9",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "5",
+            "Throw ins": "25",
+            "Fouls": "11",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.11",
+            "Ball Possession": "41",
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "11",
+            "Throw ins": "19",
+            "Fouls": "5",
+            "Goalkeeper Saves": "7"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Alanyaspor",
+          "away": "Genclerbirligi"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.62",
+            "Ball Possession": "55",
+            "Total shots": "10",
+            "Shots on target": "5",
+            "Big Chances": "0",
+            "Corner Kicks": "6",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "3",
+            "Throw ins": "14",
+            "Fouls": "4",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "45",
+            "Total shots": "2",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "9",
+            "Fouls": "3",
+            "Goalkeeper Saves": "5"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "8jTkeKfc",
+        "extractedAt": "2026-03-10T09:00:53.193Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Kayserispor",
+        "awayTeam": "Trabzonspor",
+        "date": "09.03.2026, 19:00",
+        "league": "TURKEY: Super Lig",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 17,
+        "awayPositionBefore": 3,
+        "homeTier": "BOTTOM_16-20",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Kayserispor",
+          "away": "Trabzonspor"
+        },
+        "score": {
+          "home": "0",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.78",
+            "Ball Possession": "21",
+            "Total shots": "7",
+            "Shots on target": "4",
+            "Big Chances": "2",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Red Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "4",
+            "Fouls": "5",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "2.13",
+            "Ball Possession": "79",
+            "Total shots": "13",
+            "Shots on target": "4",
+            "Big Chances": "3",
+            "Corner Kicks": "6",
+            "Yellow Cards": "0",
+            "Red Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "2",
+            "Free Kicks": "5",
+            "Throw ins": "5",
+            "Fouls": "4",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Kayserispor",
+          "away": "Trabzonspor"
+        },
+        "score": {
+          "home": "1",
+          "away": "3"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.09",
+            "Ball Possession": "32",
+            "Total shots": "14",
+            "Shots on target": "6",
+            "Big Chances": "3",
+            "Corner Kicks": "6",
+            "Yellow Cards": "4",
+            "Red Cards": "1",
+            "Shots off target": "7",
+            "Offsides": "2",
+            "Free Kicks": "9",
+            "Throw ins": "12",
+            "Fouls": "8",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "2.65",
+            "Ball Possession": "68",
+            "Total shots": "18",
+            "Shots on target": "5",
+            "Big Chances": "4",
+            "Corner Kicks": "8",
+            "Yellow Cards": "0",
+            "Red Cards": "0",
+            "Shots off target": "5",
+            "Offsides": "3",
+            "Free Kicks": "8",
+            "Throw ins": "11",
+            "Fouls": "9",
+            "Goalkeeper Saves": "5"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Kayserispor",
+          "away": "Trabzonspor"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.31",
+            "Ball Possession": "40",
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "2",
+            "Shots off target": "5",
+            "Offsides": "2",
+            "Free Kicks": "5",
+            "Throw ins": "8",
+            "Fouls": "3",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.52",
+            "Ball Possession": "60",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "3",
+            "Throw ins": "6",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "Awx9BKNt",
+        "extractedAt": "2026-03-10T09:00:56.728Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Wisla Plock",
+        "awayTeam": "Arka Gdynia",
+        "date": "09.03.2026, 20:00",
+        "league": "POLAND: Ekstraklasa",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 8,
+        "awayPositionBefore": 15,
+        "homeTier": "MID_6-10",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Wisla Plock",
+          "away": "Arka Gdynia"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.40",
+            "Ball Possession": "49",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "4",
+            "Throw ins": "11",
+            "Fouls": "5",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.23",
+            "Ball Possession": "51",
+            "Total shots": "6",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "9",
+            "Fouls": "4",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Wisla Plock",
+          "away": "Arka Gdynia"
+        },
+        "score": {
+          "home": "0",
+          "away": "3"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.22",
+            "Ball Possession": "50",
+            "Total shots": "14",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "6",
+            "Yellow Cards": "2",
+            "Shots off target": "7",
+            "Offsides": "2",
+            "Free Kicks": "11",
+            "Throw ins": "21",
+            "Fouls": "9",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "2.87",
+            "Ball Possession": "50",
+            "Total shots": "15",
+            "Shots on target": "5",
+            "Big Chances": "6",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "6",
+            "Offsides": "1",
+            "Free Kicks": "9",
+            "Throw ins": "14",
+            "Fouls": "11",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Wisla Plock",
+          "away": "Arka Gdynia"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.82",
+            "Ball Possession": "52",
+            "Total shots": "9",
+            "Shots on target": "0",
+            "Big Chances": "1",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "10",
+            "Fouls": "4",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "2.64",
+            "Ball Possession": "48",
+            "Total shots": "9",
+            "Shots on target": "4",
+            "Big Chances": "5",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "4",
+            "Throw ins": "5",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "WITqnYGk",
+        "extractedAt": "2026-03-10T09:01:04.672Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Lazio",
+        "awayTeam": "Sassuolo",
+        "date": "09.03.2026, 21:45",
+        "league": "ITALY: Serie A",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 10,
+        "awayPositionBefore": 9,
+        "homeTier": "MID_6-10",
+        "awayTier": "MID_6-10"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Lazio",
+          "away": "Sassuolo"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.30",
+            "Ball Possession": "45",
+            "Total shots": "6",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "2",
+            "Throw ins": "12",
+            "Fouls": "2",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.40",
+            "Ball Possession": "55",
+            "Total shots": "4",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "1",
+            "Free Kicks": "2",
+            "Throw ins": "10",
+            "Fouls": "2",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Lazio",
+          "away": "Sassuolo"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.54",
+            "Ball Possession": "50",
+            "Total shots": "13",
+            "Shots on target": "5",
+            "Big Chances": "4",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "6",
+            "Offsides": "2",
+            "Free Kicks": "8",
+            "Throw ins": "24",
+            "Fouls": "7",
+            "Goalkeeper Saves": "3"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.71",
+            "Ball Possession": "50",
+            "Total shots": "7",
+            "Shots on target": "4",
+            "Big Chances": "0",
+            "Corner Kicks": "6",
+            "Yellow Cards": "4",
+            "Shots off target": "1",
+            "Offsides": "3",
+            "Free Kicks": "7",
+            "Throw ins": "20",
+            "Fouls": "8",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Lazio",
+          "away": "Sassuolo"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.24",
+            "Ball Possession": "56",
+            "Total shots": "7",
+            "Shots on target": "3",
+            "Big Chances": "3",
+            "Corner Kicks": "0",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "6",
+            "Throw ins": "12",
+            "Fouls": "5",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.31",
+            "Ball Possession": "44",
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "3",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Free Kicks": "5",
+            "Throw ins": "10",
+            "Fouls": "6",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "hlhSsZxn",
+        "extractedAt": "2026-03-10T09:01:12.522Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Espanyol",
+        "awayTeam": "Oviedo",
+        "date": "09.03.2026, 22:00",
+        "league": "SPAIN: LaLiga",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 7,
+        "awayPositionBefore": 20,
+        "homeTier": "MID_6-10",
+        "awayTier": "BOTTOM_16-20"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Espanyol",
+          "away": "Oviedo"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.00",
+            "Ball Possession": "63",
+            "Total shots": "14",
+            "Shots on target": "5",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "5",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "8",
+            "Fouls": "9",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.52",
+            "Ball Possession": "37",
+            "Total shots": "1",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "0",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "9",
+            "Throw ins": "9",
+            "Fouls": "5",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Espanyol",
+          "away": "Oviedo"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.83",
+            "Ball Possession": "58",
+            "Total shots": "28",
+            "Shots on target": "9",
+            "Big Chances": "2",
+            "Corner Kicks": "8",
+            "Yellow Cards": "3",
+            "Shots off target": "10",
+            "Offsides": "1",
+            "Free Kicks": "13",
+            "Throw ins": "15",
+            "Fouls": "19",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.87",
+            "Ball Possession": "42",
+            "Total shots": "6",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "19",
+            "Throw ins": "19",
+            "Fouls": "13",
+            "Goalkeeper Saves": "8"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Espanyol",
+          "away": "Oviedo"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.83",
+            "Ball Possession": "53",
+            "Total shots": "14",
+            "Shots on target": "4",
+            "Big Chances": "0",
+            "Corner Kicks": "4",
+            "Yellow Cards": "2",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Free Kicks": "8",
+            "Throw ins": "7",
+            "Fouls": "10",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.35",
+            "Ball Possession": "47",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "0",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "10",
+            "Throw ins": "10",
+            "Fouls": "8",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "A90Ay4iL",
+        "extractedAt": "2026-03-10T09:01:20.276Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Tondela",
+        "awayTeam": "Rio Ave",
+        "date": "09.03.2026, 22:15",
+        "league": "PORTUGAL: Liga Portugal",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 17,
+        "awayPositionBefore": 14,
+        "homeTier": "BOTTOM_16-18",
+        "awayTier": "LOW_11-15"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Tondela",
+          "away": "Rio Ave"
+        },
+        "score": {
+          "home": "0",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.34",
+            "Ball Possession": "42",
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "9",
+            "Throw ins": "8",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.03",
+            "Ball Possession": "58",
+            "Total shots": "7",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "6",
+            "Throw ins": "15",
+            "Fouls": "9",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Tondela",
+          "away": "Rio Ave"
+        },
+        "score": {
+          "home": "0",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.50",
+            "Ball Possession": "47",
+            "Total shots": "6",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "14",
+            "Throw ins": "27",
+            "Fouls": "15",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "1.23",
+            "Ball Possession": "53",
+            "Total shots": "9",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "2",
+            "Yellow Cards": "5",
+            "Shots off target": "5",
+            "Offsides": "1",
+            "Free Kicks": "15",
+            "Throw ins": "19",
+            "Fouls": "14",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Tondela",
+          "away": "Rio Ave"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.16",
+            "Ball Possession": "52",
+            "Total shots": "3",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "0",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "19",
+            "Fouls": "9",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.20",
+            "Ball Possession": "48",
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "3",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "9",
+            "Throw ins": "4",
+            "Fouls": "5",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "dMpqWmFk",
+        "extractedAt": "2026-03-10T09:01:27.937Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

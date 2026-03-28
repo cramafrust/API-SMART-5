@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "created": "2025-12-03T01:53:01.950Z",
+  "currentBalance": 1055.1345574152372,
+  "dailyBudget": 1230.6445574152372,
+  "betsPlaced": 4,
+  "betsToday": [
+    {
+      "id": "TEST_BET_001",
+      "timestamp": "2025-12-03T01:53:01.971Z",
+      "match": "Test Match 1",
+      "event": "Test Event",
+      "odd": 1.8,
+      "stake": 50,
+      "potentialReturn": 90,
+      "status": "PENDING"
+    },
+    {
+      "id": "DRY_RUN_BET_1764726839205",
+      "timestamp": "2025-12-03T01:53:59.207Z",
+      "match": "Manchester City vs Liverpool",
+      "event": "Echipa gazdă va marca în repriza 2",
+      "odd": 1.75,
+      "stake": 61.53,
+      "potentialReturn": 107.67750000000001,
+      "status": "PENDING"
+    },
+    {
+      "id": "DRY_RUN_BET_1764726876322",
+      "timestamp": "2025-12-03T01:54:36.323Z",
+      "match": "Real Madrid vs Barcelona",
+      "event": "Vor fi peste 2.5 goluri",
+      "odd": 1.9,
+      "stake": 58.45,
+      "potentialReturn": 111.055,
+      "status": "PENDING"
+    },
+    {
+      "id": "DRY_RUN_BET_1764726914529",
+      "timestamp": "2025-12-03T01:55:14.529Z",
+      "match": "Bayern Munich vs Borussia Dortmund",
+      "event": "Ambele echipe vor marca",
+      "odd": 1.65,
+      "stake": 55.53,
+      "potentialReturn": 91.6245,
+      "status": "PENDING"
+    }
+  ],
+  "lastUpdate": "2025-12-03T01:55:14.529Z",
+  "totalProfit": 0,
+  "statistics": {
+    "totalBets": 4,
+    "wonBets": 0,
+    "lostBets": 0,
+    "totalStake": 225.51000000000002,
+    "totalReturn": 0
+  }
+}

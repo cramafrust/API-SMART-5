@@ -1,0 +1,151 @@
+{
+  "date": "2026-03-26",
+  "generated": "2026-03-27T09:00:18.410Z",
+  "totalMatches": 1,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Dep. Riestra",
+        "awayTeam": "San Lorenzo",
+        "date": "26.03.2026, 00:00",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Dep. Riestra",
+          "away": "San Lorenzo"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.49",
+            "Ball Possession": "35",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "3",
+            "Free Kicks": "2",
+            "Throw ins": "14",
+            "Fouls": "7",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.79",
+            "Ball Possession": "65",
+            "Total shots": "5",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "3",
+            "Yellow Cards": "0",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "15",
+            "Fouls": "2",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Dep. Riestra",
+          "away": "San Lorenzo"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.82",
+            "Ball Possession": "35",
+            "Total shots": "9",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "2",
+            "Shots off target": "4",
+            "Offsides": "5",
+            "Free Kicks": "14",
+            "Throw ins": "26",
+            "Fouls": "14",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.87",
+            "Ball Possession": "65",
+            "Total shots": "7",
+            "Shots on target": "2",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "1",
+            "Free Kicks": "14",
+            "Throw ins": "30",
+            "Fouls": "14",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Dep. Riestra",
+          "away": "San Lorenzo"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.33",
+            "Ball Possession": "35",
+            "Total shots": "4",
+            "Shots on target": "0",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Free Kicks": "12",
+            "Throw ins": "12",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.08",
+            "Ball Possession": "65",
+            "Total shots": "2",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "15",
+            "Fouls": "12",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "trx4gkOr",
+        "extractedAt": "2026-03-27T09:00:18.401Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

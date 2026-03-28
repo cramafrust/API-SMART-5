@@ -1,0 +1,477 @@
+═══════════════════════════════════════════════════════════════════════════
+                    📝 PATTERN EDIT - TOATE DESCRIERILE
+═══════════════════════════════════════════════════════════════════════════
+
+INSTRUCȚIUNI:
+- Modifică descrierile după cum dorești
+- Păstrează formatul: PATTERN_X.Y | Descriere scurtă | Context
+- După editare, informează-mă și voi actualiza codul automat
+
+═══════════════════════════════════════════════════════════════════════════
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 0 - CĂRTONAȘ ROȘU ADVERSAR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_0.0
+Descriere: {ECHIPA} joacă împotriva unei echipe cu cărtonaș roșu
+Context: superioritate numerică
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 1 - ȘUTURI PE POARTĂ FĂRĂ GOL (0-0 la HT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_1.0
+Descriere: {ECHIPA} a avut 3 șuturi pe poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_1.1
+Descriere: {ECHIPA} a avut 4 șuturi pe poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_1.2
+Descriere: {ECHIPA} a avut 5 șuturi pe poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_1.3
+Descriere: {ECHIPA} a avut 6 șuturi pe poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_1.4
+Descriere: {ECHIPA} a avut 7 șuturi pe poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_1.5
+Descriere: {ECHIPA} a avut 8 șuturi pe poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_1.6
+Descriere: {ECHIPA} a avut 9 șuturi pe poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 2 - ȘUTURI PE LÂNGĂ POARTĂ (0-0 la HT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_2.0
+Descriere: {ECHIPA} a ratat 5 șuturi pe lângă poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_2.1
+Descriere: {ECHIPA} a ratat 6 șuturi pe lângă poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_2.2
+Descriere: {ECHIPA} a ratat 7 șuturi pe lângă poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_2.3
+Descriere: {ECHIPA} a ratat 8 șuturi pe lângă poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_2.4
+Descriere: {ECHIPA} a ratat 9 șuturi pe lângă poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_2.5
+Descriere: {ECHIPA} a ratat 10 șuturi pe lângă poartă la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 3 - TOTAL GOLURI LA PAUZĂ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_3.3
+Descriere: Cele două echipe au marcat 3 goluri la pauză
+Context: meci cu multe goluri
+Predicție: În {PROB}% din cazuri, se mai marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_3.4
+Descriere: Cele două echipe au marcat 4 goluri la pauză
+Context: meci spectaculos
+Predicție: În {PROB}% din cazuri, se mai marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_3.5+
+Descriere: Cele două echipe au marcat 5+ goluri la pauză
+Context: meci cu foarte multe goluri
+Predicție: În {PROB}% din cazuri, se mai marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 4 - CORNERE FĂRĂ GOL (0-0 la HT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_4.5
+Descriere: {ECHIPA} a avut 5 cornere la pauză
+Context: fără a marca
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_4.6
+Descriere: {ECHIPA} a avut 6 cornere la pauză
+Context: fără a marca
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_4.7
+Descriere: {ECHIPA} a avut 7 cornere la pauză
+Context: fără a marca
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_4.8
+Descriere: {ECHIPA} a avut 8 cornere la pauză
+Context: fără a marca
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+────────────────────────────────────────────────────────────────────────────
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 5 - COMBINAȚIE ȘUTURI + CORNERE (Total acțiuni ofensive)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_5.5
+Descriere: {ECHIPA} a avut TOTAL {NUMAR} ACȚIUNI OFENSIVE ({SUTURI} șuturi + {CORNERE} cornere) la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Se verifică SUMA (șuturi + cornere >= 5)
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_5.6
+Descriere: {ECHIPA} a avut TOTAL {NUMAR} ACȚIUNI OFENSIVE ({SUTURI} șuturi + {CORNERE} cornere) la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Se verifică SUMA (șuturi + cornere >= 6)
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_5.7
+Descriere: {ECHIPA} a avut TOTAL {NUMAR} ACȚIUNI OFENSIVE ({SUTURI} șuturi + {CORNERE} cornere) la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Se verifică SUMA (șuturi + cornere >= 7)
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_5.8
+Descriere: {ECHIPA} a avut TOTAL {NUMAR} ACȚIUNI OFENSIVE ({SUTURI} șuturi + {CORNERE} cornere) la pauză
+Context: dar nu a marcat încă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Se verifică SUMA (șuturi + cornere >= 8)
+────────────────────────────────────────────────────────────────────────────
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 6 - Continuitate cornere
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_6.3
+Descriere: {ECHIPA} a avut 3 cornere și are 3 șuturi pe poartă la pauză
+Context: atacuri eficiente
+Predicție: În {PROB}% din cazuri, {ECHIPA} va mai avea minim 2 cornere in repriza 2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_6.4
+Descriere: {ECHIPA}  a avut 3 cornere și are 4 șuturi pe poartă la pauză
+Context: atacuri eficiente
+Predicție: În {PROB}% din cazuri, {ECHIPA} va mai avea minim 2 cornere in repriza 2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_6.5
+Descriere: {ECHIPA} a avut 2 cornere și are 4 șuturi pe poartă la pauză
+Context: atacuri eficiente
+Predicție: În {PROB}% din cazuri, {ECHIPA} va mai avea minim 2 cornere in repriza 2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_6.6
+Descriere: {ECHIPA}  a avut 2 cornere și are 3 șuturi pe poartă la pauză
+Context: atacuri eficiente
+Predicție: În {PROB}% din cazuri, {ECHIPA} va mai avea minim 2 cornere in repriza 2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_6.7
+Descriere: {ECHIPA}  a avut 4 cornere și are 2 șuturi pe poartă la pauză
+Context: atacuri eficiente
+Predicție: În {PROB}% din cazuri, {ECHIPA} va mai avea minim 2 cornere in repriza 2
+
+────────────────────────────────────────────────────────────────────────────
+PATTERN_6.8
+Descriere: {ECHIPA}  a avut 4 cornere și are 1 șuturi pe poartă la pauză
+Context: atacuri eficiente
+Predicție: În {PROB}% din cazuri, {ECHIPA} va mai avea minim 2 cornere in repriza 2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 7 - CORNERE + SALVĂRI PORTAR (0-0 la HT sau chiar daca cealalta echipa a marcat)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_7.2.1
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvare
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 2 cornere + 1 salvare
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.2.2
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 2 cornere + 2 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.2.3
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 2 cornere + 3 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.3.1
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvare
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 3 cornere + 1 salvare
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.3.2
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 3 cornere + 2 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.3.3
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 3 cornere + 3 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.4.1
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvare
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 4 cornere + 1 salvare
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.4.2
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 4 cornere + 2 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.4.3
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 4 cornere + 3 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.5.1
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvare
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 5 cornere + 1 salvare
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.5.2
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 5 cornere + 2 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_7.5.3
+Descriere: {ECHIPA} a avut {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: șanse clare ratate
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 5 cornere + 3 salvări
+────────────────────────────────────────────────────────────────────────────
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 8 - COMBINAȚIE ȘUTURI + CORNERE + SALVĂRI (0-0 la HT  sau chiar daca cealalta echipa a marcat)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_8.2.1
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvare
+Context: presiune constantă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 2 șuturi + 2 cornere + 1 salvare
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.2.2
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: presiune constantă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 2 șuturi + 2 cornere + 2 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.2.3
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: presiune constantă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 2 șuturi + 2 cornere + 3 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.3.1
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvare
+Context: dominare ofensivă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 3 șuturi + 3 cornere + 1 salvare
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.3.2
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: dominare ofensivă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 3 șuturi + 3 cornere + 2 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.3.3
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: dominare ofensivă
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 3 șuturi + 3 cornere + 3 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.4.1
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvare
+Context: dominare totală
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 4 șuturi + 4 cornere + 1 salvare
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.4.2
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: dominare totală
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 4 șuturi + 4 cornere + 2 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.4.3
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: dominare totală
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 4 șuturi + 4 cornere + 3 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.5.1
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvare
+Context: dominare totală
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 5 șuturi + 5 cornere + 1 salvare
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.5.2
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: dominare totală
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 5 șuturi + 5 cornere + 2 salvări
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_8.5.3
+Descriere: {ECHIPA} a avut {SUTURI} șuturi, {CORNERE} cornere, iar portarul adversar a făcut {SALVARI} salvări
+Context: dominare totală
+Predicție: În {PROB}% din cazuri, {ECHIPA} marchează în R2
+Nota: Minim 5 șuturi + 5 cornere + 3 salvări
+────────────────────────────────────────────────────────────────────────────
+
+[EXISTĂ ȘI VARIANTE 8.X.Y.Z - vezi pattern-checker.js pentru toate combinațiile]
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 CATEGORIA 9 - CARTONAȘE GALBENE (Total meci la HT)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PATTERN_9.3
+Descriere: 3 cartonașe galbene la pauză → va mai fi încă UN CARTONAȘE în R2
+Context: meci intens, faulturi frecvente → probabilitate cartonas suplimentar
+Predicție: În {PROB}% din cazuri, se mai dă un cartonaș în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_9.4
+Descriere: 4 cartonașe galbene la pauză → va mai fi încă UN CARTONAȘE în R2
+Context: meci foarte intens → probabilitate ridicată cartonas suplimentar
+Predicție: În {PROB}% din cazuri, se mai dă un cartonaș în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_9.5
+Descriere: 5 cartonașe galbene la pauză → va mai fi încă UN CARTONAȘE în R2
+Context: meci extrem de intens → probabilitate foarte ridicată cartonas suplimentar
+Predicție: În {PROB}% din cazuri, se mai dă un cartonaș în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_9.6
+Descriere: 6 cartonașe galbene la pauză → va mai fi încă UN CARTONAȘE în R2
+Context: meci cu multe faulturi → aproape sigur încă un cartonas
+Predicție: În {PROB}% din cazuri, se mai dă un cartonaș în R2
+────────────────────────────────────────────────────────────────────────────
+
+PATTERN_9.7
+Descriere: 7+ cartonașe galbene la pauză → va mai fi încă UN CARTONAȘE în R2
+Context: meci foarte dur → foarte probabil încă un cartonas (sau chiar roșu)
+Predicție: În {PROB}% din cazuri, se mai dă un cartonaș în R2
+────────────────────────────────────────────────────────────────────────────
+
+
+═══════════════════════════════════════════════════════════════════════════
+                            📝 NOTIȚE
+═══════════════════════════════════════════════════════════════════════════
+
+VARIABILE DISPONIBILE:
+- {ECHIPA} = numele echipei (ex: Arsenal, Liverpool)
+- {PROB} = probabilitatea (ex: 85%)
+- {SUTURI} = număr șuturi pe poartă
+- {CORNERE} = număr cornere
+- {SALVARI} = număr salvări portar
+- {NUMAR} = total acțiuni (pentru categoria 5)
+
+PATTERN-URI INCOMPLETE ÎN ACEST FIȘIER:
+- Categoria 7: Există multe combinații (7.2.1 până la 7.5.3)
+- Categoria 8: Există FOARTE multe combinații (8.2.1.1 până la 8.5.3.3)
+  Vezi pattern-checker.js pentru lista completă!
+
+MODIFICĂRI SUGERATE:
+1. Schimbă "șanse clare ratate" cu ceva mai optimist?
+2. Rescrie "presiune extremă" cu altceva?
+3. Modifică predicțiile să sune mai convingător?
+
+═══════════════════════════════════════════════════════════════════════════
+
+După ce editezi acest fișier, spune-mi ce ai modificat și voi actualiza
+automat codul în PATTERN_DESCRIPTOR.js!
+
+═══════════════════════════════════════════════════════════════════════════

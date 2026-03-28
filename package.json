@@ -1,0 +1,26 @@
+{
+  "name": "api-smart-5",
+  "version": "1.0.0",
+  "description": "API SMART 5 - Sistem nou de analiză meciuri FlashScore",
+  "main": "MASTER-SMART5.js",
+  "scripts": {
+    "start": "node MASTER-SMART5.js",
+    "test": "node MASTER-SMART5.js --test"
+  },
+  "keywords": [
+    "flashscore",
+    "api",
+    "football",
+    "live-matches",
+    "analytics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^4.2.1",
+    "nodemailer": "^6.9.0",
+    "puppeteer": "^21.0.0",
+    "winston": "^3.19.0",
+    "xlsx": "^0.18.5"
+  }
+}

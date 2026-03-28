@@ -1,0 +1,4471 @@
+[13:59:11] ═══ STEP 1: Phase 1 - Discovery (Puppeteer) ═══
+[13:59:11] Aceasta este cea mai lentă parte - Puppeteer scrape FlashScore
+[13:59:11] Phase 1: ENGLAND: Premier League 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ENGLAND: Premier League
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 13:59:12] 
+============================================================
+[13.03.2026, 13:59:12] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 13:59:12] ============================================================
+[13.03.2026, 13:59:12] 
+   SKIP ENGLAND: Premier League 2021-2022 - descoperit acum 10h
+[13.03.2026, 13:59:12] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[13:59:12]    Pauză 10s între discovery...
+[13:59:22] Phase 1: ENGLAND: Premier League 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ENGLAND: Premier League
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 13:59:23] 
+============================================================
+[13.03.2026, 13:59:23] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 13:59:23] ============================================================
+[13.03.2026, 13:59:23] 
+   SKIP ENGLAND: Premier League 2022-2023 - descoperit acum 10h
+[13.03.2026, 13:59:23] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[13:59:23]    Pauză 10s între discovery...
+[13:59:33] Phase 1: ENGLAND: Premier League 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ENGLAND: Premier League
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 13:59:33] 
+============================================================
+[13.03.2026, 13:59:33] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 13:59:33] ============================================================
+[13.03.2026, 13:59:33] 
+   SKIP ENGLAND: Premier League 2023-2024 - descoperit acum 10h
+[13.03.2026, 13:59:33] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[13:59:33]    Pauză 10s între discovery...
+[13:59:43] Phase 1: ENGLAND: Premier League 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ENGLAND: Premier League
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 13:59:44] 
+============================================================
+[13.03.2026, 13:59:44] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 13:59:44] ============================================================
+[13.03.2026, 13:59:44] 
+   SKIP ENGLAND: Premier League 2024-2025 - descoperit acum 10h
+[13.03.2026, 13:59:44] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[13:59:44]    Pauză 10s între discovery...
+[13:59:54] Phase 1: SPAIN: LaLiga 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SPAIN: LaLiga
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 13:59:55] 
+============================================================
+[13.03.2026, 13:59:55] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 13:59:55] ============================================================
+[13.03.2026, 13:59:55] 
+   SKIP SPAIN: LaLiga 2021-2022 - descoperit acum 10h
+[13.03.2026, 13:59:55] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[13:59:55]    Pauză 10s între discovery...
+[14:00:05] Phase 1: SPAIN: LaLiga 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SPAIN: LaLiga
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:00:06] 
+============================================================
+[13.03.2026, 14:00:06] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:00:06] ============================================================
+[13.03.2026, 14:00:06] 
+   SKIP SPAIN: LaLiga 2022-2023 - descoperit acum 10h
+[13.03.2026, 14:00:06] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:00:06]    Pauză 10s între discovery...
+[14:00:16] Phase 1: SPAIN: LaLiga 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SPAIN: LaLiga
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:00:16] 
+============================================================
+[13.03.2026, 14:00:16] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:00:16] ============================================================
+[13.03.2026, 14:00:16] 
+   SKIP SPAIN: LaLiga 2023-2024 - descoperit acum 10h
+[13.03.2026, 14:00:16] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:00:16]    Pauză 10s între discovery...
+[14:00:26] Phase 1: SPAIN: LaLiga 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SPAIN: LaLiga
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:00:27] 
+============================================================
+[13.03.2026, 14:00:27] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:00:27] ============================================================
+[13.03.2026, 14:00:27] 
+   SKIP SPAIN: LaLiga 2024-2025 - descoperit acum 10h
+[13.03.2026, 14:00:27] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:00:27]    Pauză 10s între discovery...
+[14:00:37] Phase 1: GERMANY: Bundesliga 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GERMANY: Bundesliga
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:00:38] 
+============================================================
+[13.03.2026, 14:00:38] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:00:38] ============================================================
+[13.03.2026, 14:00:38] 
+   SKIP GERMANY: Bundesliga 2021-2022 - descoperit acum 10h
+[13.03.2026, 14:00:38] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:00:38]    Pauză 10s între discovery...
+[14:00:48] Phase 1: GERMANY: Bundesliga 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GERMANY: Bundesliga
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:00:48] 
+============================================================
+[13.03.2026, 14:00:48] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:00:48] ============================================================
+[13.03.2026, 14:00:48] 
+   SKIP GERMANY: Bundesliga 2022-2023 - descoperit acum 10h
+[13.03.2026, 14:00:48] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:00:48]    Pauză 10s între discovery...
+[14:00:58] Phase 1: GERMANY: Bundesliga 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GERMANY: Bundesliga
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:00:59] 
+============================================================
+[13.03.2026, 14:00:59] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:00:59] ============================================================
+[13.03.2026, 14:00:59] 
+   SKIP GERMANY: Bundesliga 2023-2024 - descoperit acum 10h
+[13.03.2026, 14:00:59] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:00:59]    Pauză 10s între discovery...
+[14:01:09] Phase 1: GERMANY: Bundesliga 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GERMANY: Bundesliga
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:01:10] 
+============================================================
+[13.03.2026, 14:01:10] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:01:10] ============================================================
+[13.03.2026, 14:01:10] 
+   SKIP GERMANY: Bundesliga 2024-2025 - descoperit acum 10h
+[13.03.2026, 14:01:10] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:01:10]    Pauză 10s între discovery...
+[14:01:20] Phase 1: ITALY: Serie A 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ITALY: Serie A
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:01:20] 
+============================================================
+[13.03.2026, 14:01:20] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:01:20] ============================================================
+[13.03.2026, 14:01:20] 
+   SKIP ITALY: Serie A 2021-2022 - descoperit acum 10h
+[13.03.2026, 14:01:20] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:01:20]    Pauză 10s între discovery...
+[14:01:30] Phase 1: ITALY: Serie A 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ITALY: Serie A
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:01:31] 
+============================================================
+[13.03.2026, 14:01:31] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:01:31] ============================================================
+[13.03.2026, 14:01:31] 
+   SKIP ITALY: Serie A 2022-2023 - descoperit acum 10h
+[13.03.2026, 14:01:31] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:01:31]    Pauză 10s între discovery...
+[14:01:41] Phase 1: ITALY: Serie A 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ITALY: Serie A
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:01:41] 
+============================================================
+[13.03.2026, 14:01:41] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:01:41] ============================================================
+[13.03.2026, 14:01:41] 
+   SKIP ITALY: Serie A 2023-2024 - descoperit acum 10h
+[13.03.2026, 14:01:41] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:01:41]    Pauză 10s între discovery...
+[14:01:51] Phase 1: ITALY: Serie A 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ITALY: Serie A
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:01:52] 
+============================================================
+[13.03.2026, 14:01:52] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:01:52] ============================================================
+[13.03.2026, 14:01:52] 
+   SKIP ITALY: Serie A 2024-2025 - descoperit acum 10h
+[13.03.2026, 14:01:52] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:01:52]    Pauză 10s între discovery...
+[14:02:02] Phase 1: FRANCE: Ligue 1 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: FRANCE: Ligue 1
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:02:03] 
+============================================================
+[13.03.2026, 14:02:03] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:02:03] ============================================================
+[13.03.2026, 14:02:03] 
+   SKIP FRANCE: Ligue 1 2021-2022 - descoperit acum 10h
+[13.03.2026, 14:02:03] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:02:03]    Pauză 10s între discovery...
+[14:02:13] Phase 1: FRANCE: Ligue 1 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: FRANCE: Ligue 1
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:02:13] 
+============================================================
+[13.03.2026, 14:02:13] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:02:13] ============================================================
+[13.03.2026, 14:02:13] 
+   SKIP FRANCE: Ligue 1 2022-2023 - descoperit acum 10h
+[13.03.2026, 14:02:13] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:02:13]    Pauză 10s între discovery...
+[14:02:23] Phase 1: FRANCE: Ligue 1 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: FRANCE: Ligue 1
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:02:24] 
+============================================================
+[13.03.2026, 14:02:24] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:02:24] ============================================================
+[13.03.2026, 14:02:24] 
+   FAZA 1: Discover matchIds pentru FRANCE: Ligue 1 2023-2024
+[13.03.2026, 14:02:24]    URL: https://www.flashscore.com/football/france/ligue-1-2023-2024/results/
+🚀 Browser Pool: Lansare browser #1 (1/2)
+[13.03.2026, 14:02:34]    Meciuri inițiale în DOM: 109
+[13.03.2026, 14:02:38]    Click 1: 109 → 202 meciuri (+93)
+[13.03.2026, 14:02:42]    Click 2: 202 → 300 meciuri (+98)
+[13.03.2026, 14:02:47]    Click 3: 300 → 310 meciuri (+10)
+[13.03.2026, 14:02:50]    Nu mai exista buton "Show more" dupa 3 clickuri
+[13.03.2026, 14:02:50]    Total meciuri dupa "Show more": 310 (3 clickuri)
+[13.03.2026, 14:02:53]    Gasite 310 meciuri din DOM
+✅ Browser Pool: Browser închis (0/2 rămase)
+[13.03.2026, 14:02:54]    FRANCE: Ligue 1 2023-2024: 310 total, 298 existente, 12 NOI de descarcat
+[13.03.2026, 14:02:57] 
+   FAZA 1 COMPLETA: 12 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 33.1s
+   Descoperite (noi): 12
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:02:57]    Pauză 10s între discovery...
+[14:03:07] Phase 1: FRANCE: Ligue 1 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: FRANCE: Ligue 1
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:03:08] 
+============================================================
+[13.03.2026, 14:03:08] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:03:08] ============================================================
+[13.03.2026, 14:03:08] 
+   FAZA 1: Discover matchIds pentru FRANCE: Ligue 1 2024-2025
+[13.03.2026, 14:03:08]    URL: https://www.flashscore.com/football/france/ligue-1-2024-2025/results/
+🚀 Browser Pool: Lansare browser #1 (1/2)
+[13.03.2026, 14:03:17]    Meciuri inițiale în DOM: 108
+[13.03.2026, 14:03:20]    Click 1: 108 → 201 meciuri (+93)
+[13.03.2026, 14:03:25]    Click 2: 201 → 300 meciuri (+99)
+[13.03.2026, 14:03:30]    Click 3: 300 → 310 meciuri (+10)
+[13.03.2026, 14:03:33]    Nu mai exista buton "Show more" dupa 3 clickuri
+[13.03.2026, 14:03:33]    Total meciuri dupa "Show more": 310 (3 clickuri)
+[13.03.2026, 14:03:36]    Gasite 310 meciuri din DOM
+✅ Browser Pool: Browser închis (0/2 rămase)
+[13.03.2026, 14:03:36]    FRANCE: Ligue 1 2024-2025: 310 total, 304 existente, 6 NOI de descarcat
+[13.03.2026, 14:03:40] 
+   FAZA 1 COMPLETA: 6 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 32.9s
+   Descoperite (noi): 6
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:03:41]    Pauză 10s între discovery...
+[14:03:51] Phase 1: NETHERLANDS: Eredivisie 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: NETHERLANDS: Eredivisie
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:03:51] 
+============================================================
+[13.03.2026, 14:03:51] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:03:51] ============================================================
+[13.03.2026, 14:03:51] 
+   SKIP NETHERLANDS: Eredivisie 2021-2022 - descoperit acum 10h
+[13.03.2026, 14:03:51] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:03:51]    Pauză 10s între discovery...
+[14:04:01] Phase 1: NETHERLANDS: Eredivisie 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: NETHERLANDS: Eredivisie
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:04:02] 
+============================================================
+[13.03.2026, 14:04:02] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:04:02] ============================================================
+[13.03.2026, 14:04:02] 
+   SKIP NETHERLANDS: Eredivisie 2022-2023 - descoperit acum 10h
+[13.03.2026, 14:04:02] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:04:02]    Pauză 10s între discovery...
+[14:04:12] Phase 1: NETHERLANDS: Eredivisie 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: NETHERLANDS: Eredivisie
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:04:12] 
+============================================================
+[13.03.2026, 14:04:12] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:04:12] ============================================================
+[13.03.2026, 14:04:12] 
+   SKIP NETHERLANDS: Eredivisie 2023-2024 - descoperit acum 10h
+[13.03.2026, 14:04:12] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:04:12]    Pauză 10s între discovery...
+[14:04:22] Phase 1: NETHERLANDS: Eredivisie 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: NETHERLANDS: Eredivisie
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:04:23] 
+============================================================
+[13.03.2026, 14:04:23] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:04:23] ============================================================
+[13.03.2026, 14:04:23] 
+   SKIP NETHERLANDS: Eredivisie 2024-2025 - descoperit acum 10h
+[13.03.2026, 14:04:23] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:04:23]    Pauză 10s între discovery...
+[14:04:33] Phase 1: PORTUGAL: Liga Portugal 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: PORTUGAL: Liga Portugal
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:04:34] 
+============================================================
+[13.03.2026, 14:04:34] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:04:34] ============================================================
+[13.03.2026, 14:04:34] 
+   SKIP PORTUGAL: Liga Portugal 2021-2022 - descoperit acum 10h
+[13.03.2026, 14:04:34] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:04:34]    Pauză 10s între discovery...
+[14:04:44] Phase 1: PORTUGAL: Liga Portugal 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: PORTUGAL: Liga Portugal
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:04:44] 
+============================================================
+[13.03.2026, 14:04:44] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:04:44] ============================================================
+[13.03.2026, 14:04:44] 
+   SKIP PORTUGAL: Liga Portugal 2022-2023 - descoperit acum 10h
+[13.03.2026, 14:04:44] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:04:44]    Pauză 10s între discovery...
+[14:04:54] Phase 1: PORTUGAL: Liga Portugal 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: PORTUGAL: Liga Portugal
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:04:55] 
+============================================================
+[13.03.2026, 14:04:55] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:04:55] ============================================================
+[13.03.2026, 14:04:55] 
+   SKIP PORTUGAL: Liga Portugal 2023-2024 - descoperit acum 10h
+[13.03.2026, 14:04:55] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:04:55]    Pauză 10s între discovery...
+[14:05:05] Phase 1: PORTUGAL: Liga Portugal 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: PORTUGAL: Liga Portugal
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:05:05] 
+============================================================
+[13.03.2026, 14:05:05] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:05:05] ============================================================
+[13.03.2026, 14:05:05] 
+   SKIP PORTUGAL: Liga Portugal 2024-2025 - descoperit acum 10h
+[13.03.2026, 14:05:05] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:05:05]    Pauză 10s între discovery...
+[14:05:15] Phase 1: BELGIUM: Regular Season 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: BELGIUM: Regular Season
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:05:16] 
+============================================================
+[13.03.2026, 14:05:16] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:05:16] ============================================================
+[13.03.2026, 14:05:16] 
+   SKIP BELGIUM: Regular Season 2021-2022 - descoperit acum 10h
+[13.03.2026, 14:05:16] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:05:16]    Pauză 10s între discovery...
+[14:05:26] Phase 1: BELGIUM: Regular Season 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: BELGIUM: Regular Season
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:05:27] 
+============================================================
+[13.03.2026, 14:05:27] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:05:27] ============================================================
+[13.03.2026, 14:05:27] 
+   SKIP BELGIUM: Regular Season 2022-2023 - descoperit acum 10h
+[13.03.2026, 14:05:27] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:05:27]    Pauză 10s între discovery...
+[14:05:37] Phase 1: BELGIUM: Regular Season 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: BELGIUM: Regular Season
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:05:37] 
+============================================================
+[13.03.2026, 14:05:37] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:05:37] ============================================================
+[13.03.2026, 14:05:37] 
+   SKIP BELGIUM: Regular Season 2023-2024 - descoperit acum 10h
+[13.03.2026, 14:05:37] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:05:37]    Pauză 10s între discovery...
+[14:05:47] Phase 1: BELGIUM: Regular Season 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: BELGIUM: Regular Season
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:05:48] 
+============================================================
+[13.03.2026, 14:05:48] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:05:48] ============================================================
+[13.03.2026, 14:05:48] 
+   SKIP BELGIUM: Regular Season 2024-2025 - descoperit acum 10h
+[13.03.2026, 14:05:48] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:05:48]    Pauză 10s între discovery...
+[14:05:58] Phase 1: TURKEY: Super Lig 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: TURKEY: Super Lig
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:05:58] 
+============================================================
+[13.03.2026, 14:05:58] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:05:58] ============================================================
+[13.03.2026, 14:05:58] 
+   SKIP TURKEY: Super Lig 2021-2022 - descoperit acum 10h
+[13.03.2026, 14:05:58] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:05:58]    Pauză 10s între discovery...
+[14:06:08] Phase 1: TURKEY: Super Lig 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: TURKEY: Super Lig
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:06:09] 
+============================================================
+[13.03.2026, 14:06:09] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:06:09] ============================================================
+[13.03.2026, 14:06:09] 
+   FAZA 1: Discover matchIds pentru TURKEY: Super Lig 2022-2023
+[13.03.2026, 14:06:09]    URL: https://www.flashscore.com/football/turkey/super-lig-2022-2023/results/
+🚀 Browser Pool: Lansare browser #1 (1/2)
+[13.03.2026, 14:06:18]    Meciuri inițiale în DOM: 108
+[13.03.2026, 14:06:22]    Click 1: 108 → 202 meciuri (+94)
+[13.03.2026, 14:06:27]    Click 2: 202 → 301 meciuri (+99)
+[13.03.2026, 14:06:33]    Click 3: 301 → 342 meciuri (+41)
+[13.03.2026, 14:06:36]    Nu mai exista buton "Show more" dupa 3 clickuri
+[13.03.2026, 14:06:36]    Total meciuri dupa "Show more": 342 (3 clickuri)
+[13.03.2026, 14:06:39]    Gasite 342 meciuri din DOM
+✅ Browser Pool: Browser închis (0/2 rămase)
+[13.03.2026, 14:06:40]    TURKEY: Super Lig 2022-2023: 342 total, 306 existente, 36 NOI de descarcat
+[13.03.2026, 14:06:45] 
+   FAZA 1 COMPLETA: 36 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 36.6s
+   Descoperite (noi): 36
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:06:46]    Pauză 10s între discovery...
+[14:06:56] Phase 1: TURKEY: Super Lig 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: TURKEY: Super Lig
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:06:56] 
+============================================================
+[13.03.2026, 14:06:56] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:06:56] ============================================================
+[13.03.2026, 14:06:56] 
+   SKIP TURKEY: Super Lig 2023-2024 - descoperit acum 10h
+[13.03.2026, 14:06:56] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:06:56]    Pauză 10s între discovery...
+[14:07:06] Phase 1: TURKEY: Super Lig 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: TURKEY: Super Lig
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:07:07] 
+============================================================
+[13.03.2026, 14:07:07] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:07:07] ============================================================
+[13.03.2026, 14:07:07] 
+   SKIP TURKEY: Super Lig 2024-2025 - descoperit acum 10h
+[13.03.2026, 14:07:07] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:07:07]    Pauză 10s între discovery...
+[14:07:17] Phase 1: SCOTLAND: Premiership 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SCOTLAND: Premiership
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:07:17] 
+============================================================
+[13.03.2026, 14:07:17] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:07:17] ============================================================
+[13.03.2026, 14:07:17] 
+   SKIP SCOTLAND: Premiership 2021-2022 - descoperit acum 10h
+[13.03.2026, 14:07:17] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:07:17]    Pauză 10s între discovery...
+[14:07:27] Phase 1: SCOTLAND: Premiership 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SCOTLAND: Premiership
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:07:28] 
+============================================================
+[13.03.2026, 14:07:28] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:07:28] ============================================================
+[13.03.2026, 14:07:28] 
+   SKIP SCOTLAND: Premiership 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:07:28] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:07:28]    Pauză 10s între discovery...
+[14:07:38] Phase 1: SCOTLAND: Premiership 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SCOTLAND: Premiership
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:07:39] 
+============================================================
+[13.03.2026, 14:07:39] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:07:39] ============================================================
+[13.03.2026, 14:07:39] 
+   SKIP SCOTLAND: Premiership 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:07:39] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:07:39]    Pauză 10s între discovery...
+[14:07:49] Phase 1: SCOTLAND: Premiership 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SCOTLAND: Premiership
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:07:49] 
+============================================================
+[13.03.2026, 14:07:49] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:07:49] ============================================================
+[13.03.2026, 14:07:49] 
+   SKIP SCOTLAND: Premiership 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:07:49] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:07:49]    Pauză 10s între discovery...
+[14:07:59] Phase 1: AUSTRIA: Bundesliga 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: AUSTRIA: Bundesliga
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:08:00] 
+============================================================
+[13.03.2026, 14:08:00] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:08:00] ============================================================
+[13.03.2026, 14:08:00] 
+   SKIP AUSTRIA: Bundesliga 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:08:00] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:08:00]    Pauză 10s între discovery...
+[14:08:10] Phase 1: AUSTRIA: Bundesliga 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: AUSTRIA: Bundesliga
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:08:10] 
+============================================================
+[13.03.2026, 14:08:10] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:08:10] ============================================================
+[13.03.2026, 14:08:10] 
+   SKIP AUSTRIA: Bundesliga 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:08:10] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:08:10]    Pauză 10s între discovery...
+[14:08:20] Phase 1: AUSTRIA: Bundesliga 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: AUSTRIA: Bundesliga
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:08:21] 
+============================================================
+[13.03.2026, 14:08:21] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:08:21] ============================================================
+[13.03.2026, 14:08:21] 
+   SKIP AUSTRIA: Bundesliga 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:08:21] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:08:21]    Pauză 10s între discovery...
+[14:08:31] Phase 1: AUSTRIA: Bundesliga 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: AUSTRIA: Bundesliga
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:08:32] 
+============================================================
+[13.03.2026, 14:08:32] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:08:32] ============================================================
+[13.03.2026, 14:08:32] 
+   SKIP AUSTRIA: Bundesliga 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:08:32] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:08:32]    Pauză 10s între discovery...
+[14:08:42] Phase 1: DENMARK: Superliga 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: DENMARK: Superliga
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:08:42] 
+============================================================
+[13.03.2026, 14:08:42] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:08:42] ============================================================
+[13.03.2026, 14:08:42] 
+   SKIP DENMARK: Superliga 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:08:42] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:08:42]    Pauză 10s între discovery...
+[14:08:52] Phase 1: DENMARK: Superliga 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: DENMARK: Superliga
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:08:53] 
+============================================================
+[13.03.2026, 14:08:53] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:08:53] ============================================================
+[13.03.2026, 14:08:53] 
+   SKIP DENMARK: Superliga 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:08:53] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:08:53]    Pauză 10s între discovery...
+[14:09:03] Phase 1: DENMARK: Superliga 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: DENMARK: Superliga
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:09:03] 
+============================================================
+[13.03.2026, 14:09:03] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:09:03] ============================================================
+[13.03.2026, 14:09:03] 
+   SKIP DENMARK: Superliga 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:09:03] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:09:03]    Pauză 10s între discovery...
+[14:09:13] Phase 1: DENMARK: Superliga 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: DENMARK: Superliga
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:09:14] 
+============================================================
+[13.03.2026, 14:09:14] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:09:14] ============================================================
+[13.03.2026, 14:09:14] 
+   SKIP DENMARK: Superliga 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:09:14] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:09:14]    Pauză 10s între discovery...
+[14:09:24] Phase 1: SWITZERLAND: Super League 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SWITZERLAND: Super League
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:09:25] 
+============================================================
+[13.03.2026, 14:09:25] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:09:25] ============================================================
+[13.03.2026, 14:09:25] 
+   SKIP SWITZERLAND: Super League 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:09:25] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:09:25]    Pauză 10s între discovery...
+[14:09:35] Phase 1: SWITZERLAND: Super League 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SWITZERLAND: Super League
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:09:35] 
+============================================================
+[13.03.2026, 14:09:35] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:09:35] ============================================================
+[13.03.2026, 14:09:35] 
+   SKIP SWITZERLAND: Super League 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:09:35] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:09:35]    Pauză 10s între discovery...
+[14:09:45] Phase 1: SWITZERLAND: Super League 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SWITZERLAND: Super League
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:09:46] 
+============================================================
+[13.03.2026, 14:09:46] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:09:46] ============================================================
+[13.03.2026, 14:09:46] 
+   SKIP SWITZERLAND: Super League 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:09:46] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:09:46]    Pauză 10s între discovery...
+[14:09:56] Phase 1: SWITZERLAND: Super League 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SWITZERLAND: Super League
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:09:56] 
+============================================================
+[13.03.2026, 14:09:56] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:09:56] ============================================================
+[13.03.2026, 14:09:56] 
+   SKIP SWITZERLAND: Super League 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:09:56] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:09:56]    Pauză 10s între discovery...
+[14:10:07] Phase 1: GREECE: Super League 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GREECE: Super League
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:10:07] 
+============================================================
+[13.03.2026, 14:10:07] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:10:07] ============================================================
+[13.03.2026, 14:10:07] 
+   SKIP GREECE: Super League 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:10:07] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:10:07]    Pauză 10s între discovery...
+[14:10:17] Phase 1: GREECE: Super League 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GREECE: Super League
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:10:18] 
+============================================================
+[13.03.2026, 14:10:18] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:10:18] ============================================================
+[13.03.2026, 14:10:18] 
+   SKIP GREECE: Super League 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:10:18] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:10:18]    Pauză 10s între discovery...
+[14:10:28] Phase 1: GREECE: Super League 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GREECE: Super League
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:10:28] 
+============================================================
+[13.03.2026, 14:10:28] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:10:28] ============================================================
+[13.03.2026, 14:10:28] 
+   SKIP GREECE: Super League 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:10:28] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:10:28]    Pauză 10s între discovery...
+[14:10:38] Phase 1: GREECE: Super League 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GREECE: Super League
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:10:39] 
+============================================================
+[13.03.2026, 14:10:39] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:10:39] ============================================================
+[13.03.2026, 14:10:39] 
+   SKIP GREECE: Super League 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:10:39] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:10:39]    Pauză 10s între discovery...
+[14:10:49] Phase 1: ROMANIA: Superliga 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ROMANIA: Superliga
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:10:49] 
+============================================================
+[13.03.2026, 14:10:49] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:10:49] ============================================================
+[13.03.2026, 14:10:49] 
+   SKIP ROMANIA: Superliga 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:10:49] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:10:49]    Pauză 10s între discovery...
+[14:10:59] Phase 1: ROMANIA: Superliga 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ROMANIA: Superliga
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:11:00] 
+============================================================
+[13.03.2026, 14:11:00] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:11:00] ============================================================
+[13.03.2026, 14:11:00] 
+   SKIP ROMANIA: Superliga 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:11:00] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:11:00]    Pauză 10s între discovery...
+[14:11:10] Phase 1: ROMANIA: Superliga 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ROMANIA: Superliga
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:11:11] 
+============================================================
+[13.03.2026, 14:11:11] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:11:11] ============================================================
+[13.03.2026, 14:11:11] 
+   SKIP ROMANIA: Superliga 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:11:11] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:11:11]    Pauză 10s între discovery...
+[14:11:21] Phase 1: ROMANIA: Superliga 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ROMANIA: Superliga
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:11:21] 
+============================================================
+[13.03.2026, 14:11:21] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:11:21] ============================================================
+[13.03.2026, 14:11:21] 
+   SKIP ROMANIA: Superliga 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:11:21] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:11:21]    Pauză 10s între discovery...
+[14:11:31] Phase 1: SERBIA: Mozzart Bet Super Liga 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SERBIA: Mozzart Bet Super Liga
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:11:32] 
+============================================================
+[13.03.2026, 14:11:32] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:11:32] ============================================================
+[13.03.2026, 14:11:32] 
+   SKIP SERBIA: Mozzart Bet Super Liga 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:11:32] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:11:32]    Pauză 10s între discovery...
+[14:11:42] Phase 1: SERBIA: Mozzart Bet Super Liga 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SERBIA: Mozzart Bet Super Liga
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:11:43] 
+============================================================
+[13.03.2026, 14:11:43] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:11:43] ============================================================
+[13.03.2026, 14:11:43] 
+   SKIP SERBIA: Mozzart Bet Super Liga 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:11:43] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:11:43]    Pauză 10s între discovery...
+[14:11:53] Phase 1: SERBIA: Mozzart Bet Super Liga 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SERBIA: Mozzart Bet Super Liga
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:11:53] 
+============================================================
+[13.03.2026, 14:11:53] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:11:53] ============================================================
+[13.03.2026, 14:11:53] 
+   SKIP SERBIA: Mozzart Bet Super Liga 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:11:53] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:11:53]    Pauză 10s între discovery...
+[14:12:03] Phase 1: SERBIA: Mozzart Bet Super Liga 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SERBIA: Mozzart Bet Super Liga
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:12:04] 
+============================================================
+[13.03.2026, 14:12:04] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:12:04] ============================================================
+[13.03.2026, 14:12:04] 
+   SKIP SERBIA: Mozzart Bet Super Liga 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:12:04] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:12:04]    Pauză 10s între discovery...
+[14:12:14] Phase 1: POLAND: Ekstraklasa 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: POLAND: Ekstraklasa
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:12:15] 
+============================================================
+[13.03.2026, 14:12:15] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:12:15] ============================================================
+[13.03.2026, 14:12:15] 
+   SKIP POLAND: Ekstraklasa 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:12:15] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:12:15]    Pauză 10s între discovery...
+[14:12:25] Phase 1: POLAND: Ekstraklasa 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: POLAND: Ekstraklasa
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:12:25] 
+============================================================
+[13.03.2026, 14:12:25] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:12:25] ============================================================
+[13.03.2026, 14:12:25] 
+   SKIP POLAND: Ekstraklasa 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:12:25] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:12:25]    Pauză 10s între discovery...
+[14:12:35] Phase 1: POLAND: Ekstraklasa 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: POLAND: Ekstraklasa
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:12:36] 
+============================================================
+[13.03.2026, 14:12:36] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:12:36] ============================================================
+[13.03.2026, 14:12:36] 
+   SKIP POLAND: Ekstraklasa 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:12:36] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:12:36]    Pauză 10s între discovery...
+[14:12:46] Phase 1: POLAND: Ekstraklasa 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: POLAND: Ekstraklasa
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:12:46] 
+============================================================
+[13.03.2026, 14:12:46] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:12:46] ============================================================
+[13.03.2026, 14:12:46] 
+   FAZA 1: Discover matchIds pentru POLAND: Ekstraklasa 2024-2025
+[13.03.2026, 14:12:46]    URL: https://www.flashscore.com/football/poland/ekstraklasa-2024-2025/results/
+🚀 Browser Pool: Lansare browser #1 (1/2)
+[13.03.2026, 14:12:54]    Meciuri inițiale în DOM: 106
+[13.03.2026, 14:12:57]    Click 1: 106 → 200 meciuri (+94)
+[13.03.2026, 14:13:02]    Click 2: 200 → 301 meciuri (+101)
+[13.03.2026, 14:13:08]    Click 3: 301 → 306 meciuri (+5)
+[13.03.2026, 14:13:11]    Nu mai exista buton "Show more" dupa 3 clickuri
+[13.03.2026, 14:13:11]    Total meciuri dupa "Show more": 306 (3 clickuri)
+[13.03.2026, 14:13:14]    Gasite 306 meciuri din DOM
+✅ Browser Pool: Browser închis (0/2 rămase)
+[13.03.2026, 14:13:15]    POLAND: Ekstraklasa 2024-2025: 306 total, 306 existente, 0 NOI de descarcat
+[13.03.2026, 14:13:20] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 33.2s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:13:20]    Pauză 10s între discovery...
+[14:13:30] Phase 1: ENGLAND: Championship 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ENGLAND: Championship
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:13:30] 
+============================================================
+[13.03.2026, 14:13:30] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:13:30] ============================================================
+[13.03.2026, 14:13:30] 
+   SKIP ENGLAND: Championship 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:13:30] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:13:30]    Pauză 10s între discovery...
+[14:13:40] Phase 1: ENGLAND: Championship 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ENGLAND: Championship
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:13:41] 
+============================================================
+[13.03.2026, 14:13:41] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:13:41] ============================================================
+[13.03.2026, 14:13:41] 
+   SKIP ENGLAND: Championship 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:13:41] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:13:41]    Pauză 10s între discovery...
+[14:13:51] Phase 1: ENGLAND: Championship 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ENGLAND: Championship
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:13:52] 
+============================================================
+[13.03.2026, 14:13:52] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:13:52] ============================================================
+[13.03.2026, 14:13:52] 
+   SKIP ENGLAND: Championship 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:13:52] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:13:52]    Pauză 10s între discovery...
+[14:14:02] Phase 1: ENGLAND: Championship 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: ENGLAND: Championship
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:14:02] 
+============================================================
+[13.03.2026, 14:14:02] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:14:02] ============================================================
+[13.03.2026, 14:14:02] 
+   SKIP ENGLAND: Championship 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:14:02] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:14:02]    Pauză 10s între discovery...
+[14:14:12] Phase 1: GERMANY: 2. Bundesliga 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GERMANY: 2. Bundesliga
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:14:13] 
+============================================================
+[13.03.2026, 14:14:13] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:14:13] ============================================================
+[13.03.2026, 14:14:13] 
+   SKIP GERMANY: 2. Bundesliga 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:14:13] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:14:13]    Pauză 10s între discovery...
+[14:14:23] Phase 1: GERMANY: 2. Bundesliga 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GERMANY: 2. Bundesliga
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:14:24] 
+============================================================
+[13.03.2026, 14:14:24] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:14:24] ============================================================
+[13.03.2026, 14:14:24] 
+   SKIP GERMANY: 2. Bundesliga 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:14:24] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:14:24]    Pauză 10s între discovery...
+[14:14:34] Phase 1: GERMANY: 2. Bundesliga 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GERMANY: 2. Bundesliga
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:14:34] 
+============================================================
+[13.03.2026, 14:14:34] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:14:34] ============================================================
+[13.03.2026, 14:14:34] 
+   SKIP GERMANY: 2. Bundesliga 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:14:34] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:14:34]    Pauză 10s între discovery...
+[14:14:44] Phase 1: GERMANY: 2. Bundesliga 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: GERMANY: 2. Bundesliga
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:14:45] 
+============================================================
+[13.03.2026, 14:14:45] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:14:45] ============================================================
+[13.03.2026, 14:14:45] 
+   SKIP GERMANY: 2. Bundesliga 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:14:45] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:14:45]    Pauză 10s între discovery...
+[14:14:55] Phase 1: SPAIN: LaLiga2 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SPAIN: LaLiga2
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:14:55] 
+============================================================
+[13.03.2026, 14:14:55] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:14:55] ============================================================
+[13.03.2026, 14:14:55] 
+   SKIP SPAIN: LaLiga2 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:14:55] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:14:56]    Pauză 10s între discovery...
+[14:15:06] Phase 1: SPAIN: LaLiga2 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SPAIN: LaLiga2
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:15:06] 
+============================================================
+[13.03.2026, 14:15:06] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:15:06] ============================================================
+[13.03.2026, 14:15:06] 
+   SKIP SPAIN: LaLiga2 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:15:06] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:15:06]    Pauză 10s între discovery...
+[14:15:16] Phase 1: SPAIN: LaLiga2 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SPAIN: LaLiga2
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:15:17] 
+============================================================
+[13.03.2026, 14:15:17] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:15:17] ============================================================
+[13.03.2026, 14:15:17] 
+   SKIP SPAIN: LaLiga2 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:15:17] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:15:17]    Pauză 10s între discovery...
+[14:15:27] Phase 1: SPAIN: LaLiga2 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SPAIN: LaLiga2
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:15:28] 
+============================================================
+[13.03.2026, 14:15:28] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:15:28] ============================================================
+[13.03.2026, 14:15:28] 
+   SKIP SPAIN: LaLiga2 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:15:28] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:15:28]    Pauză 10s între discovery...
+[14:15:38] Phase 1: EUROPE: Champions League 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 06:22:45
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Champions League
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:15:38] 
+============================================================
+[13.03.2026, 14:15:38] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:15:38] ============================================================
+[13.03.2026, 14:15:38] 
+   SKIP EUROPE: Champions League 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:15:38] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:15:38]    Pauză 10s între discovery...
+[14:15:48] Phase 1: EUROPE: Champions League 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:15:29
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Champions League
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:15:49] 
+============================================================
+[13.03.2026, 14:15:49] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:15:49] ============================================================
+[13.03.2026, 14:15:49] 
+   SKIP EUROPE: Champions League 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:15:49] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:15:49]    Pauză 10s între discovery...
+[14:15:59] Phase 1: EUROPE: Champions League 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:15:29
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Champions League
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:16:00] 
+============================================================
+[13.03.2026, 14:16:00] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:16:00] ============================================================
+[13.03.2026, 14:16:00] 
+   SKIP EUROPE: Champions League 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:16:00] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:16:00]    Pauză 10s între discovery...
+[14:16:10] Phase 1: EUROPE: Champions League 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:15:29
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Champions League
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:16:10] 
+============================================================
+[13.03.2026, 14:16:10] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:16:10] ============================================================
+[13.03.2026, 14:16:10] 
+   SKIP EUROPE: Champions League 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:16:10] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:16:10]    Pauză 10s între discovery...
+[14:16:20] Phase 1: EUROPE: Europa League 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:15:29
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Europa League
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:16:21] 
+============================================================
+[13.03.2026, 14:16:21] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:16:21] ============================================================
+[13.03.2026, 14:16:21] 
+   SKIP EUROPE: Europa League 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:16:21] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:16:21]    Pauză 10s între discovery...
+[14:16:31] Phase 1: EUROPE: Europa League 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:15:29
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Europa League
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:16:32] 
+============================================================
+[13.03.2026, 14:16:32] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:16:32] ============================================================
+[13.03.2026, 14:16:32] 
+   SKIP EUROPE: Europa League 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:16:32] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:16:32]    Pauză 10s între discovery...
+[14:16:42] Phase 1: EUROPE: Europa League 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Europa League
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:16:43] 
+============================================================
+[13.03.2026, 14:16:43] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:16:43] ============================================================
+[13.03.2026, 14:16:43] 
+   SKIP EUROPE: Europa League 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:16:43] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:16:43]    Pauză 10s între discovery...
+[14:16:53] Phase 1: EUROPE: Europa League 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Europa League
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:16:53] 
+============================================================
+[13.03.2026, 14:16:53] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:16:53] ============================================================
+[13.03.2026, 14:16:53] 
+   SKIP EUROPE: Europa League 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:16:53] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:16:53]    Pauză 10s între discovery...
+[14:17:03] Phase 1: EUROPE: Conference League 2021-2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Conference League
+   Sezon: 2021-2022
+============================================================
+[13.03.2026, 14:17:04] 
+============================================================
+[13.03.2026, 14:17:04] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:17:04] ============================================================
+[13.03.2026, 14:17:04] 
+   SKIP EUROPE: Conference League 2021-2022 - descoperit acum 9h
+[13.03.2026, 14:17:04] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:17:04]    Pauză 10s între discovery...
+[14:17:14] Phase 1: EUROPE: Conference League 2022-2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Conference League
+   Sezon: 2022-2023
+============================================================
+[13.03.2026, 14:17:15] 
+============================================================
+[13.03.2026, 14:17:15] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:17:15] ============================================================
+[13.03.2026, 14:17:15] 
+   SKIP EUROPE: Conference League 2022-2023 - descoperit acum 9h
+[13.03.2026, 14:17:15] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:17:15]    Pauză 10s între discovery...
+[14:17:25] Phase 1: EUROPE: Conference League 2023-2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Conference League
+   Sezon: 2023-2024
+============================================================
+[13.03.2026, 14:17:25] 
+============================================================
+[13.03.2026, 14:17:25] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:17:25] ============================================================
+[13.03.2026, 14:17:25] 
+   SKIP EUROPE: Conference League 2023-2024 - descoperit acum 9h
+[13.03.2026, 14:17:25] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:17:25]    Pauză 10s între discovery...
+[14:17:35] Phase 1: EUROPE: Conference League 2024-2025
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: EUROPE: Conference League
+   Sezon: 2024-2025
+============================================================
+[13.03.2026, 14:17:36] 
+============================================================
+[13.03.2026, 14:17:36] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:17:36] ============================================================
+[13.03.2026, 14:17:36] 
+   SKIP EUROPE: Conference League 2024-2025 - descoperit acum 9h
+[13.03.2026, 14:17:36] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:17:36]    Pauză 10s între discovery...
+[14:17:46] Phase 1: NORWAY: Eliteserien 2021
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: NORWAY: Eliteserien
+   Sezon: 2021
+============================================================
+[13.03.2026, 14:17:46] 
+============================================================
+[13.03.2026, 14:17:46] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:17:46] ============================================================
+[13.03.2026, 14:17:46] 
+   SKIP NORWAY: Eliteserien 2021 - descoperit acum 9h
+[13.03.2026, 14:17:46] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:17:46]    Pauză 10s...
+[14:17:56] Phase 1: NORWAY: Eliteserien 2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: NORWAY: Eliteserien
+   Sezon: 2022
+============================================================
+[13.03.2026, 14:17:57] 
+============================================================
+[13.03.2026, 14:17:57] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:17:57] ============================================================
+[13.03.2026, 14:17:57] 
+   SKIP NORWAY: Eliteserien 2022 - descoperit acum 9h
+[13.03.2026, 14:17:57] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:17:57]    Pauză 10s...
+[14:18:07] Phase 1: NORWAY: Eliteserien 2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: NORWAY: Eliteserien
+   Sezon: 2023
+============================================================
+[13.03.2026, 14:18:08] 
+============================================================
+[13.03.2026, 14:18:08] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:18:08] ============================================================
+[13.03.2026, 14:18:08] 
+   SKIP NORWAY: Eliteserien 2023 - descoperit acum 9h
+[13.03.2026, 14:18:08] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:18:08]    Pauză 10s...
+[14:18:18] Phase 1: NORWAY: Eliteserien 2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: NORWAY: Eliteserien
+   Sezon: 2024
+============================================================
+[13.03.2026, 14:18:18] 
+============================================================
+[13.03.2026, 14:18:18] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:18:18] ============================================================
+[13.03.2026, 14:18:18] 
+   SKIP NORWAY: Eliteserien 2024 - descoperit acum 9h
+[13.03.2026, 14:18:18] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:18:18]    Pauză 10s...
+[14:18:28] Phase 1: SWEDEN: Allsvenskan 2021
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SWEDEN: Allsvenskan
+   Sezon: 2021
+============================================================
+[13.03.2026, 14:18:29] 
+============================================================
+[13.03.2026, 14:18:29] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:18:29] ============================================================
+[13.03.2026, 14:18:29] 
+   SKIP SWEDEN: Allsvenskan 2021 - descoperit acum 9h
+[13.03.2026, 14:18:29] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:18:29]    Pauză 10s...
+[14:18:39] Phase 1: SWEDEN: Allsvenskan 2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SWEDEN: Allsvenskan
+   Sezon: 2022
+============================================================
+[13.03.2026, 14:18:40] 
+============================================================
+[13.03.2026, 14:18:40] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:18:40] ============================================================
+[13.03.2026, 14:18:40] 
+   SKIP SWEDEN: Allsvenskan 2022 - descoperit acum 9h
+[13.03.2026, 14:18:40] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:18:40]    Pauză 10s...
+[14:18:50] Phase 1: SWEDEN: Allsvenskan 2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SWEDEN: Allsvenskan
+   Sezon: 2023
+============================================================
+[13.03.2026, 14:18:50] 
+============================================================
+[13.03.2026, 14:18:50] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:18:50] ============================================================
+[13.03.2026, 14:18:50] 
+   SKIP SWEDEN: Allsvenskan 2023 - descoperit acum 9h
+[13.03.2026, 14:18:50] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:18:50]    Pauză 10s...
+[14:19:00] Phase 1: SWEDEN: Allsvenskan 2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: SWEDEN: Allsvenskan
+   Sezon: 2024
+============================================================
+[13.03.2026, 14:19:01] 
+============================================================
+[13.03.2026, 14:19:01] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:19:01] ============================================================
+[13.03.2026, 14:19:01] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:19:01]    Pauză 10s...
+[14:19:11] Phase 1: BRAZIL: Serie A 2021
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: BRAZIL: Serie A
+   Sezon: 2021
+============================================================
+[13.03.2026, 14:19:12] 
+============================================================
+[13.03.2026, 14:19:12] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:19:12] ============================================================
+[13.03.2026, 14:19:12] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:19:12]    Pauză 10s...
+[14:19:22] Phase 1: BRAZIL: Serie A 2022
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: BRAZIL: Serie A
+   Sezon: 2022
+============================================================
+[13.03.2026, 14:19:22] 
+============================================================
+[13.03.2026, 14:19:22] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:19:22] ============================================================
+[13.03.2026, 14:19:22] 
+   SKIP BRAZIL: Serie A 2022 - descoperit acum 9h
+[13.03.2026, 14:19:22] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:19:22]    Pauză 10s...
+[14:19:32] Phase 1: BRAZIL: Serie A 2023
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: BRAZIL: Serie A
+   Sezon: 2023
+============================================================
+[13.03.2026, 14:19:33] 
+============================================================
+[13.03.2026, 14:19:33] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:19:33] ============================================================
+[13.03.2026, 14:19:33] 
+   SKIP BRAZIL: Serie A 2023 - descoperit acum 9h
+[13.03.2026, 14:19:33] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:19:33]    Pauză 10s...
+[14:19:43] Phase 1: BRAZIL: Serie A 2024
+🔧 Browser Pool inițializat: MAX 2 browsere simultan (GC la fiecare 50 lansări)
+✅ Încărcat JSON PROCENTE AUTOACTUAL
+   Campionate: 26
+   Data actualizare: vineri, 13 martie 2026 la 14:16:15
+
+
+============================================================
+   UNIVERSAL BACKFILL - Completare Meciuri Lipsa
+============================================================
+   Faza: 1
+   Batch: 50
+   Liga: BRAZIL: Serie A
+   Sezon: 2024
+============================================================
+[13.03.2026, 14:19:44] 
+============================================================
+[13.03.2026, 14:19:44] FAZA 1: DISCOVER MATCH IDs (Puppeteer)
+[13.03.2026, 14:19:44] ============================================================
+[13.03.2026, 14:19:44] 
+   SKIP BRAZIL: Serie A 2024 - descoperit acum 9h
+[13.03.2026, 14:19:44] 
+   FAZA 1 COMPLETA: 0 matchId-uri noi descoperite
+
+============================================================
+   SUMAR FINAL
+============================================================
+   Durata: 0.0s
+   Descoperite (noi): 0
+   Extrase: 0
+   Salvate cu succes: 0
+   Duplicate (skip): 0
+   Skip sezon gresit: 0
+   Date invalide: 0
+   Erori: 0
+============================================================
+[14:19:44]    Pauză 10s...
+[14:19:54] ✅ Phase 1 completat: 104 sesiuni de discovery
+[14:19:54] ═══ STEP 2: Phase 2 - Extraction (HTTP API) ═══
+[14:19:54] 
+[14:19:54] ━━━ Phase 2 - Iterația 1/30 (batch 500) ━━━
+[14:25:11]    Procesate: 54 meciuri
+[14:25:11]    Pauză 15s între batch-uri...
+[14:25:26] 
+[14:25:26] ━━━ Phase 2 - Iterația 2/30 (batch 500) ━━━
+[14:25:27] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:25:28]    Încă 125 meciuri pending - continuăm...
+[14:25:28]    Pauză 15s între batch-uri...
+[14:25:43] 
+[14:25:43] ━━━ Phase 2 - Iterația 3/30 (batch 500) ━━━
+[14:25:44] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:25:44]    Încă 125 meciuri pending - continuăm...
+[14:25:44]    Pauză 15s între batch-uri...
+[14:25:59] 
+[14:25:59] ━━━ Phase 2 - Iterația 4/30 (batch 500) ━━━
+[14:26:01] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:26:01]    Încă 125 meciuri pending - continuăm...
+[14:26:01]    Pauză 15s între batch-uri...
+[14:26:16] 
+[14:26:16] ━━━ Phase 2 - Iterația 5/30 (batch 500) ━━━
+[14:26:18] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:26:18]    Încă 125 meciuri pending - continuăm...
+[14:26:18]    Pauză 15s între batch-uri...
+[14:26:33] 
+[14:26:33] ━━━ Phase 2 - Iterația 6/30 (batch 500) ━━━
+[14:26:34] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:26:35]    Încă 125 meciuri pending - continuăm...
+[14:26:35]    Pauză 15s între batch-uri...
+[14:26:50] 
+[14:26:50] ━━━ Phase 2 - Iterația 7/30 (batch 500) ━━━
+[14:26:51] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:26:51]    Încă 125 meciuri pending - continuăm...
+[14:26:51]    Pauză 15s între batch-uri...
+[14:27:06] 
+[14:27:06] ━━━ Phase 2 - Iterația 8/30 (batch 500) ━━━
+[14:27:08] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:27:08]    Încă 125 meciuri pending - continuăm...
+[14:27:08]    Pauză 15s între batch-uri...
+[14:27:23] 
+[14:27:23] ━━━ Phase 2 - Iterația 9/30 (batch 500) ━━━
+[14:27:25] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:27:25]    Încă 125 meciuri pending - continuăm...
+[14:27:25]    Pauză 15s între batch-uri...
+[14:27:40] 
+[14:27:40] ━━━ Phase 2 - Iterația 10/30 (batch 500) ━━━
+[14:27:41] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:27:41]    Încă 125 meciuri pending - continuăm...
+[14:27:41]    Pauză 15s între batch-uri...
+[14:27:56] 
+[14:27:56] ━━━ Phase 2 - Iterația 11/30 (batch 500) ━━━
+[14:27:58] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:27:58]    Încă 125 meciuri pending - continuăm...
+[14:27:58]    Pauză 15s între batch-uri...
+[14:28:13] 
+[14:28:13] ━━━ Phase 2 - Iterația 12/30 (batch 500) ━━━
+[14:28:15] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:28:15]    Încă 125 meciuri pending - continuăm...
+[14:28:15]    Pauză 15s între batch-uri...
+[14:28:30] 
+[14:28:30] ━━━ Phase 2 - Iterația 13/30 (batch 500) ━━━
+[14:28:31] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:28:32]    Încă 125 meciuri pending - continuăm...
+[14:28:32]    Pauză 15s între batch-uri...
+[14:28:47] 
+[14:28:47] ━━━ Phase 2 - Iterația 14/30 (batch 500) ━━━
+[14:28:48] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:28:48]    Încă 125 meciuri pending - continuăm...
+[14:28:48]    Pauză 15s între batch-uri...
+[14:29:03] 
+[14:29:03] ━━━ Phase 2 - Iterația 15/30 (batch 500) ━━━
+[14:29:05] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:29:05]    Încă 125 meciuri pending - continuăm...
+[14:29:05]    Pauză 15s între batch-uri...
+[14:29:20] 
+[14:29:20] ━━━ Phase 2 - Iterația 16/30 (batch 500) ━━━
+[14:29:22] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:29:22]    Încă 125 meciuri pending - continuăm...
+[14:29:22]    Pauză 15s între batch-uri...
+[14:29:37] 
+[14:29:37] ━━━ Phase 2 - Iterația 17/30 (batch 500) ━━━
+[14:29:38] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:29:38]    Încă 125 meciuri pending - continuăm...
+[14:29:38]    Pauză 15s între batch-uri...
+[14:29:53] 
+[14:29:53] ━━━ Phase 2 - Iterația 18/30 (batch 500) ━━━
+[14:29:55] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:29:55]    Încă 125 meciuri pending - continuăm...
+[14:29:55]    Pauză 15s între batch-uri...
+[14:30:10] 
+[14:30:10] ━━━ Phase 2 - Iterația 19/30 (batch 500) ━━━
+[14:30:12] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:30:12]    Încă 125 meciuri pending - continuăm...
+[14:30:12]    Pauză 15s între batch-uri...
+[14:30:27] 
+[14:30:27] ━━━ Phase 2 - Iterația 20/30 (batch 500) ━━━
+[14:30:29] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:30:29]    Încă 125 meciuri pending - continuăm...
+[14:30:29]    Pauză 15s între batch-uri...
+[14:30:44] 
+[14:30:44] ━━━ Phase 2 - Iterația 21/30 (batch 500) ━━━
+[14:30:46] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:30:46]    Încă 125 meciuri pending - continuăm...
+[14:30:46]    Pauză 15s între batch-uri...
+[14:31:01] 
+[14:31:01] ━━━ Phase 2 - Iterația 22/30 (batch 500) ━━━
+[14:31:02] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:31:02]    Încă 125 meciuri pending - continuăm...
+[14:31:02]    Pauză 15s între batch-uri...
+[14:31:17] 
+[14:31:17] ━━━ Phase 2 - Iterația 23/30 (batch 500) ━━━
+[14:31:19] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:31:19]    Încă 125 meciuri pending - continuăm...
+[14:31:19]    Pauză 15s între batch-uri...
+[14:31:34] 
+[14:31:34] ━━━ Phase 2 - Iterația 24/30 (batch 500) ━━━
+[14:31:36] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:31:36]    Încă 125 meciuri pending - continuăm...
+[14:31:36]    Pauză 15s între batch-uri...
+[14:31:51] 
+[14:31:51] ━━━ Phase 2 - Iterația 25/30 (batch 500) ━━━
+[14:31:53] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:31:53]    Încă 125 meciuri pending - continuăm...
+[14:31:53]    Pauză 15s între batch-uri...
+[14:32:08] 
+[14:32:08] ━━━ Phase 2 - Iterația 26/30 (batch 500) ━━━
+[14:32:10] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:32:10]    Încă 125 meciuri pending - continuăm...
+[14:32:10]    Pauză 15s între batch-uri...
+[14:32:25] 
+[14:32:25] ━━━ Phase 2 - Iterația 27/30 (batch 500) ━━━
+[14:32:27] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:32:27]    Încă 125 meciuri pending - continuăm...
+[14:32:27]    Pauză 15s între batch-uri...
+[14:32:42] 
+[14:32:42] ━━━ Phase 2 - Iterația 28/30 (batch 500) ━━━
+[14:32:43] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:32:43]    Încă 125 meciuri pending - continuăm...
+[14:32:43]    Pauză 15s între batch-uri...
+[14:32:58] 
+[14:32:58] ━━━ Phase 2 - Iterația 29/30 (batch 500) ━━━
+[14:33:00] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:33:00]    Încă 125 meciuri pending - continuăm...
+[14:33:00]    Pauză 15s între batch-uri...
+[14:33:15] 
+[14:33:15] ━━━ Phase 2 - Iterația 30/30 (batch 500) ━━━
+[14:33:17] ⚠️  0 meciuri procesate - verificăm dacă mai sunt pending...
+[14:33:17]    Încă 125 meciuri pending - continuăm...
+[14:33:17]    Pauză 15s între batch-uri...
+[14:33:32] 
+[14:33:32] ═══ STEP 3: Verificare finală ═══
+══════════════════════════════════════════════════════════════════════
+📊 STARE SEZOANE - TOATE LIGILE
+══════════════════════════════════════════════════════════════════════
+
+⚠️  INCOMPLETE (5 sezoane):
+Liga                        | Sezon       | Avem  | Aștept | %
+──────────────────────────────────────────────────────────────────────
+POLANDEkstraklasa           | 2024-2025   |    34 |    306 | 11%
+SWEDENAllsvenskan           | 2024-2025   |   148 |    240 | 62%
+Ligue1                      | 2023-2024   |   298 |    380 | 78%
+Ligue1                      | 2024-2025   |   304 |    380 | 80%
+TURKEYSuperLig              | 2022-2023   |   306 |    380 | 81%
+Meciuri lipsă: ~596
+
+✅ COMPLETE (96 sezoane):
+Liga                        | Sezon       | Avem  | Aștept | %
+──────────────────────────────────────────────────────────────────────
+EuropaLeague                | 2023-2024   |   172 |    200 | 86%
+EuropaLeague                | 2022-2023   |   173 |    200 | 87%
+TURKEYSuperLig              | 2024-2025   |   331 |    380 | 87%
+EuropaLeague                | 2021-2022   |   175 |    200 | 88%
+Eliteserien                 | 2022        |   220 |    240 | 92%
+Eliteserien                 | 2023        |   224 |    240 | 93%
+GREECESuperLeague           | 2021-2022   |   223 |    240 | 93%
+GREECESuperLeague           | 2024-2025   |   223 |    240 | 93%
+Ligue1                      | 2021-2022   |   355 |    380 | 93%
+Superliga                   | 2023-2024   |   185 |    198 | 93%
+Bundesliga                  | 2022-2023   |   289 |    306 | 94%
+ENGLANDChampionship         | 2021-2022   |   518 |    552 | 94%
+ENGLANDChampionship         | 2022-2023   |   521 |    552 | 94%
+LaLiga                      | 2021-2022   |   359 |    380 | 94%
+Superliga                   | 2021-2022   |   186 |    198 | 94%
+Superliga                   | 2022-2023   |   187 |    198 | 94%
+Eliteserien                 | 2021        |   229 |    240 | 95%
+GREECESuperLeague           | 2022-2023   |   228 |    240 | 95%
+GREECESuperLeague           | 2023-2024   |   227 |    240 | 95%
+LaLiga                      | 2024-2025   |   361 |    380 | 95%
+PremierLeague               | 2022-2023   |   361 |    380 | 95%
+Superliga                   | 2024-2025   |   189 |    198 | 95%
+SWITZERLANDSuperLeague      | 2021-2022   |   171 |    180 | 95%
+TURKEYSuperLig              | 2021-2022   |   362 |    380 | 95%
+Bundesliga                  | 2021-2022   |   293 |    306 | 96%
+Bundesliga                  | 2023-2024   |   295 |    306 | 96%
+Ligue1                      | 2022-2023   |   363 |    380 | 96%
+POLANDEkstraklasa           | 2021-2022   |   295 |    306 | 96%
+POLANDEkstraklasa           | 2022-2023   |   294 |    306 | 96%
+LaLiga                      | 2022-2023   |   367 |    380 | 97%
+LaLiga                      | 2023-2024   |   368 |    380 | 97%
+PremierLeague               | 2021-2022   |   368 |    380 | 97%
+PrimeiraLiga                | 2021-2022   |   296 |    306 | 97%
+PrimeiraLiga                | 2024-2025   |   297 |    306 | 97%
+SerieA                      | 2021-2022   |   367 |    380 | 97%
+TURKEYSuperLig              | 2023-2024   |   370 |    380 | 97%
+BRAZILSerieA                | 2022        |   372 |    380 | 98%
+BRAZILSerieA                | 2023        |   372 |    380 | 98%
+ENGLANDChampionship         | 2023-2024   |   541 |    552 | 98%
+GERMANY2Bundesliga          | 2022-2023   |   301 |    306 | 98%
+GERMANY2Bundesliga          | 2023-2024   |   301 |    306 | 98%
+PrimeiraLiga                | 2023-2024   |   301 |    306 | 98%
+SerieA                      | 2022-2023   |   373 |    380 | 98%
+SerieA                      | 2024-2025   |   374 |    380 | 98%
+SWEDENAllsvenskan           | 2021        |   235 |    240 | 98%
+SWEDENAllsvenskan           | 2022        |   234 |    240 | 98%
+SWITZERLANDSuperLeague      | 2022-2023   |   176 |    180 | 98%
+EuropaLeague                | 2024-2025   |   198 |    200 | 99%
+GERMANY2Bundesliga          | 2021-2022   |   302 |    306 | 99%
+POLANDEkstraklasa           | 2023-2024   |   303 |    306 | 99%
+PrimeiraLiga                | 2022-2023   |   304 |    306 | 99%
+SCOTLANDPremiership         | 2021-2022   |   226 |    228 | 99%
+SCOTLANDPremiership         | 2023-2024   |   225 |    228 | 99%
+SerieA                      | 2023-2024   |   375 |    380 | 99%
+SPAINLaLiga2                | 2021-2022   |   459 |    462 | 99%
+AUSTRIABundesliga           | 2021-2022   |   182 |    182 | 100%
+BRAZILSerieA                | 2024        |   380 |    380 | 100%
+PremierLeague               | 2023-2024   |   380 |    380 | 100%
+SCOTLANDPremiership         | 2024-2025   |   228 |    228 | 100%
+SWEDENAllsvenskan           | 2023        |   240 |    240 | 100%
+Eredivisie                  | 2021-2022   |   310 |    306 | 101%
+SCOTLANDPremiership         | 2022-2023   |   231 |    228 | 101%
+AUSTRIABundesliga           | 2022-2023   |   186 |    182 | 102%
+Eredivisie                  | 2022-2023   |   313 |    306 | 102%
+Eredivisie                  | 2023-2024   |   312 |    306 | 102%
+ChampionsLeague             | 2022-2023   |   206 |    200 | 103%
+Eliteserien                 | 2024        |   250 |    240 | 104%
+Eredivisie                  | 2024-2025   |   318 |    306 | 104%
+AUSTRIABundesliga           | 2023-2024   |   191 |    182 | 105%
+AUSTRIABundesliga           | 2024-2025   |   192 |    182 | 105%
+ChampionsLeague             | 2023-2024   |   211 |    200 | 106%
+ChampionsLeague             | 2021-2022   |   215 |    200 | 108%
+Bundesliga                  | 2024-2025   |   338 |    306 | 110%
+ENGLANDChampionship         | 2024-2025   |   607 |    552 | 110%
+GERMANY2Bundesliga          | 2024-2025   |   340 |    306 | 111%
+SPAINLaLiga2                | 2024-2025   |   512 |    462 | 111%
+PremierLeague               | 2024-2025   |   425 |    380 | 112%
+SERBIAMozzartBetSuperLiga   | 2023-2024   |   285 |    240 | 119%
+SERBIAMozzartBetSuperLiga   | 2022-2023   |   291 |    240 | 121%
+SWITZERLANDSuperLeague      | 2024-2025   |   217 |    180 | 121%
+SERBIAMozzartBetSuperLiga   | 2021-2022   |   294 |    240 | 123%
+BELGIUMRegularSeason        | 2023-2024   |   303 |    240 | 126%
+SWITZERLANDSuperLeague      | 2023-2024   |   226 |    180 | 126%
+ROMANIASuperliga            | 2024-2025   |   314 |    240 | 131%
+BELGIUMRegularSeason        | 2022-2023   |   317 |    240 | 132%
+ROMANIASuperliga            | 2023-2024   |   317 |    240 | 132%
+SERBIAMozzartBetSuperLiga   | 2024-2025   |   317 |    240 | 132%
+BELGIUMRegularSeason        | 2021-2022   |   318 |    240 | 133%
+ROMANIASuperliga            | 2021-2022   |   318 |    240 | 133%
+ROMANIASuperliga            | 2022-2023   |   319 |    240 | 133%
+BELGIUMRegularSeason        | 2024-2025   |   321 |    240 | 134%
+ChampionsLeague             | 2024-2025   |   343 |    200 | 172%
+ConferenceLeague            | 2022-2023   |   412 |    200 | 206%
+ConferenceLeague            | 2021-2022   |   413 |    200 | 207%
+ConferenceLeague            | 2023-2024   |   415 |    200 | 208%
+ConferenceLeague            | 2024-2025   |   439 |    200 | 219%
+
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+═
+TOTAL: 101 sezoane | 96 complete | 5 incomplete
+[14:33:33] 
+[14:33:33] ═══ STEP 4: Recalculare probabilități ═══
+╔════════════════════════════════════════════════════════════════════╗
+║  RECALCULATE_ALL — Recalculare completă probabilități              ║
+╚════════════════════════════════════════════════════════════════════╝
+
+📂 Încărcare fișiere sezon...
+   📂 153 fișiere în data/seasons/
+   ✅ 153 fișiere → 39 ligi → 35570 meciuri unice
+
+📊 39 ligi, 35570 meciuri unice
+
+💾 Backup fișiere existente...
+
+══════════════════════════════════════════════════════════════════════
+📊 MODUL 1: Generare PROCENTE HT (PatternChecker)
+══════════════════════════════════════════════════════════════════════
+   ⚠️  ARGENTINA: Liga Profesional - Apertura: 27 meciuri — sub minimul de 50, exclus din PROCENTE
+   ✅ AUSTRIA: Bundesliga: 874 meciuri, 323 pattern×tier (clasament per-meci: 100%)
+   ⚠️  BELGIUM: Challenger Pro League: 26 meciuri — sub minimul de 50, exclus din PROCENTE
+   ⚠️  BELGIUM: Jupiler Pro League: 44 meciuri — sub minimul de 50, exclus din PROCENTE
+   ✅ BELGIUM: Regular Season: 1412 meciuri, 352 pattern×tier (clasament per-meci: 100%)
+   ⚠️  BRAZIL: Paulista - Play Offs: 4 meciuri — sub minimul de 50, exclus din PROCENTE
+   ⚠️  BRAZIL: Serie A Betano: 7 meciuri — sub minimul de 50, exclus din PROCENTE
+   ✅ BRAZIL: Serie A: 1334 meciuri, 343 pattern×tier (clasament per-meci: 100%)
+   ✅ GERMANY: Bundesliga: 1394 meciuri, 347 pattern×tier (clasament per-meci: 100%)
+   ✅ UEFA Champions League: 1069 meciuri, 262 pattern×tier (clasament per-meci: 100%)
+   ✅ UEFA Conference League: 2032 meciuri, 259 pattern×tier (clasament per-meci: 100%)
+   ✅ ENGLAND: Championship: 2496 meciuri, 346 pattern×tier (clasament per-meci: 100%)
+   ✅ UEFA Europa League: 881 meciuri, 251 pattern×tier (clasament per-meci: 100%)
+   ✅ NORWAY: Eliteserien: 923 meciuri, 340 pattern×tier (clasament per-meci: 100%)
+   ✅ NETHERLANDS: Eredivisie: 1470 meciuri, 345 pattern×tier (clasament per-meci: 100%)
+   ✅ GERMANY: 2. Bundesliga: 1422 meciuri, 350 pattern×tier (clasament per-meci: 100%)
+   ✅ GREECE: Super League: 1057 meciuri, 342 pattern×tier (clasament per-meci: 100%)
+   ✅ SPAIN: LaLiga: 1715 meciuri, 350 pattern×tier (clasament per-meci: 100%)
+   ✅ FRANCE: Ligue 1: 1535 meciuri, 344 pattern×tier (clasament per-meci: 100%)
+   ⚠️  NORWAY: Eliteserien - Relegation: 1 meciuri — sub minimul de 50, exclus din PROCENTE
+   ✅ POLAND: Ekstraklasa: 1403 meciuri, 346 pattern×tier (clasament per-meci: 100%)
+   ✅ PORTUGAL: Liga Portugal: 1417 meciuri, 346 pattern×tier (clasament per-meci: 100%)
+   ✅ ENGLAND: Premier League: 1760 meciuri, 349 pattern×tier (clasament per-meci: 100%)
+   ✅ ROMANIA: Superliga: 1496 meciuri, 344 pattern×tier (clasament per-meci: 100%)
+   ✅ SCOTLAND: Premiership: 1078 meciuri, 336 pattern×tier (clasament per-meci: 100%)
+   ✅ SERBIA: Mozzart Bet Super Liga: 1351 meciuri, 349 pattern×tier (clasament per-meci: 100%)
+   ⚠️  SOUTH AMERICA: Copa Libertadores - Play Offs: 1 meciuri — sub minimul de 50, exclus din PROCENTE
+   ⚠️  SOUTH AMERICA: Copa Libertadores - Qualification: 7 meciuri — sub minimul de 50, exclus din PROCENTE
+   ⚠️  SOUTH AMERICA: Copa Sudamericana - Play Offs: 1 meciuri — sub minimul de 50, exclus din PROCENTE
+   ⚠️  SOUTH AMERICA: Copa Sudamericana - Qualification: 15 meciuri — sub minimul de 50, exclus din PROCENTE
+   ✅ SPAIN: LaLiga2: 1200 meciuri, 342 pattern×tier (clasament per-meci: 100%)
+   ⚠️  SWEDEN: Allsvenskan - Relegation: 2 meciuri — sub minimul de 50, exclus din PROCENTE
+   ✅ SWEDEN: Allsvenskan: 857 meciuri, 338 pattern×tier (clasament per-meci: 100%)
+   ✅ SWITZERLAND: Super League: 956 meciuri, 319 pattern×tier (clasament per-meci: 100%)
+   ✅ ITALY: Serie A: 1755 meciuri, 345 pattern×tier (clasament per-meci: 100%)
+   ✅ DENMARK: Superliga: 873 meciuri, 337 pattern×tier (clasament per-meci: 100%)
+   ✅ TURKEY: Super Lig: 1584 meciuri, 347 pattern×tier (clasament per-meci: 100%)
+   ⚠️  USA: MLS - Play Offs: 9 meciuri — sub minimul de 50, exclus din PROCENTE
+   ⚠️  USA: MLS: 27 meciuri — sub minimul de 50, exclus din PROCENTE
+
+   📊 Total: 26 campionate, 35344 meciuri, 8652 pattern×tier
+
+══════════════════════════════════════════════════════════════════════
+📊 MODUL 2: Generare STREAK PATTERNS CATALOG (S01-S22)
+══════════════════════════════════════════════════════════════════════
+   ✅ AUSTRIA: Bundesliga: 6726 serii detectate
+   ✅ BELGIUM: Challenger Pro League: 41 serii detectate
+   ✅ BELGIUM: Jupiler Pro League: 161 serii detectate
+   ✅ BELGIUM: Regular Season: 11293 serii detectate
+   ✅ BRAZIL: Serie A: 12031 serii detectate
+   ✅ GERMANY: Bundesliga: 11317 serii detectate
+   ✅ UEFA Champions League: 4741 serii detectate
+   ✅ UEFA Conference League: 10408 serii detectate
+   ✅ ENGLAND: Championship: 16743 serii detectate
+   ✅ UEFA Europa League: 3954 serii detectate
+   ✅ NORWAY: Eliteserien: 5966 serii detectate
+   ✅ NETHERLANDS: Eredivisie: 11328 serii detectate
+   ✅ GERMANY: 2. Bundesliga: 13332 serii detectate
+   ✅ GREECE: Super League: 8019 serii detectate
+   ✅ SPAIN: LaLiga: 13304 serii detectate
+   ✅ FRANCE: Ligue 1: 12012 serii detectate
+   ✅ POLAND: Ekstraklasa: 11468 serii detectate
+   ✅ PORTUGAL: Liga Portugal: 11420 serii detectate
+   ✅ ENGLAND: Premier League: 13537 serii detectate
+   ✅ ROMANIA: Superliga: 10526 serii detectate
+   ✅ SCOTLAND: Premiership: 7803 serii detectate
+   ✅ SERBIA: Mozzart Bet Super Liga: 7855 serii detectate
+   ✅ SPAIN: LaLiga2: 9248 serii detectate
+   ✅ SWEDEN: Allsvenskan: 6472 serii detectate
+   ✅ SWITZERLAND: Super League: 8941 serii detectate
+   ✅ ITALY: Serie A: 13835 serii detectate
+   ✅ DENMARK: Superliga: 6752 serii detectate
+   ✅ TURKEY: Super Lig: 13212 serii detectate
+
+   📊 Total: 330 intrări globale în catalog
+
+══════════════════════════════════════════════════════════════════════
+📊 MODUL 3: Scoring Streak (2+ goluri → 1+ gol)
+══════════════════════════════════════════════════════════════════════
+   ✅ AUSTRIA: Bundesliga: 84 serii detectate
+   ✅ BELGIUM: Challenger Pro League: 1 serii detectate
+   ✅ BELGIUM: Jupiler Pro League: 2 serii detectate
+   ✅ BELGIUM: Regular Season: 191 serii detectate
+   ✅ BRAZIL: Serie A: 203 serii detectate
+   ✅ GERMANY: Bundesliga: 259 serii detectate
+   ✅ UEFA Champions League: 116 serii detectate
+   ✅ UEFA Conference League: 173 serii detectate
+   ✅ ENGLAND: Championship: 232 serii detectate
+   ✅ UEFA Europa League: 71 serii detectate
+   ✅ NORWAY: Eliteserien: 146 serii detectate
+   ✅ NETHERLANDS: Eredivisie: 253 serii detectate
+   ✅ GERMANY: 2. Bundesliga: 288 serii detectate
+   ✅ GREECE: Super League: 114 serii detectate
+   ✅ SPAIN: LaLiga: 156 serii detectate
+   ✅ FRANCE: Ligue 1: 188 serii detectate
+   ✅ POLAND: Ekstraklasa: 157 serii detectate
+   ✅ PORTUGAL: Liga Portugal: 150 serii detectate
+   ✅ ENGLAND: Premier League: 274 serii detectate
+   ✅ ROMANIA: Superliga: 128 serii detectate
+   ✅ SCOTLAND: Premiership: 133 serii detectate
+   ✅ SERBIA: Mozzart Bet Super Liga: 158 serii detectate
+   ✅ SPAIN: LaLiga2: 113 serii detectate
+   ✅ SWEDEN: Allsvenskan: 94 serii detectate
+   ✅ SWITZERLAND: Super League: 150 serii detectate
+   ✅ ITALY: Serie A: 198 serii detectate
+   ✅ DENMARK: Superliga: 134 serii detectate
+   ✅ TURKEY: Super Lig: 214 serii detectate
+
+══════════════════════════════════════════════════════════════════════
+📊 MODUL 4: Goal Streak (1+ gol → 1+ gol)
+══════════════════════════════════════════════════════════════════════
+   ✅ AUSTRIA: Bundesliga: 306 serii detectate
+   ✅ BELGIUM: Jupiler Pro League: 1 serii detectate
+   ✅ BELGIUM: Regular Season: 504 serii detectate
+   ✅ BRAZIL: Serie A: 386 serii detectate
+   ✅ GERMANY: Bundesliga: 550 serii detectate
+   ✅ UEFA Champions League: 207 serii detectate
+   ✅ UEFA Conference League: 314 serii detectate
+   ✅ ENGLAND: Championship: 822 serii detectate
+   ✅ UEFA Europa League: 175 serii detectate
+   ✅ NORWAY: Eliteserien: 339 serii detectate
+   ✅ NETHERLANDS: Eredivisie: 567 serii detectate
+   ✅ GERMANY: 2. Bundesliga: 567 serii detectate
+   ✅ GREECE: Super League: 335 serii detectate
+   ✅ SPAIN: LaLiga: 577 serii detectate
+   ✅ FRANCE: Ligue 1: 582 serii detectate
+   ✅ POLAND: Ekstraklasa: 472 serii detectate
+   ✅ PORTUGAL: Liga Portugal: 442 serii detectate
+   ✅ ENGLAND: Premier League: 658 serii detectate
+   ✅ ROMANIA: Superliga: 417 serii detectate
+   ✅ SCOTLAND: Premiership: 337 serii detectate
+   ✅ SERBIA: Mozzart Bet Super Liga: 408 serii detectate
+   ✅ SPAIN: LaLiga2: 376 serii detectate
+   ✅ SWEDEN: Allsvenskan: 287 serii detectate
+   ✅ SWITZERLAND: Super League: 444 serii detectate
+   ✅ ITALY: Serie A: 592 serii detectate
+   ✅ DENMARK: Superliga: 370 serii detectate
+   ✅ TURKEY: Super Lig: 582 serii detectate
+
+══════════════════════════════════════════════════════════════════════
+📊 MODUL 5: Yellow Cards 3+ Streak
+══════════════════════════════════════════════════════════════════════
+   ✅ AUSTRIA: Bundesliga: 170 serii detectate
+   ✅ BELGIUM: Regular Season: 228 serii detectate
+   ✅ BRAZIL: Serie A: 516 serii detectate
+   ✅ GERMANY: Bundesliga: 168 serii detectate
+   ✅ UEFA Champions League: 112 serii detectate
+   ✅ UEFA Conference League: 430 serii detectate
+   ✅ ENGLAND: Championship: 302 serii detectate
+   ✅ UEFA Europa League: 122 serii detectate
+   ✅ NORWAY: Eliteserien: 34 serii detectate
+   ✅ NETHERLANDS: Eredivisie: 58 serii detectate
+   ✅ GERMANY: 2. Bundesliga: 354 serii detectate
+   ✅ GREECE: Super League: 468 serii detectate
+   ✅ SPAIN: LaLiga: 504 serii detectate
+   ✅ FRANCE: Ligue 1: 158 serii detectate
+   ✅ POLAND: Ekstraklasa: 262 serii detectate
+   ✅ PORTUGAL: Liga Portugal: 676 serii detectate
+   ✅ ENGLAND: Premier League: 238 serii detectate
+   ✅ ROMANIA: Superliga: 300 serii detectate
+   ✅ SCOTLAND: Premiership: 160 serii detectate
+   ✅ SERBIA: Mozzart Bet Super Liga: 322 serii detectate
+   ✅ SPAIN: LaLiga2: 374 serii detectate
+   ✅ SWEDEN: Allsvenskan: 82 serii detectate
+   ✅ SWITZERLAND: Super League: 254 serii detectate
+   ✅ ITALY: Serie A: 330 serii detectate
+   ✅ DENMARK: Superliga: 74 serii detectate
+   ✅ TURKEY: Super Lig: 398 serii detectate
+
+══════════════════════════════════════════════════════════════════════
+📊 MODUL 6: Yellow Cards 2+ Streak
+══════════════════════════════════════════════════════════════════════
+   ✅ AUSTRIA: Bundesliga: 848 serii detectate
+   ✅ BELGIUM: Challenger Pro League: 2 serii detectate
+   ✅ BELGIUM: Jupiler Pro League: 6 serii detectate
+   ✅ BELGIUM: Regular Season: 1112 serii detectate
+   ✅ BRAZIL: Serie A: 1570 serii detectate
+   ✅ GERMANY: Bundesliga: 936 serii detectate
+   ✅ UEFA Champions League: 474 serii detectate
+   ✅ UEFA Conference League: 1470 serii detectate
+   ✅ ENGLAND: Championship: 1848 serii detectate
+   ✅ UEFA Europa League: 444 serii detectate
+   ✅ NORWAY: Eliteserien: 394 serii detectate
+   ✅ NETHERLANDS: Eredivisie: 540 serii detectate
+   ✅ GERMANY: 2. Bundesliga: 1398 serii detectate
+   ✅ GREECE: Super League: 1268 serii detectate
+   ✅ SPAIN: LaLiga: 1816 serii detectate
+   ✅ FRANCE: Ligue 1: 1130 serii detectate
+   ✅ POLAND: Ekstraklasa: 1220 serii detectate
+   ✅ PORTUGAL: Liga Portugal: 1762 serii detectate
+   ✅ ENGLAND: Premier League: 1294 serii detectate
+   ✅ ROMANIA: Superliga: 1378 serii detectate
+   ✅ SCOTLAND: Premiership: 842 serii detectate
+   ✅ SERBIA: Mozzart Bet Super Liga: 1276 serii detectate
+   ✅ SPAIN: LaLiga2: 1298 serii detectate
+   ✅ SWEDEN: Allsvenskan: 550 serii detectate
+   ✅ SWITZERLAND: Super League: 1062 serii detectate
+   ✅ ITALY: Serie A: 1642 serii detectate
+   ✅ DENMARK: Superliga: 580 serii detectate
+   ✅ TURKEY: Super Lig: 1542 serii detectate
+
+══════════════════════════════════════════════════════════════════════
+💾 SALVARE FIȘIERE
+══════════════════════════════════════════════════════════════════════
+   📈 JSON PROCENTE AUTOACTUAL: 1047.9 KB → 1047.9 KB (0%)
+   📋 Copie root: JSON PROCENTE AUTOACTUAL.json
+   📈 streak_patterns_catalog: 1072.3 KB → 1072.3 KB (0%)
+   📈 scoring_streak_probabilities: 23.7 KB → 23.7 KB (0%)
+   📈 goal_streak_probabilities: 47.7 KB → 47.7 KB (0%)
+   📈 yellow_cards_streak_probabilities: 51.1 KB → 51.1 KB (0%)
+   📈 yellow_cards_2plus_streak_probabilities: 92.2 KB → 92.2 KB (0%)
+
+╔════════════════════════════════════════════════════════════════════╗
+║  ✅ RECALCULARE COMPLETĂ                                           ║
+╚════════════════════════════════════════════════════════════════════╝
+   ⏱  Timp: 21.2s
+   📂 Ligi procesate: 39
+   ⚽ Meciuri unice: 35570
+   📊 Campionate PROCENTE: 26
+   📋 Pattern-uri catalog: 22 (S01-S22)
+   📁 Fișiere generate: 6
+
+   Verificare rapidă:
+   node -e "const P = require('./PROCENTE_LOADER'); const l = new P(); l.load();"
+   node -e "const d = require('./data/streak_patterns_catalog.json'); console.log(Object.keys(d.patterns).length + ' pattern-uri');"
+
