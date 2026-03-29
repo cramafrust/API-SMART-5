@@ -3,7 +3,7 @@
   "generatedAt": "29.03.2026 02:44:48",
   "timezone": "Europe/Bucharest (EET)",
   "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
-  "totalMatches": 144,
+  "totalMatches": 147,
   "meciuri": [
     {
       "matchId": "Q7PlB91C",
@@ -1427,6 +1427,36 @@
     },
     {
       "matchId": "jDhKobpJ",
+      "homeTeam": "Unknown",
+      "awayTeam": "Unknown",
+      "liga": "ROMANIA: Superliga - Championship Group",
+      "ora": "02:00",
+      "timestamp": 0,
+      "finished": false,
+      "discoveredBy": "LIVE_FEED_CHECK"
+    },
+    {
+      "matchId": "hQZ1Vjwf",
+      "homeTeam": "Unknown",
+      "awayTeam": "Unknown",
+      "liga": "ROMANIA: Superliga - Championship Group",
+      "ora": "02:00",
+      "timestamp": 0,
+      "finished": false,
+      "discoveredBy": "LIVE_FEED_CHECK"
+    },
+    {
+      "matchId": "Cnx3yvL7",
+      "homeTeam": "Unknown",
+      "awayTeam": "Unknown",
+      "liga": "ROMANIA: Superliga - Championship Group",
+      "ora": "02:00",
+      "timestamp": 0,
+      "finished": false,
+      "discoveredBy": "LIVE_FEED_CHECK"
+    },
+    {
+      "matchId": "QZfxJGg5",
       "homeTeam": "Unknown",
       "awayTeam": "Unknown",
       "liga": "ROMANIA: Superliga - Championship Group",
