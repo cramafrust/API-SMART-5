@@ -1,0 +1,80 @@
+{
+  "data": "26.01.2026",
+  "generatedAt": "26.01.2026 23:40:53",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 8,
+  "meciuri": [
+    {
+      "matchId": "UDsRhqsK",
+      "homeTeam": "Otelul",
+      "awayTeam": "Csikszereda M. Ciuc",
+      "liga": "ROMANIA: Superliga",
+      "ora": "17:00",
+      "timestamp": 1769439600,
+      "finished": true
+    },
+    {
+      "matchId": "6BO8sRjA",
+      "homeTeam": "Eyupspor",
+      "awayTeam": "Besiktas",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1769446800,
+      "finished": false
+    },
+    {
+      "matchId": "CK3J0qOP",
+      "homeTeam": "Ceuta",
+      "awayTeam": "Cultural Leonesa",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1769455800,
+      "finished": true
+    },
+    {
+      "matchId": "WriaPWhg",
+      "homeTeam": "Verona",
+      "awayTeam": "Udinese",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1769456700,
+      "finished": false
+    },
+    {
+      "matchId": "neRXKc8l",
+      "homeTeam": "Everton",
+      "awayTeam": "Leeds",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1769457600,
+      "finished": false
+    },
+    {
+      "matchId": "hMm97a4m",
+      "homeTeam": "Norwich",
+      "awayTeam": "Coventry",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1769457600,
+      "finished": false
+    },
+    {
+      "matchId": "2oKiOvaE",
+      "homeTeam": "Girona",
+      "awayTeam": "Getafe",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1769457600,
+      "finished": false
+    },
+    {
+      "matchId": "Wvqz4GD6",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Gil Vicente",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1769458500,
+      "finished": false
+    }
+  ]
+}

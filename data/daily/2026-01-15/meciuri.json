@@ -1,0 +1,26 @@
+{
+  "data": "15.01.2026",
+  "generatedAt": "15.01.2026 08:00:46",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 2,
+  "meciuri": [
+    {
+      "matchId": "2isaaUGt",
+      "homeTeam": "Verona",
+      "awayTeam": "Bologna",
+      "liga": "ITALY: Serie A",
+      "ora": "19:30",
+      "timestamp": 1768498200,
+      "finished": false
+    },
+    {
+      "matchId": "AsUcWVnf",
+      "homeTeam": "Como",
+      "awayTeam": "AC Milan",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1768506300,
+      "finished": false
+    }
+  ]
+}

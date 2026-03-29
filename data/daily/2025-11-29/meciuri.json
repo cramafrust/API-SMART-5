@@ -1,0 +1,683 @@
+{
+  "data": "29.11.2025",
+  "generatedAt": "29.11.2025 08:00:03",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 75,
+  "meciuri": [
+    {
+      "matchId": "UybSXeMh",
+      "homeTeam": "Rizespor",
+      "awayTeam": "Kayserispor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "13:30",
+      "timestamp": 1764415800,
+      "finished": false
+    },
+    {
+      "matchId": "2asSpOqH",
+      "homeTeam": "Braunschweig",
+      "awayTeam": "Kaiserslautern",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "14:00",
+      "timestamp": 1764417600,
+      "finished": false
+    },
+    {
+      "matchId": "0zoBl6ph",
+      "homeTeam": "Greuther Furth",
+      "awayTeam": "Bochum",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "14:00",
+      "timestamp": 1764417600,
+      "finished": false
+    },
+    {
+      "matchId": "l2Gsi1Sg",
+      "homeTeam": "Ilioupoli",
+      "awayTeam": "Kalamata",
+      "liga": "GREECE: Super League 2",
+      "ora": "14:00",
+      "timestamp": 1764417600,
+      "finished": false
+    },
+    {
+      "matchId": "Uo1f9L5m",
+      "homeTeam": "Zeleznicar Pancevo",
+      "awayTeam": "Radnicki 1923",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "14:00",
+      "timestamp": 1764417600,
+      "finished": false
+    },
+    {
+      "matchId": "YgILiMYp",
+      "homeTeam": "Leicester",
+      "awayTeam": "Sheffield Utd",
+      "liga": "ENGLAND: Championship",
+      "ora": "14:30",
+      "timestamp": 1764419400,
+      "finished": false
+    },
+    {
+      "matchId": "fNo34aIj",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Bristol City",
+      "liga": "ENGLAND: Championship",
+      "ora": "14:30",
+      "timestamp": 1764419400,
+      "finished": false
+    },
+    {
+      "matchId": "IeXcQtuA",
+      "homeTeam": "Stoke",
+      "awayTeam": "Hull",
+      "liga": "ENGLAND: Championship",
+      "ora": "14:30",
+      "timestamp": 1764419400,
+      "finished": false
+    },
+    {
+      "matchId": "Is8bmJRI",
+      "homeTeam": "Kavala",
+      "awayTeam": "Chrisoupolis",
+      "liga": "GREECE: Super League 2",
+      "ora": "15:00",
+      "timestamp": 1764421200,
+      "finished": false
+    },
+    {
+      "matchId": "d4y3bqzK",
+      "homeTeam": "Marko",
+      "awayTeam": "PAE Egaleo",
+      "liga": "GREECE: Super League 2",
+      "ora": "15:00",
+      "timestamp": 1764421200,
+      "finished": false
+    },
+    {
+      "matchId": "4OeJ3HZO",
+      "homeTeam": "Mladost",
+      "awayTeam": "Radnicki Nis",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "15:00",
+      "timestamp": 1764421200,
+      "finished": false
+    },
+    {
+      "matchId": "CtiBYirA",
+      "homeTeam": "Mallorca",
+      "awayTeam": "Osasuna",
+      "liga": "SPAIN: LaLiga",
+      "ora": "15:00",
+      "timestamp": 1764421200,
+      "finished": false
+    },
+    {
+      "matchId": "YLIhr7XH",
+      "homeTeam": "Ceuta",
+      "awayTeam": "Burgos CF",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "15:00",
+      "timestamp": 1764421200,
+      "finished": false
+    },
+    {
+      "matchId": "67fpbQJD",
+      "homeTeam": "Genoa",
+      "awayTeam": "Verona",
+      "liga": "ITALY: Serie A",
+      "ora": "16:00",
+      "timestamp": 1764424800,
+      "finished": false
+    },
+    {
+      "matchId": "nR1HdYa6",
+      "homeTeam": "Parma",
+      "awayTeam": "Udinese",
+      "liga": "ITALY: Serie A",
+      "ora": "16:00",
+      "timestamp": 1764424800,
+      "finished": false
+    },
+    {
+      "matchId": "EFbDSy4S",
+      "homeTeam": "Norrkoping",
+      "awayTeam": "Orgryte",
+      "liga": "SWEDEN: Allsvenskan - Relegation",
+      "ora": "16:00",
+      "timestamp": 1764424800,
+      "finished": false
+    },
+    {
+      "matchId": "GUsCV5uP",
+      "homeTeam": "Gaziantep",
+      "awayTeam": "Eyupspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "16:00",
+      "timestamp": 1764424800,
+      "finished": false
+    },
+    {
+      "matchId": "pzVmwjfL",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "St. Pauli",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "16:30",
+      "timestamp": 1764426600,
+      "finished": false
+    },
+    {
+      "matchId": "O2m9roW0",
+      "homeTeam": "Hoffenheim",
+      "awayTeam": "Augsburg",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "16:30",
+      "timestamp": 1764426600,
+      "finished": false
+    },
+    {
+      "matchId": "WnyzsZJF",
+      "homeTeam": "FC Arges",
+      "awayTeam": "CFR Cluj",
+      "liga": "ROMANIA: Superliga",
+      "ora": "16:30",
+      "timestamp": 1764426600,
+      "finished": false
+    },
+    {
+      "matchId": "Q1AzuSTk",
+      "homeTeam": "Dender",
+      "awayTeam": "Westerlo",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "EVdIoFG5",
+      "homeTeam": "Sporting Lokeren",
+      "awayTeam": "Kortrijk",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "MLedjISG",
+      "homeTeam": "Brentford",
+      "awayTeam": "Burnley",
+      "liga": "ENGLAND: Premier League",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "nwbN4HsA",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Leeds",
+      "liga": "ENGLAND: Premier League",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "vyw2cZZq",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Bournemouth",
+      "liga": "ENGLAND: Premier League",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "OKWkcrBN",
+      "homeTeam": "Coventry",
+      "awayTeam": "Charlton",
+      "liga": "ENGLAND: Championship",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "l208FPQi",
+      "homeTeam": "Middlesbrough",
+      "awayTeam": "Derby",
+      "liga": "ENGLAND: Championship",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "MFbGD3e4",
+      "homeTeam": "Millwall",
+      "awayTeam": "Southampton",
+      "liga": "ENGLAND: Championship",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "IshPBsQG",
+      "homeTeam": "Norwich",
+      "awayTeam": "QPR",
+      "liga": "ENGLAND: Championship",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "MTwkS2Ac",
+      "homeTeam": "Sheffield Wed",
+      "awayTeam": "Preston",
+      "liga": "ENGLAND: Championship",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "YJuM6xW6",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Blackburn",
+      "liga": "ENGLAND: Championship",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "jNCvFO9C",
+      "homeTeam": "Dundee FC",
+      "awayTeam": "St. Mirren",
+      "liga": "SCOTLAND: Premiership",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "nDKBDWk5",
+      "homeTeam": "Motherwell",
+      "awayTeam": "Hearts",
+      "liga": "SCOTLAND: Premiership",
+      "ora": "17:00",
+      "timestamp": 1764428400,
+      "finished": false
+    },
+    {
+      "matchId": "06PbPm5d",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Alaves",
+      "liga": "SPAIN: LaLiga",
+      "ora": "17:15",
+      "timestamp": 1764429300,
+      "finished": false
+    },
+    {
+      "matchId": "tSuKbSHb",
+      "homeTeam": "Cultural Leonesa",
+      "awayTeam": "Granada CF",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "17:15",
+      "timestamp": 1764429300,
+      "finished": false
+    },
+    {
+      "matchId": "Qauq9TJM",
+      "homeTeam": "OFI Crete",
+      "awayTeam": "Volos",
+      "liga": "GREECE: Super League",
+      "ora": "17:30",
+      "timestamp": 1764430200,
+      "finished": false
+    },
+    {
+      "matchId": "pCSrxh66",
+      "homeTeam": "Casa Pia",
+      "awayTeam": "Alverca",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "17:30",
+      "timestamp": 1764430200,
+      "finished": false
+    },
+    {
+      "matchId": "6RGizWzJ",
+      "homeTeam": "Moreirense",
+      "awayTeam": "Famalicao",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "17:30",
+      "timestamp": 1764430200,
+      "finished": false
+    },
+    {
+      "matchId": "z5uwKxK5",
+      "homeTeam": "Vojvodina",
+      "awayTeam": "Sp. Subotica",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "17:30",
+      "timestamp": 1764430200,
+      "finished": false
+    },
+    {
+      "matchId": "CnppXE0K",
+      "homeTeam": "Austria Vienna",
+      "awayTeam": "Tirol",
+      "liga": "AUSTRIA: Bundesliga",
+      "ora": "18:00",
+      "timestamp": 1764432000,
+      "finished": false
+    },
+    {
+      "matchId": "4pPOPWhf",
+      "homeTeam": "Grazer AK",
+      "awayTeam": "BW Linz",
+      "liga": "AUSTRIA: Bundesliga",
+      "ora": "18:00",
+      "timestamp": 1764432000,
+      "finished": false
+    },
+    {
+      "matchId": "n9hb9B8D",
+      "homeTeam": "Ried",
+      "awayTeam": "Wolfsberger AC",
+      "liga": "AUSTRIA: Bundesliga",
+      "ora": "18:00",
+      "timestamp": 1764432000,
+      "finished": false
+    },
+    {
+      "matchId": "p6F1M1tP",
+      "homeTeam": "Monaco",
+      "awayTeam": "PSG",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "18:00",
+      "timestamp": 1764432000,
+      "finished": false
+    },
+    {
+      "matchId": "zq427az0",
+      "homeTeam": "Novi Pazar",
+      "awayTeam": "Napredak",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "18:00",
+      "timestamp": 1764432000,
+      "finished": false
+    },
+    {
+      "matchId": "nFgmtiW8",
+      "homeTeam": "Korona Kielce",
+      "awayTeam": "Cracovia",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "18:30",
+      "timestamp": 1764433800,
+      "finished": false
+    },
+    {
+      "matchId": "lWJU5xwK",
+      "homeTeam": "Juventus",
+      "awayTeam": "Cagliari",
+      "liga": "ITALY: Serie A",
+      "ora": "19:00",
+      "timestamp": 1764435600,
+      "finished": false
+    },
+    {
+      "matchId": "YagsElTP",
+      "homeTeam": "Lugano",
+      "awayTeam": "Sion",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "19:00",
+      "timestamp": 1764435600,
+      "finished": false
+    },
+    {
+      "matchId": "KdRU4pjC",
+      "homeTeam": "Zurich",
+      "awayTeam": "Grasshoppers",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "19:00",
+      "timestamp": 1764435600,
+      "finished": false
+    },
+    {
+      "matchId": "GAJUISeJ",
+      "homeTeam": "Kasimpasa",
+      "awayTeam": "Basaksehir",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1764435600,
+      "finished": false
+    },
+    {
+      "matchId": "thmmyABm",
+      "homeTeam": "Trabzonspor",
+      "awayTeam": "Konyaspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1764435600,
+      "finished": false
+    },
+    {
+      "matchId": "vDfF6wDc",
+      "homeTeam": "Everton",
+      "awayTeam": "Newcastle",
+      "liga": "ENGLAND: Premier League",
+      "ora": "19:30",
+      "timestamp": 1764437400,
+      "finished": false
+    },
+    {
+      "matchId": "GILJXTHr",
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "Dortmund",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1764437400,
+      "finished": false
+    },
+    {
+      "matchId": "nghHfU4T",
+      "homeTeam": "Aris",
+      "awayTeam": "AEL Larissa",
+      "liga": "GREECE: Super League",
+      "ora": "19:30",
+      "timestamp": 1764437400,
+      "finished": false
+    },
+    {
+      "matchId": "YqRZCBKc",
+      "homeTeam": "Kifisia",
+      "awayTeam": "Panserraikos",
+      "liga": "GREECE: Super League",
+      "ora": "19:30",
+      "timestamp": 1764437400,
+      "finished": false
+    },
+    {
+      "matchId": "A1KNEsrQ",
+      "homeTeam": "Partizan",
+      "awayTeam": "Javor",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "19:30",
+      "timestamp": 1764437400,
+      "finished": false
+    },
+    {
+      "matchId": "hlrKT7IO",
+      "homeTeam": "Albacete",
+      "awayTeam": "Dep. La Coruna",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "19:30",
+      "timestamp": 1764437400,
+      "finished": false
+    },
+    {
+      "matchId": "vuHxnkYh",
+      "homeTeam": "Almeria",
+      "awayTeam": "Huesca",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "19:30",
+      "timestamp": 1764437400,
+      "finished": false
+    },
+    {
+      "matchId": "llgIzRPF",
+      "homeTeam": "Sittard",
+      "awayTeam": "Heracles",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "19:45",
+      "timestamp": 1764438300,
+      "finished": false
+    },
+    {
+      "matchId": "4USfHEjt",
+      "homeTeam": "Kilmarnock",
+      "awayTeam": "Dundee Utd",
+      "liga": "SCOTLAND: Premiership",
+      "ora": "19:45",
+      "timestamp": 1764438300,
+      "finished": false
+    },
+    {
+      "matchId": "2NcBBpS6",
+      "homeTeam": "Paris FC",
+      "awayTeam": "Auxerre",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "20:00",
+      "timestamp": 1764439200,
+      "finished": false
+    },
+    {
+      "matchId": "IJa9hDjm",
+      "homeTeam": "Nacional",
+      "awayTeam": "Benfica",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "20:00",
+      "timestamp": 1764439200,
+      "finished": false
+    },
+    {
+      "matchId": "8ARqXF1C",
+      "homeTeam": "K. Lierse S.K.",
+      "awayTeam": "Anderlecht U23",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1764442800,
+      "finished": false
+    },
+    {
+      "matchId": "GfgZsXFU",
+      "homeTeam": "Patro Eisden",
+      "awayTeam": "Gent U23",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1764442800,
+      "finished": false
+    },
+    {
+      "matchId": "8UsdvV0L",
+      "homeTeam": "GKS Katowice",
+      "awayTeam": "Pogon Szczecin",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:15",
+      "timestamp": 1764443700,
+      "finished": false
+    },
+    {
+      "matchId": "ldHhWOUN",
+      "homeTeam": "Magdeburg",
+      "awayTeam": "Nurnberg",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1764444600,
+      "finished": false
+    },
+    {
+      "matchId": "jHZD8Sjm",
+      "homeTeam": "Luzern",
+      "awayTeam": "Winterthur",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "21:30",
+      "timestamp": 1764444600,
+      "finished": false
+    },
+    {
+      "matchId": "AgluwlE8",
+      "homeTeam": "Charleroi",
+      "awayTeam": "RAAL La Louviere",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "21:45",
+      "timestamp": 1764445500,
+      "finished": false
+    },
+    {
+      "matchId": "ED39bfVg",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Lazio",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1764445500,
+      "finished": false
+    },
+    {
+      "matchId": "YZVAeD4d",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Fulham",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1764446400,
+      "finished": false
+    },
+    {
+      "matchId": "0SCNEq3d",
+      "homeTeam": "Nijmegen",
+      "awayTeam": "Sparta Rotterdam",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "22:00",
+      "timestamp": 1764446400,
+      "finished": false
+    },
+    {
+      "matchId": "YwUqVIyI",
+      "homeTeam": "Atl. Madrid",
+      "awayTeam": "Oviedo",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1764446400,
+      "finished": false
+    },
+    {
+      "matchId": "8vXzepHN",
+      "homeTeam": "Valladolid",
+      "awayTeam": "Malaga",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "22:00",
+      "timestamp": 1764446400,
+      "finished": false
+    },
+    {
+      "matchId": "QaX9QDht",
+      "homeTeam": "Marseille",
+      "awayTeam": "Toulouse",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "22:05",
+      "timestamp": 1764446700,
+      "finished": false
+    },
+    {
+      "matchId": "W829NhiD",
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "Tondela",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:30",
+      "timestamp": 1764448200,
+      "finished": false
+    },
+    {
+      "matchId": "IwUrkvRk",
+      "homeTeam": "Palmeiras (Bra)",
+      "awayTeam": "Flamengo RJ (Bra)",
+      "liga": "SOUTH AMERICA: Copa Libertadores - Play Offs",
+      "ora": "23:00",
+      "timestamp": 1764450000,
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "data": "15.01.2026",
+  "generatedAt": "15.01.2026 08:00:48",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 2,
+  "minutVerificare": 53,
+  "verificari": [
+    {
+      "matchId": "2isaaUGt",
+      "homeTeam": "Verona",
+      "awayTeam": "Bologna",
+      "liga": "ITALY: Serie A",
+      "oraStart": "19:30",
+      "timestampStart": 1768498200,
+      "oraVerificare": "20:23",
+      "timestampVerificare": 1768501380,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-01-15T18:22:53.644Z",
+      "statsFile": "stats-2isaaUGt-HT.json"
+    },
+    {
+      "matchId": "AsUcWVnf",
+      "homeTeam": "Como",
+      "awayTeam": "AC Milan",
+      "liga": "ITALY: Serie A",
+      "oraStart": "21:45",
+      "timestampStart": 1768506300,
+      "oraVerificare": "22:38",
+      "timestampVerificare": 1768509480,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-01-15T20:37:54.021Z",
+      "statsFile": "stats-AsUcWVnf-HT.json"
+    }
+  ]
+}

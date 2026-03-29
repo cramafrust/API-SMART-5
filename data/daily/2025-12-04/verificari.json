@@ -1,0 +1,51 @@
+{
+  "data": "04.12.2025",
+  "generatedAt": "04.12.2025 08:00:05",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 3,
+  "minutVerificare": 53,
+  "verificari": [
+    {
+      "matchId": "jHJrVdmR",
+      "homeTeam": "Wisla Plock",
+      "awayTeam": "Cracovia",
+      "liga": "POLAND: Ekstraklasa",
+      "oraStart": "18:00",
+      "timestampStart": 1764864000,
+      "oraVerificare": "18:53",
+      "timestampVerificare": 1764867180,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2025-12-04T16:52:36.279Z",
+      "statsFile": "stats-jHJrVdmR-HT.json"
+    },
+    {
+      "matchId": "KK3NfDXA",
+      "homeTeam": "Crvena zvezda",
+      "awayTeam": "Cukaricki",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "oraStart": "20:00",
+      "timestampStart": 1764871200,
+      "oraVerificare": "20:53",
+      "timestampVerificare": 1764874380,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2025-12-04T18:52:57.328Z",
+      "statsFile": "stats-KK3NfDXA-HT.json"
+    },
+    {
+      "matchId": "0OUQMk3e",
+      "homeTeam": "Manchester Utd",
+      "awayTeam": "West Ham",
+      "liga": "ENGLAND: Premier League",
+      "oraStart": "22:00",
+      "timestampStart": 1764878400,
+      "oraVerificare": "22:53",
+      "timestampVerificare": 1764881580,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2025-12-04T20:52:55.718Z",
+      "statsFile": "stats-0OUQMk3e-HT.json"
+    }
+  ]
+}

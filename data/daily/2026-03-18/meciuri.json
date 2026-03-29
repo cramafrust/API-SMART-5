@@ -1,0 +1,153 @@
+{
+  "data": "18.03.2026",
+  "generatedAt": "18.03.2026 08:01:50",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 16,
+  "meciuri": [
+    {
+      "matchId": "8YZuYsd5",
+      "homeTeam": "Central Cordoba",
+      "awayTeam": "Dep. Riestra",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "02:15",
+      "timestamp": 1773792900,
+      "finished": true
+    },
+    {
+      "matchId": "GbwlWLQH",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Estudiantes L.P.",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "02:15",
+      "timestamp": 1773792900,
+      "finished": false
+    },
+    {
+      "matchId": "xlrpMmaD",
+      "homeTeam": "Alanyaspor",
+      "awayTeam": "Kocaelispor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "15:00",
+      "timestamp": 1773838800,
+      "finished": false
+    },
+    {
+      "matchId": "SlxmayId",
+      "homeTeam": "Braga",
+      "awayTeam": "Ferencvaros",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "17:30",
+      "timestamp": 1773847800,
+      "finished": false
+    },
+    {
+      "matchId": "nuNoDhGr",
+      "homeTeam": "Basaksehir",
+      "awayTeam": "Antalyaspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773853200,
+      "finished": false
+    },
+    {
+      "matchId": "f5QgBWpe",
+      "homeTeam": "Eyupspor",
+      "awayTeam": "Trabzonspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773853200,
+      "finished": false
+    },
+    {
+      "matchId": "hx7cXCAd",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Newcastle",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773855900,
+      "finished": false
+    },
+    {
+      "matchId": "YeoTPVal",
+      "homeTeam": "Goztepe",
+      "awayTeam": "Galatasaray",
+      "liga": "TURKEY: Super Lig",
+      "ora": "20:00",
+      "timestamp": 1773856800,
+      "finished": false
+    },
+    {
+      "matchId": "GKE29AF7",
+      "homeTeam": "Rizespor",
+      "awayTeam": "Samsunspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "20:00",
+      "timestamp": 1773856800,
+      "finished": false
+    },
+    {
+      "matchId": "Iship0s3",
+      "homeTeam": "Southampton",
+      "awayTeam": "Norwich",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1773863100,
+      "finished": false
+    },
+    {
+      "matchId": "AaIWYPo1",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Atalanta",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773864000,
+      "finished": false
+    },
+    {
+      "matchId": "WnhigfXF",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Galatasaray",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773864000,
+      "finished": false
+    },
+    {
+      "matchId": "r3DQf78K",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Atl. Madrid",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773864000,
+      "finished": false
+    },
+    {
+      "matchId": "vXS23GB4",
+      "homeTeam": "Bahia",
+      "awayTeam": "Bragantino",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773871200,
+      "finished": false
+    },
+    {
+      "matchId": "65kMjwSb",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Botafogo RJ",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773871200,
+      "finished": false
+    },
+    {
+      "matchId": "6JUf5xsh",
+      "homeTeam": "Athletico-PR",
+      "awayTeam": "Cruzeiro",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:30",
+      "timestamp": 1773873000,
+      "finished": false
+    }
+  ]
+}

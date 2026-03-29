@@ -1,0 +1,53 @@
+{
+  "data": "15.11.2025",
+  "generatedAt": "15.11.2025 08:00:03",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 5,
+  "meciuri": [
+    {
+      "matchId": "bgmStxgB",
+      "homeTeam": "Marko",
+      "awayTeam": "Kalamata",
+      "liga": "GREECE: Super League 2",
+      "ora": "13:00",
+      "timestamp": 1763204400,
+      "finished": false
+    },
+    {
+      "matchId": "dUjBpKgn",
+      "homeTeam": "Makedonikos",
+      "awayTeam": "Karditsa",
+      "liga": "GREECE: Super League 2",
+      "ora": "14:00",
+      "timestamp": 1763208000,
+      "finished": false
+    },
+    {
+      "matchId": "4ffJrbOb",
+      "homeTeam": "Giannina",
+      "awayTeam": "Chrisoupolis",
+      "liga": "GREECE: Super League 2",
+      "ora": "15:00",
+      "timestamp": 1763211600,
+      "finished": false
+    },
+    {
+      "matchId": "benowU84",
+      "homeTeam": "Albacete",
+      "awayTeam": "Andorra",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "17:00",
+      "timestamp": 1763218800,
+      "finished": false
+    },
+    {
+      "matchId": "nkAEQs6F",
+      "homeTeam": "Racing Santander",
+      "awayTeam": "Granada CF",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "22:00",
+      "timestamp": 1763236800,
+      "finished": false
+    }
+  ]
+}

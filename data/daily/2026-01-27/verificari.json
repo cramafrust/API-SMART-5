@@ -1,0 +1,79 @@
+{
+  "data": "27.01.2026",
+  "generatedAt": "27.01.2026 08:02:13",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 5,
+  "minutVerificare": 53,
+  "verificari": [
+    {
+      "matchId": "GUZbD0ME",
+      "homeTeam": "Beerschot VA",
+      "awayTeam": "Seraing",
+      "liga": "BELGIUM: Challenger Pro League",
+      "oraStart": "21:00",
+      "timestampStart": 1769540400,
+      "oraVerificare": "21:53",
+      "timestampVerificare": 1769543580,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-01-27T19:52:26.770Z",
+      "statsFile": "stats-GUZbD0ME-HT.json"
+    },
+    {
+      "matchId": "EPHo4dq1",
+      "homeTeam": "Eupen",
+      "awayTeam": "Sporting Lokeren",
+      "liga": "BELGIUM: Challenger Pro League",
+      "oraStart": "21:00",
+      "timestampStart": 1769540400,
+      "oraVerificare": "21:53",
+      "timestampVerificare": 1769543580,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-01-27T19:52:27.223Z",
+      "statsFile": "stats-EPHo4dq1-HT.json"
+    },
+    {
+      "matchId": "0MiCkcU7",
+      "homeTeam": "Patro Eisden",
+      "awayTeam": "OC Charleroi",
+      "liga": "BELGIUM: Challenger Pro League",
+      "oraStart": "21:00",
+      "timestampStart": 1769540400,
+      "oraVerificare": "21:53",
+      "timestampVerificare": 1769543580,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-01-27T19:52:27.665Z",
+      "statsFile": "stats-0MiCkcU7-HT.json"
+    },
+    {
+      "matchId": "Sfv5iJae",
+      "homeTeam": "RFC Liege",
+      "awayTeam": "Lommel SK",
+      "liga": "BELGIUM: Challenger Pro League",
+      "oraStart": "21:00",
+      "timestampStart": 1769540400,
+      "oraVerificare": "21:53",
+      "timestampVerificare": 1769543580,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-01-27T19:52:28.081Z",
+      "statsFile": "stats-Sfv5iJae-HT.json"
+    },
+    {
+      "matchId": "ObDLNPCO",
+      "homeTeam": "St. Pauli",
+      "awayTeam": "RB Leipzig",
+      "liga": "GERMANY: Bundesliga",
+      "oraStart": "21:30",
+      "timestampStart": 1769542200,
+      "oraVerificare": "22:23",
+      "timestampVerificare": 1769545380,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-01-27T20:22:22.162Z",
+      "statsFile": "stats-ObDLNPCO-HT.json"
+    }
+  ]
+}

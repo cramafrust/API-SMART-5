@@ -1,0 +1,38 @@
+{
+  "data": "10.03.2026",
+  "generatedAt": "10.03.2026 23:03:54",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 2,
+  "minutVerificare": 53,
+  "verificari": [
+    {
+      "matchId": "f9I7AStp",
+      "homeTeam": "Tigre",
+      "awayTeam": "Velez Sarsfield",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "oraStart": "00:45",
+      "timestampStart": 1773182700,
+      "oraVerificare": "01:36",
+      "timestampVerificare": 1773185760,
+      "minutMeci": 51,
+      "status": "completat",
+      "staggerOffset": -2,
+      "completedAt": "2026-03-10T23:35:52.161Z",
+      "statsFile": "stats-f9I7AStp-HT.json"
+    },
+    {
+      "matchId": "IBVcLqe2",
+      "homeTeam": "Independiente",
+      "awayTeam": "Union de Santa Fe",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "oraStart": "00:45",
+      "timestampStart": 1773182700,
+      "oraVerificare": "01:38",
+      "timestampVerificare": 1773185880,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-03-10T23:38:18.466Z",
+      "statsFile": "stats-IBVcLqe2-HT.json"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "data": "24.03.2026",
+  "generatedAt": "24.03.2026 22:33:31",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 2,
+  "meciuri": [
+    {
+      "matchId": "zqAWBcvA",
+      "homeTeam": "Estudiantes L.P.",
+      "awayTeam": "Central Cordoba",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:00",
+      "timestamp": 1774303200,
+      "finished": true
+    },
+    {
+      "matchId": "pfc22p7D",
+      "homeTeam": "Huracan",
+      "awayTeam": "Barracas Central",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "02:15",
+      "timestamp": 1774311300,
+      "finished": false
+    }
+  ]
+}

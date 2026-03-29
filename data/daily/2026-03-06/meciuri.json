@@ -1,0 +1,162 @@
+{
+  "data": "06.03.2026",
+  "generatedAt": "06.03.2026 09:57:57",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 17,
+  "meciuri": [
+    {
+      "matchId": "80vnl0WN",
+      "homeTeam": "Boston River (Uru)",
+      "awayTeam": "Racing Montevideo (Uru)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "ora": "00:00",
+      "timestamp": 1772748000,
+      "finished": true
+    },
+    {
+      "matchId": "vqVHrvfo",
+      "homeTeam": "Nacional Asuncion (Par)",
+      "awayTeam": "Recoleta (Par)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "ora": "00:00",
+      "timestamp": 1772748000,
+      "finished": false
+    },
+    {
+      "matchId": "QmUPPrFN",
+      "homeTeam": "Juventud (Uru)",
+      "awayTeam": "Ind. Medellin (Col)",
+      "liga": "SOUTH AMERICA: Copa Libertadores - Qualification",
+      "ora": "02:30",
+      "timestamp": 1772757000,
+      "finished": false
+    },
+    {
+      "matchId": "nojwjM1B",
+      "homeTeam": "America De Cali (Col)",
+      "awayTeam": "Bucaramanga (Col)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "ora": "02:30",
+      "timestamp": 1772757000,
+      "finished": true
+    },
+    {
+      "matchId": "44Ri17R9",
+      "homeTeam": "Cienciano (Per)",
+      "awayTeam": "FBC Melgar (Per)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "ora": "02:30",
+      "timestamp": 1772757000,
+      "finished": false
+    },
+    {
+      "matchId": "t09kVRRp",
+      "homeTeam": "Orense (Ecu)",
+      "awayTeam": "Macara (Ecu)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "ora": "04:00",
+      "timestamp": 1772762400,
+      "finished": false
+    },
+    {
+      "matchId": "G0SRmuVF",
+      "homeTeam": "Elversberg",
+      "awayTeam": "Magdeburg",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1772818200,
+      "finished": false
+    },
+    {
+      "matchId": "tAUz8U4E",
+      "homeTeam": "Csikszereda M. Ciuc",
+      "awayTeam": "Farul Constanta",
+      "liga": "ROMANIA: Superliga",
+      "ora": "19:30",
+      "timestamp": 1772818200,
+      "finished": false
+    },
+    {
+      "matchId": "tzGA1O4C",
+      "homeTeam": "Heracles",
+      "awayTeam": "Utrecht",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "21:00",
+      "timestamp": 1772823600,
+      "finished": false
+    },
+    {
+      "matchId": "Czf4T32T",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "B. Monchengladbach",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1772825400,
+      "finished": false
+    },
+    {
+      "matchId": "fiFv8Fw9",
+      "homeTeam": "Lechia Gdansk",
+      "awayTeam": "Jagiellonia",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1772825400,
+      "finished": false
+    },
+    {
+      "matchId": "xzezrqFl",
+      "homeTeam": "RAAL La Louviere",
+      "awayTeam": "Antwerp",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "21:45",
+      "timestamp": 1772826300,
+      "finished": false
+    },
+    {
+      "matchId": "IoAaxQM9",
+      "homeTeam": "PSG",
+      "awayTeam": "Monaco",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "21:45",
+      "timestamp": 1772826300,
+      "finished": false
+    },
+    {
+      "matchId": "UgmixV6N",
+      "homeTeam": "Napoli",
+      "awayTeam": "Torino",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1772826300,
+      "finished": false
+    },
+    {
+      "matchId": "CpXVtRzB",
+      "homeTeam": "Preston",
+      "awayTeam": "Oxford Utd",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1772827200,
+      "finished": false
+    },
+    {
+      "matchId": "xd22wQM8",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Real Madrid",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1772827200,
+      "finished": false
+    },
+    {
+      "matchId": "Cl9CyAiS",
+      "homeTeam": "Famalicao",
+      "awayTeam": "Arouca",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1772828100,
+      "finished": false
+    }
+  ]
+}

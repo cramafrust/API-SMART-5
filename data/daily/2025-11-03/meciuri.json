@@ -1,0 +1,242 @@
+{
+  "data": "03.11.2025",
+  "generatedAt": "03.11.2025 21:21:53",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 26,
+  "meciuri": [
+    {
+      "matchId": "nm1Fx41m",
+      "homeTeam": "Columbus Crew",
+      "awayTeam": "FC Cincinnati",
+      "liga": "USA: MLS - Play Offs",
+      "ora": "01:30",
+      "timestamp": 1762126200,
+      "finished": true
+    },
+    {
+      "matchId": "fZubmLF5",
+      "homeTeam": "Austin FC",
+      "awayTeam": "Los Angeles FC",
+      "liga": "USA: MLS - Play Offs",
+      "ora": "03:45",
+      "timestamp": 1762134300,
+      "finished": false
+    },
+    {
+      "matchId": "0CCeGIN9",
+      "homeTeam": "Nasaf Qarshi (Uzb)",
+      "awayTeam": "Al Wahda (Uae)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "15:45",
+      "timestamp": 1762177500,
+      "finished": false
+    },
+    {
+      "matchId": "I1AZIqne",
+      "homeTeam": "Asteras Tripolis",
+      "awayTeam": "OFI Crete",
+      "liga": "GREECE: Super League",
+      "ora": "17:00",
+      "timestamp": 1762182000,
+      "finished": true
+    },
+    {
+      "matchId": "fBZmEOSE",
+      "homeTeam": "Farul Constanta",
+      "awayTeam": "Csikszereda M. Ciuc",
+      "liga": "ROMANIA: Superliga",
+      "ora": "17:30",
+      "timestamp": 1762183800,
+      "finished": true
+    },
+    {
+      "matchId": "xz1esnSP",
+      "homeTeam": "Al-Duhail (Qat)",
+      "awayTeam": "Shabab Al-Ahli Dubai (Uae)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "18:00",
+      "timestamp": 1762185600,
+      "finished": true
+    },
+    {
+      "matchId": "zkoOh38l",
+      "homeTeam": "Tractor (Irn)",
+      "awayTeam": "Al Shorta (Irq)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "18:00",
+      "timestamp": 1762185600,
+      "finished": true
+    },
+    {
+      "matchId": "lCDNKF9N",
+      "homeTeam": "OFK Beograd Mozzart Bet",
+      "awayTeam": "Radnicki Nis",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "18:00",
+      "timestamp": 1762185600,
+      "finished": false
+    },
+    {
+      "matchId": "SfjXx03e",
+      "homeTeam": "Lechia Gdansk",
+      "awayTeam": "Radomiak Radom",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "19:00",
+      "timestamp": 1762189200,
+      "finished": false
+    },
+    {
+      "matchId": "xQBhprBL",
+      "homeTeam": "Wisla Plock",
+      "awayTeam": "Pogon Szczecin",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "19:00",
+      "timestamp": 1762189200,
+      "finished": true
+    },
+    {
+      "matchId": "jTaih8on",
+      "homeTeam": "Alanyaspor",
+      "awayTeam": "Gaziantep",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1762189200,
+      "finished": false
+    },
+    {
+      "matchId": "pWvWlZvf",
+      "homeTeam": "Eyupspor",
+      "awayTeam": "Antalyaspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1762189200,
+      "finished": false
+    },
+    {
+      "matchId": "pjymsrwo",
+      "homeTeam": "Rizespor",
+      "awayTeam": "Karagumruk",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1762189200,
+      "finished": true
+    },
+    {
+      "matchId": "ptCjCbs3",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Genoa",
+      "liga": "ITALY: Serie A",
+      "ora": "19:30",
+      "timestamp": 1762191000,
+      "finished": false
+    },
+    {
+      "matchId": "zcu7IhBk",
+      "homeTeam": "Midtjylland",
+      "awayTeam": "Aarhus",
+      "liga": "DENMARK: Superliga",
+      "ora": "20:00",
+      "timestamp": 1762192800,
+      "finished": false
+    },
+    {
+      "matchId": "z9Vlyyf4",
+      "homeTeam": "Mladost",
+      "awayTeam": "Radnicki 1923",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "20:00",
+      "timestamp": 1762192800,
+      "finished": false
+    },
+    {
+      "matchId": "OOSD7Wwh",
+      "homeTeam": "Degerfors",
+      "awayTeam": "Hammarby",
+      "liga": "SWEDEN: Allsvenskan",
+      "ora": "20:00",
+      "timestamp": 1762192800,
+      "finished": false
+    },
+    {
+      "matchId": "WlWL5A84",
+      "homeTeam": "Varnamo",
+      "awayTeam": "Mjallby",
+      "liga": "SWEDEN: Allsvenskan",
+      "ora": "20:00",
+      "timestamp": 1762192800,
+      "finished": false
+    },
+    {
+      "matchId": "CzIAASZj",
+      "homeTeam": "Al-Gharafa (Qat)",
+      "awayTeam": "Al Hilal (Sau)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "20:15",
+      "timestamp": 1762193700,
+      "finished": false
+    },
+    {
+      "matchId": "2Hn2jLz8",
+      "homeTeam": "Petrolul",
+      "awayTeam": "FC Botosani",
+      "liga": "ROMANIA: Superliga",
+      "ora": "20:30",
+      "timestamp": 1762194600,
+      "finished": false
+    },
+    {
+      "matchId": "jTySbsQE",
+      "homeTeam": "Cracovia",
+      "awayTeam": "Zaglebie",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1762198200,
+      "finished": false
+    },
+    {
+      "matchId": "vNsUAdff",
+      "homeTeam": "Valladolid",
+      "awayTeam": "Granada CF",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1762198200,
+      "finished": false
+    },
+    {
+      "matchId": "pSWHcaS9",
+      "homeTeam": "Lazio",
+      "awayTeam": "Cagliari",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1762199100,
+      "finished": false
+    },
+    {
+      "matchId": "O82v0Yfk",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Everton",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1762200000,
+      "finished": false
+    },
+    {
+      "matchId": "rTLM0GQ9",
+      "homeTeam": "Oviedo",
+      "awayTeam": "Osasuna",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1762200000,
+      "finished": false
+    },
+    {
+      "matchId": "8As6zKD4",
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "Santa Clara",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:45",
+      "timestamp": 1762202700,
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "data": "16.11.2025",
+  "generatedAt": "16.11.2025 08:00:02",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 10,
+  "meciuri": [
+    {
+      "matchId": "W6ozuGNN",
+      "homeTeam": "Ellas Syrou",
+      "awayTeam": "PAE Chania",
+      "liga": "GREECE: Super League 2",
+      "ora": "13:00",
+      "timestamp": 1763290800,
+      "finished": false
+    },
+    {
+      "matchId": "vD81ey84",
+      "homeTeam": "Athens Kallithea",
+      "awayTeam": "PAE Egaleo",
+      "liga": "GREECE: Super League 2",
+      "ora": "15:00",
+      "timestamp": 1763298000,
+      "finished": false
+    },
+    {
+      "matchId": "Qm7iUb95",
+      "homeTeam": "Kavala",
+      "awayTeam": "Kampaniakos",
+      "liga": "GREECE: Super League 2",
+      "ora": "15:00",
+      "timestamp": 1763298000,
+      "finished": false
+    },
+    {
+      "matchId": "jiS6Zgoo",
+      "homeTeam": "Panargiakos",
+      "awayTeam": "Ilioupoli",
+      "liga": "GREECE: Super League 2",
+      "ora": "15:00",
+      "timestamp": 1763298000,
+      "finished": false
+    },
+    {
+      "matchId": "OncOFQic",
+      "homeTeam": "Ceuta",
+      "awayTeam": "Leganes",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "15:00",
+      "timestamp": 1763298000,
+      "finished": false
+    },
+    {
+      "matchId": "OAuB6MEq",
+      "homeTeam": "Almeria",
+      "awayTeam": "Cadiz CF",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "17:15",
+      "timestamp": 1763306100,
+      "finished": false
+    },
+    {
+      "matchId": "jNG5S3y3",
+      "homeTeam": "Gijon",
+      "awayTeam": "Eibar",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "17:15",
+      "timestamp": 1763306100,
+      "finished": false
+    },
+    {
+      "matchId": "d0eWD4M9",
+      "homeTeam": "Cordoba",
+      "awayTeam": "Dep. La Coruna",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "19:30",
+      "timestamp": 1763314200,
+      "finished": false
+    },
+    {
+      "matchId": "pQTJ40qd",
+      "homeTeam": "Mirandes",
+      "awayTeam": "Burgos CF",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "19:30",
+      "timestamp": 1763314200,
+      "finished": false
+    },
+    {
+      "matchId": "K28MOLzS",
+      "homeTeam": "Zaragoza",
+      "awayTeam": "Huesca",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "22:00",
+      "timestamp": 1763323200,
+      "finished": false
+    }
+  ]
+}

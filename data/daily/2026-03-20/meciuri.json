@@ -1,0 +1,189 @@
+{
+  "data": "20.03.2026",
+  "generatedAt": "20.03.2026 08:02:29",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 20,
+  "meciuri": [
+    {
+      "matchId": "jBn8sZlo",
+      "homeTeam": "Gremio",
+      "awayTeam": "Vitoria",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773957600,
+      "finished": true
+    },
+    {
+      "matchId": "baSfzIsI",
+      "homeTeam": "Flamengo RJ",
+      "awayTeam": "Remo",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:00",
+      "timestamp": 1773961200,
+      "finished": true
+    },
+    {
+      "matchId": "bZr41ftH",
+      "homeTeam": "Chapecoense-SC",
+      "awayTeam": "Corinthians",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "02:30",
+      "timestamp": 1773966600,
+      "finished": false
+    },
+    {
+      "matchId": "8n538fjB",
+      "homeTeam": "Sp. Subotica",
+      "awayTeam": "Radnik",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "18:00",
+      "timestamp": 1774022400,
+      "finished": false
+    },
+    {
+      "matchId": "OA3wFr8j",
+      "homeTeam": "Piast Gliwice",
+      "awayTeam": "Radomiak Radom",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "19:00",
+      "timestamp": 1774026000,
+      "finished": false
+    },
+    {
+      "matchId": "AgTMuLWh",
+      "homeTeam": "FCSB",
+      "awayTeam": "UTA Arad",
+      "liga": "ROMANIA: Superliga - Relegation Group",
+      "ora": "19:00",
+      "timestamp": 1774026000,
+      "finished": false
+    },
+    {
+      "matchId": "hOlu2j7N",
+      "homeTeam": "Hannover",
+      "awayTeam": "Braunschweig",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1774027800,
+      "finished": false
+    },
+    {
+      "matchId": "pboX3CxB",
+      "homeTeam": "Karlsruher SC",
+      "awayTeam": "Greuther Furth",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1774027800,
+      "finished": false
+    },
+    {
+      "matchId": "xbLAJJeK",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Napoli",
+      "liga": "ITALY: Serie A",
+      "ora": "19:30",
+      "timestamp": 1774027800,
+      "finished": false
+    },
+    {
+      "matchId": "pWqJfXE5",
+      "homeTeam": "Vejle",
+      "awayTeam": "Odense",
+      "liga": "DENMARK: Superliga - Relegation Group",
+      "ora": "20:00",
+      "timestamp": 1774029600,
+      "finished": false
+    },
+    {
+      "matchId": "KQ3sNxE5",
+      "homeTeam": "Sturm Graz",
+      "awayTeam": "Salzburg",
+      "liga": "AUSTRIA: Bundesliga - Championship Group",
+      "ora": "20:30",
+      "timestamp": 1774031400,
+      "finished": false
+    },
+    {
+      "matchId": "bXwzRakL",
+      "homeTeam": "Heracles",
+      "awayTeam": "Excelsior",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "21:00",
+      "timestamp": 1774033200,
+      "finished": false
+    },
+    {
+      "matchId": "SrS8qyAO",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Hoffenheim",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1774035000,
+      "finished": false
+    },
+    {
+      "matchId": "rwDrQ8Gi",
+      "homeTeam": "Motor Lublin",
+      "awayTeam": "Zaglebie",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1774035000,
+      "finished": false
+    },
+    {
+      "matchId": "vgQi3gRP",
+      "homeTeam": "Lens",
+      "awayTeam": "Angers",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "21:45",
+      "timestamp": 1774035900,
+      "finished": false
+    },
+    {
+      "matchId": "zg3cAFI6",
+      "homeTeam": "Genoa",
+      "awayTeam": "Udinese",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1774035900,
+      "finished": false
+    },
+    {
+      "matchId": "QZ5U62OH",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Manchester Utd",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1774036800,
+      "finished": false
+    },
+    {
+      "matchId": "xnX3PJ6T",
+      "homeTeam": "Preston",
+      "awayTeam": "Stoke",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1774036800,
+      "finished": false
+    },
+    {
+      "matchId": "pIFbK5HM",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Real Sociedad",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1774036800,
+      "finished": false
+    },
+    {
+      "matchId": "2ughgZIU",
+      "homeTeam": "Estrela",
+      "awayTeam": "Casa Pia",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1774037700,
+      "finished": false
+    }
+  ]
+}

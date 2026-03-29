@@ -1,0 +1,89 @@
+{
+  "data": "23.01.2026",
+  "generatedAt": "23.01.2026 11:03:09",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 9,
+  "meciuri": [
+    {
+      "matchId": "K2GLLqUj",
+      "homeTeam": "Trabzonspor",
+      "awayTeam": "Kasimpasa",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1769187600,
+      "finished": false
+    },
+    {
+      "matchId": "GOQioXjR",
+      "homeTeam": "Darmstadt",
+      "awayTeam": "Nurnberg",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1769189400,
+      "finished": false
+    },
+    {
+      "matchId": "GrPXH17T",
+      "homeTeam": "Auxerre",
+      "awayTeam": "PSG",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "21:00",
+      "timestamp": 1769194800,
+      "finished": false
+    },
+    {
+      "matchId": "2LhKQUNs",
+      "homeTeam": "St. Pauli",
+      "awayTeam": "Hamburger SV",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1769196600,
+      "finished": false
+    },
+    {
+      "matchId": "n1zFkJFO",
+      "homeTeam": "Malaga",
+      "awayTeam": "Burgos CF",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1769196600,
+      "finished": false
+    },
+    {
+      "matchId": "tWFFwzN9",
+      "homeTeam": "St. Liege",
+      "awayTeam": "Gent",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "21:45",
+      "timestamp": 1769197500,
+      "finished": false
+    },
+    {
+      "matchId": "AFNHCg9m",
+      "homeTeam": "Inter",
+      "awayTeam": "Pisa",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1769197500,
+      "finished": false
+    },
+    {
+      "matchId": "EPwc2cxe",
+      "homeTeam": "Levante",
+      "awayTeam": "Elche",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1769198400,
+      "finished": false
+    },
+    {
+      "matchId": "UFnJ7bEs",
+      "homeTeam": "Casa Pia",
+      "awayTeam": "AFS",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1769199300,
+      "finished": false
+    }
+  ]
+}

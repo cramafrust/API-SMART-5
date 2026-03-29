@@ -1,0 +1,89 @@
+{
+  "data": "01.12.2025",
+  "generatedAt": "01.12.2025 08:00:02",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 9,
+  "meciuri": [
+    {
+      "matchId": "jyl8OQ3l",
+      "homeTeam": "U. Cluj",
+      "awayTeam": "Univ. Craiova",
+      "liga": "ROMANIA: Superliga",
+      "ora": "19:00",
+      "timestamp": 1764608400,
+      "finished": false
+    },
+    {
+      "matchId": "MBfKZHit",
+      "homeTeam": "Fenerbahce",
+      "awayTeam": "Galatasaray",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1764608400,
+      "finished": false
+    },
+    {
+      "matchId": "E5oeZmt0",
+      "homeTeam": "Samsunspor",
+      "awayTeam": "Alanyaspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1764608400,
+      "finished": false
+    },
+    {
+      "matchId": "pSl1GTpQ",
+      "homeTeam": "Brondby",
+      "awayTeam": "Fredericia",
+      "liga": "DENMARK: Superliga",
+      "ora": "20:00",
+      "timestamp": 1764612000,
+      "finished": false
+    },
+    {
+      "matchId": "4z0UPVoS",
+      "homeTeam": "Motor Lublin",
+      "awayTeam": "Legia",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "20:00",
+      "timestamp": 1764612000,
+      "finished": false
+    },
+    {
+      "matchId": "hULy28Kl",
+      "homeTeam": "Bologna",
+      "awayTeam": "Cremonese",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1764618300,
+      "finished": false
+    },
+    {
+      "matchId": "25rsa4tB",
+      "homeTeam": "Birmingham",
+      "awayTeam": "Watford",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1764619200,
+      "finished": false
+    },
+    {
+      "matchId": "YeuKWVCM",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Valencia",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1764619200,
+      "finished": false
+    },
+    {
+      "matchId": "Ora1PEM0",
+      "homeTeam": "Arouca",
+      "awayTeam": "Braga",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1764620100,
+      "finished": false
+    }
+  ]
+}

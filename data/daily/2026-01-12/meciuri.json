@@ -1,0 +1,44 @@
+{
+  "data": "12.01.2026",
+  "generatedAt": "12.01.2026 23:44:11",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 4,
+  "meciuri": [
+    {
+      "matchId": "GvaOIRzo",
+      "homeTeam": "Genoa",
+      "awayTeam": "Cagliari",
+      "liga": "ITALY: Serie A",
+      "ora": "19:30",
+      "timestamp": 1768239000,
+      "finished": true
+    },
+    {
+      "matchId": "t4VNHMtR",
+      "homeTeam": "Huesca",
+      "awayTeam": "Cordoba",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1768246200,
+      "finished": false
+    },
+    {
+      "matchId": "2m7Bv9c4",
+      "homeTeam": "Juventus",
+      "awayTeam": "Cremonese",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1768247100,
+      "finished": false
+    },
+    {
+      "matchId": "t2A2rrUO",
+      "homeTeam": "Sevilla",
+      "awayTeam": "Celta Vigo",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1768248000,
+      "finished": false
+    }
+  ]
+}

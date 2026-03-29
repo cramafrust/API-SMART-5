@@ -1,0 +1,35 @@
+{
+  "data": "10.11.2025",
+  "generatedAt": "10.11.2025 08:00:03",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 3,
+  "meciuri": [
+    {
+      "matchId": "CWFvxFdd",
+      "homeTeam": "San Diego FC",
+      "awayTeam": "Portland Timbers",
+      "liga": "USA: MLS - Play Offs",
+      "ora": "04:00",
+      "timestamp": 1762740000,
+      "finished": true
+    },
+    {
+      "matchId": "GvZiyq2S",
+      "homeTeam": "Ilioupoli",
+      "awayTeam": "Athens Kallithea",
+      "liga": "GREECE: Super League 2",
+      "ora": "15:00",
+      "timestamp": 1762779600,
+      "finished": false
+    },
+    {
+      "matchId": "82Zp7EgJ",
+      "homeTeam": "Burgos CF",
+      "awayTeam": "Castellon",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1762803000,
+      "finished": false
+    }
+  ]
+}

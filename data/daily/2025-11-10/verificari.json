@@ -1,0 +1,37 @@
+{
+  "data": "10.11.2025",
+  "generatedAt": "10.11.2025 08:00:05",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 2,
+  "minutVerificare": 45,
+  "verificari": [
+    {
+      "matchId": "GvZiyq2S",
+      "homeTeam": "Ilioupoli",
+      "awayTeam": "Athens Kallithea",
+      "liga": "GREECE: Super League 2",
+      "oraStart": "15:00",
+      "timestampStart": 1762779600,
+      "oraVerificare": "15:45",
+      "timestampVerificare": 1762782300,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-10T13:44:24.986Z",
+      "statsFile": "stats-GvZiyq2S-HT.json"
+    },
+    {
+      "matchId": "82Zp7EgJ",
+      "homeTeam": "Burgos CF",
+      "awayTeam": "Castellon",
+      "liga": "SPAIN: LaLiga2",
+      "oraStart": "21:30",
+      "timestampStart": 1762803000,
+      "oraVerificare": "22:15",
+      "timestampVerificare": 1762805700,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-10T20:14:48.815Z",
+      "statsFile": "stats-82Zp7EgJ-HT.json"
+    }
+  ]
+}

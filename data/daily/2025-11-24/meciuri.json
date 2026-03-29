@@ -1,0 +1,116 @@
+{
+  "data": "24.11.2025",
+  "generatedAt": "24.11.2025 23:53:06",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 12,
+  "meciuri": [
+    {
+      "matchId": "feB4uuxJ",
+      "homeTeam": "FC Cincinnati",
+      "awayTeam": "Inter Miami",
+      "liga": "USA: MLS - Play Offs",
+      "ora": "00:00",
+      "timestamp": 1763935200,
+      "finished": false
+    },
+    {
+      "matchId": "h4MCiCoI",
+      "homeTeam": "Philadelphia Union",
+      "awayTeam": "New York City",
+      "liga": "USA: MLS - Play Offs",
+      "ora": "02:45",
+      "timestamp": 1763945100,
+      "finished": false
+    },
+    {
+      "matchId": "WKK5xVro",
+      "homeTeam": "Volos",
+      "awayTeam": "Levadiakos",
+      "liga": "GREECE: Super League",
+      "ora": "18:00",
+      "timestamp": 1764000000,
+      "finished": false
+    },
+    {
+      "matchId": "KQEoJyj2",
+      "homeTeam": "Basaksehir",
+      "awayTeam": "Trabzonspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1764003600,
+      "finished": false
+    },
+    {
+      "matchId": "K2WbSuTF",
+      "homeTeam": "Konyaspor",
+      "awayTeam": "Antalyaspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1764003600,
+      "finished": false
+    },
+    {
+      "matchId": "CA02m95e",
+      "homeTeam": "Torino",
+      "awayTeam": "Como",
+      "liga": "ITALY: Serie A",
+      "ora": "19:30",
+      "timestamp": 1764005400,
+      "finished": false
+    },
+    {
+      "matchId": "x4h5d8gf",
+      "homeTeam": "Randers FC",
+      "awayTeam": "Odense",
+      "liga": "DENMARK: Superliga",
+      "ora": "20:00",
+      "timestamp": 1764007200,
+      "finished": false
+    },
+    {
+      "matchId": "CzvZsiLN",
+      "homeTeam": "AEL Larissa",
+      "awayTeam": "OFI Crete",
+      "liga": "GREECE: Super League",
+      "ora": "20:00",
+      "timestamp": 1764007200,
+      "finished": false
+    },
+    {
+      "matchId": "lpBDbgmT",
+      "homeTeam": "Pogon Szczecin",
+      "awayTeam": "Zaglebie",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "20:00",
+      "timestamp": 1764007200,
+      "finished": true
+    },
+    {
+      "matchId": "6DcfkVzq",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Pisa",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1764013500,
+      "finished": false
+    },
+    {
+      "matchId": "Y1fLl5iC",
+      "homeTeam": "Manchester Utd",
+      "awayTeam": "Everton",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1764014400,
+      "finished": false
+    },
+    {
+      "matchId": "GxOpMNhm",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Sevilla",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1764014400,
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "data": "16.03.2026",
+  "generatedAt": "16.03.2026 08:07:27",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 16,
+  "meciuri": [
+    {
+      "matchId": "z9gNpLuB",
+      "homeTeam": "River Plate",
+      "awayTeam": "Sarmiento Junin",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:45",
+      "timestamp": 1773614700,
+      "finished": true
+    },
+    {
+      "matchId": "QkQmjk8D",
+      "homeTeam": "San Jose Earthquakes",
+      "awayTeam": "Seattle Sounders",
+      "liga": "USA: MLS",
+      "ora": "01:00",
+      "timestamp": 1773615600,
+      "finished": false
+    },
+    {
+      "matchId": "29v3xm7l",
+      "homeTeam": "Bragantino",
+      "awayTeam": "Sao Paulo",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:30",
+      "timestamp": 1773617400,
+      "finished": false
+    },
+    {
+      "matchId": "d8XBzRy1",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Vasco",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:30",
+      "timestamp": 1773617400,
+      "finished": false
+    },
+    {
+      "matchId": "WlS4cbPG",
+      "homeTeam": "Tigre",
+      "awayTeam": "Argentinos Jrs",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:00",
+      "timestamp": 1773622800,
+      "finished": false
+    },
+    {
+      "matchId": "vgrPyQdt",
+      "homeTeam": "Union de Santa Fe",
+      "awayTeam": "Boca Juniors",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:00",
+      "timestamp": 1773622800,
+      "finished": false
+    },
+    {
+      "matchId": "bFoBdgpg",
+      "homeTeam": "Silkeborg",
+      "awayTeam": "Vejle",
+      "liga": "DENMARK: Superliga - Relegation Group",
+      "ora": "20:00",
+      "timestamp": 1773684000,
+      "finished": false
+    },
+    {
+      "matchId": "UBYpBujI",
+      "homeTeam": "Pogon Szczecin",
+      "awayTeam": "Korona Kielce",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "20:00",
+      "timestamp": 1773684000,
+      "finished": false
+    },
+    {
+      "matchId": "WzmWraAN",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Huracan",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "20:30",
+      "timestamp": 1773685800,
+      "finished": false
+    },
+    {
+      "matchId": "n1h1wwYp",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Atl. Tucuman",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "20:30",
+      "timestamp": 1773685800,
+      "finished": false
+    },
+    {
+      "matchId": "8Ax2774L",
+      "homeTeam": "U. Cluj",
+      "awayTeam": "CFR Cluj",
+      "liga": "ROMANIA: Superliga - Championship Group",
+      "ora": "20:30",
+      "timestamp": 1773685800,
+      "finished": false
+    },
+    {
+      "matchId": "rcDQjULG",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Fiorentina",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1773690300,
+      "finished": false
+    },
+    {
+      "matchId": "0jR7cwU6",
+      "homeTeam": "Brentford",
+      "awayTeam": "Wolves",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1773691200,
+      "finished": false
+    },
+    {
+      "matchId": "QPIxDkH6",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Derby",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1773691200,
+      "finished": false
+    },
+    {
+      "matchId": "fyHX9ccm",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Levante",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1773691200,
+      "finished": false
+    },
+    {
+      "matchId": "C6tXZ3Rh",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Defensa y Justicia",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "23:30",
+      "timestamp": 1773696600,
+      "finished": false
+    }
+  ]
+}

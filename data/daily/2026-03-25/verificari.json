@@ -1,0 +1,23 @@
+{
+  "data": "25.03.2026",
+  "generatedAt": "25.03.2026 08:00:47",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 1,
+  "minutVerificare": 53,
+  "verificari": [
+    {
+      "matchId": "trx4gkOr",
+      "homeTeam": "Dep. Riestra",
+      "awayTeam": "San Lorenzo",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "oraStart": "00:00",
+      "timestampStart": 1774476000,
+      "oraVerificare": "00:53",
+      "timestampVerificare": 1774479180,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-03-25T22:52:08.019Z",
+      "statsFile": "stats-trx4gkOr-HT.json"
+    }
+  ]
+}

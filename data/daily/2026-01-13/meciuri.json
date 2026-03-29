@@ -1,0 +1,35 @@
+{
+  "data": "13.01.2026",
+  "generatedAt": "13.01.2026 08:02:21",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 3,
+  "meciuri": [
+    {
+      "matchId": "OKldz3dU",
+      "homeTeam": "Stuttgart",
+      "awayTeam": "Eintracht Frankfurt",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1768325400,
+      "finished": false
+    },
+    {
+      "matchId": "Yg01qtZp",
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "Bayer Leverkusen",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1768332600,
+      "finished": false
+    },
+    {
+      "matchId": "W4zmvoc5",
+      "homeTeam": "Mainz",
+      "awayTeam": "Heidenheim",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1768332600,
+      "finished": false
+    }
+  ]
+}

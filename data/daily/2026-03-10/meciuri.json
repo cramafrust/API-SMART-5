@@ -1,0 +1,117 @@
+{
+  "data": "10.03.2026",
+  "generatedAt": "10.03.2026 23:03:51",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 12,
+  "meciuri": [
+    {
+      "matchId": "pWgqeG23",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Liverpool",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773164700,
+      "finished": true
+    },
+    {
+      "matchId": "6H37tItS",
+      "homeTeam": "Leicester",
+      "awayTeam": "Bristol City",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1773171900,
+      "finished": false
+    },
+    {
+      "matchId": "2mkwyd4k",
+      "homeTeam": "Millwall",
+      "awayTeam": "Derby",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1773171900,
+      "finished": false
+    },
+    {
+      "matchId": "WWtebjfn",
+      "homeTeam": "Portsmouth",
+      "awayTeam": "Swansea",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1773171900,
+      "finished": false
+    },
+    {
+      "matchId": "QLzYdwR8",
+      "homeTeam": "Sheffield Wed",
+      "awayTeam": "Watford",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1773171900,
+      "finished": false
+    },
+    {
+      "matchId": "Sbz4dUOb",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Hull",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1773171900,
+      "finished": false
+    },
+    {
+      "matchId": "nyPteHeL",
+      "homeTeam": "Stoke",
+      "awayTeam": "Ipswich",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1773172800,
+      "finished": false
+    },
+    {
+      "matchId": "xnKOznHl",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Bayern Munich",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773172800,
+      "finished": false
+    },
+    {
+      "matchId": "IPLvX3GD",
+      "homeTeam": "Atl. Madrid",
+      "awayTeam": "Tottenham",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773172800,
+      "finished": false
+    },
+    {
+      "matchId": "pC3kZYup",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Barcelona",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773172800,
+      "finished": false
+    },
+    {
+      "matchId": "IBVcLqe2",
+      "homeTeam": "Independiente",
+      "awayTeam": "Union de Santa Fe",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:45",
+      "timestamp": 1773182700,
+      "finished": false
+    },
+    {
+      "matchId": "f9I7AStp",
+      "homeTeam": "Tigre",
+      "awayTeam": "Velez Sarsfield",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:45",
+      "timestamp": 1773182700,
+      "finished": false
+    }
+  ]
+}

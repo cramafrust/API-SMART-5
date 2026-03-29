@@ -1,0 +1,98 @@
+{
+  "data": "14.01.2026",
+  "generatedAt": "14.01.2026 08:00:04",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 10,
+  "meciuri": [
+    {
+      "matchId": "EqU5f6sn",
+      "homeTeam": "Wolfsburg",
+      "awayTeam": "St. Pauli",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1768411800,
+      "finished": false
+    },
+    {
+      "matchId": "hQolsm1C",
+      "homeTeam": "Napoli",
+      "awayTeam": "Parma",
+      "liga": "ITALY: Serie A",
+      "ora": "19:30",
+      "timestamp": 1768411800,
+      "finished": false
+    },
+    {
+      "matchId": "xOEVl2BN",
+      "homeTeam": "FC Koln",
+      "awayTeam": "Bayern Munich",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1768419000,
+      "finished": false
+    },
+    {
+      "matchId": "rPLMjOtB",
+      "homeTeam": "Hoffenheim",
+      "awayTeam": "B. Monchengladbach",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1768419000,
+      "finished": false
+    },
+    {
+      "matchId": "4IYfxPRH",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Freiburg",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1768419000,
+      "finished": false
+    },
+    {
+      "matchId": "MNxNVDfS",
+      "homeTeam": "Servette",
+      "awayTeam": "Lausanne",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "21:30",
+      "timestamp": 1768419000,
+      "finished": false
+    },
+    {
+      "matchId": "lCywcjgR",
+      "homeTeam": "Sion",
+      "awayTeam": "Winterthur",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "21:30",
+      "timestamp": 1768419000,
+      "finished": false
+    },
+    {
+      "matchId": "h231jivQ",
+      "homeTeam": "Inter",
+      "awayTeam": "Lecce",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1768419900,
+      "finished": false
+    },
+    {
+      "matchId": "0IFrXHne",
+      "homeTeam": "Falkirk",
+      "awayTeam": "Celtic",
+      "liga": "SCOTLAND: Premiership",
+      "ora": "21:45",
+      "timestamp": 1768419900,
+      "finished": false
+    },
+    {
+      "matchId": "nZDjVeH7",
+      "homeTeam": "Hearts",
+      "awayTeam": "St. Mirren",
+      "liga": "SCOTLAND: Premiership",
+      "ora": "21:45",
+      "timestamp": 1768419900,
+      "finished": false
+    }
+  ]
+}

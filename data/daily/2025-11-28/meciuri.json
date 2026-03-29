@@ -1,0 +1,161 @@
+{
+  "data": "28.11.2025",
+  "generatedAt": "28.11.2025 08:00:02",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 17,
+  "meciuri": [
+    {
+      "matchId": "vDYRY8Or",
+      "homeTeam": "Piast Gliwice",
+      "awayTeam": "Widzew Lodz",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "19:00",
+      "timestamp": 1764349200,
+      "finished": false
+    },
+    {
+      "matchId": "Q3iyWZj5",
+      "homeTeam": "Kocaelispor",
+      "awayTeam": "Genclerbirligi",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1764349200,
+      "finished": false
+    },
+    {
+      "matchId": "8tbPQ2ho",
+      "homeTeam": "Hannover",
+      "awayTeam": "Karlsruher SC",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1764351000,
+      "finished": false
+    },
+    {
+      "matchId": "d2vKnpF4",
+      "homeTeam": "Schalke",
+      "awayTeam": "Paderborn",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1764351000,
+      "finished": false
+    },
+    {
+      "matchId": "pjXm7P7C",
+      "homeTeam": "Sonderjyske",
+      "awayTeam": "Viborg",
+      "liga": "DENMARK: Superliga",
+      "ora": "20:00",
+      "timestamp": 1764352800,
+      "finished": false
+    },
+    {
+      "matchId": "pj51kcHt",
+      "homeTeam": "Beerschot VA",
+      "awayTeam": "RFC Liege",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1764356400,
+      "finished": false
+    },
+    {
+      "matchId": "0pOyZyXa",
+      "homeTeam": "Eupen",
+      "awayTeam": "Lommel SK",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1764356400,
+      "finished": false
+    },
+    {
+      "matchId": "h29FG5Yq",
+      "homeTeam": "Zwolle",
+      "awayTeam": "Heerenveen",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "21:00",
+      "timestamp": 1764356400,
+      "finished": false
+    },
+    {
+      "matchId": "bL3UkTwR",
+      "homeTeam": "B. Monchengladbach",
+      "awayTeam": "RB Leipzig",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1764358200,
+      "finished": false
+    },
+    {
+      "matchId": "K811Imv2",
+      "homeTeam": "Radomiak Radom",
+      "awayTeam": "Gornik Zabrze",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1764358200,
+      "finished": false
+    },
+    {
+      "matchId": "2mq2Zo8T",
+      "homeTeam": "Gijon",
+      "awayTeam": "Andorra",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1764358200,
+      "finished": false
+    },
+    {
+      "matchId": "6HT3pl6S",
+      "homeTeam": "KV Mechelen",
+      "awayTeam": "St. Liege",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "21:45",
+      "timestamp": 1764359100,
+      "finished": false
+    },
+    {
+      "matchId": "ATKxS5Cm",
+      "homeTeam": "Metz",
+      "awayTeam": "Rennes",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "21:45",
+      "timestamp": 1764359100,
+      "finished": false
+    },
+    {
+      "matchId": "bsix0nk1",
+      "homeTeam": "Como",
+      "awayTeam": "Sassuolo",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1764359100,
+      "finished": false
+    },
+    {
+      "matchId": "AkAW9LfT",
+      "homeTeam": "Oxford Utd",
+      "awayTeam": "Ipswich",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1764360000,
+      "finished": false
+    },
+    {
+      "matchId": "KSVgq9dS",
+      "homeTeam": "Getafe",
+      "awayTeam": "Elche",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1764360000,
+      "finished": false
+    },
+    {
+      "matchId": "plpdodqK",
+      "homeTeam": "Vitoria Guimaraes",
+      "awayTeam": "AFS",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1764360900,
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "campionat": {
+    "nume": "Liga Portugal",
+    "nume_complet": "PORTUGAL: Liga Portugal",
+    "tara": "PORTUGAL",
+    "id_flashscore": "PORTUGALLIGAPORTUGAL_2024-2025",
+    "sezon": "2024-2025",
+    "sistem_organizare": "REGULAR",
+    "numar_echipe": null,
+    "numar_total_etape": null,
+    "data_start_sezon": null,
+    "data_sfarsit_sezon": null,
+    "explicatie_sistem": null
+  },
+  "meciuri": [
+    {
+      "id_meci": "unknown_1764024660941",
+      "id_flashscore": null,
+      "sezon": "2025,",
+      "faza": "REGULAR",
+      "etapa": null,
+      "data_ora": {
+        "data": "2025,-11-03",
+        "ora": "22:45"
+      },
+      "echipa_gazda": {
+        "nume": "Gil Vicente",
+        "nume_complet": "Gil Vicente",
+        "pozitie_clasament_inainte": null
+      },
+      "echipa_oaspete": {
+        "nume": "Santa Clara",
+        "nume_complet": "Santa Clara",
+        "pozitie_clasament_inainte": null
+      },
+      "scor": {
+        "final_gazda": 3,
+        "final_oaspete": 3,
+        "pauza_gazda": 1,
+        "pauza_oaspete": 0
+      },
+      "statistici": {
+        "total_suturi": {
+          "pauza_gazda": 4,
+          "pauza_oaspete": 8,
+          "repriza_2_gazda": 5,
+          "repriza_2_oaspete": 7,
+          "total_gazda": 9,
+          "total_oaspete": 15
+        },
+        "suturi_pe_poarta": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 2,
+          "repriza_2_gazda": 2,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 3,
+          "total_oaspete": 4
+        },
+        "suturi_pe_langa": {
+          "pauza_gazda": 3,
+          "pauza_oaspete": 3,
+          "repriza_2_gazda": 1,
+          "repriza_2_oaspete": 3,
+          "total_gazda": 4,
+          "total_oaspete": 6
+        },
+        "cornere": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 1,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 2,
+          "total_oaspete": 0
+        },
+        "cartonase_galbene": {
+          "pauza_gazda": null,
+          "pauza_oaspete": null,
+          "repriza_2_gazda": null,
+          "repriza_2_oaspete": null,
+          "total_gazda": 2,
+          "total_oaspete": 3
+        },
+        "cartonase_rosii": {
+          "pauza_gazda": null,
+          "pauza_oaspete": null,
+          "repriza_2_gazda": null,
+          "repriza_2_oaspete": null,
+          "total_gazda": null,
+          "total_oaspete": null
+        },
+        "ofsaiduri": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 1,
+          "total_gazda": 0,
+          "total_oaspete": 1
+        },
+        "lovituri_libere": {
+          "pauza_gazda": 6,
+          "pauza_oaspete": 6,
+          "repriza_2_gazda": 8,
+          "repriza_2_oaspete": 10,
+          "total_gazda": 14,
+          "total_oaspete": 16
+        },
+        "faulturi": {
+          "pauza_gazda": 6,
+          "pauza_oaspete": 6,
+          "repriza_2_gazda": 10,
+          "repriza_2_oaspete": 8,
+          "total_gazda": 16,
+          "total_oaspete": 14
+        },
+        "salvari_portar": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 2,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 4,
+          "total_oaspete": 2
+        },
+        "posesie": {
+          "pauza_gazda": 38,
+          "pauza_oaspete": 62,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 38,
+          "total_oaspete": 62
+        },
+        "aruncari_de_la_margine": {
+          "pauza_gazda": null,
+          "pauza_oaspete": null,
+          "repriza_2_gazda": null,
+          "repriza_2_oaspete": null,
+          "total_gazda": null,
+          "total_oaspete": null
+        },
+        "lovituri_de_poarta": {
+          "pauza_gazda": null,
+          "pauza_oaspete": null,
+          "repriza_2_gazda": null,
+          "repriza_2_oaspete": null,
+          "total_gazda": null,
+          "total_oaspete": null
+        }
+      },
+      "tier_gazda": null,
+      "tier_oaspete": null
+    }
+  ]
+}

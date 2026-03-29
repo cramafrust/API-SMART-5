@@ -1,0 +1,44 @@
+{
+  "data": "09.01.2026",
+  "generatedAt": "09.01.2026 18:54:25",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 4,
+  "meciuri": [
+    {
+      "matchId": "f90NHRyR",
+      "homeTeam": "Nijmegen",
+      "awayTeam": "Utrecht",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "21:00",
+      "timestamp": 1767985200,
+      "finished": false
+    },
+    {
+      "matchId": "xUZvBnTI",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "Dortmund",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1767987000,
+      "finished": false
+    },
+    {
+      "matchId": "bLDX65S8",
+      "homeTeam": "Cadiz CF",
+      "awayTeam": "Gijon",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1767987000,
+      "finished": false
+    },
+    {
+      "matchId": "QP0KV4pJ",
+      "homeTeam": "Getafe",
+      "awayTeam": "Real Sociedad",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1767988800,
+      "finished": false
+    }
+  ]
+}

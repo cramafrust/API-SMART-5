@@ -1,0 +1,93 @@
+{
+  "data": "02.12.2025",
+  "generatedAt": "02.12.2025 08:00:05",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 6,
+  "minutVerificare": 45,
+  "verificari": [
+    {
+      "matchId": "zoR5RMn2",
+      "homeTeam": "Ajax",
+      "awayTeam": "Groningen",
+      "liga": "NETHERLANDS: Eredivisie",
+      "oraStart": "15:30",
+      "timestampStart": 1764682200,
+      "oraVerificare": "16:15",
+      "timestampVerificare": 1764684900,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-12-02T14:14:42.416Z",
+      "statsFile": "stats-zoR5RMn2-HT.json"
+    },
+    {
+      "matchId": "ULFDFYeS",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Everton",
+      "liga": "ENGLAND: Premier League",
+      "oraStart": "21:30",
+      "timestampStart": 1764703800,
+      "oraVerificare": "22:15",
+      "timestampVerificare": 1764706500,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-12-02T20:14:59.358Z",
+      "statsFile": "stats-ULFDFYeS-HT.json"
+    },
+    {
+      "matchId": "GIXvWgt9",
+      "homeTeam": "Fulham",
+      "awayTeam": "Manchester City",
+      "liga": "ENGLAND: Premier League",
+      "oraStart": "21:30",
+      "timestampStart": 1764703800,
+      "oraVerificare": "22:15",
+      "timestampVerificare": 1764706500,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-12-02T20:15:01.590Z",
+      "statsFile": "stats-GIXvWgt9-HT.json"
+    },
+    {
+      "matchId": "0Y3aNUVb",
+      "homeTeam": "Blackburn",
+      "awayTeam": "Ipswich",
+      "liga": "ENGLAND: Championship",
+      "oraStart": "21:45",
+      "timestampStart": 1764704700,
+      "oraVerificare": "22:30",
+      "timestampVerificare": 1764707400,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-12-02T20:29:51.888Z",
+      "statsFile": "stats-0Y3aNUVb-HT.json"
+    },
+    {
+      "matchId": "CMIonQUa",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Atl. Madrid",
+      "liga": "SPAIN: LaLiga",
+      "oraStart": "22:00",
+      "timestampStart": 1764705600,
+      "oraVerificare": "22:45",
+      "timestampVerificare": 1764708300,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-12-02T20:44:52.360Z",
+      "statsFile": "stats-CMIonQUa-HT.json"
+    },
+    {
+      "matchId": "MwJZKTX7",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Tottenham",
+      "liga": "ENGLAND: Premier League",
+      "oraStart": "22:15",
+      "timestampStart": 1764706500,
+      "oraVerificare": "23:00",
+      "timestampVerificare": 1764709200,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-12-02T20:59:54.821Z",
+      "statsFile": "stats-MwJZKTX7-HT.json"
+    }
+  ]
+}

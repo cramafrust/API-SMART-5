@@ -1,0 +1,288 @@
+{
+  "data": "12.03.2026",
+  "generatedAt": "12.03.2026 08:12:40",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 31,
+  "meciuri": [
+    {
+      "matchId": "jyEfBA8k",
+      "homeTeam": "Atletico-MG",
+      "awayTeam": "Internacional",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773266400,
+      "finished": true
+    },
+    {
+      "matchId": "UqmuGIqL",
+      "homeTeam": "Sporting Cristal (Per)",
+      "awayTeam": "Carabobo (Ven)",
+      "liga": "SOUTH AMERICA: Copa Libertadores - Qualification",
+      "ora": "00:00",
+      "timestamp": 1773266400,
+      "finished": false
+    },
+    {
+      "matchId": "pbXkN5Qk",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "San Lorenzo",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:45",
+      "timestamp": 1773269100,
+      "finished": false
+    },
+    {
+      "matchId": "pfccVVaL",
+      "homeTeam": "Bahia",
+      "awayTeam": "Vitoria",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:00",
+      "timestamp": 1773270000,
+      "finished": false
+    },
+    {
+      "matchId": "bwZFIhGF",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Coritiba",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "02:30",
+      "timestamp": 1773275400,
+      "finished": false
+    },
+    {
+      "matchId": "za4CbXOq",
+      "homeTeam": "Flamengo RJ",
+      "awayTeam": "Cruzeiro",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "02:30",
+      "timestamp": 1773275400,
+      "finished": true
+    },
+    {
+      "matchId": "drBMakdf",
+      "homeTeam": "Deportes Tolima (Col)",
+      "awayTeam": "O'Higgins (Chi)",
+      "liga": "SOUTH AMERICA: Copa Libertadores - Qualification",
+      "ora": "02:30",
+      "timestamp": 1773275400,
+      "finished": true
+    },
+    {
+      "matchId": "U9yvIV57",
+      "homeTeam": "Atl. Tucuman",
+      "awayTeam": "Aldosivi",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:00",
+      "timestamp": 1773277200,
+      "finished": false
+    },
+    {
+      "matchId": "YsrVJiye",
+      "homeTeam": "Ind. Rivadavia",
+      "awayTeam": "Barracas Central",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:00",
+      "timestamp": 1773277200,
+      "finished": false
+    },
+    {
+      "matchId": "0x5TgttH",
+      "homeTeam": "Bologna",
+      "awayTeam": "AS Roma",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773337500,
+      "finished": false
+    },
+    {
+      "matchId": "xS5dusRN",
+      "homeTeam": "Lille",
+      "awayTeam": "Aston Villa",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773337500,
+      "finished": false
+    },
+    {
+      "matchId": "dl4tqPRb",
+      "homeTeam": "Panathinaikos",
+      "awayTeam": "Betis",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773337500,
+      "finished": false
+    },
+    {
+      "matchId": "Iep18ueA",
+      "homeTeam": "Stuttgart",
+      "awayTeam": "FC Porto",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773337500,
+      "finished": false
+    },
+    {
+      "matchId": "4ADJMjXH",
+      "homeTeam": "AZ Alkmaar",
+      "awayTeam": "Sparta Prague",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773337500,
+      "finished": false
+    },
+    {
+      "matchId": "QPsVT7vo",
+      "homeTeam": "Lech Poznan",
+      "awayTeam": "Shakhtar Donetsk",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773337500,
+      "finished": false
+    },
+    {
+      "matchId": "2adyuYnn",
+      "homeTeam": "Rijeka",
+      "awayTeam": "Strasbourg",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773337500,
+      "finished": false
+    },
+    {
+      "matchId": "GCJn8iIO",
+      "homeTeam": "Samsunspor",
+      "awayTeam": "Rayo Vallecano",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773337500,
+      "finished": false
+    },
+    {
+      "matchId": "QDjJSR2S",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Central Cordoba",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "vchBUmYF",
+      "homeTeam": "Dep. Riestra",
+      "awayTeam": "Gimnasia Mendoza",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "8AdSZKlo",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Lyon",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "MiZv1cmp",
+      "homeTeam": "Ferencvaros",
+      "awayTeam": "Braga",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "MBBW6my3",
+      "homeTeam": "Genk",
+      "awayTeam": "Freiburg",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "4Yg7nbYj",
+      "homeTeam": "Nottingham",
+      "awayTeam": "Midtjylland",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "xt34VKFk",
+      "homeTeam": "Celje",
+      "awayTeam": "AEK Athens",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "MThiyjnB",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "AEK Larnaca",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "bTxPkk14",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Rakow",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "vkc4QYXh",
+      "homeTeam": "Sigma Olomouc",
+      "awayTeam": "Mainz",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773345600,
+      "finished": false
+    },
+    {
+      "matchId": "4vvUP9Nr",
+      "homeTeam": "Remo",
+      "awayTeam": "Fluminense",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773352800,
+      "finished": false
+    },
+    {
+      "matchId": "YFLcL4Ca",
+      "homeTeam": "Estudiantes Rio Cuarto",
+      "awayTeam": "Belgrano",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1773353700,
+      "finished": false
+    },
+    {
+      "matchId": "zm0rTeE8",
+      "homeTeam": "Talleres Cordoba",
+      "awayTeam": "Instituto",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1773353700,
+      "finished": false
+    },
+    {
+      "matchId": "dEhLdBgd",
+      "homeTeam": "Vasco",
+      "awayTeam": "Palmeiras",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:30",
+      "timestamp": 1773354600,
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "data": "23.03.2026",
+  "generatedAt": "23.03.2026 08:07:14",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 7,
+  "meciuri": [
+    {
+      "matchId": "8fTKk7N7",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Instituto",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "01:00",
+      "timestamp": 1774220400,
+      "finished": true
+    },
+    {
+      "matchId": "r1DNXnig",
+      "homeTeam": "San Diego FC",
+      "awayTeam": "Real Salt Lake",
+      "liga": "USA: MLS",
+      "ora": "01:00",
+      "timestamp": 1774220400,
+      "finished": false
+    },
+    {
+      "matchId": "Cx9wGgeA",
+      "homeTeam": "Corinthians",
+      "awayTeam": "Flamengo RJ",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:30",
+      "timestamp": 1774222200,
+      "finished": false
+    },
+    {
+      "matchId": "42QCexfT",
+      "homeTeam": "Argentinos Jrs",
+      "awayTeam": "Platense",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:15",
+      "timestamp": 1774228500,
+      "finished": true
+    },
+    {
+      "matchId": "G0jn6S7l",
+      "homeTeam": "Ind. Rivadavia",
+      "awayTeam": "Rosario Central",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:15",
+      "timestamp": 1774228500,
+      "finished": true
+    },
+    {
+      "matchId": "lpj5NwHO",
+      "homeTeam": "Unirea Slobozia",
+      "awayTeam": "Otelul",
+      "liga": "ROMANIA: Superliga - Relegation Group",
+      "ora": "20:30",
+      "timestamp": 1774290600,
+      "finished": false
+    },
+    {
+      "matchId": "zqAWBcvA",
+      "homeTeam": "Estudiantes L.P.",
+      "awayTeam": "Central Cordoba",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:00",
+      "timestamp": 1774303200,
+      "finished": false
+    }
+  ]
+}

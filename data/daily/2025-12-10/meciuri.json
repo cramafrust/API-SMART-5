@@ -1,0 +1,107 @@
+{
+  "data": "10.12.2025",
+  "generatedAt": "10.12.2025 08:59:20",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 11,
+  "meciuri": [
+    {
+      "matchId": "boscVy9L",
+      "homeTeam": "Qarabag",
+      "awayTeam": "Ajax",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "19:45",
+      "timestamp": 1765388700,
+      "finished": false
+    },
+    {
+      "matchId": "29bRZdaE",
+      "homeTeam": "Villarreal",
+      "awayTeam": "FC Copenhagen",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "19:45",
+      "timestamp": 1765388700,
+      "finished": false
+    },
+    {
+      "matchId": "EqKotpyP",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Leicester",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1765395900,
+      "finished": false
+    },
+    {
+      "matchId": "Uefe0mMt",
+      "homeTeam": "Derby",
+      "awayTeam": "Millwall",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1765395900,
+      "finished": false
+    },
+    {
+      "matchId": "lbAdbRjg",
+      "homeTeam": "Ipswich",
+      "awayTeam": "Stoke",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1765395900,
+      "finished": false
+    },
+    {
+      "matchId": "8dQccG8a",
+      "homeTeam": "Hull",
+      "awayTeam": "Wrexham",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1765396800,
+      "finished": false
+    },
+    {
+      "matchId": "EiSI6wEU",
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "Newcastle",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1765396800,
+      "finished": false
+    },
+    {
+      "matchId": "vZLAwKrh",
+      "homeTeam": "Benfica",
+      "awayTeam": "Napoli",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1765396800,
+      "finished": false
+    },
+    {
+      "matchId": "bupNNylT",
+      "homeTeam": "Dortmund",
+      "awayTeam": "Bodo/Glimt",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1765396800,
+      "finished": false
+    },
+    {
+      "matchId": "rskMOWjD",
+      "homeTeam": "Juventus",
+      "awayTeam": "Pafos",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1765396800,
+      "finished": false
+    },
+    {
+      "matchId": "dfQVQXu3",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Manchester City",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1765396800,
+      "finished": false
+    }
+  ]
+}

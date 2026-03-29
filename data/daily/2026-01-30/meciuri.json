@@ -1,0 +1,125 @@
+{
+  "data": "30.01.2026",
+  "generatedAt": "30.01.2026 23:56:00",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 13,
+  "meciuri": [
+    {
+      "matchId": "MmhScGcB",
+      "homeTeam": "Zaglebie",
+      "awayTeam": "GKS Katowice",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "19:00",
+      "timestamp": 1769792400,
+      "finished": false
+    },
+    {
+      "matchId": "OUaNhCG8",
+      "homeTeam": "Antalyaspor",
+      "awayTeam": "Trabzonspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1769792400,
+      "finished": false
+    },
+    {
+      "matchId": "drbVjjoL",
+      "homeTeam": "Kasimpasa",
+      "awayTeam": "Samsunspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1769792400,
+      "finished": false
+    },
+    {
+      "matchId": "MsH6u2K5",
+      "homeTeam": "Magdeburg",
+      "awayTeam": "Hannover",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1769794200,
+      "finished": false
+    },
+    {
+      "matchId": "WGQVuWVo",
+      "homeTeam": "Nurnberg",
+      "awayTeam": "Preussen Munster",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1769794200,
+      "finished": false
+    },
+    {
+      "matchId": "IFDxuLrh",
+      "homeTeam": "FC Koln",
+      "awayTeam": "Wolfsburg",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1769801400,
+      "finished": true
+    },
+    {
+      "matchId": "EoX6jYko",
+      "homeTeam": "Radomiak Radom",
+      "awayTeam": "Arka Gdynia",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1769801400,
+      "finished": false
+    },
+    {
+      "matchId": "raExqVbk",
+      "homeTeam": "RAAL La Louviere",
+      "awayTeam": "Gent",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "21:45",
+      "timestamp": 1769802300,
+      "finished": false
+    },
+    {
+      "matchId": "KK1DFmc6",
+      "homeTeam": "Lens",
+      "awayTeam": "Le Havre",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "21:45",
+      "timestamp": 1769802300,
+      "finished": true
+    },
+    {
+      "matchId": "dE47A6aN",
+      "homeTeam": "Lazio",
+      "awayTeam": "Genoa",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1769802300,
+      "finished": true
+    },
+    {
+      "matchId": "6PDrMbJt",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Derby",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1769803200,
+      "finished": false
+    },
+    {
+      "matchId": "Eaf6TZzf",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Alaves",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1769803200,
+      "finished": false
+    },
+    {
+      "matchId": "fHCZuAQN",
+      "homeTeam": "Vitoria Guimaraes",
+      "awayTeam": "Moreirense",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:45",
+      "timestamp": 1769805900,
+      "finished": false
+    }
+  ]
+}

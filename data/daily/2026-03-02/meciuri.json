@@ -1,0 +1,144 @@
+{
+  "data": "02.03.2026",
+  "generatedAt": "02.03.2026 20:01:23",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 15,
+  "meciuri": [
+    {
+      "matchId": "2am2xrV0",
+      "homeTeam": "Argentinos Jrs",
+      "awayTeam": "Barracas Central",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1772403300,
+      "finished": false
+    },
+    {
+      "matchId": "A18NqQxR",
+      "homeTeam": "Instituto",
+      "awayTeam": "Union de Santa Fe",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1772403300,
+      "finished": false
+    },
+    {
+      "matchId": "QPVcRgJ1",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Sao Paulo",
+      "liga": "BRAZIL: Paulista - Play Offs",
+      "ora": "01:30",
+      "timestamp": 1772407800,
+      "finished": true
+    },
+    {
+      "matchId": "EBlq99Da",
+      "homeTeam": "Orlando City",
+      "awayTeam": "Inter Miami",
+      "liga": "USA: MLS",
+      "ora": "02:00",
+      "timestamp": 1772409600,
+      "finished": false
+    },
+    {
+      "matchId": "fD8JRQGr",
+      "homeTeam": "Defensa y Justicia",
+      "awayTeam": "Lanus",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "02:30",
+      "timestamp": 1772411400,
+      "finished": false
+    },
+    {
+      "matchId": "fZqfv40l",
+      "homeTeam": "Tigre",
+      "awayTeam": "Gimnasia L.P.",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "02:30",
+      "timestamp": 1772411400,
+      "finished": false
+    },
+    {
+      "matchId": "zRxh7mrC",
+      "homeTeam": "San Diego FC",
+      "awayTeam": "St. Louis City",
+      "liga": "USA: MLS",
+      "ora": "04:15",
+      "timestamp": 1772417700,
+      "finished": true
+    },
+    {
+      "matchId": "Qy7EzcEL",
+      "homeTeam": "Pisa",
+      "awayTeam": "Bologna",
+      "liga": "ITALY: Serie A",
+      "ora": "19:30",
+      "timestamp": 1772472600,
+      "finished": false
+    },
+    {
+      "matchId": "GWnvuH9M",
+      "homeTeam": "Zaglebie",
+      "awayTeam": "Wisla Plock",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "20:00",
+      "timestamp": 1772474400,
+      "finished": false
+    },
+    {
+      "matchId": "8OEoZ4fE",
+      "homeTeam": "Udinese",
+      "awayTeam": "Fiorentina",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1772480700,
+      "finished": false
+    },
+    {
+      "matchId": "vVuJMpSs",
+      "homeTeam": "Birmingham",
+      "awayTeam": "Middlesbrough",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1772481600,
+      "finished": false
+    },
+    {
+      "matchId": "lx1RyDo4",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Getafe",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1772481600,
+      "finished": false
+    },
+    {
+      "matchId": "QJVVOW7M",
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "Benfica",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1772482500,
+      "finished": false
+    },
+    {
+      "matchId": "OUHmXngL",
+      "homeTeam": "Dep. Riestra",
+      "awayTeam": "Platense",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1772489700,
+      "finished": false
+    },
+    {
+      "matchId": "2FTvZ8O8",
+      "homeTeam": "Estudiantes L.P.",
+      "awayTeam": "Velez Sarsfield",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1772489700,
+      "finished": false
+    }
+  ]
+}

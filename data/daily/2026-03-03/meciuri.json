@@ -1,0 +1,144 @@
+{
+  "data": "03.03.2026",
+  "generatedAt": "03.03.2026 14:31:51",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 15,
+  "meciuri": [
+    {
+      "matchId": "OUHmXngL",
+      "homeTeam": "Dep. Riestra",
+      "awayTeam": "Platense",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1772489700,
+      "finished": false
+    },
+    {
+      "matchId": "2FTvZ8O8",
+      "homeTeam": "Estudiantes L.P.",
+      "awayTeam": "Velez Sarsfield",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1772489700,
+      "finished": false
+    },
+    {
+      "matchId": "dbtBzMaD",
+      "homeTeam": "Banfield",
+      "awayTeam": "Aldosivi",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "02:30",
+      "timestamp": 1772497800,
+      "finished": true
+    },
+    {
+      "matchId": "lhTdbPiK",
+      "homeTeam": "Ind. Rivadavia",
+      "awayTeam": "River Plate",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "02:30",
+      "timestamp": 1772497800,
+      "finished": false
+    },
+    {
+      "matchId": "IZVlo9vp",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Brentford",
+      "liga": "ENGLAND: Premier League",
+      "ora": "21:30",
+      "timestamp": 1772566200,
+      "finished": false
+    },
+    {
+      "matchId": "t8Hq7j13",
+      "homeTeam": "Everton",
+      "awayTeam": "Burnley",
+      "liga": "ENGLAND: Premier League",
+      "ora": "21:30",
+      "timestamp": 1772566200,
+      "finished": false
+    },
+    {
+      "matchId": "KYph380S",
+      "homeTeam": "Leeds",
+      "awayTeam": "Sunderland",
+      "liga": "ENGLAND: Premier League",
+      "ora": "21:30",
+      "timestamp": 1772566200,
+      "finished": false
+    },
+    {
+      "matchId": "QBkDX3AM",
+      "homeTeam": "Winterthur",
+      "awayTeam": "Servette",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "21:30",
+      "timestamp": 1772566200,
+      "finished": false
+    },
+    {
+      "matchId": "WAN2zAel",
+      "homeTeam": "Ipswich",
+      "awayTeam": "Hull",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1772567100,
+      "finished": false
+    },
+    {
+      "matchId": "4rGpR4xe",
+      "homeTeam": "Dundee Utd",
+      "awayTeam": "St. Mirren",
+      "liga": "SCOTLAND: Premiership",
+      "ora": "21:45",
+      "timestamp": 1772567100,
+      "finished": false
+    },
+    {
+      "matchId": "WAZj1LUs",
+      "homeTeam": "Wolves",
+      "awayTeam": "Liverpool",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:15",
+      "timestamp": 1772568900,
+      "finished": false
+    },
+    {
+      "matchId": "xI1pkLE6",
+      "homeTeam": "Sarmiento Junin",
+      "awayTeam": "Estudiantes Rio Cuarto",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:00",
+      "timestamp": 1772575200,
+      "finished": false
+    },
+    {
+      "matchId": "MFr3bg4l",
+      "homeTeam": "Independiente (Bol)",
+      "awayTeam": "Guabira (Bol)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "ora": "00:00",
+      "timestamp": 1772575200,
+      "finished": false
+    },
+    {
+      "matchId": "I79QpnsT",
+      "homeTeam": "Montevideo City (Uru)",
+      "awayTeam": "Defensor Sp. (Uru)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "ora": "00:00",
+      "timestamp": 1772575200,
+      "finished": false
+    },
+    {
+      "matchId": "G2Dyispf",
+      "homeTeam": "Huracan",
+      "awayTeam": "Belgrano",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1772576100,
+      "finished": false
+    }
+  ]
+}

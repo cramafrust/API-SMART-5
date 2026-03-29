@@ -1,0 +1,62 @@
+{
+  "data": "02.12.2025",
+  "generatedAt": "02.12.2025 08:00:03",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 6,
+  "meciuri": [
+    {
+      "matchId": "zoR5RMn2",
+      "homeTeam": "Ajax",
+      "awayTeam": "Groningen",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "15:30",
+      "timestamp": 1764682200,
+      "finished": false
+    },
+    {
+      "matchId": "ULFDFYeS",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Everton",
+      "liga": "ENGLAND: Premier League",
+      "ora": "21:30",
+      "timestamp": 1764703800,
+      "finished": false
+    },
+    {
+      "matchId": "GIXvWgt9",
+      "homeTeam": "Fulham",
+      "awayTeam": "Manchester City",
+      "liga": "ENGLAND: Premier League",
+      "ora": "21:30",
+      "timestamp": 1764703800,
+      "finished": false
+    },
+    {
+      "matchId": "0Y3aNUVb",
+      "homeTeam": "Blackburn",
+      "awayTeam": "Ipswich",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1764704700,
+      "finished": false
+    },
+    {
+      "matchId": "CMIonQUa",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Atl. Madrid",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1764705600,
+      "finished": false
+    },
+    {
+      "matchId": "MwJZKTX7",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Tottenham",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:15",
+      "timestamp": 1764706500,
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "data": "13.03.2026",
+  "generatedAt": "13.03.2026 08:03:07",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 24,
+  "meciuri": [
+    {
+      "matchId": "4vvUP9Nr",
+      "homeTeam": "Remo",
+      "awayTeam": "Fluminense",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773352800,
+      "finished": false
+    },
+    {
+      "matchId": "YFLcL4Ca",
+      "homeTeam": "Estudiantes Rio Cuarto",
+      "awayTeam": "Belgrano",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1773353700,
+      "finished": false
+    },
+    {
+      "matchId": "zm0rTeE8",
+      "homeTeam": "Talleres Cordoba",
+      "awayTeam": "Instituto",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:15",
+      "timestamp": 1773353700,
+      "finished": true
+    },
+    {
+      "matchId": "dEhLdBgd",
+      "homeTeam": "Vasco",
+      "awayTeam": "Palmeiras",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:30",
+      "timestamp": 1773354600,
+      "finished": true
+    },
+    {
+      "matchId": "2Bu7KEo3",
+      "homeTeam": "Sao Paulo",
+      "awayTeam": "Chapecoense-SC",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:00",
+      "timestamp": 1773356400,
+      "finished": true
+    },
+    {
+      "matchId": "M3OPuZcE",
+      "homeTeam": "Huracan",
+      "awayTeam": "River Plate",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "02:30",
+      "timestamp": 1773361800,
+      "finished": false
+    },
+    {
+      "matchId": "dYG29lw2",
+      "homeTeam": "Gremio",
+      "awayTeam": "Bragantino",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "02:30",
+      "timestamp": 1773361800,
+      "finished": false
+    },
+    {
+      "matchId": "tEZfKMxo",
+      "homeTeam": "Ind. Medellin (Col)",
+      "awayTeam": "Juventud (Uru)",
+      "liga": "SOUTH AMERICA: Copa Libertadores - Qualification",
+      "ora": "02:30",
+      "timestamp": 1773361800,
+      "finished": true
+    },
+    {
+      "matchId": "QLc8P7o3",
+      "homeTeam": "UTA Arad",
+      "awayTeam": "FC Hermannstadt",
+      "liga": "ROMANIA: Superliga - Relegation Group",
+      "ora": "17:30",
+      "timestamp": 1773415800,
+      "finished": false
+    },
+    {
+      "matchId": "xjql4FwS",
+      "homeTeam": "Antalyaspor",
+      "awayTeam": "Gaziantep",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773421200,
+      "finished": false
+    },
+    {
+      "matchId": "MNKKbg1k",
+      "homeTeam": "Karagumruk",
+      "awayTeam": "Fenerbahce",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773421200,
+      "finished": false
+    },
+    {
+      "matchId": "dI8LkMH0",
+      "homeTeam": "Greuther Furth",
+      "awayTeam": "Elversberg",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1773423000,
+      "finished": false
+    },
+    {
+      "matchId": "WhGZbQfE",
+      "homeTeam": "Magdeburg",
+      "awayTeam": "Darmstadt",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1773423000,
+      "finished": false
+    },
+    {
+      "matchId": "zw8gvCUO",
+      "homeTeam": "Fredericia",
+      "awayTeam": "Randers FC",
+      "liga": "DENMARK: Superliga - Relegation Group",
+      "ora": "20:00",
+      "timestamp": 1773424800,
+      "finished": false
+    },
+    {
+      "matchId": "AXRH6HTO",
+      "homeTeam": "LASK",
+      "awayTeam": "Hartberg",
+      "liga": "AUSTRIA: Bundesliga - Championship Group",
+      "ora": "20:30",
+      "timestamp": 1773426600,
+      "finished": false
+    },
+    {
+      "matchId": "8xX8oQs2",
+      "homeTeam": "Univ. Craiova",
+      "awayTeam": "FC Arges",
+      "liga": "ROMANIA: Superliga - Relegation Group",
+      "ora": "20:30",
+      "timestamp": 1773426600,
+      "finished": false
+    },
+    {
+      "matchId": "SlqCJdQc",
+      "homeTeam": "Zwolle",
+      "awayTeam": "Groningen",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "21:00",
+      "timestamp": 1773428400,
+      "finished": false
+    },
+    {
+      "matchId": "YonTlBU6",
+      "homeTeam": "B. Monchengladbach",
+      "awayTeam": "St. Pauli",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1773430200,
+      "finished": false
+    },
+    {
+      "matchId": "8dpxD1L5",
+      "homeTeam": "Radomiak Radom",
+      "awayTeam": "Legia",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1773430200,
+      "finished": false
+    },
+    {
+      "matchId": "4QhsgUvm",
+      "homeTeam": "Gent",
+      "awayTeam": "Waregem",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "21:45",
+      "timestamp": 1773431100,
+      "finished": false
+    },
+    {
+      "matchId": "ILQ832L8",
+      "homeTeam": "Marseille",
+      "awayTeam": "Auxerre",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "21:45",
+      "timestamp": 1773431100,
+      "finished": false
+    },
+    {
+      "matchId": "EaSwboTq",
+      "homeTeam": "Torino",
+      "awayTeam": "Parma",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1773431100,
+      "finished": false
+    },
+    {
+      "matchId": "0CYBf8gB",
+      "homeTeam": "Wrexham",
+      "awayTeam": "Swansea",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1773432000,
+      "finished": false
+    },
+    {
+      "matchId": "MNzPtaT0",
+      "homeTeam": "Alaves",
+      "awayTeam": "Villarreal",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1773432000,
+      "finished": false
+    }
+  ]
+}

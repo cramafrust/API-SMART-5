@@ -1,0 +1,23 @@
+{
+  "data": "17.11.2025",
+  "generatedAt": "17.11.2025 08:00:04",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 1,
+  "minutVerificare": 45,
+  "verificari": [
+    {
+      "matchId": "hSluCriM",
+      "homeTeam": "Cultural Leonesa",
+      "awayTeam": "Malaga",
+      "liga": "SPAIN: LaLiga2",
+      "oraStart": "21:30",
+      "timestampStart": 1763407800,
+      "oraVerificare": "22:15",
+      "timestampVerificare": 1763410500,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-17T20:14:54.058Z",
+      "statsFile": "stats-hSluCriM-HT.json"
+    }
+  ]
+}

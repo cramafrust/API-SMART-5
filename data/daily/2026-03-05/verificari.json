@@ -1,0 +1,38 @@
+{
+  "data": "05.03.2026",
+  "generatedAt": "05.03.2026 23:50:54",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 2,
+  "minutVerificare": 53,
+  "verificari": [
+    {
+      "matchId": "vqVHrvfo",
+      "homeTeam": "Nacional Asuncion (Par)",
+      "awayTeam": "Recoleta (Par)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "oraStart": "00:00",
+      "timestampStart": 1772748000,
+      "oraVerificare": "00:51",
+      "timestampVerificare": 1772751060,
+      "minutMeci": 51,
+      "status": "completat",
+      "staggerOffset": -2,
+      "completedAt": "2026-03-05T22:50:58.680Z",
+      "statsFile": "stats-vqVHrvfo-HT.json"
+    },
+    {
+      "matchId": "80vnl0WN",
+      "homeTeam": "Boston River (Uru)",
+      "awayTeam": "Racing Montevideo (Uru)",
+      "liga": "SOUTH AMERICA: Copa Sudamericana - Qualification",
+      "oraStart": "00:00",
+      "timestampStart": 1772748000,
+      "oraVerificare": "00:53",
+      "timestampVerificare": 1772751180,
+      "minutMeci": 53,
+      "status": "completat",
+      "completedAt": "2026-03-05T22:53:11.601Z",
+      "statsFile": "stats-80vnl0WN-HT.json"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "data": "29.03.2026",
+  "generatedAt": "29.03.2026 02:08:15",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 1,
+  "minutVerificare": 53,
+  "verificari": [
+    {
+      "matchId": "xUgkXiV8",
+      "homeTeam": "Athletico-PR",
+      "awayTeam": "Botafogo RJ",
+      "liga": "BRAZIL: Serie A Betano",
+      "oraStart": "01:30",
+      "timestampStart": 1774823400,
+      "oraVerificare": "02:23",
+      "timestampVerificare": 1774826580,
+      "minutMeci": 53,
+      "status": "programat"
+    }
+  ]
+}

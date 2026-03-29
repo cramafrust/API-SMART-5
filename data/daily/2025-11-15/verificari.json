@@ -1,0 +1,79 @@
+{
+  "data": "15.11.2025",
+  "generatedAt": "15.11.2025 08:00:05",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 5,
+  "minutVerificare": 45,
+  "verificari": [
+    {
+      "matchId": "bgmStxgB",
+      "homeTeam": "Marko",
+      "awayTeam": "Kalamata",
+      "liga": "GREECE: Super League 2",
+      "oraStart": "13:00",
+      "timestampStart": 1763204400,
+      "oraVerificare": "13:45",
+      "timestampVerificare": 1763207100,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-15T11:44:21.360Z",
+      "statsFile": "stats-bgmStxgB-HT.json"
+    },
+    {
+      "matchId": "dUjBpKgn",
+      "homeTeam": "Makedonikos",
+      "awayTeam": "Karditsa",
+      "liga": "GREECE: Super League 2",
+      "oraStart": "14:00",
+      "timestampStart": 1763208000,
+      "oraVerificare": "14:45",
+      "timestampVerificare": 1763210700,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-15T12:44:30.111Z",
+      "statsFile": "stats-dUjBpKgn-HT.json"
+    },
+    {
+      "matchId": "4ffJrbOb",
+      "homeTeam": "Giannina",
+      "awayTeam": "Chrisoupolis",
+      "liga": "GREECE: Super League 2",
+      "oraStart": "15:00",
+      "timestampStart": 1763211600,
+      "oraVerificare": "15:45",
+      "timestampVerificare": 1763214300,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-15T13:44:26.437Z",
+      "statsFile": "stats-4ffJrbOb-HT.json"
+    },
+    {
+      "matchId": "benowU84",
+      "homeTeam": "Albacete",
+      "awayTeam": "Andorra",
+      "liga": "SPAIN: LaLiga2",
+      "oraStart": "17:00",
+      "timestampStart": 1763218800,
+      "oraVerificare": "17:45",
+      "timestampVerificare": 1763221500,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-15T15:44:37.580Z",
+      "statsFile": "stats-benowU84-HT.json"
+    },
+    {
+      "matchId": "nkAEQs6F",
+      "homeTeam": "Racing Santander",
+      "awayTeam": "Granada CF",
+      "liga": "SPAIN: LaLiga2",
+      "oraStart": "22:00",
+      "timestampStart": 1763236800,
+      "oraVerificare": "22:45",
+      "timestampVerificare": 1763239500,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-15T20:44:43.656Z",
+      "statsFile": "stats-nkAEQs6F-HT.json"
+    }
+  ]
+}

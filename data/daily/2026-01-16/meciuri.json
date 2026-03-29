@@ -1,0 +1,80 @@
+{
+  "data": "16.01.2026",
+  "generatedAt": "16.01.2026 08:01:30",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 8,
+  "meciuri": [
+    {
+      "matchId": "tWgNCCp2",
+      "homeTeam": "Braunschweig",
+      "awayTeam": "Magdeburg",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1768584600,
+      "finished": false
+    },
+    {
+      "matchId": "0fPTa2oo",
+      "homeTeam": "Monaco",
+      "awayTeam": "Lorient",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "20:00",
+      "timestamp": 1768586400,
+      "finished": false
+    },
+    {
+      "matchId": "EDZB56b2",
+      "homeTeam": "FC Arges",
+      "awayTeam": "FCSB",
+      "liga": "ROMANIA: Superliga",
+      "ora": "20:00",
+      "timestamp": 1768586400,
+      "finished": false
+    },
+    {
+      "matchId": "xUB8ng3F",
+      "homeTeam": "Castellon",
+      "awayTeam": "Leganes",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1768591800,
+      "finished": false
+    },
+    {
+      "matchId": "xlSNfLm2",
+      "homeTeam": "Pisa",
+      "awayTeam": "Atalanta",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1768592700,
+      "finished": false
+    },
+    {
+      "matchId": "S0HFN5wh",
+      "homeTeam": "PSG",
+      "awayTeam": "Lille",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "22:00",
+      "timestamp": 1768593600,
+      "finished": false
+    },
+    {
+      "matchId": "OfqfD2Tb",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Girona",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1768593600,
+      "finished": false
+    },
+    {
+      "matchId": "4hPwc80M",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Casa Pia",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1768594500,
+      "finished": false
+    }
+  ]
+}

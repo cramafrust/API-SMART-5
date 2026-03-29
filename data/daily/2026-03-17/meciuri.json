@@ -1,0 +1,108 @@
+{
+  "data": "17.03.2026",
+  "generatedAt": "17.03.2026 08:02:25",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 11,
+  "meciuri": [
+    {
+      "matchId": "2eeFnsBb",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Estudiantes Rio Cuarto",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "01:00",
+      "timestamp": 1773702000,
+      "finished": true
+    },
+    {
+      "matchId": "CrUnxvD5",
+      "homeTeam": "Chapecoense-SC",
+      "awayTeam": "Gremio",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:00",
+      "timestamp": 1773702000,
+      "finished": false
+    },
+    {
+      "matchId": "2eDEHMBO",
+      "homeTeam": "Instituto",
+      "awayTeam": "Independiente",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:15",
+      "timestamp": 1773710100,
+      "finished": true
+    },
+    {
+      "matchId": "xQacVixR",
+      "homeTeam": "Fenerbahce",
+      "awayTeam": "Gaziantep",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773766800,
+      "finished": false
+    },
+    {
+      "matchId": "hdqZoXtm",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Bodo/Glimt",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773769500,
+      "finished": false
+    },
+    {
+      "matchId": "f5tnDh2M",
+      "homeTeam": "Jagiellonia",
+      "awayTeam": "GKS Katowice",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "20:00",
+      "timestamp": 1773770400,
+      "finished": false
+    },
+    {
+      "matchId": "W4dygBx0",
+      "homeTeam": "St. Gallen",
+      "awayTeam": "Lugano",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "20:00",
+      "timestamp": 1773770400,
+      "finished": false
+    },
+    {
+      "matchId": "t81ovm9U",
+      "homeTeam": "Watford",
+      "awayTeam": "Wrexham",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1773776700,
+      "finished": false
+    },
+    {
+      "matchId": "ETCJveIM",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Bayer Leverkusen",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773777600,
+      "finished": false
+    },
+    {
+      "matchId": "na24mP0f",
+      "homeTeam": "Chelsea",
+      "awayTeam": "PSG",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773777600,
+      "finished": false
+    },
+    {
+      "matchId": "Sx4Kqs0J",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Real Madrid",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773777600,
+      "finished": false
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "data": "08.03.2026",
+  "generatedAt": "08.03.2026 21:18:45",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 7,
+  "minutVerificare": 53,
+  "verificari": [
+    {
+      "matchId": "KKR13pz0",
+      "homeTeam": "Nijmegen",
+      "awayTeam": "FC Volendam",
+      "liga": "NETHERLANDS: Eredivisie",
+      "oraStart": "21:00",
+      "timestampStart": 1772996400,
+      "oraVerificare": "21:51",
+      "timestampVerificare": 1772999460,
+      "minutMeci": 51,
+      "status": "eroare",
+      "staggerOffset": -2,
+      "completedAt": "2026-03-08T19:58:35.213Z"
+    },
+    {
+      "matchId": "U1sL5OmB",
+      "homeTeam": "Olympiacos Piraeus",
+      "awayTeam": "PAOK",
+      "liga": "GREECE: Super League",
+      "oraStart": "21:00",
+      "timestampStart": 1772996400,
+      "oraVerificare": "21:53",
+      "timestampVerificare": 1772999580,
+      "minutMeci": 53,
+      "status": "eroare",
+      "completedAt": "2026-03-08T20:00:37.813Z"
+    },
+    {
+      "matchId": "SpNhpCo2",
+      "homeTeam": "Legia",
+      "awayTeam": "Cracovia",
+      "liga": "POLAND: Ekstraklasa",
+      "oraStart": "21:15",
+      "timestampStart": 1772997300,
+      "oraVerificare": "22:08",
+      "timestampVerificare": 1773000480,
+      "minutMeci": 53,
+      "status": "eroare",
+      "completedAt": "2026-03-08T20:15:37.454Z"
+    },
+    {
+      "matchId": "MTqqvixB",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Inter",
+      "liga": "ITALY: Serie A",
+      "oraStart": "21:45",
+      "timestampStart": 1772999100,
+      "oraVerificare": "22:36",
+      "timestampVerificare": 1773002160,
+      "minutMeci": 51,
+      "status": "eroare",
+      "staggerOffset": -2,
+      "completedAt": "2026-03-08T20:43:30.128Z"
+    },
+    {
+      "matchId": "lr4KuvC4",
+      "homeTeam": "Lyon",
+      "awayTeam": "Paris FC",
+      "liga": "FRANCE: Ligue 1",
+      "oraStart": "21:45",
+      "timestampStart": 1772999100,
+      "oraVerificare": "22:38",
+      "timestampVerificare": 1773002280,
+      "minutMeci": 53,
+      "status": "eroare",
+      "completedAt": "2026-03-08T20:46:50.581Z"
+    },
+    {
+      "matchId": "hU3ZVsFr",
+      "homeTeam": "Valencia",
+      "awayTeam": "Alaves",
+      "liga": "SPAIN: LaLiga",
+      "oraStart": "22:00",
+      "timestampStart": 1773000000,
+      "oraVerificare": "22:53",
+      "timestampVerificare": 1773003180,
+      "minutMeci": 53,
+      "status": "eroare",
+      "completedAt": "2026-03-08T21:01:52.313Z"
+    },
+    {
+      "matchId": "h8Uoj96L",
+      "homeTeam": "Santa Clara",
+      "awayTeam": "Vitoria Guimaraes",
+      "liga": "PORTUGAL: Liga Portugal",
+      "oraStart": "22:30",
+      "timestampStart": 1773001800,
+      "oraVerificare": "23:23",
+      "timestampVerificare": 1773004980,
+      "minutMeci": 53,
+      "status": "eroare",
+      "completedAt": "2026-03-08T21:30:45.949Z"
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "data": "01.02.2026",
+  "generatedAt": "01.02.2026 08:00:29",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 71,
+  "meciuri": [
+    {
+      "matchId": "IN5VGNzG",
+      "homeTeam": "Sao Jose EC",
+      "awayTeam": "Inter de Limeira",
+      "liga": "BRAZIL: Paulista A2 - First stage",
+      "ora": "00:00",
+      "timestamp": 1769896800,
+      "finished": false
+    },
+    {
+      "matchId": "bLkUIq63",
+      "homeTeam": "Sertaozinho",
+      "awayTeam": "Linense",
+      "liga": "BRAZIL: Paulista A2 - First stage",
+      "ora": "00:00",
+      "timestamp": 1769896800,
+      "finished": false
+    },
+    {
+      "matchId": "Y3s0aeBc",
+      "homeTeam": "Sao-Carlense",
+      "awayTeam": "AEA Aracatuba",
+      "liga": "BRAZIL: Paulista A4",
+      "ora": "00:00",
+      "timestamp": 1769896800,
+      "finished": true
+    },
+    {
+      "matchId": "8Istf0ZH",
+      "homeTeam": "Penapolense",
+      "awayTeam": "Jacarei FC",
+      "liga": "BRAZIL: Paulista A4",
+      "ora": "00:30",
+      "timestamp": 1769898600,
+      "finished": true
+    },
+    {
+      "matchId": "MTFmjiYq",
+      "homeTeam": "Vocem",
+      "awayTeam": "Taquaritinga",
+      "liga": "BRAZIL: Paulista A4",
+      "ora": "00:30",
+      "timestamp": 1769898600,
+      "finished": false
+    },
+    {
+      "matchId": "x0KKIy4n",
+      "homeTeam": "Independiente",
+      "awayTeam": "Velez Sarsfield",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "00:45",
+      "timestamp": 1769899500,
+      "finished": false
+    },
+    {
+      "matchId": "rHDWIzmK",
+      "homeTeam": "Primavera",
+      "awayTeam": "Portuguesa",
+      "liga": "BRAZIL: Paulista",
+      "ora": "01:30",
+      "timestamp": 1769902200,
+      "finished": false
+    },
+    {
+      "matchId": "xvkS7AvJ",
+      "homeTeam": "Sao Paulo",
+      "awayTeam": "Santos",
+      "liga": "BRAZIL: Paulista",
+      "ora": "01:30",
+      "timestamp": 1769902200,
+      "finished": true
+    },
+    {
+      "matchId": "rajpDhkL",
+      "homeTeam": "Atl. Tucuman",
+      "awayTeam": "Huracan",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:00",
+      "timestamp": 1769907600,
+      "finished": false
+    },
+    {
+      "matchId": "YRDTGFYb",
+      "homeTeam": "Talleres Cordoba",
+      "awayTeam": "Platense",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "03:00",
+      "timestamp": 1769907600,
+      "finished": false
+    },
+    {
+      "matchId": "AZNiFSGL",
+      "homeTeam": "Excelsior",
+      "awayTeam": "Ajax",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "13:15",
+      "timestamp": 1769944500,
+      "finished": false
+    },
+    {
+      "matchId": "GzNRaxTb",
+      "homeTeam": "Motor Lublin",
+      "awayTeam": "Pogon Szczecin",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "13:15",
+      "timestamp": 1769944500,
+      "finished": false
+    },
+    {
+      "matchId": "MV6YO5EG",
+      "homeTeam": "Torino",
+      "awayTeam": "Lecce",
+      "liga": "ITALY: Serie A",
+      "ora": "13:30",
+      "timestamp": 1769945400,
+      "finished": false
+    },
+    {
+      "matchId": "OEX5liyS",
+      "homeTeam": "St. Liege",
+      "awayTeam": "Anderlecht",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "14:30",
+      "timestamp": 1769949000,
+      "finished": false
+    },
+    {
+      "matchId": "AZmn4H0b",
+      "homeTeam": "K. Lierse S.K.",
+      "awayTeam": "Beerschot VA",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "14:30",
+      "timestamp": 1769949000,
+      "finished": false
+    },
+    {
+      "matchId": "jqdf2eVA",
+      "homeTeam": "Kortrijk",
+      "awayTeam": "Sporting Lokeren",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "14:30",
+      "timestamp": 1769949000,
+      "finished": false
+    },
+    {
+      "matchId": "I9AFwtkI",
+      "homeTeam": "Dusseldorf",
+      "awayTeam": "Paderborn",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "14:30",
+      "timestamp": 1769949000,
+      "finished": false
+    },
+    {
+      "matchId": "jwynJh0n",
+      "homeTeam": "Santo Andre",
+      "awayTeam": "Agua Santa",
+      "liga": "BRAZIL: Paulista A2 - First stage",
+      "ora": "15:00",
+      "timestamp": 1769950800,
+      "finished": false
+    },
+    {
+      "matchId": "GjkkTQtB",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Rayo Vallecano",
+      "liga": "SPAIN: LaLiga",
+      "ora": "15:00",
+      "timestamp": 1769950800,
+      "finished": false
+    },
+    {
+      "matchId": "INDebmbd",
+      "homeTeam": "Almeria",
+      "awayTeam": "Ceuta",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "15:00",
+      "timestamp": 1769950800,
+      "finished": false
+    },
+    {
+      "matchId": "ImJ70pHG",
+      "homeTeam": "Luzern",
+      "awayTeam": "St. Gallen",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "15:00",
+      "timestamp": 1769950800,
+      "finished": false
+    },
+    {
+      "matchId": "xWScgof2",
+      "homeTeam": "Heracles",
+      "awayTeam": "Sittard",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "15:30",
+      "timestamp": 1769952600,
+      "finished": false
+    },
+    {
+      "matchId": "l6fA2kXF",
+      "homeTeam": "PSV",
+      "awayTeam": "Feyenoord",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "15:30",
+      "timestamp": 1769952600,
+      "finished": false
+    },
+    {
+      "matchId": "xzNJtWrB",
+      "homeTeam": "Novi Pazar",
+      "awayTeam": "Sp. Subotica",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "15:30",
+      "timestamp": 1769952600,
+      "finished": false
+    },
+    {
+      "matchId": "dWk1qHrI",
+      "homeTeam": "Wisla Plock",
+      "awayTeam": "Rakow",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "15:45",
+      "timestamp": 1769953500,
+      "finished": false
+    },
+    {
+      "matchId": "YBkFXzhf",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Brentford",
+      "liga": "ENGLAND: Premier League",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "hSpkpEy0",
+      "homeTeam": "Manchester Utd",
+      "awayTeam": "Fulham",
+      "liga": "ENGLAND: Premier League",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "Quqcrh6C",
+      "homeTeam": "Nottingham",
+      "awayTeam": "Crystal Palace",
+      "liga": "ENGLAND: Premier League",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "xYuMQVk1",
+      "homeTeam": "Lyon",
+      "awayTeam": "Lille",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "0jRxW5qQ",
+      "homeTeam": "Levadiakos",
+      "awayTeam": "Asteras Tripolis",
+      "liga": "GREECE: Super League",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "SYCjEl0b",
+      "homeTeam": "Como",
+      "awayTeam": "Atalanta",
+      "liga": "ITALY: Serie A",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "4nUnqwbt",
+      "homeTeam": "Hibernian",
+      "awayTeam": "Rangers",
+      "liga": "SCOTLAND: Premiership",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "UsuRvADN",
+      "homeTeam": "Cukaricki",
+      "awayTeam": "Crvena zvezda",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "tM8qciTi",
+      "homeTeam": "TSC",
+      "awayTeam": "Vojvodina",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "MPsAq8we",
+      "homeTeam": "Genclerbirligi",
+      "awayTeam": "Gaziantep",
+      "liga": "TURKEY: Super Lig",
+      "ora": "16:00",
+      "timestamp": 1769954400,
+      "finished": false
+    },
+    {
+      "matchId": "QN5Aynx0",
+      "homeTeam": "Stuttgart",
+      "awayTeam": "Freiburg",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "16:30",
+      "timestamp": 1769956200,
+      "finished": false
+    },
+    {
+      "matchId": "GCCps9T1",
+      "homeTeam": "Dender",
+      "awayTeam": "Genk",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "17:00",
+      "timestamp": 1769958000,
+      "finished": false
+    },
+    {
+      "matchId": "fy1UQerC",
+      "homeTeam": "Celtic",
+      "awayTeam": "Falkirk",
+      "liga": "SCOTLAND: Premiership",
+      "ora": "17:00",
+      "timestamp": 1769958000,
+      "finished": false
+    },
+    {
+      "matchId": "0zL71DPi",
+      "homeTeam": "Farul Constanta",
+      "awayTeam": "Univ. Craiova",
+      "liga": "ROMANIA: Superliga",
+      "ora": "17:15",
+      "timestamp": 1769958900,
+      "finished": false
+    },
+    {
+      "matchId": "MBIuDEjD",
+      "homeTeam": "Betis",
+      "awayTeam": "Valencia",
+      "liga": "SPAIN: LaLiga",
+      "ora": "17:15",
+      "timestamp": 1769958900,
+      "finished": false
+    },
+    {
+      "matchId": "j9cFIHqB",
+      "homeTeam": "Eibar",
+      "awayTeam": "Gijon",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "17:15",
+      "timestamp": 1769958900,
+      "finished": false
+    },
+    {
+      "matchId": "U5H8Qq7m",
+      "homeTeam": "Panathinaikos",
+      "awayTeam": "Kifisia",
+      "liga": "GREECE: Super League",
+      "ora": "17:30",
+      "timestamp": 1769959800,
+      "finished": false
+    },
+    {
+      "matchId": "WEaqVhC5",
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "Famalicao",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "17:30",
+      "timestamp": 1769959800,
+      "finished": false
+    },
+    {
+      "matchId": "AHWj4SHi",
+      "homeTeam": "Basel",
+      "awayTeam": "Thun",
+      "liga": "SWITZERLAND: Super League",
+      "ora": "17:30",
+      "timestamp": 1769959800,
+      "finished": false
+    },
+    {
+      "matchId": "2kd24B23",
+      "homeTeam": "Heerenveen",
+      "awayTeam": "Utrecht",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "17:45",
+      "timestamp": 1769960700,
+      "finished": false
+    },
+    {
+      "matchId": "8tr8yVJP",
+      "homeTeam": "Angers",
+      "awayTeam": "Metz",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "18:15",
+      "timestamp": 1769962500,
+      "finished": false
+    },
+    {
+      "matchId": "GneMDRRI",
+      "homeTeam": "Nice",
+      "awayTeam": "Brest",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "18:15",
+      "timestamp": 1769962500,
+      "finished": false
+    },
+    {
+      "matchId": "MPJQOizK",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Auxerre",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "18:15",
+      "timestamp": 1769962500,
+      "finished": false
+    },
+    {
+      "matchId": "CWHF0ZLt",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Manchester City",
+      "liga": "ENGLAND: Premier League",
+      "ora": "18:30",
+      "timestamp": 1769963400,
+      "finished": false
+    },
+    {
+      "matchId": "vRmqLQiJ",
+      "homeTeam": "Dortmund",
+      "awayTeam": "Heidenheim",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "18:30",
+      "timestamp": 1769963400,
+      "finished": false
+    },
+    {
+      "matchId": "rNOJ1bbn",
+      "homeTeam": "Legia",
+      "awayTeam": "Korona Kielce",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "18:30",
+      "timestamp": 1769963400,
+      "finished": false
+    },
+    {
+      "matchId": "ll1aCSUA",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Inter",
+      "liga": "ITALY: Serie A",
+      "ora": "19:00",
+      "timestamp": 1769965200,
+      "finished": false
+    },
+    {
+      "matchId": "4ntwmspm",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Kayserispor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1769965200,
+      "finished": false
+    },
+    {
+      "matchId": "bo9PM16C",
+      "homeTeam": "PAOK",
+      "awayTeam": "Panserraikos",
+      "liga": "GREECE: Super League",
+      "ora": "19:30",
+      "timestamp": 1769967000,
+      "finished": false
+    },
+    {
+      "matchId": "8K2YW8sn",
+      "homeTeam": "Getafe",
+      "awayTeam": "Celta Vigo",
+      "liga": "SPAIN: LaLiga",
+      "ora": "19:30",
+      "timestamp": 1769967000,
+      "finished": false
+    },
+    {
+      "matchId": "EkZdkEV9",
+      "homeTeam": "Castellon",
+      "awayTeam": "Andorra",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "19:30",
+      "timestamp": 1769967000,
+      "finished": false
+    },
+    {
+      "matchId": "pU5sMjj3",
+      "homeTeam": "Huesca",
+      "awayTeam": "Cadiz CF",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "19:30",
+      "timestamp": 1769967000,
+      "finished": false
+    },
+    {
+      "matchId": "roggHWUb",
+      "homeTeam": "Taubate",
+      "awayTeam": "Ituano",
+      "liga": "BRAZIL: Paulista A2 - First stage",
+      "ora": "20:00",
+      "timestamp": 1769968800,
+      "finished": false
+    },
+    {
+      "matchId": "rulTYzDt",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Nacional",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "20:00",
+      "timestamp": 1769968800,
+      "finished": false
+    },
+    {
+      "matchId": "UgylohuB",
+      "homeTeam": "FCSB",
+      "awayTeam": "Csikszereda M. Ciuc",
+      "liga": "ROMANIA: Superliga",
+      "ora": "20:00",
+      "timestamp": 1769968800,
+      "finished": false
+    },
+    {
+      "matchId": "YTffWiFq",
+      "homeTeam": "Leuven",
+      "awayTeam": "KV Mechelen",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "20:15",
+      "timestamp": 1769969700,
+      "finished": false
+    },
+    {
+      "matchId": "6R2retEd",
+      "homeTeam": "Osasco Sporting",
+      "awayTeam": "Juventus-SP",
+      "liga": "BRAZIL: Paulista A2 - First stage",
+      "ora": "21:00",
+      "timestamp": 1769972400,
+      "finished": false
+    },
+    {
+      "matchId": "G2iZBphf",
+      "homeTeam": "AEK Athens",
+      "awayTeam": "Olympiacos Piraeus",
+      "liga": "GREECE: Super League",
+      "ora": "21:00",
+      "timestamp": 1769972400,
+      "finished": false
+    },
+    {
+      "matchId": "lKZrHln9",
+      "homeTeam": "FC Volendam",
+      "awayTeam": "G.A. Eagles",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "21:00",
+      "timestamp": 1769972400,
+      "finished": false
+    },
+    {
+      "matchId": "AovUO9KD",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "PSG",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "21:45",
+      "timestamp": 1769975100,
+      "finished": false
+    },
+    {
+      "matchId": "8hYPSmFi",
+      "homeTeam": "Parma",
+      "awayTeam": "Juventus",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1769975100,
+      "finished": false
+    },
+    {
+      "matchId": "KOmf2GJ5",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Dep. Riestra",
+      "liga": "ARGENTINA: Liga Profesional - Apertura",
+      "ora": "22:00",
+      "timestamp": 1769976000,
+      "finished": false
+    },
+    {
+      "matchId": "d8Pn09Tq",
+      "homeTeam": "Granada CF",
+      "awayTeam": "Racing Santander",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "22:00",
+      "timestamp": 1769976000,
+      "finished": false
+    },
+    {
+      "matchId": "4SciTWtI",
+      "homeTeam": "Tondela",
+      "awayTeam": "Benfica",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:30",
+      "timestamp": 1769977800,
+      "finished": false
+    },
+    {
+      "matchId": "zFhBBhuf",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Novorizontino",
+      "liga": "BRAZIL: Paulista",
+      "ora": "23:30",
+      "timestamp": 1769981400,
+      "finished": false
+    },
+    {
+      "matchId": "xKQpeXfD",
+      "homeTeam": "Noroeste",
+      "awayTeam": "Velo Clube",
+      "liga": "BRAZIL: Paulista",
+      "ora": "00:30",
+      "timestamp": 1769985000,
+      "finished": false
+    }
+  ]
+}

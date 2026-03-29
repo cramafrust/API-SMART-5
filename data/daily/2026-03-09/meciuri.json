@@ -1,0 +1,108 @@
+{
+  "data": "09.03.2026",
+  "generatedAt": "09.03.2026 23:40:38",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 11,
+  "meciuri": [
+    {
+      "matchId": "S8e0UsLs",
+      "homeTeam": "FC Cincinnati",
+      "awayTeam": "Toronto FC",
+      "liga": "USA: MLS",
+      "ora": "01:00",
+      "timestamp": 1773010800,
+      "finished": false
+    },
+    {
+      "matchId": "8AxWpwW8",
+      "homeTeam": "Novorizontino",
+      "awayTeam": "Palmeiras",
+      "liga": "BRAZIL: Paulista - Play Offs",
+      "ora": "01:30",
+      "timestamp": 1773012600,
+      "finished": false
+    },
+    {
+      "matchId": "GGWcgbP9",
+      "homeTeam": "Eyupspor",
+      "awayTeam": "Kocaelispor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "15:00",
+      "timestamp": 1773061200,
+      "finished": false
+    },
+    {
+      "matchId": "jHVT32IN",
+      "homeTeam": "Panetolikos",
+      "awayTeam": "Kifisia",
+      "liga": "GREECE: Super League",
+      "ora": "18:00",
+      "timestamp": 1773072000,
+      "finished": true
+    },
+    {
+      "matchId": "nsGlvhu3",
+      "homeTeam": "Mladost",
+      "awayTeam": "Novi Pazar",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "19:00",
+      "timestamp": 1773075600,
+      "finished": false
+    },
+    {
+      "matchId": "8jTkeKfc",
+      "homeTeam": "Alanyaspor",
+      "awayTeam": "Genclerbirligi",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773075600,
+      "finished": false
+    },
+    {
+      "matchId": "Awx9BKNt",
+      "homeTeam": "Kayserispor",
+      "awayTeam": "Trabzonspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773075600,
+      "finished": false
+    },
+    {
+      "matchId": "WITqnYGk",
+      "homeTeam": "Wisla Plock",
+      "awayTeam": "Arka Gdynia",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "20:00",
+      "timestamp": 1773079200,
+      "finished": false
+    },
+    {
+      "matchId": "hlhSsZxn",
+      "homeTeam": "Lazio",
+      "awayTeam": "Sassuolo",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1773085500,
+      "finished": false
+    },
+    {
+      "matchId": "A90Ay4iL",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Oviedo",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1773086400,
+      "finished": false
+    },
+    {
+      "matchId": "dMpqWmFk",
+      "homeTeam": "Tondela",
+      "awayTeam": "Rio Ave",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1773087300,
+      "finished": false
+    }
+  ]
+}

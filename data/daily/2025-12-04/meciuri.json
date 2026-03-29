@@ -1,0 +1,35 @@
+{
+  "data": "04.12.2025",
+  "generatedAt": "04.12.2025 08:00:03",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 3,
+  "meciuri": [
+    {
+      "matchId": "jHJrVdmR",
+      "homeTeam": "Wisla Plock",
+      "awayTeam": "Cracovia",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "18:00",
+      "timestamp": 1764864000,
+      "finished": false
+    },
+    {
+      "matchId": "KK3NfDXA",
+      "homeTeam": "Crvena zvezda",
+      "awayTeam": "Cukaricki",
+      "liga": "SERBIA: Mozzart Bet Super Liga",
+      "ora": "20:00",
+      "timestamp": 1764871200,
+      "finished": false
+    },
+    {
+      "matchId": "0OUQMk3e",
+      "homeTeam": "Manchester Utd",
+      "awayTeam": "West Ham",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1764878400,
+      "finished": false
+    }
+  ]
+}

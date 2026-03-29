@@ -1,0 +1,89 @@
+{
+  "data": "03.11.2025",
+  "generatedAt": "03.11.2025 21:46:33",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 6,
+  "minutVerificare": 45,
+  "verificari": [
+    {
+      "matchId": "jTySbsQE",
+      "homeTeam": "Cracovia",
+      "awayTeam": "Zaglebie",
+      "liga": "POLAND: Ekstraklasa",
+      "oraStart": "21:30",
+      "timestampStart": 1762198200,
+      "oraVerificare": "22:15",
+      "timestampVerificare": 1762200900,
+      "minutMeci": 45,
+      "status": "in_progress",
+      "completedAt": "2025-11-03T20:14:23.509Z"
+    },
+    {
+      "matchId": "vNsUAdff",
+      "homeTeam": "Valladolid",
+      "awayTeam": "Granada CF",
+      "liga": "SPAIN: LaLiga2",
+      "oraStart": "21:30",
+      "timestampStart": 1762198200,
+      "oraVerificare": "22:15",
+      "timestampVerificare": 1762200900,
+      "minutMeci": 45,
+      "status": "programat"
+    },
+    {
+      "matchId": "pSWHcaS9",
+      "homeTeam": "Lazio",
+      "awayTeam": "Cagliari",
+      "liga": "ITALY: Serie A",
+      "oraStart": "21:45",
+      "timestampStart": 1762199100,
+      "oraVerificare": "22:30",
+      "timestampVerificare": 1762201800,
+      "minutMeci": 45,
+      "status": "in_progress",
+      "completedAt": "2025-11-03T20:29:53.677Z"
+    },
+    {
+      "matchId": "O82v0Yfk",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Everton",
+      "liga": "ENGLAND: Premier League",
+      "oraStart": "22:00",
+      "timestampStart": 1762200000,
+      "oraVerificare": "22:45",
+      "timestampVerificare": 1762202700,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-03T20:45:07.125Z",
+      "statsFile": "stats-O82v0Yfk-HT.json"
+    },
+    {
+      "matchId": "rTLM0GQ9",
+      "homeTeam": "Oviedo",
+      "awayTeam": "Osasuna",
+      "liga": "SPAIN: LaLiga",
+      "oraStart": "22:00",
+      "timestampStart": 1762200000,
+      "oraVerificare": "22:45",
+      "timestampVerificare": 1762202700,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-03T20:45:13.349Z",
+      "statsFile": "stats-rTLM0GQ9-HT.json"
+    },
+    {
+      "matchId": "8As6zKD4",
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "Santa Clara",
+      "liga": "PORTUGAL: Liga Portugal",
+      "oraStart": "22:45",
+      "timestampStart": 1762202700,
+      "oraVerificare": "23:30",
+      "timestampVerificare": 1762205400,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-03T21:29:54.106Z",
+      "statsFile": "stats-8As6zKD4-HT.json"
+    }
+  ]
+}

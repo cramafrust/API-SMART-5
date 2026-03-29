@@ -1,0 +1,251 @@
+{
+  "data": "04.11.2025",
+  "generatedAt": "04.11.2025 12:11:27",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 27,
+  "meciuri": [
+    {
+      "matchId": "lYY6oapI",
+      "homeTeam": "Seattle Sounders",
+      "awayTeam": "Minnesota United",
+      "liga": "USA: MLS - Play Offs",
+      "ora": "05:45",
+      "timestamp": 1762227900,
+      "finished": true
+    },
+    {
+      "matchId": "273AurA4",
+      "homeTeam": "Machida (Jpn)",
+      "awayTeam": "Melbourne City (Aus)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "12:00",
+      "timestamp": 1762250400,
+      "finished": false
+    },
+    {
+      "matchId": "4vYYXj8e",
+      "homeTeam": "Sanfrecce Hiroshima (Jpn)",
+      "awayTeam": "Gangwon (Kor)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "12:00",
+      "timestamp": 1762250400,
+      "finished": false
+    },
+    {
+      "matchId": "tKFr3cPP",
+      "homeTeam": "Seoul (Kor)",
+      "awayTeam": "Chengdu Rongcheng (Chn)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "12:00",
+      "timestamp": 1762250400,
+      "finished": false
+    },
+    {
+      "matchId": "SWPB3lcm",
+      "homeTeam": "Buriram (Tha)",
+      "awayTeam": "Shanghai Port (Chn)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "14:15",
+      "timestamp": 1762258500,
+      "finished": false
+    },
+    {
+      "matchId": "rZEpzxN5",
+      "homeTeam": "Sitra (Bhr)",
+      "awayTeam": "Al Qadisiya (Kuw)",
+      "liga": "ASIA: Gulf Club Champions League",
+      "ora": "17:00",
+      "timestamp": 1762268400,
+      "finished": false
+    },
+    {
+      "matchId": "lEK0L456",
+      "homeTeam": "Al-Sadd (Qat)",
+      "awayTeam": "Al Ahli SC (Sau)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "18:00",
+      "timestamp": 1762272000,
+      "finished": false
+    },
+    {
+      "matchId": "bcc8CA1s",
+      "homeTeam": "Sepahan (Irn)",
+      "awayTeam": "Ahal (Tkm)",
+      "liga": "ASIA: AFC Champions League 2",
+      "ora": "18:00",
+      "timestamp": 1762272000,
+      "finished": false
+    },
+    {
+      "matchId": "v18gYFiI",
+      "homeTeam": "Zakho (Irq)",
+      "awayTeam": "Al Ain (Uae)",
+      "liga": "ASIA: Gulf Club Champions League",
+      "ora": "19:00",
+      "timestamp": 1762275600,
+      "finished": false
+    },
+    {
+      "matchId": "jmCmuhyf",
+      "homeTeam": "Napoli",
+      "awayTeam": "Eintracht Frankfurt",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "19:45",
+      "timestamp": 1762278300,
+      "finished": false
+    },
+    {
+      "matchId": "nH8yf0UO",
+      "homeTeam": "Slavia Prague",
+      "awayTeam": "Arsenal",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "19:45",
+      "timestamp": 1762278300,
+      "finished": false
+    },
+    {
+      "matchId": "U5qoRZyS",
+      "homeTeam": "Al Ittihad (Sau)",
+      "awayTeam": "Al Sharjah (Uae)",
+      "liga": "ASIA: AFC Champions League - League phase",
+      "ora": "20:15",
+      "timestamp": 1762280100,
+      "finished": false
+    },
+    {
+      "matchId": "l6he5Qpf",
+      "homeTeam": "Birmingham",
+      "awayTeam": "Millwall",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1762285500,
+      "finished": false
+    },
+    {
+      "matchId": "r5o434F6",
+      "homeTeam": "Bristol City",
+      "awayTeam": "Blackburn",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1762285500,
+      "finished": false
+    },
+    {
+      "matchId": "GIqC1rpJ",
+      "homeTeam": "Charlton",
+      "awayTeam": "West Brom",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1762285500,
+      "finished": false
+    },
+    {
+      "matchId": "29IUJPam",
+      "homeTeam": "Derby",
+      "awayTeam": "Hull",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1762285500,
+      "finished": false
+    },
+    {
+      "matchId": "OO6wI3Ua",
+      "homeTeam": "Ipswich",
+      "awayTeam": "Watford",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1762285500,
+      "finished": false
+    },
+    {
+      "matchId": "djKpGsaC",
+      "homeTeam": "Leicester",
+      "awayTeam": "Middlesbrough",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1762285500,
+      "finished": false
+    },
+    {
+      "matchId": "hIDgELTO",
+      "homeTeam": "Oxford Utd",
+      "awayTeam": "Stoke",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1762285500,
+      "finished": false
+    },
+    {
+      "matchId": "WQRbPoxQ",
+      "homeTeam": "Coventry",
+      "awayTeam": "Sheffield Utd",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1762286400,
+      "finished": false
+    },
+    {
+      "matchId": "SfhhLxTN",
+      "homeTeam": "Atl. Madrid",
+      "awayTeam": "Royale Union SG",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1762286400,
+      "finished": false
+    },
+    {
+      "matchId": "xbkwtSMt",
+      "homeTeam": "Bodo/Glimt",
+      "awayTeam": "Monaco",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1762286400,
+      "finished": false
+    },
+    {
+      "matchId": "f7w6SEil",
+      "homeTeam": "Juventus",
+      "awayTeam": "Sporting CP",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1762286400,
+      "finished": false
+    },
+    {
+      "matchId": "U7OwPBAF",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Real Madrid",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1762286400,
+      "finished": false
+    },
+    {
+      "matchId": "hENu6LuA",
+      "homeTeam": "Olympiacos Piraeus",
+      "awayTeam": "PSV",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1762286400,
+      "finished": false
+    },
+    {
+      "matchId": "jH34ACeM",
+      "homeTeam": "PSG",
+      "awayTeam": "Bayern Munich",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1762286400,
+      "finished": false
+    },
+    {
+      "matchId": "vVoNIbPF",
+      "homeTeam": "Tottenham",
+      "awayTeam": "FC Copenhagen",
+      "liga": "EUROPE: Champions League - League phase",
+      "ora": "22:00",
+      "timestamp": 1762286400,
+      "finished": false
+    }
+  ]
+}

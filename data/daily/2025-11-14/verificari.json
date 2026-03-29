@@ -1,0 +1,23 @@
+{
+  "data": "14.11.2025",
+  "generatedAt": "14.11.2025 08:00:05",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalVerificari": 1,
+  "minutVerificare": 45,
+  "verificari": [
+    {
+      "matchId": "vmkgJabk",
+      "homeTeam": "Valladolid",
+      "awayTeam": "Las Palmas",
+      "liga": "SPAIN: LaLiga2",
+      "oraStart": "21:30",
+      "timestampStart": 1763148600,
+      "oraVerificare": "22:15",
+      "timestampVerificare": 1763151300,
+      "minutMeci": 45,
+      "status": "completat",
+      "completedAt": "2025-11-14T20:14:49.766Z",
+      "statsFile": "stats-vmkgJabk-HT.json"
+    }
+  ]
+}

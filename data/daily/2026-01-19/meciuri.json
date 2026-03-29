@@ -1,0 +1,116 @@
+{
+  "data": "19.01.2026",
+  "generatedAt": "19.01.2026 08:00:39",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 12,
+  "meciuri": [
+    {
+      "matchId": "ELsKzJwQ",
+      "homeTeam": "Konyaspor",
+      "awayTeam": "Eyupspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "16:00",
+      "timestamp": 1768831200,
+      "finished": false
+    },
+    {
+      "matchId": "UBxInUOr",
+      "homeTeam": "Panetolikos",
+      "awayTeam": "Levadiakos",
+      "liga": "GREECE: Super League",
+      "ora": "18:00",
+      "timestamp": 1768838400,
+      "finished": false
+    },
+    {
+      "matchId": "OWUkR56T",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Kayserispor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1768842000,
+      "finished": false
+    },
+    {
+      "matchId": "S4ysTRyH",
+      "homeTeam": "Goztepe",
+      "awayTeam": "Rizespor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1768842000,
+      "finished": false
+    },
+    {
+      "matchId": "2VDurr4d",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Verona",
+      "liga": "ITALY: Serie A",
+      "ora": "19:30",
+      "timestamp": 1768843800,
+      "finished": false
+    },
+    {
+      "matchId": "Yuinhj1L",
+      "homeTeam": "Volos",
+      "awayTeam": "Atromitos",
+      "liga": "GREECE: Super League",
+      "ora": "20:00",
+      "timestamp": 1768845600,
+      "finished": false
+    },
+    {
+      "matchId": "nVucI257",
+      "homeTeam": "Petrolul",
+      "awayTeam": "Univ. Craiova",
+      "liga": "ROMANIA: Superliga",
+      "ora": "20:00",
+      "timestamp": 1768845600,
+      "finished": false
+    },
+    {
+      "matchId": "MZQ7rp2s",
+      "homeTeam": "Granada CF",
+      "awayTeam": "Eibar",
+      "liga": "SPAIN: LaLiga2",
+      "ora": "21:30",
+      "timestamp": 1768851000,
+      "finished": false
+    },
+    {
+      "matchId": "IwdS5od3",
+      "homeTeam": "Lazio",
+      "awayTeam": "Como",
+      "liga": "ITALY: Serie A",
+      "ora": "21:45",
+      "timestamp": 1768851900,
+      "finished": false
+    },
+    {
+      "matchId": "MBSHcUAN",
+      "homeTeam": "Brighton",
+      "awayTeam": "Bournemouth",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1768852800,
+      "finished": false
+    },
+    {
+      "matchId": "GUunFObn",
+      "homeTeam": "Elche",
+      "awayTeam": "Sevilla",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1768852800,
+      "finished": false
+    },
+    {
+      "matchId": "IekDB7FF",
+      "homeTeam": "Estrela",
+      "awayTeam": "Estoril",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1768853700,
+      "finished": false
+    }
+  ]
+}

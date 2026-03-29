@@ -1,0 +1,243 @@
+{
+  "data": "19.03.2026",
+  "generatedAt": "19.03.2026 08:02:09",
+  "timezone": "Europe/Bucharest (EET)",
+  "intervalAcoperit": "Astăzi 00:00 - Mâine 07:59",
+  "totalMatches": 26,
+  "meciuri": [
+    {
+      "matchId": "vXS23GB4",
+      "homeTeam": "Bahia",
+      "awayTeam": "Bragantino",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773871200,
+      "finished": true
+    },
+    {
+      "matchId": "65kMjwSb",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Botafogo RJ",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773871200,
+      "finished": true
+    },
+    {
+      "matchId": "6JUf5xsh",
+      "homeTeam": "Athletico-PR",
+      "awayTeam": "Cruzeiro",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:30",
+      "timestamp": 1773873000,
+      "finished": true
+    },
+    {
+      "matchId": "KSexmeRN",
+      "homeTeam": "Atletico-MG",
+      "awayTeam": "Sao Paulo",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:00",
+      "timestamp": 1773874800,
+      "finished": true
+    },
+    {
+      "matchId": "bD7TlHdB",
+      "homeTeam": "Mirassol",
+      "awayTeam": "Coritiba",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "01:00",
+      "timestamp": 1773874800,
+      "finished": false
+    },
+    {
+      "matchId": "AwdDhacn",
+      "homeTeam": "Santos",
+      "awayTeam": "Internacional",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "02:30",
+      "timestamp": 1773880200,
+      "finished": false
+    },
+    {
+      "matchId": "fRL3YeCU",
+      "homeTeam": "Vasco",
+      "awayTeam": "Fluminense",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "02:30",
+      "timestamp": 1773880200,
+      "finished": true
+    },
+    {
+      "matchId": "rR6lXD7E",
+      "homeTeam": "Kayserispor",
+      "awayTeam": "Karagumruk",
+      "liga": "TURKEY: Super Lig",
+      "ora": "15:00",
+      "timestamp": 1773925200,
+      "finished": false
+    },
+    {
+      "matchId": "I94NIEhL",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Kasimpasa",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773939600,
+      "finished": false
+    },
+    {
+      "matchId": "UNvxO9U0",
+      "homeTeam": "Konyaspor",
+      "awayTeam": "Genclerbirligi",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1773939600,
+      "finished": false
+    },
+    {
+      "matchId": "UyFv5R5F",
+      "homeTeam": "Freiburg",
+      "awayTeam": "Genk",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773942300,
+      "finished": false
+    },
+    {
+      "matchId": "hC1Le2B4",
+      "homeTeam": "Lyon",
+      "awayTeam": "Celta Vigo",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773942300,
+      "finished": false
+    },
+    {
+      "matchId": "AVtgA1Qc",
+      "homeTeam": "Midtjylland",
+      "awayTeam": "Nottingham",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773942300,
+      "finished": false
+    },
+    {
+      "matchId": "p66CTbp2",
+      "homeTeam": "AEK Athens",
+      "awayTeam": "Celje",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773942300,
+      "finished": false
+    },
+    {
+      "matchId": "UgdaZTGN",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Crystal Palace",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773942300,
+      "finished": false
+    },
+    {
+      "matchId": "WdFBOC25",
+      "homeTeam": "Mainz",
+      "awayTeam": "Sigma Olomouc",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773942300,
+      "finished": false
+    },
+    {
+      "matchId": "WtyXmTVG",
+      "homeTeam": "Rakow",
+      "awayTeam": "Fiorentina",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1773942300,
+      "finished": false
+    },
+    {
+      "matchId": "828yhKAT",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Bologna",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773950400,
+      "finished": false
+    },
+    {
+      "matchId": "Kb3DcOth",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Lille",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773950400,
+      "finished": false
+    },
+    {
+      "matchId": "4E7ls3dB",
+      "homeTeam": "Betis",
+      "awayTeam": "Panathinaikos",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773950400,
+      "finished": false
+    },
+    {
+      "matchId": "j9r96JPM",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Stuttgart",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773950400,
+      "finished": false
+    },
+    {
+      "matchId": "WOgdSf3t",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Samsunspor",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773950400,
+      "finished": false
+    },
+    {
+      "matchId": "hWZGiBWi",
+      "homeTeam": "Shakhtar Donetsk",
+      "awayTeam": "Lech Poznan",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773950400,
+      "finished": false
+    },
+    {
+      "matchId": "CzHRKU1U",
+      "homeTeam": "Sparta Prague",
+      "awayTeam": "AZ Alkmaar",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773950400,
+      "finished": false
+    },
+    {
+      "matchId": "zDfqwCHb",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Rijeka",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1773950400,
+      "finished": false
+    },
+    {
+      "matchId": "jBn8sZlo",
+      "homeTeam": "Gremio",
+      "awayTeam": "Vitoria",
+      "liga": "BRAZIL: Serie A Betano",
+      "ora": "00:00",
+      "timestamp": 1773957600,
+      "finished": false
+    }
+  ]
+}

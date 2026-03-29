@@ -1,0 +1,152 @@
+{
+  "data": "05.12.2025",
+  "generatedAt": "05.12.2025 08:00:03",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 16,
+  "meciuri": [
+    {
+      "matchId": "E3WlyVSp",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Samsunspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "19:00",
+      "timestamp": 1764954000,
+      "finished": false
+    },
+    {
+      "matchId": "dQvxJg6r",
+      "homeTeam": "Dusseldorf",
+      "awayTeam": "Schalke",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1764955800,
+      "finished": false
+    },
+    {
+      "matchId": "UiIIVWkl",
+      "homeTeam": "Preussen Munster",
+      "awayTeam": "Hannover",
+      "liga": "GERMANY: 2. Bundesliga",
+      "ora": "19:30",
+      "timestamp": 1764955800,
+      "finished": false
+    },
+    {
+      "matchId": "QqVGAbE4",
+      "homeTeam": "Fredericia",
+      "awayTeam": "Odense",
+      "liga": "DENMARK: Superliga",
+      "ora": "20:00",
+      "timestamp": 1764957600,
+      "finished": false
+    },
+    {
+      "matchId": "hp2gOrT9",
+      "homeTeam": "Brest",
+      "awayTeam": "Monaco",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "20:00",
+      "timestamp": 1764957600,
+      "finished": false
+    },
+    {
+      "matchId": "W8OtwQIs",
+      "homeTeam": "Otelul",
+      "awayTeam": "Unirea Slobozia",
+      "liga": "ROMANIA: Superliga",
+      "ora": "20:30",
+      "timestamp": 1764959400,
+      "finished": false
+    },
+    {
+      "matchId": "zL1zBVqH",
+      "homeTeam": "OC Charleroi",
+      "awayTeam": "Patro Eisden",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1764961200,
+      "finished": false
+    },
+    {
+      "matchId": "K8Jq2z1n",
+      "homeTeam": "Seraing",
+      "awayTeam": "Eupen",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1764961200,
+      "finished": false
+    },
+    {
+      "matchId": "UPcFsZx0",
+      "homeTeam": "Excelsior",
+      "awayTeam": "Groningen",
+      "liga": "NETHERLANDS: Eredivisie",
+      "ora": "21:00",
+      "timestamp": 1764961200,
+      "finished": false
+    },
+    {
+      "matchId": "W8Aza6Gs",
+      "homeTeam": "Mainz",
+      "awayTeam": "B. Monchengladbach",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1764963000,
+      "finished": false
+    },
+    {
+      "matchId": "8rNUhUFE",
+      "homeTeam": "Lechia Gdansk",
+      "awayTeam": "Gornik Zabrze",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1764963000,
+      "finished": false
+    },
+    {
+      "matchId": "MBfeVdCa",
+      "homeTeam": "RAAL La Louviere",
+      "awayTeam": "Dender",
+      "liga": "BELGIUM: Jupiler Pro League",
+      "ora": "21:45",
+      "timestamp": 1764963900,
+      "finished": false
+    },
+    {
+      "matchId": "UFIXxKOF",
+      "homeTeam": "Hull",
+      "awayTeam": "Middlesbrough",
+      "liga": "ENGLAND: Championship",
+      "ora": "22:00",
+      "timestamp": 1764964800,
+      "finished": false
+    },
+    {
+      "matchId": "bDVHOiNh",
+      "homeTeam": "Lille",
+      "awayTeam": "Marseille",
+      "liga": "FRANCE: Ligue 1",
+      "ora": "22:00",
+      "timestamp": 1764964800,
+      "finished": false
+    },
+    {
+      "matchId": "zJKAAoeR",
+      "homeTeam": "Oviedo",
+      "awayTeam": "Mallorca",
+      "liga": "SPAIN: LaLiga",
+      "ora": "22:00",
+      "timestamp": 1764964800,
+      "finished": false
+    },
+    {
+      "matchId": "4zOj5jzg",
+      "homeTeam": "Benfica",
+      "awayTeam": "Sporting CP",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1764965700,
+      "finished": false
+    }
+  ]
+}

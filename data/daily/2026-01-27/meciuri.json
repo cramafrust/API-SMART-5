@@ -1,0 +1,53 @@
+{
+  "data": "27.01.2026",
+  "generatedAt": "27.01.2026 08:02:11",
+  "timezone": "Europe/Bucharest (EET)",
+  "totalMatches": 5,
+  "meciuri": [
+    {
+      "matchId": "GUZbD0ME",
+      "homeTeam": "Beerschot VA",
+      "awayTeam": "Seraing",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1769540400,
+      "finished": false
+    },
+    {
+      "matchId": "EPHo4dq1",
+      "homeTeam": "Eupen",
+      "awayTeam": "Sporting Lokeren",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1769540400,
+      "finished": false
+    },
+    {
+      "matchId": "0MiCkcU7",
+      "homeTeam": "Patro Eisden",
+      "awayTeam": "OC Charleroi",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1769540400,
+      "finished": false
+    },
+    {
+      "matchId": "Sfv5iJae",
+      "homeTeam": "RFC Liege",
+      "awayTeam": "Lommel SK",
+      "liga": "BELGIUM: Challenger Pro League",
+      "ora": "21:00",
+      "timestamp": 1769540400,
+      "finished": false
+    },
+    {
+      "matchId": "ObDLNPCO",
+      "homeTeam": "St. Pauli",
+      "awayTeam": "RB Leipzig",
+      "liga": "GERMANY: Bundesliga",
+      "ora": "21:30",
+      "timestamp": 1769542200,
+      "finished": false
+    }
+  ]
+}
