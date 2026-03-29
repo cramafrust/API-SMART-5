@@ -130,8 +130,13 @@ async function discoverPlayoffMatches() {
 
         const existingIds = new Set(todayData.meciuri.map(m => m.matchId));
         let added = 0;
+        const MAX_DISCOVER = 10; // Championship Group are max 3 meciuri per etapă — safety limit
 
         for (const matchId of matchIds) {
+            if (added >= MAX_DISCOVER) {
+                logger.warn(`   ⚠️  Limita de ${MAX_DISCOVER} meciuri atinsă — opresc discovery`);
+                break;
+            }
             if (existingIds.has(matchId)) continue;
 
             try {
@@ -142,12 +147,24 @@ async function discoverPlayoffMatches() {
                 // Extragem echipele din H2H
                 const homeMatch = rawHH.match(/KJ÷\*?([^¬]+)/);
                 const awayMatch = rawHH.match(/KK÷([^¬]+)/);
-                const homeTeam = homeMatch ? homeMatch[1].replace('*', '') : 'Unknown';
-                const awayTeam = awayMatch ? awayMatch[1] : 'Unknown';
+                const homeTeam = homeMatch ? homeMatch[1].replace('*', '') : null;
+                const awayTeam = awayMatch ? awayMatch[1] : null;
+
+                // VALIDARE: skip dacă nu avem echipe valide
+                if (!homeTeam || !awayTeam || homeTeam === 'Unknown' || awayTeam === 'Unknown') {
+                    logger.warn(`   ⚠️  Skip ${matchId}: echipe invalide (${homeTeam} vs ${awayTeam})`);
+                    continue;
+                }
 
                 // Extragem timestamp din core
                 const dcMatch = rawCore.match(/DC÷(\d+)/);
                 const timestamp = dcMatch ? parseInt(dcMatch[1]) : 0;
+
+                // VALIDARE: skip dacă timestamp invalid
+                if (!timestamp || timestamp < 1000000000) {
+                    logger.warn(`   ⚠️  Skip ${matchId}: timestamp invalid (${timestamp})`);
+                    continue;
+                }
 
                 // Verificăm dacă e azi
                 const matchDate = new Date(timestamp * 1000);
