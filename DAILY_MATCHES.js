@@ -267,6 +267,18 @@ async function generateDailyMatches() {
                 });
         }
 
+        // Validare anomalii înainte de salvare
+        try {
+            const { validateDailyMatches, autoClean } = require('./core/anomaly');
+            const validation = validateDailyMatches(output);
+            if (!validation.valid) {
+                console.log(`\n🚨 ANOMALII DETECTATE — auto-clean...`);
+                autoClean(output);
+            }
+        } catch (e) {
+            // core/anomaly nu e critic — continuăm fără validare
+        }
+
         // Salvează JSON
         const outputPath = path.join(__dirname, getOutputFilename());
         fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), 'utf8');
@@ -374,6 +386,17 @@ async function refreshDailyMatches() {
             existing.meciuri.sort((a, b) => a.timestamp - b.timestamp);
             existing.totalMatches = existing.meciuri.length;
             existing.lastRefresh = `${formatDate()} ${new Date().getHours().toString().padStart(2, '0')}:${new Date().getMinutes().toString().padStart(2, '0')}`;
+
+            // Validare anomalii
+            try {
+                const { validateDailyMatches, autoClean } = require('./core/anomaly');
+                const validation = validateDailyMatches(existing);
+                if (!validation.valid) {
+                    console.log(`   🚨 ANOMALII DETECTATE la refresh — auto-clean...`);
+                    autoClean(existing);
+                }
+            } catch (e) {}
+
             fs.writeFileSync(outputPath, JSON.stringify(existing, null, 2), 'utf8');
             console.log(`   ✅ Adăugate ${added} meciuri noi (total: ${existing.meciuri.length})`);
         } else {

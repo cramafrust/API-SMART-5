@@ -11,4 +11,5 @@ module.exports = {
     notifications: require('./notifications'),
     patterns: require('./patterns'),
     seasons: require('./seasons'),
+    anomaly: require('./anomaly'),
 };

@@ -1086,6 +1086,26 @@ async function monitorSchedule(scheduleFile) {
                     const playoff = romaniaMatches.filter(m => m.liga.includes('Championship'));
                     const playout = romaniaMatches.filter(m => m.liga.includes('Relegation'));
 
+                    // Validare anomalii înainte de raportare
+                    try {
+                        const { validateDailyMatches, autoClean } = require('./core/anomaly');
+                        const validation = validateDailyMatches(matchesData);
+                        if (!validation.valid) {
+                            logger.error('   🚨 ANOMALII în fișierul zilnic — auto-clean...');
+                            autoClean(matchesData);
+                            // Resalvăm fișierul curățat
+                            fs.writeFileSync(matchesFilePath, JSON.stringify(matchesData, null, 2), 'utf8');
+                            // Recalculăm după curățare
+                            const cleanRomania = matchesData.meciuri
+                                .filter(m => m.liga.toLowerCase().includes('romania'))
+                                .map(m => ({ ...m, liga: fixRomaniaLeagueName(m.liga, m.homeTeam, m.awayTeam) }));
+                            playoff.length = 0;
+                            playout.length = 0;
+                            cleanRomania.filter(m => m.liga.includes('Championship')).forEach(m => playoff.push(m));
+                            cleanRomania.filter(m => m.liga.includes('Relegation')).forEach(m => playout.push(m));
+                        }
+                    } catch (e) {}
+
                     logger.info('🇷🇴 VERIFICARE ROMANIA 13:05:');
                     logger.info(`   Championship Group (playoff): ${playoff.length} meciuri`);
                     playoff.forEach(m => logger.info(`     ⚽ ${m.ora} ${m.homeTeam} vs ${m.awayTeam}`));
