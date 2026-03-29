@@ -39,28 +39,40 @@ const ROMANIA_PLAYOUT_TEAMS = [
 
 /**
  * Corectează numele ligii pentru meciurile din România post-sezon regulat.
- * FlashScore pune uneori meciuri de playoff sub "Relegation Group".
+ *
+ * FlashScore pune uneori meciuri de playoff sub "Relegation Group",
+ * sau le listează simplu ca "ROMANIA: Superliga" fără sufix.
+ *
+ * După 13 martie 2026 (start playoff/playout), ORICE meci românesc
+ * e clasificat pe baza echipelor — nu ne bazăm pe ce zice FlashScore.
+ *
+ * PLAYOFF_START: 2026-03-13 (sezon regulat terminat pe 08.03)
  */
+const PLAYOFF_START = new Date('2026-03-13');
+
 function fixRomaniaLeagueName(leagueName, homeTeam, awayTeam) {
     if (!leagueName.toLowerCase().includes('romania')) return leagueName;
-    if (!leagueName.toLowerCase().includes('relegation') && !leagueName.toLowerCase().includes('championship')) return leagueName;
+    if (!leagueName.toLowerCase().includes('superliga')) return leagueName;
 
+    // Înainte de playoff — nu modificăm
+    if (new Date() < PLAYOFF_START) return leagueName;
+
+    // După start playoff: clasificăm MEREU pe baza echipelor
     const homeIsPlayoff = ROMANIA_PLAYOFF_TEAMS.some(t => homeTeam.includes(t) || t.includes(homeTeam));
     const awayIsPlayoff = ROMANIA_PLAYOFF_TEAMS.some(t => awayTeam.includes(t) || t.includes(awayTeam));
 
-    // Dacă AMBELE echipe sunt din playoff → Championship Group
     if (homeIsPlayoff && awayIsPlayoff) {
         return 'ROMANIA: Superliga - Championship Group';
     }
 
-    // Dacă niciuna nu e din playoff → Relegation Group
     const homeIsPlayout = ROMANIA_PLAYOUT_TEAMS.some(t => homeTeam.includes(t) || t.includes(homeTeam));
     const awayIsPlayout = ROMANIA_PLAYOUT_TEAMS.some(t => awayTeam.includes(t) || t.includes(awayTeam));
+
     if (homeIsPlayout && awayIsPlayout) {
         return 'ROMANIA: Superliga - Relegation Group';
     }
 
-    // Fallback: returnează ce a venit de la FlashScore
+    // Fallback — nu am reușit să clasificăm
     return leagueName;
 }
 

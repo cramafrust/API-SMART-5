@@ -279,12 +279,17 @@ const leagues = {
         'Metaloglobus', 'Metaloglobus Bucharest',
     ],
 
+    // Data start playoff România 2025-2026
+    romaniaPlayoffStart: new Date('2026-03-13'),
+
     /**
-     * Corectează numele ligii pentru meciuri România post-sezon regulat
+     * Corectează numele ligii pentru meciuri România post-sezon regulat.
+     * După startul playoff-ului, clasifică MEREU pe baza echipelor.
      */
     fixRomaniaLeagueName(leagueName, homeTeam, awayTeam) {
         if (!leagueName.toLowerCase().includes('romania')) return leagueName;
-        if (!leagueName.toLowerCase().includes('relegation') && !leagueName.toLowerCase().includes('championship')) return leagueName;
+        if (!leagueName.toLowerCase().includes('superliga')) return leagueName;
+        if (new Date() < leagues.romaniaPlayoffStart) return leagueName;
 
         const homeIsPlayoff = leagues.romaniaPlayoffTeams.some(t => homeTeam.includes(t) || t.includes(homeTeam));
         const awayIsPlayoff = leagues.romaniaPlayoffTeams.some(t => awayTeam.includes(t) || t.includes(awayTeam));
