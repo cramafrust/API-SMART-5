@@ -56649,6 +56649,239 @@
       },
       "validation_result": "won",
       "league": "ARGENTINA: Liga Profesional - Apertura"
+    },
+    {
+      "id": "xUgkXiV8_1774826548739",
+      "date": "30.03.2026",
+      "timestamp": 1774826548740,
+      "match": "Athletico-PR vs Botafogo RJ",
+      "matchId": "xUgkXiV8",
+      "homeTeam": "Athletico-PR",
+      "awayTeam": "Botafogo RJ",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 82.17,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_3.3",
+        "team": "meci",
+        "tier": "TOP_1-5",
+        "position": 4,
+        "isEstimate": false
+      },
+      "created_at": "2026-03-29T23:22:28.740Z",
+      "updated_at": "2026-03-30T05:00:10.759Z",
+      "initialOdd": 1.28,
+      "odds": {
+        "superbet": 1.28,
+        "description": "Încă un gol (peste 3.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Athletico-PR",
+          "awayTeam": "Botafogo RJ",
+          "date": "30.03.2026, 01:30",
+          "league": "BRAZIL: Serie A Betano",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": 2,
+          "awayPositionBefore": 17,
+          "homeTier": "TOP_1-5",
+          "awayTier": "BOTTOM_16-20"
+        },
+        "halftime": {
+          "teams": {
+            "home": "Athletico-PR",
+            "away": "Botafogo RJ"
+          },
+          "score": {
+            "home": "2",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.59",
+              "Ball Possession": "39",
+              "Total shots": "5",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "0",
+              "Offsides": "2",
+              "Free Kicks": "6",
+              "Throw ins": "9",
+              "Fouls": "8",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.57",
+              "Ball Possession": "61",
+              "Total shots": "6",
+              "Shots on target": "3",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "1",
+              "Free Kicks": "8",
+              "Throw ins": "9",
+              "Fouls": "6",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Athletico-PR",
+            "away": "Botafogo RJ"
+          },
+          "score": {
+            "home": "4",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.42",
+              "Ball Possession": "46",
+              "Total shots": "11",
+              "Shots on target": "8",
+              "Big Chances": "4",
+              "Corner Kicks": "1",
+              "Yellow Cards": "2",
+              "Shots off target": "1",
+              "Offsides": "4",
+              "Free Kicks": "13",
+              "Throw ins": "15",
+              "Fouls": "15",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.80",
+              "Ball Possession": "54",
+              "Total shots": "12",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "8",
+              "Yellow Cards": "3",
+              "Shots off target": "4",
+              "Offsides": "2",
+              "Free Kicks": "15",
+              "Throw ins": "20",
+              "Fouls": "13",
+              "Goalkeeper Saves": "4"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Athletico-PR",
+            "away": "Botafogo RJ"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.83",
+              "Ball Possession": "53",
+              "Total shots": "6",
+              "Shots on target": "5",
+              "Big Chances": "2",
+              "Corner Kicks": "0",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "2",
+              "Free Kicks": "7",
+              "Throw ins": "6",
+              "Fouls": "7",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.23",
+              "Ball Possession": "47",
+              "Total shots": "6",
+              "Shots on target": "0",
+              "Big Chances": "1",
+              "Corner Kicks": "6",
+              "Yellow Cards": "2",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "11",
+              "Fouls": "7",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "xUgkXiV8",
+          "extractedAt": "2026-03-30T05:00:10.556Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 84 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-03-30T05:00:10.759Z",
+      "validationDetails": {
+        "finalScore": "4-1",
+        "htScore": "2-1",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_3.3",
+            "team": "meci",
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 2-1 → FT: 4-1)",
+            "actualValue": 2,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-03-30T05:00:10.743Z",
+        "validatedTimestamp": 1774846810743
+      },
+      "validation_result": "won"
+    },
+    {
+      "id": "SpD4Xem4_1774979587251",
+      "date": "31.03.2026",
+      "timestamp": 1774979587251,
+      "match": "Aldosivi vs Argentinos Jrs",
+      "matchId": "SpD4Xem4",
+      "homeTeam": "Aldosivi",
+      "awayTeam": "Argentinos Jrs",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 83.33,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "MONITORING",
+      "pattern": {
+        "name": "PATTERN_25",
+        "team": "meci",
+        "tier": "MID_6-10",
+        "position": null,
+        "isEstimate": false
+      },
+      "created_at": "2026-03-31T17:53:07.251Z",
+      "updated_at": "2026-03-31T17:53:07.251Z",
+      "initialOdd": 1.35,
+      "odds": {
+        "superbet": 1.35,
+        "description": "Încă un gol (peste 2.5)"
+      }
     }
   ]
 }

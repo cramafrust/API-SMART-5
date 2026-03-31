@@ -1,0 +1,151 @@
+{
+  "date": "2026-03-30",
+  "generated": "2026-03-31T08:00:10.726Z",
+  "totalMatches": 1,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Athletico-PR",
+        "awayTeam": "Botafogo RJ",
+        "date": "30.03.2026, 01:30",
+        "league": "BRAZIL: Serie A Betano",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 2,
+        "awayPositionBefore": 17,
+        "homeTier": "TOP_1-5",
+        "awayTier": "BOTTOM_16-20"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Athletico-PR",
+          "away": "Botafogo RJ"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.70",
+            "Ball Possession": "39",
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "2",
+            "Free Kicks": "6",
+            "Throw ins": "9",
+            "Fouls": "8",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.63",
+            "Ball Possession": "61",
+            "Total shots": "6",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "8",
+            "Throw ins": "9",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Athletico-PR",
+          "away": "Botafogo RJ"
+        },
+        "score": {
+          "home": "4",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.34",
+            "Ball Possession": "46",
+            "Total shots": "11",
+            "Shots on target": "8",
+            "Big Chances": "4",
+            "Corner Kicks": "1",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "4",
+            "Free Kicks": "13",
+            "Throw ins": "15",
+            "Fouls": "15",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.81",
+            "Ball Possession": "54",
+            "Total shots": "12",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "8",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "2",
+            "Free Kicks": "15",
+            "Throw ins": "20",
+            "Fouls": "13",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Athletico-PR",
+          "away": "Botafogo RJ"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.64",
+            "Ball Possession": "53",
+            "Total shots": "6",
+            "Shots on target": "5",
+            "Big Chances": "2",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "2",
+            "Free Kicks": "7",
+            "Throw ins": "6",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.18",
+            "Ball Possession": "47",
+            "Total shots": "6",
+            "Shots on target": "0",
+            "Big Chances": "1",
+            "Corner Kicks": "6",
+            "Yellow Cards": "2",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "11",
+            "Fouls": "7",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "xUgkXiV8",
+        "extractedAt": "2026-03-31T08:00:10.722Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}
