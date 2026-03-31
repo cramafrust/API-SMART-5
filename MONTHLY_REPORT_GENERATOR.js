@@ -513,6 +513,105 @@ function generateHTML(targetMonth, notifications, stats, successRate) {
         </div>
     </div>
 
+    <!-- STATISTICI PER LIGĂ -->
+    <div class="legend" style="margin-bottom: 20px;">
+        <h3>🏆 PERFORMANȚĂ PER LIGĂ</h3>
+        <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
+            <thead>
+                <tr style="background: #667eea; color: white;">
+                    <th style="padding: 8px; text-align: left;">Ligă</th>
+                    <th style="padding: 8px; text-align: center; width: 60px;">W</th>
+                    <th style="padding: 8px; text-align: center; width: 60px;">L</th>
+                    <th style="padding: 8px; text-align: center; width: 80px;">Win Rate</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${(() => {
+                    const perLiga = {};
+                    notifications.forEach(n => {
+                        const liga = n.league || 'Unknown';
+                        if (!perLiga[liga]) perLiga[liga] = { won: 0, lost: 0 };
+                        if (n.validation_result === 'won') perLiga[liga].won++;
+                        else if (n.validation_result === 'lost') perLiga[liga].lost++;
+                    });
+                    return Object.entries(perLiga)
+                        .filter(([, s]) => s.won + s.lost > 0)
+                        .sort((a, b) => (b[1].won + b[1].lost) - (a[1].won + a[1].lost))
+                        .map(([liga, s]) => {
+                            const total = s.won + s.lost;
+                            const rate = Math.round((s.won / total) * 100);
+                            const color = rate >= 70 ? '#27ae60' : rate >= 50 ? '#f39c12' : '#e74c3c';
+                            return `<tr style="border-bottom: 1px solid #eee;">
+                                <td style="padding: 6px 8px;">${liga}</td>
+                                <td style="padding: 6px 8px; text-align: center; color: #27ae60; font-weight: bold;">${s.won}</td>
+                                <td style="padding: 6px 8px; text-align: center; color: #e74c3c; font-weight: bold;">${s.lost}</td>
+                                <td style="padding: 6px 8px; text-align: center; font-weight: bold; color: ${color};">${rate}%</td>
+                            </tr>`;
+                        }).join('');
+                })()}
+            </tbody>
+        </table>
+    </div>
+
+    <!-- STATISTICI PER PATTERN -->
+    <div class="legend" style="margin-bottom: 20px;">
+        <h3>📊 PERFORMANȚĂ PER PATTERN</h3>
+        <table style="width: 100%; border-collapse: collapse; font-size: 14px;">
+            <thead>
+                <tr style="background: #764ba2; color: white;">
+                    <th style="padding: 8px; text-align: left;">Pattern</th>
+                    <th style="padding: 8px; text-align: left;">Descriere</th>
+                    <th style="padding: 8px; text-align: center; width: 60px;">W</th>
+                    <th style="padding: 8px; text-align: center; width: 60px;">L</th>
+                    <th style="padding: 8px; text-align: center; width: 80px;">Win Rate</th>
+                </tr>
+            </thead>
+            <tbody>
+                ${(() => {
+                    const desc = {
+                        'PATTERN_1.0': '3+ șuturi poartă, 0 gol', 'PATTERN_1.1': '4+ șuturi poartă, 0 gol',
+                        'PATTERN_1.2': '5+ șuturi poartă, 0 gol', 'PATTERN_1.3': '6+ șuturi poartă, 0 gol',
+                        'PATTERN_1.4': '7+ șuturi poartă, 0 gol',
+                        'PATTERN_2.1': '6+ total șuturi, 0 gol', 'PATTERN_2.2': '7+ total șuturi, 0 gol',
+                        'PATTERN_2.3': '8+ total șuturi, 0 gol', 'PATTERN_2.4': '9+ total șuturi, 0 gol',
+                        'PATTERN_2.5': '10+ total șuturi, 0 gol',
+                        'PATTERN_3.3': '3 goluri total HT', 'PATTERN_3.4': '4 goluri total HT', 'PATTERN_3.5+': '5+ goluri total HT',
+                        'PATTERN_5.5': '5+ (șuturi+cornere), 0 gol', 'PATTERN_5.6': '6+ (șuturi+cornere)',
+                        'PATTERN_9.3': '3 cartonașe HT', 'PATTERN_9.4': '4 cartonașe HT',
+                        'PATTERN_14': 'Conduce norocos', 'PATTERN_16': 'Ofsaiduri + presiune',
+                        'PATTERN_19': 'Egal ≥1-1 & 6+ șuturi poartă',
+                        'PATTERN_21': 'Egal ≥1-1 & 10+ șuturi poartă',
+                        'PATTERN_22': '1 gol HT & 6+ șuturi poartă',
+                        'PATTERN_23': '2+ goluri HT & 8+ șuturi poartă',
+                        'PATTERN_24': '8+ cornere total', 'PATTERN_25': 'Scor 2-0/0-2',
+                    };
+                    const perPattern = {};
+                    notifications.forEach(n => {
+                        const p = typeof n.pattern === 'string' ? n.pattern : (n.pattern?.name || 'N/A');
+                        if (!perPattern[p]) perPattern[p] = { won: 0, lost: 0 };
+                        if (n.validation_result === 'won') perPattern[p].won++;
+                        else if (n.validation_result === 'lost') perPattern[p].lost++;
+                    });
+                    return Object.entries(perPattern)
+                        .filter(([, s]) => s.won + s.lost > 0)
+                        .sort((a, b) => (b[1].won + b[1].lost) - (a[1].won + a[1].lost))
+                        .map(([p, s]) => {
+                            const total = s.won + s.lost;
+                            const rate = Math.round((s.won / total) * 100);
+                            const color = rate >= 70 ? '#27ae60' : rate >= 50 ? '#f39c12' : '#e74c3c';
+                            return `<tr style="border-bottom: 1px solid #eee;">
+                                <td style="padding: 6px 8px; font-family: monospace; font-weight: bold;">${p}</td>
+                                <td style="padding: 6px 8px; font-size: 12px; color: #666;">${desc[p] || ''}</td>
+                                <td style="padding: 6px 8px; text-align: center; color: #27ae60; font-weight: bold;">${s.won}</td>
+                                <td style="padding: 6px 8px; text-align: center; color: #e74c3c; font-weight: bold;">${s.lost}</td>
+                                <td style="padding: 6px 8px; text-align: center; font-weight: bold; color: ${color};">${rate}%</td>
+                            </tr>`;
+                        }).join('');
+                })()}
+            </tbody>
+        </table>
+    </div>
+
     <div class="legend">
         <h3>📖 LEGENDĂ</h3>
         <ul>
