@@ -1,0 +1,151 @@
+{
+  "date": "2026-03-31",
+  "generated": "2026-04-01T08:00:17.881Z",
+  "totalMatches": 1,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Aldosivi",
+        "awayTeam": "Argentinos Jrs",
+        "date": "31.03.2026, 20:00",
+        "league": "ARGENTINA: Liga Profesional - Apertura",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": null,
+        "awayPositionBefore": null,
+        "homeTier": null,
+        "awayTier": null
+      },
+      "halftime": {
+        "teams": {
+          "home": "Aldosivi",
+          "away": "Argentinos Jrs"
+        },
+        "score": {
+          "home": "0",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.06",
+            "Ball Possession": "24",
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "4",
+            "Throw ins": "3",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.68",
+            "Ball Possession": "76",
+            "Total shots": "4",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "4",
+            "Yellow Cards": "1",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "8",
+            "Fouls": "4",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Aldosivi",
+          "away": "Argentinos Jrs"
+        },
+        "score": {
+          "home": "0",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.30",
+            "Ball Possession": "26",
+            "Total shots": "11",
+            "Shots on target": "5",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "3",
+            "Shots off target": "3",
+            "Offsides": "1",
+            "Free Kicks": "11",
+            "Throw ins": "12",
+            "Fouls": "13",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.83",
+            "Ball Possession": "74",
+            "Total shots": "5",
+            "Shots on target": "4",
+            "Big Chances": "3",
+            "Corner Kicks": "6",
+            "Yellow Cards": "2",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "13",
+            "Throw ins": "18",
+            "Fouls": "11",
+            "Goalkeeper Saves": "4"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Aldosivi",
+          "away": "Argentinos Jrs"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.24",
+            "Ball Possession": "27",
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Big Chances": "1",
+            "Corner Kicks": "0",
+            "Yellow Cards": "2",
+            "Shots off target": "2",
+            "Offsides": "1",
+            "Free Kicks": "7",
+            "Throw ins": "9",
+            "Fouls": "7",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.15",
+            "Ball Possession": "73",
+            "Total shots": "1",
+            "Shots on target": "1",
+            "Big Chances": "1",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "10",
+            "Fouls": "7",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "SpD4Xem4",
+        "extractedAt": "2026-04-01T08:00:17.875Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

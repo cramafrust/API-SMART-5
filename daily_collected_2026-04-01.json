@@ -1,0 +1,293 @@
+{
+  "date": "2026-04-01",
+  "generated": "2026-04-02T08:00:13.929Z",
+  "totalMatches": 2,
+  "matches": [
+    {
+      "match": {
+        "homeTeam": "Botafogo RJ",
+        "awayTeam": "Mirassol",
+        "date": "02.04.2026, 01:30",
+        "league": "BRAZIL: Serie A Betano",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 12,
+        "awayPositionBefore": 19,
+        "homeTier": "LOW_11-15",
+        "awayTier": "BOTTOM_16-20"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Botafogo RJ",
+          "away": "Mirassol"
+        },
+        "score": {
+          "home": "2",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.92",
+            "Ball Possession": "34",
+            "Total shots": "3",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "1",
+            "Yellow Cards": "0",
+            "Shots off target": "1",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "9",
+            "Fouls": "6",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.31",
+            "Ball Possession": "66",
+            "Total shots": "9",
+            "Shots on target": "2",
+            "Big Chances": "0",
+            "Corner Kicks": "1",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "6",
+            "Throw ins": "6",
+            "Fouls": "7",
+            "Goalkeeper Saves": "0"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Botafogo RJ",
+          "away": "Mirassol"
+        },
+        "score": {
+          "home": "3",
+          "away": "2"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "2.39",
+            "Ball Possession": "35",
+            "Total shots": "11",
+            "Shots on target": "5",
+            "Big Chances": "3",
+            "Corner Kicks": "2",
+            "Yellow Cards": "3",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "14",
+            "Throw ins": "14",
+            "Fouls": "14",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.95",
+            "Ball Possession": "65",
+            "Total shots": "19",
+            "Shots on target": "4",
+            "Big Chances": "1",
+            "Corner Kicks": "8",
+            "Yellow Cards": "2",
+            "Shots off target": "8",
+            "Offsides": "0",
+            "Free Kicks": "14",
+            "Throw ins": "17",
+            "Fouls": "14",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Botafogo RJ",
+          "away": "Mirassol"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.47",
+            "Ball Possession": "36",
+            "Total shots": "8",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "1",
+            "Yellow Cards": "3",
+            "Shots off target": "3",
+            "Offsides": "0",
+            "Free Kicks": "7",
+            "Throw ins": "5",
+            "Fouls": "8",
+            "Goalkeeper Saves": "1"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.64",
+            "Ball Possession": "64",
+            "Total shots": "10",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "7",
+            "Yellow Cards": "1",
+            "Shots off target": "4",
+            "Offsides": "0",
+            "Free Kicks": "8",
+            "Throw ins": "11",
+            "Fouls": "7",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "pzkJrLoD",
+        "extractedAt": "2026-04-02T08:00:10.387Z",
+        "source": "FlashScore API"
+      }
+    },
+    {
+      "match": {
+        "homeTeam": "Internacional",
+        "awayTeam": "Sao Paulo",
+        "date": "02.04.2026, 01:30",
+        "league": "BRAZIL: Serie A Betano",
+        "country": "Unknown",
+        "season": "2025-2026",
+        "round": null,
+        "roundNumber": null,
+        "homePositionBefore": 13,
+        "awayPositionBefore": 4,
+        "homeTier": "LOW_11-15",
+        "awayTier": "TOP_1-5"
+      },
+      "halftime": {
+        "teams": {
+          "home": "Internacional",
+          "away": "Sao Paulo"
+        },
+        "score": {
+          "home": "1",
+          "away": "0"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.85",
+            "Ball Possession": "39",
+            "Total shots": "5",
+            "Shots on target": "3",
+            "Big Chances": "2",
+            "Corner Kicks": "2",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "5",
+            "Throw ins": "9",
+            "Fouls": "3",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.18",
+            "Ball Possession": "61",
+            "Total shots": "5",
+            "Shots on target": "2",
+            "Big Chances": "1",
+            "Corner Kicks": "6",
+            "Shots off target": "1",
+            "Offsides": "1",
+            "Free Kicks": "3",
+            "Throw ins": "9",
+            "Fouls": "5",
+            "Goalkeeper Saves": "2"
+          }
+        }
+      },
+      "fulltime": {
+        "teams": {
+          "home": "Internacional",
+          "away": "Sao Paulo"
+        },
+        "score": {
+          "home": "1",
+          "away": "1"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "1.02",
+            "Ball Possession": "34",
+            "Total shots": "6",
+            "Shots on target": "4",
+            "Big Chances": "2",
+            "Corner Kicks": "2",
+            "Yellow Cards": "1",
+            "Shots off target": "2",
+            "Offsides": "0",
+            "Free Kicks": "15",
+            "Throw ins": "13",
+            "Fouls": "18",
+            "Goalkeeper Saves": "2"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.86",
+            "Ball Possession": "66",
+            "Total shots": "15",
+            "Shots on target": "3",
+            "Big Chances": "3",
+            "Corner Kicks": "11",
+            "Yellow Cards": "1",
+            "Shots off target": "7",
+            "Offsides": "2",
+            "Free Kicks": "18",
+            "Throw ins": "13",
+            "Fouls": "15",
+            "Goalkeeper Saves": "3"
+          }
+        }
+      },
+      "secondhalf": {
+        "teams": {
+          "home": "Internacional",
+          "away": "Sao Paulo"
+        },
+        "statistics": {
+          "home": {
+            "Expected Goals (xG)": "0.17",
+            "Ball Possession": "28",
+            "Total shots": "1",
+            "Shots on target": "1",
+            "Big Chances": "0",
+            "Corner Kicks": "0",
+            "Yellow Cards": "1",
+            "Shots off target": "0",
+            "Offsides": "0",
+            "Free Kicks": "10",
+            "Throw ins": "4",
+            "Fouls": "15",
+            "Goalkeeper Saves": "0"
+          },
+          "away": {
+            "Expected Goals (xG)": "0.68",
+            "Ball Possession": "72",
+            "Total shots": "10",
+            "Shots on target": "1",
+            "Big Chances": "2",
+            "Corner Kicks": "5",
+            "Yellow Cards": "1",
+            "Shots off target": "6",
+            "Offsides": "1",
+            "Free Kicks": "15",
+            "Throw ins": "4",
+            "Fouls": "10",
+            "Goalkeeper Saves": "1"
+          }
+        }
+      },
+      "htScoreReal": null,
+      "metadata": {
+        "matchId": "WjD0ebVI",
+        "extractedAt": "2026-04-02T08:00:13.921Z",
+        "source": "FlashScore API"
+      }
+    }
+  ]
+}

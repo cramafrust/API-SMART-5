@@ -1826,5 +1826,101 @@
     "validation_result": null,
     "validation_timestamp": null,
     "date": "22.03.2026"
+  },
+  {
+    "id": "Wpxgt0kI_1775155936891",
+    "match": "Barracas Central vs Sarmiento Junin",
+    "homeTeam": "Barracas Central",
+    "awayTeam": "Sarmiento Junin",
+    "event": "Barracas Central va marca în repriza 2",
+    "pattern": {
+      "name": "PATTERN_2.2",
+      "team": "gazda",
+      "tier": "MID_6-10",
+      "position": null,
+      "isEstimate": false
+    },
+    "probability": 100,
+    "odd_1_5_reached": true,
+    "odd_1_5_value": 1.9,
+    "odd_1_5_type": "Barracas Central > 0.5",
+    "odd_1_5_timestamp": "2026-04-02T18:53:12.795Z",
+    "odd_1_5_minute": "21:53:12",
+    "validated": false,
+    "validation_result": null,
+    "validation_timestamp": null,
+    "date": "02.04.2026"
+  },
+  {
+    "id": "6PRITsN9_1775164947431",
+    "match": "Tigre vs Ind. Rivadavia",
+    "homeTeam": "Tigre",
+    "awayTeam": "Ind. Rivadavia",
+    "event": "Tigre va marca în repriza 2",
+    "pattern": {
+      "name": "PATTERN_1.0",
+      "team": "gazda",
+      "tier": "MID_6-10",
+      "position": null,
+      "isEstimate": false
+    },
+    "probability": 100,
+    "odd_1_5_reached": true,
+    "odd_1_5_value": 1.72,
+    "odd_1_5_type": "Tigre > 0.5",
+    "odd_1_5_timestamp": "2026-04-02T21:23:14.566Z",
+    "odd_1_5_minute": "00:23:14",
+    "validated": false,
+    "validation_result": null,
+    "validation_timestamp": null,
+    "date": "03.04.2026"
+  },
+  {
+    "id": "6PRITsN9_1775164947488",
+    "match": "Tigre vs Ind. Rivadavia",
+    "homeTeam": "Tigre",
+    "awayTeam": "Ind. Rivadavia",
+    "event": "Tigre va marca în repriza 2",
+    "pattern": {
+      "name": "PATTERN_2.2",
+      "team": "gazda",
+      "tier": "MID_6-10",
+      "position": null,
+      "isEstimate": false
+    },
+    "probability": 100,
+    "odd_1_5_reached": true,
+    "odd_1_5_value": 1.72,
+    "odd_1_5_type": "Tigre > 0.5",
+    "odd_1_5_timestamp": "2026-04-02T21:23:25.826Z",
+    "odd_1_5_minute": "00:23:25",
+    "validated": false,
+    "validation_result": null,
+    "validation_timestamp": null,
+    "date": "03.04.2026"
+  },
+  {
+    "id": "2i53Vry0_1775258551192",
+    "match": "San Lorenzo vs Estudiantes L.P.",
+    "homeTeam": "San Lorenzo",
+    "awayTeam": "Estudiantes L.P.",
+    "event": "Estudiantes L.P. va marca în repriza 2",
+    "pattern": {
+      "name": "PATTERN_2.2",
+      "team": "oaspete",
+      "tier": "MID_6-10",
+      "position": null,
+      "isEstimate": false
+    },
+    "probability": 100,
+    "odd_1_5_reached": true,
+    "odd_1_5_value": 1.67,
+    "odd_1_5_type": "Estudiantes L.P. > 0.5",
+    "odd_1_5_timestamp": "2026-04-03T23:23:08.497Z",
+    "odd_1_5_minute": "02:23:08",
+    "validated": false,
+    "validation_result": null,
+    "validation_timestamp": null,
+    "date": "04.04.2026"
   }
 ]

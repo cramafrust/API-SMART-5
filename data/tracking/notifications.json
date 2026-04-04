@@ -56867,7 +56867,7 @@
       "minute_odd_1_50": null,
       "minute_odd_2_00": null,
       "minute_fulfilled": null,
-      "status": "MONITORING",
+      "status": "COMPLETED",
       "pattern": {
         "name": "PATTERN_25",
         "team": "meci",
@@ -56876,12 +56876,2844 @@
         "isEstimate": false
       },
       "created_at": "2026-03-31T17:53:07.251Z",
-      "updated_at": "2026-03-31T17:53:07.251Z",
+      "updated_at": "2026-04-04T11:35:58.740Z",
       "initialOdd": 1.35,
       "odds": {
         "superbet": 1.35,
         "description": "Încă un gol (peste 2.5)"
-      }
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Aldosivi",
+          "awayTeam": "Argentinos Jrs",
+          "date": "31.03.2026, 20:53",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Aldosivi",
+            "away": "Argentinos Jrs"
+          },
+          "score": {
+            "home": "0",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.06",
+              "Ball Possession": "24",
+              "Total shots": "3",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "4",
+              "Throw ins": "3",
+              "Fouls": "6",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.68",
+              "Ball Possession": "76",
+              "Total shots": "4",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "4",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "6",
+              "Throw ins": "8",
+              "Fouls": "4",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Aldosivi",
+            "away": "Argentinos Jrs"
+          },
+          "score": {
+            "home": "0",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.30",
+              "Ball Possession": "26",
+              "Total shots": "11",
+              "Shots on target": "5",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "3",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "11",
+              "Throw ins": "12",
+              "Fouls": "13",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.83",
+              "Ball Possession": "74",
+              "Total shots": "5",
+              "Shots on target": "4",
+              "Big Chances": "3",
+              "Corner Kicks": "6",
+              "Yellow Cards": "2",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "13",
+              "Throw ins": "18",
+              "Fouls": "11",
+              "Goalkeeper Saves": "4"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Aldosivi",
+            "away": "Argentinos Jrs"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.24",
+              "Ball Possession": "27",
+              "Total shots": "8",
+              "Shots on target": "3",
+              "Big Chances": "1",
+              "Corner Kicks": "0",
+              "Yellow Cards": "2",
+              "Shots off target": "2",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "9",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.15",
+              "Ball Possession": "73",
+              "Total shots": "1",
+              "Shots on target": "1",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "0",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "10",
+              "Fouls": "7",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "SpD4Xem4",
+          "extractedAt": "2026-03-31T23:36:13.056Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 81 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-04T11:35:58.740Z",
+      "validationDetails": {
+        "finalScore": "0-2",
+        "htScore": "0-2",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 0,
+        "unknownCount": 1,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_25",
+            "team": "meci",
+            "success": null,
+            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
+            "actualValue": null,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-04T11:35:58.726Z",
+        "validatedTimestamp": 1775302558726
+      },
+      "validation_result": "unknown"
+    },
+    {
+      "id": "pzkJrLoD_1775085736554",
+      "date": "02.04.2026",
+      "timestamp": 1775085736554,
+      "match": "Botafogo RJ vs Mirassol",
+      "matchId": "pzkJrLoD",
+      "homeTeam": "Botafogo RJ",
+      "awayTeam": "Mirassol",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 82.17,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_3.3",
+        "team": "meci",
+        "tier": "LOW_11-15",
+        "position": 13,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-01T23:22:16.554Z",
+      "updated_at": "2026-04-02T05:00:18.897Z",
+      "initialOdd": 1.25,
+      "odds": {
+        "superbet": 1.25,
+        "description": "Încă un gol (peste 3.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Botafogo RJ",
+          "awayTeam": "Mirassol",
+          "date": "02.04.2026, 01:30",
+          "league": "BRAZIL: Serie A Betano",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": 12,
+          "awayPositionBefore": 19,
+          "homeTier": "LOW_11-15",
+          "awayTier": "BOTTOM_16-20"
+        },
+        "halftime": {
+          "teams": {
+            "home": "Botafogo RJ",
+            "away": "Mirassol"
+          },
+          "score": {
+            "home": "2",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.92",
+              "Ball Possession": "34",
+              "Total shots": "3",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "1",
+              "Yellow Cards": "0",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "9",
+              "Fouls": "6",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.31",
+              "Ball Possession": "66",
+              "Total shots": "9",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "6",
+              "Throw ins": "6",
+              "Fouls": "7",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Botafogo RJ",
+            "away": "Mirassol"
+          },
+          "score": {
+            "home": "3",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "2.39",
+              "Ball Possession": "35",
+              "Total shots": "11",
+              "Shots on target": "5",
+              "Big Chances": "3",
+              "Corner Kicks": "2",
+              "Yellow Cards": "3",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "14",
+              "Throw ins": "14",
+              "Fouls": "14",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.95",
+              "Ball Possession": "65",
+              "Total shots": "19",
+              "Shots on target": "4",
+              "Big Chances": "1",
+              "Corner Kicks": "8",
+              "Yellow Cards": "2",
+              "Shots off target": "8",
+              "Offsides": "0",
+              "Free Kicks": "14",
+              "Throw ins": "17",
+              "Fouls": "14",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Botafogo RJ",
+            "away": "Mirassol"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.47",
+              "Ball Possession": "36",
+              "Total shots": "8",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "1",
+              "Yellow Cards": "3",
+              "Shots off target": "3",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "5",
+              "Fouls": "8",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.64",
+              "Ball Possession": "64",
+              "Total shots": "10",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "7",
+              "Yellow Cards": "1",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "8",
+              "Throw ins": "11",
+              "Fouls": "7",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "pzkJrLoD",
+          "extractedAt": "2026-04-02T05:00:11.297Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 92 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-02T05:00:18.897Z",
+      "validationDetails": {
+        "finalScore": "3-2",
+        "htScore": "2-1",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_3.3",
+            "team": "meci",
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 2-1 → FT: 3-2)",
+            "actualValue": 2,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-02T05:00:18.883Z",
+        "validatedTimestamp": 1775106018883
+      },
+      "validation_result": "won"
+    },
+    {
+      "id": "Wpxgt0kI_1775155936891",
+      "date": "02.04.2026",
+      "timestamp": 1775155936891,
+      "match": "Barracas Central vs Sarmiento Junin",
+      "matchId": "Wpxgt0kI",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Sarmiento Junin",
+      "event": "Barracas Central va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 100,
+      "minute_odd_1_50": "21:53:12",
+      "minute_odd_2_00": "22:13:12",
+      "minute_fulfilled": 71,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_2.2",
+        "team": "gazda",
+        "tier": "MID_6-10",
+        "position": null,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-02T18:52:16.892Z",
+      "updated_at": "2026-04-02T23:36:15.945Z",
+      "initialOdd": 1.92,
+      "odds": {
+        "superbet": 1.92,
+        "description": "Barracas Central peste 0.5 goluri"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Barracas Central",
+          "awayTeam": "Sarmiento Junin",
+          "date": "02.04.2026, 21:52",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Barracas Central",
+            "away": "Sarmiento Junin"
+          },
+          "score": {
+            "home": "0",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.62",
+              "Ball Possession": "40",
+              "Total shots": "9",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "3",
+              "Yellow Cards": "0",
+              "Shots off target": "6",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "4",
+              "Fouls": "4",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.69",
+              "Ball Possession": "60",
+              "Total shots": "8",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "0",
+              "Yellow Cards": "1",
+              "Shots off target": "5",
+              "Offsides": "0",
+              "Free Kicks": "4",
+              "Throw ins": "7",
+              "Fouls": "7",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Barracas Central",
+            "away": "Sarmiento Junin"
+          },
+          "score": {
+            "home": "1",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.48",
+              "Ball Possession": "47",
+              "Total shots": "14",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "5",
+              "Yellow Cards": "0",
+              "Shots off target": "8",
+              "Offsides": "0",
+              "Free Kicks": "14",
+              "Throw ins": "9",
+              "Fouls": "12",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.88",
+              "Ball Possession": "53",
+              "Total shots": "13",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "1",
+              "Yellow Cards": "3",
+              "Shots off target": "8",
+              "Offsides": "1",
+              "Free Kicks": "12",
+              "Throw ins": "14",
+              "Fouls": "14",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Barracas Central",
+            "away": "Sarmiento Junin"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.86",
+              "Ball Possession": "54",
+              "Total shots": "5",
+              "Shots on target": "1",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "0",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "5",
+              "Fouls": "8",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.19",
+              "Ball Possession": "46",
+              "Total shots": "5",
+              "Shots on target": "1",
+              "Big Chances": "1",
+              "Corner Kicks": "1",
+              "Yellow Cards": "2",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "8",
+              "Throw ins": "7",
+              "Fouls": "7",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "Wpxgt0kI",
+          "extractedAt": "2026-04-02T23:36:15.924Z",
+          "source": "FlashScore API"
+        }
+      },
+      "validated": true,
+      "validatedAt": "2026-04-02T23:36:15.945Z",
+      "validationDetails": {
+        "finalScore": "1-2",
+        "htScore": "0-2",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_2.2",
+            "team": "gazda",
+            "success": true,
+            "reason": "Echipa a marcat 1 gol(uri) în R2 (HT: 0-2 → FT: 1-2)",
+            "actualValue": 1,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-02T23:36:15.925Z",
+        "validatedTimestamp": 1775172975925
+      },
+      "validation_result": "won"
+    },
+    {
+      "id": "Wpxgt0kI_1775155936967",
+      "date": "02.04.2026",
+      "timestamp": 1775155936967,
+      "match": "Barracas Central vs Sarmiento Junin",
+      "matchId": "Wpxgt0kI",
+      "homeTeam": "Barracas Central",
+      "awayTeam": "Sarmiento Junin",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 83.33,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_25",
+        "team": "meci",
+        "tier": "MID_6-10",
+        "position": null,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-02T18:52:16.967Z",
+      "updated_at": "2026-04-04T11:36:01.812Z",
+      "initialOdd": 1.38,
+      "odds": {
+        "superbet": 1.38,
+        "description": "Încă un gol (peste 2.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Barracas Central",
+          "awayTeam": "Sarmiento Junin",
+          "date": "02.04.2026, 21:52",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Barracas Central",
+            "away": "Sarmiento Junin"
+          },
+          "score": {
+            "home": "0",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.62",
+              "Ball Possession": "40",
+              "Total shots": "9",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "3",
+              "Yellow Cards": "0",
+              "Shots off target": "6",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "4",
+              "Fouls": "4",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.69",
+              "Ball Possession": "60",
+              "Total shots": "8",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "0",
+              "Yellow Cards": "1",
+              "Shots off target": "5",
+              "Offsides": "0",
+              "Free Kicks": "4",
+              "Throw ins": "7",
+              "Fouls": "7",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Barracas Central",
+            "away": "Sarmiento Junin"
+          },
+          "score": {
+            "home": "1",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.48",
+              "Ball Possession": "47",
+              "Total shots": "14",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "5",
+              "Yellow Cards": "0",
+              "Shots off target": "8",
+              "Offsides": "0",
+              "Free Kicks": "14",
+              "Throw ins": "9",
+              "Fouls": "12",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.88",
+              "Ball Possession": "53",
+              "Total shots": "13",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "1",
+              "Yellow Cards": "3",
+              "Shots off target": "8",
+              "Offsides": "1",
+              "Free Kicks": "12",
+              "Throw ins": "14",
+              "Fouls": "14",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Barracas Central",
+            "away": "Sarmiento Junin"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.86",
+              "Ball Possession": "54",
+              "Total shots": "5",
+              "Shots on target": "1",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "0",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "5",
+              "Fouls": "8",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.19",
+              "Ball Possession": "46",
+              "Total shots": "5",
+              "Shots on target": "1",
+              "Big Chances": "1",
+              "Corner Kicks": "1",
+              "Yellow Cards": "2",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "8",
+              "Throw ins": "7",
+              "Fouls": "7",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "Wpxgt0kI",
+          "extractedAt": "2026-04-02T23:36:19.437Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-04T11:36:01.812Z",
+      "validationDetails": {
+        "finalScore": "1-2",
+        "htScore": "0-2",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 0,
+        "unknownCount": 1,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_25",
+            "team": "meci",
+            "success": null,
+            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
+            "actualValue": null,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-04T11:36:01.779Z",
+        "validatedTimestamp": 1775302561779
+      },
+      "validation_result": "unknown"
+    },
+    {
+      "id": "6PRITsN9_1775164947431",
+      "date": "03.04.2026",
+      "timestamp": 1775164947431,
+      "match": "Tigre vs Ind. Rivadavia",
+      "matchId": "6PRITsN9",
+      "homeTeam": "Tigre",
+      "awayTeam": "Ind. Rivadavia",
+      "event": "Tigre va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 100,
+      "minute_odd_1_50": "00:23:14",
+      "minute_odd_2_00": "00:43:14",
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_1.0",
+        "team": "gazda",
+        "tier": "MID_6-10",
+        "position": null,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-02T21:22:27.431Z",
+      "updated_at": "2026-04-03T05:01:07.207Z",
+      "initialOdd": 1.72,
+      "odds": {
+        "superbet": 1.72,
+        "description": "Tigre peste 0.5 goluri"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Tigre",
+          "awayTeam": "Ind. Rivadavia",
+          "date": "02.04.2026, 23:30",
+          "league": "ARGENTINA: Liga Profesional - Apertura",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Tigre",
+            "away": "Ind. Rivadavia"
+          },
+          "score": {
+            "home": "0",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.31",
+              "Ball Possession": "45",
+              "Total shots": "9",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "0",
+              "Yellow Cards": "0",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "9",
+              "Throw ins": "12",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.47",
+              "Ball Possession": "55",
+              "Total shots": "8",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "3",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "11",
+              "Fouls": "9",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Tigre",
+            "away": "Ind. Rivadavia"
+          },
+          "score": {
+            "home": "0",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.90",
+              "Ball Possession": "49",
+              "Total shots": "18",
+              "Shots on target": "6",
+              "Big Chances": "3",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "6",
+              "Offsides": "0",
+              "Free Kicks": "16",
+              "Throw ins": "33",
+              "Fouls": "14",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "1.01",
+              "Ball Possession": "51",
+              "Total shots": "13",
+              "Shots on target": "4",
+              "Big Chances": "1",
+              "Corner Kicks": "5",
+              "Yellow Cards": "2",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "14",
+              "Throw ins": "23",
+              "Fouls": "16",
+              "Goalkeeper Saves": "6"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Tigre",
+            "away": "Ind. Rivadavia"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.59",
+              "Ball Possession": "52",
+              "Total shots": "9",
+              "Shots on target": "3",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "21",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.54",
+              "Ball Possession": "48",
+              "Total shots": "5",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "12",
+              "Fouls": "7",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "6PRITsN9",
+          "extractedAt": "2026-04-03T05:00:53.747Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 81 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-03T05:01:07.207Z",
+      "validationDetails": {
+        "finalScore": "0-2",
+        "htScore": "0-1",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 1,
+        "unknownCount": 0,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_1.0",
+            "team": "gazda",
+            "success": false,
+            "reason": "Echipa NU a marcat în R2 (HT: 0-1 → FT: 0-2)",
+            "actualValue": 0,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-03T05:01:07.188Z",
+        "validatedTimestamp": 1775192467188
+      },
+      "validation_result": "lost"
+    },
+    {
+      "id": "6PRITsN9_1775164947488",
+      "date": "03.04.2026",
+      "timestamp": 1775164947488,
+      "match": "Tigre vs Ind. Rivadavia",
+      "matchId": "6PRITsN9",
+      "homeTeam": "Tigre",
+      "awayTeam": "Ind. Rivadavia",
+      "event": "Tigre va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 100,
+      "minute_odd_1_50": "00:23:25",
+      "minute_odd_2_00": "00:43:25",
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_2.2",
+        "team": "gazda",
+        "tier": "MID_6-10",
+        "position": null,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-02T21:22:27.488Z",
+      "updated_at": "2026-04-03T05:01:10.243Z",
+      "result": {
+        "match": {
+          "homeTeam": "Tigre",
+          "awayTeam": "Ind. Rivadavia",
+          "date": "02.04.2026, 23:30",
+          "league": "ARGENTINA: Liga Profesional - Apertura",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Tigre",
+            "away": "Ind. Rivadavia"
+          },
+          "score": {
+            "home": "0",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.31",
+              "Ball Possession": "45",
+              "Total shots": "9",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "0",
+              "Yellow Cards": "0",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "9",
+              "Throw ins": "12",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.47",
+              "Ball Possession": "55",
+              "Total shots": "8",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "3",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "11",
+              "Fouls": "9",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Tigre",
+            "away": "Ind. Rivadavia"
+          },
+          "score": {
+            "home": "0",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.90",
+              "Ball Possession": "49",
+              "Total shots": "18",
+              "Shots on target": "6",
+              "Big Chances": "3",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "6",
+              "Offsides": "0",
+              "Free Kicks": "16",
+              "Throw ins": "33",
+              "Fouls": "14",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "1.01",
+              "Ball Possession": "51",
+              "Total shots": "13",
+              "Shots on target": "4",
+              "Big Chances": "1",
+              "Corner Kicks": "5",
+              "Yellow Cards": "2",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "14",
+              "Throw ins": "23",
+              "Fouls": "16",
+              "Goalkeeper Saves": "6"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Tigre",
+            "away": "Ind. Rivadavia"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.59",
+              "Ball Possession": "52",
+              "Total shots": "9",
+              "Shots on target": "3",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "21",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.54",
+              "Ball Possession": "48",
+              "Total shots": "5",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "12",
+              "Fouls": "7",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "6PRITsN9",
+          "extractedAt": "2026-04-03T05:00:53.747Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 81 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-03T05:01:10.243Z",
+      "validationDetails": {
+        "finalScore": "0-2",
+        "htScore": "0-1",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 1,
+        "unknownCount": 0,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_2.2",
+            "team": "gazda",
+            "success": false,
+            "reason": "Echipa NU a marcat în R2 (HT: 0-1 → FT: 0-2)",
+            "actualValue": 0,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-03T05:01:10.229Z",
+        "validatedTimestamp": 1775192470229
+      },
+      "validation_result": "lost"
+    },
+    {
+      "id": "2XdKBJFa_1775170356852",
+      "date": "03.04.2026",
+      "timestamp": 1775170356852,
+      "match": "Chapecoense-SC vs Atletico-MG",
+      "matchId": "2XdKBJFa",
+      "homeTeam": "Chapecoense-SC",
+      "awayTeam": "Atletico-MG",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 82.17,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_3.3",
+        "team": "meci",
+        "tier": "BOTTOM_16-20",
+        "position": 18,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-02T22:52:36.852Z",
+      "updated_at": "2026-04-03T05:01:13.289Z",
+      "initialOdd": 1.22,
+      "odds": {
+        "superbet": 1.22,
+        "description": "Încă un gol (peste 3.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Chapecoense-SC",
+          "awayTeam": "Atletico-MG",
+          "date": "03.04.2026, 01:00",
+          "league": "BRAZIL: Serie A Betano",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": 18,
+          "awayPositionBefore": 9,
+          "homeTier": "BOTTOM_16-20",
+          "awayTier": "MID_6-10"
+        },
+        "halftime": {
+          "teams": {
+            "home": "Chapecoense-SC",
+            "away": "Atletico-MG"
+          },
+          "score": {
+            "home": "0",
+            "away": "3"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.19",
+              "Ball Possession": "45",
+              "Total shots": "4",
+              "Shots on target": "1",
+              "Big Chances": "0",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "1",
+              "Throw ins": "13",
+              "Fouls": "10",
+              "Goalkeeper Saves": "3"
+            },
+            "away": {
+              "Expected Goals (xG)": "1.23",
+              "Ball Possession": "55",
+              "Total shots": "15",
+              "Shots on target": "6",
+              "Big Chances": "3",
+              "Corner Kicks": "2",
+              "Yellow Cards": "0",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "10",
+              "Throw ins": "12",
+              "Fouls": "1",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Chapecoense-SC",
+            "away": "Atletico-MG"
+          },
+          "score": {
+            "home": "0",
+            "away": "4"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.82",
+              "Ball Possession": "45",
+              "Total shots": "19",
+              "Shots on target": "4",
+              "Big Chances": "3",
+              "Corner Kicks": "7",
+              "Yellow Cards": "1",
+              "Shots off target": "11",
+              "Offsides": "1",
+              "Free Kicks": "5",
+              "Throw ins": "30",
+              "Fouls": "19",
+              "Goalkeeper Saves": "4"
+            },
+            "away": {
+              "Expected Goals (xG)": "1.74",
+              "Ball Possession": "55",
+              "Total shots": "20",
+              "Shots on target": "8",
+              "Big Chances": "3",
+              "Corner Kicks": "3",
+              "Yellow Cards": "0",
+              "Shots off target": "5",
+              "Offsides": "1",
+              "Free Kicks": "19",
+              "Throw ins": "22",
+              "Fouls": "5",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Chapecoense-SC",
+            "away": "Atletico-MG"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.63",
+              "Ball Possession": "44",
+              "Total shots": "15",
+              "Shots on target": "3",
+              "Big Chances": "3",
+              "Corner Kicks": "5",
+              "Shots off target": "8",
+              "Offsides": "0",
+              "Free Kicks": "4",
+              "Throw ins": "17",
+              "Fouls": "9",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.51",
+              "Ball Possession": "56",
+              "Total shots": "5",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Shots off target": "1",
+              "Offsides": "1",
+              "Free Kicks": "9",
+              "Throw ins": "10",
+              "Fouls": "4",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "2XdKBJFa",
+          "extractedAt": "2026-04-03T05:00:57.315Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-03T05:01:13.289Z",
+      "validationDetails": {
+        "finalScore": "0-4",
+        "htScore": "0-3",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_3.3",
+            "team": "meci",
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 0-3 → FT: 0-4)",
+            "actualValue": 1,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-03T05:01:13.267Z",
+        "validatedTimestamp": 1775192473267
+      },
+      "validation_result": "won"
+    },
+    {
+      "id": "8G2j6tEG_1775229781229",
+      "date": "03.04.2026",
+      "timestamp": 1775229781229,
+      "match": "Gil Vicente vs AFS",
+      "matchId": "8G2j6tEG",
+      "homeTeam": "Gil Vicente",
+      "awayTeam": "AFS",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 82.58,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_25",
+        "team": "meci",
+        "tier": "TOP_1-5",
+        "position": 5,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-03T15:23:01.230Z",
+      "updated_at": "2026-04-04T11:36:04.876Z",
+      "oddsMonitoringFailed": true,
+      "result": {
+        "match": {
+          "homeTeam": "Gil Vicente",
+          "awayTeam": "AFS",
+          "date": "03.04.2026, 18:23",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Gil Vicente",
+            "away": "AFS"
+          },
+          "score": {
+            "home": "2",
+            "away": "0"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.03",
+              "Ball Possession": "58",
+              "Total shots": "9",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "5",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "13",
+              "Fouls": "4",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.13",
+              "Ball Possession": "42",
+              "Total shots": "4",
+              "Shots on target": "1",
+              "Big Chances": "0",
+              "Corner Kicks": "0",
+              "Yellow Cards": "1",
+              "Shots off target": "0",
+              "Offsides": "1",
+              "Free Kicks": "4",
+              "Throw ins": "3",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Gil Vicente",
+            "away": "AFS"
+          },
+          "score": {
+            "home": "3",
+            "away": "0"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.82",
+              "Ball Possession": "59",
+              "Total shots": "16",
+              "Shots on target": "6",
+              "Big Chances": "3",
+              "Corner Kicks": "3",
+              "Yellow Cards": "2",
+              "Shots off target": "7",
+              "Offsides": "1",
+              "Free Kicks": "15",
+              "Throw ins": "18",
+              "Fouls": "8",
+              "Goalkeeper Saves": "3"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.43",
+              "Ball Possession": "41",
+              "Total shots": "11",
+              "Shots on target": "3",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "1",
+              "Free Kicks": "8",
+              "Throw ins": "16",
+              "Fouls": "15",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Gil Vicente",
+            "away": "AFS"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.79",
+              "Ball Possession": "60",
+              "Total shots": "7",
+              "Shots on target": "3",
+              "Big Chances": "1",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "1",
+              "Free Kicks": "8",
+              "Throw ins": "5",
+              "Fouls": "4",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.30",
+              "Ball Possession": "40",
+              "Total shots": "7",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "0",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "4",
+              "Throw ins": "13",
+              "Fouls": "8",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "8G2j6tEG",
+          "extractedAt": "2026-04-03T23:36:20.615Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-04T11:36:04.876Z",
+      "validationDetails": {
+        "finalScore": "3-0",
+        "htScore": "2-0",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 0,
+        "unknownCount": 1,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_25",
+            "team": "meci",
+            "success": null,
+            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
+            "actualValue": null,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-04T11:36:04.850Z",
+        "validatedTimestamp": 1775302564850
+      },
+      "validation_result": "unknown"
+    },
+    {
+      "id": "f3TpLXZG_1775235181331",
+      "date": "03.04.2026",
+      "timestamp": 1775235181331,
+      "match": "Napredak vs TSC",
+      "matchId": "f3TpLXZG",
+      "homeTeam": "Napredak",
+      "awayTeam": "TSC",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 83.15,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_25",
+        "team": "meci",
+        "tier": "BOTTOM_16-20",
+        "position": 16,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-03T16:53:01.331Z",
+      "updated_at": "2026-04-04T11:36:07.929Z",
+      "initialOdd": 1.14,
+      "odds": {
+        "superbet": 1.14,
+        "description": "Încă un gol (peste 2.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Napredak",
+          "awayTeam": "TSC",
+          "date": "03.04.2026, 19:53",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Napredak",
+            "away": "TSC"
+          },
+          "score": {
+            "home": "0",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.52",
+              "Ball Possession": "56",
+              "Total shots": "6",
+              "Shots on target": "0",
+              "Big Chances": "0",
+              "Corner Kicks": "2",
+              "Yellow Cards": "0",
+              "Shots off target": "4",
+              "Offsides": "3",
+              "Free Kicks": "10",
+              "Throw ins": "10",
+              "Fouls": "4",
+              "Goalkeeper Saves": "3"
+            },
+            "away": {
+              "Expected Goals (xG)": "1.45",
+              "Ball Possession": "44",
+              "Total shots": "8",
+              "Shots on target": "5",
+              "Big Chances": "3",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "4",
+              "Throw ins": "5",
+              "Fouls": "10",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Napredak",
+            "away": "TSC"
+          },
+          "score": {
+            "home": "1",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.05",
+              "Ball Possession": "56",
+              "Total shots": "12",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "7",
+              "Yellow Cards": "1",
+              "Shots off target": "6",
+              "Offsides": "4",
+              "Free Kicks": "19",
+              "Throw ins": "28",
+              "Fouls": "13",
+              "Goalkeeper Saves": "5"
+            },
+            "away": {
+              "Expected Goals (xG)": "1.85",
+              "Ball Possession": "44",
+              "Total shots": "14",
+              "Shots on target": "7",
+              "Big Chances": "3",
+              "Corner Kicks": "4",
+              "Yellow Cards": "2",
+              "Shots off target": "5",
+              "Offsides": "0",
+              "Free Kicks": "13",
+              "Throw ins": "12",
+              "Fouls": "19",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Napredak",
+            "away": "TSC"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.53",
+              "Ball Possession": "55",
+              "Total shots": "6",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "5",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "1",
+              "Free Kicks": "9",
+              "Throw ins": "18",
+              "Fouls": "9",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.40",
+              "Ball Possession": "45",
+              "Total shots": "6",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "3",
+              "Yellow Cards": "1",
+              "Shots off target": "3",
+              "Offsides": "0",
+              "Free Kicks": "9",
+              "Throw ins": "7",
+              "Fouls": "9",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "f3TpLXZG",
+          "extractedAt": "2026-04-03T23:36:24.207Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 84 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-04T11:36:07.929Z",
+      "validationDetails": {
+        "finalScore": "1-2",
+        "htScore": "0-2",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 0,
+        "unknownCount": 1,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_25",
+            "team": "meci",
+            "success": null,
+            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
+            "actualValue": null,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-04T11:36:07.901Z",
+        "validatedTimestamp": 1775302567901
+      },
+      "validation_result": "unknown"
+    },
+    {
+      "id": "jcP0Mh4E_1775238731545",
+      "date": "03.04.2026",
+      "timestamp": 1775238731545,
+      "match": "Vitoria Guimaraes vs Tondela",
+      "matchId": "jcP0Mh4E",
+      "homeTeam": "Vitoria Guimaraes",
+      "awayTeam": "Tondela",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 82.58,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_25",
+        "team": "meci",
+        "tier": "MID_6-10",
+        "position": 9,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-03T17:52:11.545Z",
+      "updated_at": "2026-04-04T11:36:11.009Z",
+      "initialOdd": 1.25,
+      "odds": {
+        "superbet": 1.25,
+        "description": "Încă un gol (peste 2.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Vitoria Guimaraes",
+          "awayTeam": "Tondela",
+          "date": "03.04.2026, 20:52",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Vitoria Guimaraes",
+            "away": "Tondela"
+          },
+          "score": {
+            "home": "2",
+            "away": "0"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.77",
+              "Ball Possession": "50",
+              "Total shots": "7",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "1",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "8",
+              "Throw ins": "10",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.06",
+              "Ball Possession": "50",
+              "Total shots": "3",
+              "Shots on target": "1",
+              "Big Chances": "0",
+              "Corner Kicks": "0",
+              "Shots off target": "2",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "11",
+              "Fouls": "8",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Vitoria Guimaraes",
+            "away": "Tondela"
+          },
+          "score": {
+            "home": "5",
+            "away": "0"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "2.55",
+              "Ball Possession": "52",
+              "Total shots": "12",
+              "Shots on target": "5",
+              "Big Chances": "3",
+              "Corner Kicks": "3",
+              "Yellow Cards": "1",
+              "Shots off target": "5",
+              "Offsides": "1",
+              "Free Kicks": "17",
+              "Throw ins": "18",
+              "Fouls": "14",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.06",
+              "Ball Possession": "48",
+              "Total shots": "3",
+              "Shots on target": "1",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "3",
+              "Free Kicks": "14",
+              "Throw ins": "18",
+              "Fouls": "17",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Vitoria Guimaraes",
+            "away": "Tondela"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.78",
+              "Ball Possession": "54",
+              "Total shots": "5",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "9",
+              "Throw ins": "8",
+              "Fouls": "7",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.00",
+              "Ball Possession": "46",
+              "Total shots": "0",
+              "Shots on target": "0",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "0",
+              "Offsides": "2",
+              "Free Kicks": "7",
+              "Throw ins": "7",
+              "Fouls": "9",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "jcP0Mh4E",
+          "extractedAt": "2026-04-03T23:36:27.914Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 82 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-04T11:36:11.009Z",
+      "validationDetails": {
+        "finalScore": "5-0",
+        "htScore": "2-0",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 0,
+        "unknownCount": 1,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_25",
+            "team": "meci",
+            "success": null,
+            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
+            "actualValue": null,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-04T11:36:10.974Z",
+        "validatedTimestamp": 1775302570974
+      },
+      "validation_result": "unknown"
+    },
+    {
+      "id": "f7ceLRnB_1775244913566",
+      "date": "03.04.2026",
+      "timestamp": 1775244913566,
+      "match": "PSG vs Toulouse",
+      "matchId": "f7ceLRnB",
+      "homeTeam": "PSG",
+      "awayTeam": "Toulouse",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 76.61,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_3.3",
+        "team": "meci",
+        "tier": "TOP_1-5",
+        "position": 1,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-03T19:35:13.566Z",
+      "updated_at": "2026-04-03T23:36:31.594Z",
+      "initialOdd": 1.14,
+      "odds": {
+        "superbet": 1.14,
+        "description": "Încă un gol (peste 3.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "PSG",
+          "awayTeam": "Toulouse",
+          "date": "03.04.2026, 22:35",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "PSG",
+            "away": "Toulouse"
+          },
+          "score": {
+            "home": "2",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.26",
+              "Ball Possession": "75",
+              "Total shots": "9",
+              "Shots on target": "4",
+              "Big Chances": "1",
+              "Corner Kicks": "3",
+              "Yellow Cards": "0",
+              "Shots off target": "3",
+              "Offsides": "0",
+              "Free Kicks": "10",
+              "Throw ins": "5",
+              "Fouls": "3",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.07",
+              "Ball Possession": "25",
+              "Total shots": "2",
+              "Shots on target": "1",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "1",
+              "Free Kicks": "3",
+              "Throw ins": "7",
+              "Fouls": "10",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "PSG",
+            "away": "Toulouse"
+          },
+          "score": {
+            "home": "3",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.79",
+              "Ball Possession": "72",
+              "Total shots": "17",
+              "Shots on target": "7",
+              "Big Chances": "1",
+              "Corner Kicks": "5",
+              "Yellow Cards": "0",
+              "Shots off target": "6",
+              "Offsides": "2",
+              "Free Kicks": "13",
+              "Throw ins": "13",
+              "Fouls": "4",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.16",
+              "Ball Possession": "28",
+              "Total shots": "5",
+              "Shots on target": "1",
+              "Big Chances": "0",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "4",
+              "Offsides": "4",
+              "Free Kicks": "4",
+              "Throw ins": "15",
+              "Fouls": "13",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "PSG",
+            "away": "Toulouse"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.53",
+              "Ball Possession": "69",
+              "Total shots": "8",
+              "Shots on target": "3",
+              "Big Chances": "0",
+              "Corner Kicks": "2",
+              "Shots off target": "3",
+              "Offsides": "2",
+              "Free Kicks": "3",
+              "Throw ins": "8",
+              "Fouls": "1",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.09",
+              "Ball Possession": "31",
+              "Total shots": "3",
+              "Shots on target": "0",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Shots off target": "3",
+              "Offsides": "3",
+              "Free Kicks": "1",
+              "Throw ins": "8",
+              "Fouls": "3",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "f7ceLRnB",
+          "extractedAt": "2026-04-03T23:36:31.556Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 85 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-03T23:36:31.594Z",
+      "validationDetails": {
+        "finalScore": "3-1",
+        "htScore": "2-1",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_3.3",
+            "team": "meci",
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 2-1 → FT: 3-1)",
+            "actualValue": 1,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-03T23:36:31.558Z",
+        "validatedTimestamp": 1775259391558
+      },
+      "validation_result": "won"
+    },
+    {
+      "id": "MJSPKuT9_1775247734147",
+      "date": "03.04.2026",
+      "timestamp": 1775247734147,
+      "match": "Sporting CP vs Santa Clara",
+      "matchId": "MJSPKuT9",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Santa Clara",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 84.21,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "FAILED",
+      "pattern": {
+        "name": "PATTERN_3.4",
+        "team": "meci",
+        "tier": "TOP_1-5",
+        "position": 2,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-03T20:22:14.147Z",
+      "updated_at": "2026-04-03T23:36:35.174Z",
+      "initialOdd": 1.16,
+      "odds": {
+        "superbet": 1.16,
+        "description": "Încă un gol (peste 4.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Sporting CP",
+          "awayTeam": "Santa Clara",
+          "date": "03.04.2026, 23:22",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Sporting CP",
+            "away": "Santa Clara"
+          },
+          "score": {
+            "home": "3",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.59",
+              "Ball Possession": "72",
+              "Total shots": "15",
+              "Shots on target": "7",
+              "Big Chances": "2",
+              "Corner Kicks": "6",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "10",
+              "Throw ins": "3",
+              "Fouls": "5",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.32",
+              "Ball Possession": "28",
+              "Total shots": "4",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "3",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "5",
+              "Throw ins": "4",
+              "Fouls": "10",
+              "Goalkeeper Saves": "4"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Sporting CP",
+            "away": "Santa Clara"
+          },
+          "score": {
+            "home": "4",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "2.66",
+              "Ball Possession": "71",
+              "Total shots": "22",
+              "Shots on target": "8",
+              "Big Chances": "5",
+              "Corner Kicks": "9",
+              "Yellow Cards": "4",
+              "Shots off target": "5",
+              "Offsides": "0",
+              "Free Kicks": "22",
+              "Throw ins": "11",
+              "Fouls": "12",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.65",
+              "Ball Possession": "29",
+              "Total shots": "7",
+              "Shots on target": "4",
+              "Big Chances": "2",
+              "Corner Kicks": "5",
+              "Yellow Cards": "3",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "12",
+              "Throw ins": "7",
+              "Fouls": "22",
+              "Goalkeeper Saves": "4"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Sporting CP",
+            "away": "Santa Clara"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.07",
+              "Ball Possession": "71",
+              "Total shots": "7",
+              "Shots on target": "1",
+              "Big Chances": "3",
+              "Corner Kicks": "3",
+              "Yellow Cards": "3",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "12",
+              "Throw ins": "8",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.33",
+              "Ball Possession": "29",
+              "Total shots": "3",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "2",
+              "Shots off target": "1",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "3",
+              "Fouls": "12",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "MJSPKuT9",
+          "extractedAt": "2026-04-03T23:36:35.140Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Notificare din 03.04.2026 - oprită automat (data curentă: 04.04.2026)",
+      "validated": true,
+      "validatedAt": "2026-04-03T23:36:35.174Z",
+      "validationDetails": {
+        "finalScore": "4-2",
+        "htScore": "3-1",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_3.4",
+            "team": "meci",
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 3-1 → FT: 4-2)",
+            "actualValue": 2,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-03T23:36:35.141Z",
+        "validatedTimestamp": 1775259395141
+      },
+      "validation_result": "won"
+    },
+    {
+      "id": "MJSPKuT9_1775247734181",
+      "date": "03.04.2026",
+      "timestamp": 1775247734181,
+      "match": "Sporting CP vs Santa Clara",
+      "matchId": "MJSPKuT9",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Santa Clara",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 81.25,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "FAILED",
+      "pattern": {
+        "name": "PATTERN_23",
+        "team": "meci",
+        "tier": "TOP_1-5",
+        "position": 2,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-03T20:22:14.181Z",
+      "updated_at": "2026-04-04T11:36:14.069Z",
+      "initialOdd": 1.16,
+      "odds": {
+        "superbet": 1.16,
+        "description": "Încă un gol (peste 4.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Sporting CP",
+          "awayTeam": "Santa Clara",
+          "date": "03.04.2026, 23:22",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Sporting CP",
+            "away": "Santa Clara"
+          },
+          "score": {
+            "home": "3",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.59",
+              "Ball Possession": "72",
+              "Total shots": "15",
+              "Shots on target": "7",
+              "Big Chances": "2",
+              "Corner Kicks": "6",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "10",
+              "Throw ins": "3",
+              "Fouls": "5",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.32",
+              "Ball Possession": "28",
+              "Total shots": "4",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "3",
+              "Yellow Cards": "1",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "5",
+              "Throw ins": "4",
+              "Fouls": "10",
+              "Goalkeeper Saves": "4"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Sporting CP",
+            "away": "Santa Clara"
+          },
+          "score": {
+            "home": "4",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "2.66",
+              "Ball Possession": "71",
+              "Total shots": "22",
+              "Shots on target": "8",
+              "Big Chances": "5",
+              "Corner Kicks": "9",
+              "Yellow Cards": "4",
+              "Shots off target": "5",
+              "Offsides": "0",
+              "Free Kicks": "22",
+              "Throw ins": "11",
+              "Fouls": "12",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.65",
+              "Ball Possession": "29",
+              "Total shots": "7",
+              "Shots on target": "4",
+              "Big Chances": "2",
+              "Corner Kicks": "5",
+              "Yellow Cards": "3",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "12",
+              "Throw ins": "7",
+              "Fouls": "22",
+              "Goalkeeper Saves": "4"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Sporting CP",
+            "away": "Santa Clara"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.07",
+              "Ball Possession": "71",
+              "Total shots": "7",
+              "Shots on target": "1",
+              "Big Chances": "3",
+              "Corner Kicks": "3",
+              "Yellow Cards": "3",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "12",
+              "Throw ins": "8",
+              "Fouls": "7",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.33",
+              "Ball Possession": "29",
+              "Total shots": "3",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "2",
+              "Shots off target": "1",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "3",
+              "Fouls": "12",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "MJSPKuT9",
+          "extractedAt": "2026-04-03T23:36:38.762Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Notificare din 03.04.2026 - oprită automat (data curentă: 04.04.2026)",
+      "validated": true,
+      "validatedAt": "2026-04-04T11:36:14.069Z",
+      "validationDetails": {
+        "finalScore": "4-2",
+        "htScore": "3-1",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 0,
+        "unknownCount": 1,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_23",
+            "team": "meci",
+            "success": null,
+            "reason": "Pattern necunoscut pentru validare: PATTERN_23",
+            "actualValue": null,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-04T11:36:14.041Z",
+        "validatedTimestamp": 1775302574041
+      },
+      "validation_result": "unknown"
+    },
+    {
+      "id": "2i53Vry0_1775258551192",
+      "date": "04.04.2026",
+      "timestamp": 1775258551192,
+      "match": "San Lorenzo vs Estudiantes L.P.",
+      "matchId": "2i53Vry0",
+      "homeTeam": "San Lorenzo",
+      "awayTeam": "Estudiantes L.P.",
+      "event": "Estudiantes L.P. va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 100,
+      "minute_odd_1_50": "02:23:08",
+      "minute_odd_2_00": "02:55:08",
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_2.2",
+        "team": "oaspete",
+        "tier": "MID_6-10",
+        "position": null,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-03T23:22:31.192Z",
+      "updated_at": "2026-04-04T05:03:02.556Z",
+      "initialOdd": 1.67,
+      "odds": {
+        "superbet": 1.67,
+        "description": "Estudiantes L.P. peste 0.5 goluri"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "San Lorenzo",
+          "awayTeam": "Estudiantes L.P.",
+          "date": "04.04.2026, 01:30",
+          "league": "ARGENTINA: Liga Profesional - Apertura",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "San Lorenzo",
+            "away": "Estudiantes L.P."
+          },
+          "score": {
+            "home": "1",
+            "away": "0"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.03",
+              "Ball Possession": "45",
+              "Total shots": "1",
+              "Shots on target": "1",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "2",
+              "Shots off target": "0",
+              "Offsides": "0",
+              "Free Kicks": "8",
+              "Throw ins": "6",
+              "Fouls": "7",
+              "Goalkeeper Saves": "2"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.59",
+              "Ball Possession": "55",
+              "Total shots": "6",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "3",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "9",
+              "Fouls": "8",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "San Lorenzo",
+            "away": "Estudiantes L.P."
+          },
+          "score": {
+            "home": "1",
+            "away": "0"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.84",
+              "Ball Possession": "44",
+              "Total shots": "10",
+              "Shots on target": "5",
+              "Big Chances": "3",
+              "Corner Kicks": "4",
+              "Yellow Cards": "4",
+              "Red Cards": "0",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "15",
+              "Throw ins": "12",
+              "Fouls": "14",
+              "Goalkeeper Saves": "5"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.92",
+              "Ball Possession": "56",
+              "Total shots": "13",
+              "Shots on target": "5",
+              "Big Chances": "1",
+              "Corner Kicks": "3",
+              "Yellow Cards": "4",
+              "Red Cards": "1",
+              "Shots off target": "7",
+              "Offsides": "1",
+              "Free Kicks": "14",
+              "Throw ins": "13",
+              "Fouls": "15",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "San Lorenzo",
+            "away": "Estudiantes L.P."
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.81",
+              "Ball Possession": "43",
+              "Total shots": "9",
+              "Shots on target": "4",
+              "Big Chances": "3",
+              "Corner Kicks": "3",
+              "Yellow Cards": "2",
+              "Red Cards": "0",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "6",
+              "Fouls": "7",
+              "Goalkeeper Saves": "3"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.33",
+              "Ball Possession": "57",
+              "Total shots": "7",
+              "Shots on target": "3",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Red Cards": "1",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "4",
+              "Fouls": "7",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "2i53Vry0",
+          "extractedAt": "2026-04-04T05:02:44.102Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 81 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-04T05:03:02.556Z",
+      "validationDetails": {
+        "finalScore": "1-0",
+        "htScore": "1-0",
+        "totalPatterns": 1,
+        "successCount": 0,
+        "failCount": 1,
+        "unknownCount": 0,
+        "successRate": 0,
+        "patterns": [
+          {
+            "pattern": "PATTERN_2.2",
+            "team": "oaspete",
+            "success": false,
+            "reason": "Echipa NU a marcat în R2 (HT: 1-0 → FT: 1-0)",
+            "actualValue": 0,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-04T05:03:02.535Z",
+        "validatedTimestamp": 1775278982535
+      },
+      "validation_result": "lost"
+    },
+    {
+      "id": "EiIMETjT_1775303413514",
+      "date": "04.04.2026",
+      "timestamp": 1775303413514,
+      "match": "Magdeburg vs Bochum",
+      "matchId": "EiIMETjT",
+      "homeTeam": "Magdeburg",
+      "awayTeam": "Bochum",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 84.69,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_25",
+        "team": "meci",
+        "tier": "LOW_11-15",
+        "position": 12,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-04T11:50:13.514Z",
+      "updated_at": "2026-04-04T12:39:18.021Z",
+      "initialOdd": 1.16,
+      "odds": {
+        "superbet": 1.16,
+        "description": "Încă un gol (peste 2.5)"
+      },
+      "result": "EXPIRED",
+      "failureReason": "Meci prea avansat (min 81 > 80) - STOP monitorizare cote"
     }
   ]
 }
