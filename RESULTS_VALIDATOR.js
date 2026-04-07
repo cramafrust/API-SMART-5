@@ -340,9 +340,14 @@ function validatePattern(pattern, matchData) {
                 `Echipa NU a marcat în R2 (HT: ${halftime.score.home}-${halftime.score.away} → FT: ${fulltime.score.home}-${fulltime.score.away})`;
         }
 
-        // PATTERN 3, 19: Meciul va avea goluri în R2 (oricare echipă)
-        // PATTERN 19: Meci deschis (egal >=1-1, 6+ suturi pe poarta) → gol in R2
-        else if (patternName.match(/PATTERN_3\./) || patternName === 'PATTERN_19') {
+        // PATTERN 3, 19, 21, 22, 23, 24, 25: Meciul va avea goluri în R2 (oricare echipă)
+        // P19: Egal ≥1-1 & 6+ șuturi | P21: Egal ≥1-1 & 10+ șuturi
+        // P22: 1 gol & 6+ șuturi | P23: 2+ goluri & 8+ șuturi
+        // P24: 8+ cornere | P25: Scor 2-0/0-2
+        else if (patternName.match(/PATTERN_3\./) || patternName === 'PATTERN_19' ||
+                 patternName === 'PATTERN_21' || patternName === 'PATTERN_22' ||
+                 patternName === 'PATTERN_23' || patternName === 'PATTERN_24' ||
+                 patternName === 'PATTERN_25') {
             result.actualValue = r2Goals.total;
             result.success = r2Goals.total > 0;
             result.reason = result.success ?
@@ -656,7 +661,10 @@ async function validateNotification(notification) {
                         netbet: pattern.odds.netbet?.team_to_score_2h || null,
                         type: 'team_to_score_2h'
                     };
-                } else if (pName.match(/PATTERN_3\./) || pName === 'PATTERN_19') {
+                } else if (pName.match(/PATTERN_3\./) || pName === 'PATTERN_19' ||
+                           pName === 'PATTERN_21' || pName === 'PATTERN_22' ||
+                           pName === 'PATTERN_23' || pName === 'PATTERN_24' ||
+                           pName === 'PATTERN_25') {
                     // Pattern pentru GOLURI MECI în R2 → cota match_over_2_5
                     relevantOdds = {
                         superbet: pattern.odds.superbet?.match_over_2_5 || null,
