@@ -56876,7 +56876,7 @@
         "isEstimate": false
       },
       "created_at": "2026-03-31T17:53:07.251Z",
-      "updated_at": "2026-04-07T12:11:18.831Z",
+      "updated_at": "2026-04-07T15:36:44.512Z",
       "initialOdd": 1.35,
       "odds": {
         "superbet": 1.35,
@@ -57028,22 +57028,22 @@
       },
       "failureReason": "Meci prea avansat (min 81 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:18.831Z",
+      "validatedAt": "2026-04-07T15:36:44.512Z",
       "validationDetails": {
         "finalScore": "0-2",
         "htScore": "0-2",
         "totalPatterns": 1,
         "successCount": 0,
-        "failCount": 0,
-        "unknownCount": 1,
+        "failCount": 1,
+        "unknownCount": 0,
         "successRate": 0,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": false,
+            "reason": "Meciul NU a avut goluri în R2 (HT: 0-2 → FT: 0-2)",
+            "actualValue": 0,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -57051,10 +57051,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:18.740Z",
-        "validatedTimestamp": 1775563878740
+        "validatedAt": "2026-04-07T15:36:44.492Z",
+        "validatedTimestamp": 1775576204492
       },
-      "validation_result": "unknown"
+      "validation_result": "lost"
     },
     {
       "id": "pzkJrLoD_1775085736554",
@@ -57484,7 +57484,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-02T18:52:16.967Z",
-      "updated_at": "2026-04-07T12:11:22.098Z",
+      "updated_at": "2026-04-07T15:36:45.528Z",
       "initialOdd": 1.38,
       "odds": {
         "superbet": 1.38,
@@ -57636,22 +57636,22 @@
       },
       "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:22.098Z",
+      "validatedAt": "2026-04-07T15:36:45.528Z",
       "validationDetails": {
         "finalScore": "1-2",
         "htScore": "0-2",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 0-2 → FT: 1-2)",
+            "actualValue": 1,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -57659,10 +57659,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:22.059Z",
-        "validatedTimestamp": 1775563882059
+        "validatedAt": "2026-04-07T15:36:45.503Z",
+        "validatedTimestamp": 1775576205503
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "6PRITsN9_1775164947431",
@@ -58289,7 +58289,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-03T15:23:01.230Z",
-      "updated_at": "2026-04-07T12:11:25.370Z",
+      "updated_at": "2026-04-07T15:36:46.129Z",
       "oddsMonitoringFailed": true,
       "result": {
         "match": {
@@ -58437,22 +58437,22 @@
       },
       "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:25.370Z",
+      "validatedAt": "2026-04-07T15:36:46.129Z",
       "validationDetails": {
         "finalScore": "3-0",
         "htScore": "2-0",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 2-0 → FT: 3-0)",
+            "actualValue": 1,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -58460,10 +58460,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:25.340Z",
-        "validatedTimestamp": 1775563885340
+        "validatedAt": "2026-04-07T15:36:46.109Z",
+        "validatedTimestamp": 1775576206109
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "f3TpLXZG_1775235181331",
@@ -58488,7 +58488,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-03T16:53:01.331Z",
-      "updated_at": "2026-04-07T12:11:28.481Z",
+      "updated_at": "2026-04-07T15:36:46.704Z",
       "initialOdd": 1.14,
       "odds": {
         "superbet": 1.14,
@@ -58640,22 +58640,22 @@
       },
       "failureReason": "Meci prea avansat (min 84 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:28.481Z",
+      "validatedAt": "2026-04-07T15:36:46.704Z",
       "validationDetails": {
         "finalScore": "1-2",
         "htScore": "0-2",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 0-2 → FT: 1-2)",
+            "actualValue": 1,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -58663,10 +58663,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:28.433Z",
-        "validatedTimestamp": 1775563888433
+        "validatedAt": "2026-04-07T15:36:46.683Z",
+        "validatedTimestamp": 1775576206683
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "jcP0Mh4E_1775238731545",
@@ -58691,7 +58691,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-03T17:52:11.545Z",
-      "updated_at": "2026-04-07T12:11:31.613Z",
+      "updated_at": "2026-04-07T15:36:47.298Z",
       "initialOdd": 1.25,
       "odds": {
         "superbet": 1.25,
@@ -58841,22 +58841,22 @@
       },
       "failureReason": "Meci prea avansat (min 82 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:31.613Z",
+      "validatedAt": "2026-04-07T15:36:47.298Z",
       "validationDetails": {
         "finalScore": "5-0",
         "htScore": "2-0",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 3 gol(uri) în R2 (HT: 2-0 → FT: 5-0)",
+            "actualValue": 3,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -58864,10 +58864,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:31.572Z",
-        "validatedTimestamp": 1775563891572
+        "validatedAt": "2026-04-07T15:36:47.273Z",
+        "validatedTimestamp": 1775576207273
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "f7ceLRnB_1775244913566",
@@ -59296,7 +59296,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-03T20:22:14.181Z",
-      "updated_at": "2026-04-07T12:11:34.718Z",
+      "updated_at": "2026-04-07T15:39:59.953Z",
       "initialOdd": 1.16,
       "odds": {
         "superbet": 1.16,
@@ -59448,22 +59448,22 @@
       },
       "failureReason": "Notificare din 03.04.2026 - oprită automat (data curentă: 04.04.2026)",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:34.718Z",
+      "validatedAt": "2026-04-07T15:39:59.953Z",
       "validationDetails": {
         "finalScore": "4-2",
         "htScore": "3-1",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_23",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_23",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 3-1 → FT: 4-2)",
+            "actualValue": 2,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -59471,10 +59471,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:34.675Z",
-        "validatedTimestamp": 1775563894675
+        "validatedAt": "2026-04-07T15:39:59.817Z",
+        "validatedTimestamp": 1775576399817
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "2i53Vry0_1775258551192",
@@ -59706,7 +59706,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-04T11:50:13.514Z",
-      "updated_at": "2026-04-07T12:11:37.813Z",
+      "updated_at": "2026-04-07T15:36:47.877Z",
       "initialOdd": 1.16,
       "odds": {
         "superbet": 1.16,
@@ -59856,22 +59856,22 @@
       },
       "failureReason": "Meci prea avansat (min 81 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:37.813Z",
+      "validatedAt": "2026-04-07T15:36:47.877Z",
       "validationDetails": {
         "finalScore": "4-1",
         "htScore": "2-0",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 3 gol(uri) în R2 (HT: 2-0 → FT: 4-1)",
+            "actualValue": 3,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -59879,10 +59879,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:37.780Z",
-        "validatedTimestamp": 1775563897780
+        "validatedAt": "2026-04-07T15:36:47.859Z",
+        "validatedTimestamp": 1775576207859
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "xIpenJBT_1775310744173",
@@ -59907,7 +59907,7 @@
         "isEstimate": true
       },
       "created_at": "2026-04-04T13:52:24.173Z",
-      "updated_at": "2026-04-07T12:11:40.878Z",
+      "updated_at": "2026-04-07T15:36:48.545Z",
       "initialOdd": 1.2,
       "odds": {
         "superbet": 1.2,
@@ -60057,22 +60057,22 @@
       },
       "failureReason": "Meci prea avansat (min 85 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:40.878Z",
+      "validatedAt": "2026-04-07T15:36:48.545Z",
       "validationDetails": {
         "finalScore": "1-2",
         "htScore": "0-2",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 0-2 → FT: 1-2)",
+            "actualValue": 1,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -60080,10 +60080,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:40.856Z",
-        "validatedTimestamp": 1775563900856
+        "validatedAt": "2026-04-07T15:36:48.527Z",
+        "validatedTimestamp": 1775576208527
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "GvRd34l4_1775310792120",
@@ -60108,7 +60108,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-04T13:53:12.120Z",
-      "updated_at": "2026-04-07T12:11:43.927Z",
+      "updated_at": "2026-04-07T15:36:49.164Z",
       "initialOdd": 1.18,
       "odds": {
         "superbet": 1.18,
@@ -60260,22 +60260,22 @@
       },
       "failureReason": "Meci prea avansat (min 81 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:43.927Z",
+      "validatedAt": "2026-04-07T15:36:49.164Z",
       "validationDetails": {
         "finalScore": "3-0",
         "htScore": "2-0",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 2-0 → FT: 3-0)",
+            "actualValue": 1,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -60283,10 +60283,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:43.908Z",
-        "validatedTimestamp": 1775563903908
+        "validatedAt": "2026-04-07T15:36:49.111Z",
+        "validatedTimestamp": 1775576209111
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "fHGqG8p3_1775312419115",
@@ -60311,7 +60311,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-04T14:20:19.115Z",
-      "updated_at": "2026-04-07T12:11:47.013Z",
+      "updated_at": "2026-04-07T15:36:49.754Z",
       "initialOdd": 1.2,
       "odds": {
         "superbet": 1.2,
@@ -60463,22 +60463,22 @@
       },
       "failureReason": "Meci prea avansat (min 82 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:47.013Z",
+      "validatedAt": "2026-04-07T15:36:49.754Z",
       "validationDetails": {
         "finalScore": "2-2",
         "htScore": "1-1",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_23",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_23",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 1-1 → FT: 2-2)",
+            "actualValue": 2,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -60486,10 +60486,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:46.978Z",
-        "validatedTimestamp": 1775563906978
+        "validatedAt": "2026-04-07T15:36:49.731Z",
+        "validatedTimestamp": 1775576209731
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "fHGqG8p3_1775312419172",
@@ -61731,7 +61731,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-04T14:52:34.656Z",
-      "updated_at": "2026-04-07T12:11:50.084Z",
+      "updated_at": "2026-04-07T15:36:50.355Z",
       "initialOdd": 1.2,
       "odds": {
         "superbet": 1.2,
@@ -61883,22 +61883,22 @@
       },
       "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:50.084Z",
+      "validatedAt": "2026-04-07T15:36:50.355Z",
       "validationDetails": {
         "finalScore": "3-0",
         "htScore": "2-0",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 2-0 → FT: 3-0)",
+            "actualValue": 1,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -61906,10 +61906,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:50.055Z",
-        "validatedTimestamp": 1775563910055
+        "validatedAt": "2026-04-07T15:36:50.323Z",
+        "validatedTimestamp": 1775576210323
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "0fPtXr1S_1775315331906",
@@ -63327,7 +63327,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-04T17:37:26.298Z",
-      "updated_at": "2026-04-07T12:11:53.162Z",
+      "updated_at": "2026-04-07T15:36:50.944Z",
       "initialOdd": 1.05,
       "odds": {
         "superbet": 1.05,
@@ -63479,22 +63479,22 @@
       },
       "failureReason": "Meci prea avansat (min 86 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:53.162Z",
+      "validatedAt": "2026-04-07T15:36:50.944Z",
       "validationDetails": {
         "finalScore": "2-0",
         "htScore": "2-0",
         "totalPatterns": 1,
         "successCount": 0,
-        "failCount": 0,
-        "unknownCount": 1,
+        "failCount": 1,
+        "unknownCount": 0,
         "successRate": 0,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": false,
+            "reason": "Meciul NU a avut goluri în R2 (HT: 2-0 → FT: 2-0)",
+            "actualValue": 0,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -63502,10 +63502,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:53.129Z",
-        "validatedTimestamp": 1775563913129
+        "validatedAt": "2026-04-07T15:36:50.917Z",
+        "validatedTimestamp": 1775576210917
       },
-      "validation_result": "unknown"
+      "validation_result": "lost"
     },
     {
       "id": "QDQ5AAYh_1775325152603",
@@ -63733,7 +63733,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-04T17:53:32.008Z",
-      "updated_at": "2026-04-07T12:11:56.233Z",
+      "updated_at": "2026-04-07T15:36:51.544Z",
       "initialOdd": 1.2,
       "odds": {
         "superbet": 1.2,
@@ -63883,22 +63883,22 @@
       },
       "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:56.233Z",
+      "validatedAt": "2026-04-07T15:36:51.544Z",
       "validationDetails": {
         "finalScore": "1-2",
         "htScore": "0-2",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 0-2 → FT: 1-2)",
+            "actualValue": 1,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -63906,10 +63906,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:56.202Z",
-        "validatedTimestamp": 1775563916202
+        "validatedAt": "2026-04-07T15:36:51.504Z",
+        "validatedTimestamp": 1775576211504
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "6JrpSv0t_1775341354260",
@@ -63934,7 +63934,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-04T22:22:34.261Z",
-      "updated_at": "2026-04-07T12:11:59.314Z",
+      "updated_at": "2026-04-07T15:36:52.125Z",
       "initialOdd": 1.25,
       "odds": {
         "superbet": 1.25,
@@ -64084,22 +64084,22 @@
       },
       "failureReason": "Meci prea avansat (min 85 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:11:59.314Z",
+      "validatedAt": "2026-04-07T15:36:52.125Z",
       "validationDetails": {
         "finalScore": "4-1",
         "htScore": "2-0",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_23",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_23",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 3 gol(uri) în R2 (HT: 2-0 → FT: 4-1)",
+            "actualValue": 3,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -64107,10 +64107,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:11:59.274Z",
-        "validatedTimestamp": 1775563919274
+        "validatedAt": "2026-04-07T15:36:52.099Z",
+        "validatedTimestamp": 1775576212099
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "6JrpSv0t_1775341354335",
@@ -64135,7 +64135,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-04T22:22:34.335Z",
-      "updated_at": "2026-04-07T12:12:02.392Z",
+      "updated_at": "2026-04-07T15:36:52.750Z",
       "initialOdd": 1.25,
       "odds": {
         "superbet": 1.25,
@@ -64285,22 +64285,22 @@
       },
       "failureReason": "Meci prea avansat (min 85 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:12:02.392Z",
+      "validatedAt": "2026-04-07T15:36:52.750Z",
       "validationDetails": {
         "finalScore": "4-1",
         "htScore": "2-0",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 3 gol(uri) în R2 (HT: 2-0 → FT: 4-1)",
+            "actualValue": 3,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -64308,10 +64308,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:12:02.358Z",
-        "validatedTimestamp": 1775563922358
+        "validatedAt": "2026-04-07T15:36:52.733Z",
+        "validatedTimestamp": 1775576212733
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "l0p7wbbn_1775395237170",
@@ -64738,7 +64738,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-05T13:23:38.386Z",
-      "updated_at": "2026-04-07T12:12:05.456Z",
+      "updated_at": "2026-04-07T15:36:53.331Z",
       "initialOdd": 1.1,
       "odds": {
         "superbet": 1.1,
@@ -64888,22 +64888,22 @@
       },
       "failureReason": "Meci prea avansat (min 87 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:12:05.456Z",
+      "validatedAt": "2026-04-07T15:36:53.331Z",
       "validationDetails": {
         "finalScore": "4-1",
         "htScore": "2-1",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_23",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_23",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 2-1 → FT: 4-1)",
+            "actualValue": 2,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -64911,10 +64911,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:12:05.430Z",
-        "validatedTimestamp": 1775563925430
+        "validatedAt": "2026-04-07T15:36:53.306Z",
+        "validatedTimestamp": 1775576213306
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "ChXvNh2C_1775397061002",
@@ -64939,7 +64939,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-05T13:51:01.002Z",
-      "updated_at": "2026-04-07T12:12:08.522Z",
+      "updated_at": "2026-04-07T15:36:53.935Z",
       "initialOdd": 1.22,
       "odds": {
         "superbet": 1.22,
@@ -65095,22 +65095,22 @@
       },
       "failureReason": "Meci prea avansat (min 84 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:12:08.522Z",
+      "validatedAt": "2026-04-07T15:36:53.935Z",
       "validationDetails": {
         "finalScore": "1-2",
         "htScore": "0-2",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_25",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_25",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 0-2 → FT: 1-2)",
+            "actualValue": 1,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -65118,10 +65118,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:12:08.496Z",
-        "validatedTimestamp": 1775563928496
+        "validatedAt": "2026-04-07T15:36:53.889Z",
+        "validatedTimestamp": 1775576213889
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "tdA5Kf4T_1775400620273",
@@ -65745,7 +65745,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-05T16:20:30.642Z",
-      "updated_at": "2026-04-07T12:12:11.575Z",
+      "updated_at": "2026-04-07T15:36:54.532Z",
       "initialOdd": 1.14,
       "odds": {
         "superbet": 1.14,
@@ -65899,22 +65899,22 @@
       },
       "failureReason": "Meci prea avansat (min 84 > 80) - STOP monitorizare cote",
       "validated": true,
-      "validatedAt": "2026-04-07T12:12:11.575Z",
+      "validatedAt": "2026-04-07T15:36:54.532Z",
       "validationDetails": {
         "finalScore": "1-2",
         "htScore": "0-1",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_22",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_22",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 0-1 → FT: 1-2)",
+            "actualValue": 2,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -65922,10 +65922,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:12:11.556Z",
-        "validatedTimestamp": 1775563931556
+        "validatedAt": "2026-04-07T15:36:54.514Z",
+        "validatedTimestamp": 1775576214514
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "jk2pb6Lc_1775407964242",
