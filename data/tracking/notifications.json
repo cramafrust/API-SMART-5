@@ -66150,7 +66150,7 @@
         "isEstimate": false
       },
       "created_at": "2026-04-05T16:52:44.311Z",
-      "updated_at": "2026-04-07T12:12:14.638Z",
+      "updated_at": "2026-04-07T15:40:03.039Z",
       "initialOdd": 1.1,
       "odds": {
         "superbet": 1.1,
@@ -66299,22 +66299,22 @@
         }
       },
       "validated": true,
-      "validatedAt": "2026-04-07T12:12:14.638Z",
+      "validatedAt": "2026-04-07T15:40:03.039Z",
       "validationDetails": {
         "finalScore": "7-0",
         "htScore": "4-0",
         "totalPatterns": 1,
-        "successCount": 0,
+        "successCount": 1,
         "failCount": 0,
-        "unknownCount": 1,
-        "successRate": 0,
+        "unknownCount": 0,
+        "successRate": 100,
         "patterns": [
           {
             "pattern": "PATTERN_23",
             "team": "meci",
-            "success": null,
-            "reason": "Pattern necunoscut pentru validare: PATTERN_23",
-            "actualValue": null,
+            "success": true,
+            "reason": "Meciul a avut 3 gol(uri) în R2 (HT: 4-0 → FT: 7-0)",
+            "actualValue": 3,
             "odds": {
               "superbet": null,
               "netbet": null,
@@ -66322,10 +66322,10 @@
             }
           }
         ],
-        "validatedAt": "2026-04-07T12:12:14.614Z",
-        "validatedTimestamp": 1775563934614
+        "validatedAt": "2026-04-07T15:40:03.008Z",
+        "validatedTimestamp": 1775576403008
       },
-      "validation_result": "unknown"
+      "validation_result": "won"
     },
     {
       "id": "xp4QNiZj_1775416967763",

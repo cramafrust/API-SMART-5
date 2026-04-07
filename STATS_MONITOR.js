@@ -649,9 +649,15 @@ async function extractMatchStats(verificare, procenteLoader, emailNotifier) {
                         if (tierPenalty > 0) penaltyParts.push(`tier ${teamTier} vs ${oppTier} → +${tierPenalty}%`);
                         const penaltyStr = penaltyParts.length > 0 ? ` (${penaltyParts.join(', ')})` : '';
 
-                        if (prob.procent >= effectiveThreshold) {
+                        // Minim 5 cazuri pentru a fi statistic relevant
+                        const MIN_CASES = 5;
+                        const hasSufficientData = prob.cazuri >= MIN_CASES;
+
+                        if (prob.procent >= effectiveThreshold && hasSufficientData) {
                             validPatterns.push(patternWithProb);
-                            logger.info(`         ✅ ${pattern.name} (${pattern.team}): ${prob.procent}% >= ${effectiveThreshold}%${penaltyStr} - EMAIL + TRACKING`);
+                            logger.info(`         ✅ ${pattern.name} (${pattern.team}): ${prob.procent}% >= ${effectiveThreshold}%${penaltyStr} (${prob.cazuri} cazuri) - EMAIL + TRACKING`);
+                        } else if (prob.procent >= effectiveThreshold && !hasSufficientData) {
+                            logger.info(`         ⚠️  ${pattern.name} (${pattern.team}): ${prob.procent}% >= ${effectiveThreshold}% dar DOAR ${prob.cazuri} cazuri (<${MIN_CASES}) - INSUFICIENT, DOAR TRACKING`);
                         } else if (prob.procent >= minThreshold) {
                             logger.info(`         ⛔ ${pattern.name} (${pattern.team}): ${prob.procent}% >= ${minThreshold}% dar < ${effectiveThreshold}%${penaltyStr} - BLOCAT`);
                         } else {
