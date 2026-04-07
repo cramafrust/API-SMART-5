@@ -283,56 +283,56 @@ async function validatePrematchPredictions() {
     function findMatchInSeasons(matchId, homeTeam, awayTeam, matchDate) {
         const seasonsDir = path.join(__dirname, 'data', 'seasons');
         try {
-            const files = fs.readdirSync(seasonsDir).filter(f => f.endsWith('.json') && !f.includes('CORRUPT') && !f.includes('OLD_FORMAT'));
+            // Colectăm fișiere din root + subdirectoare (post-migrare)
+            let files = [];
+            const entries = fs.readdirSync(seasonsDir, { withFileTypes: true });
+            for (const entry of entries) {
+                if (entry.isFile() && entry.name.endsWith('.json') && !entry.name.includes('CORRUPT') && !entry.name.includes('OLD_FORMAT')) {
+                    files.push(path.join(seasonsDir, entry.name));
+                } else if (entry.isDirectory() && /^\d{4}/.test(entry.name)) {
+                    const subFiles = fs.readdirSync(path.join(seasonsDir, entry.name))
+                        .filter(f => f.endsWith('.json'))
+                        .map(f => path.join(seasonsDir, entry.name, f));
+                    files.push(...subFiles);
+                }
+            }
+            // Prioritizează sezonul curent
+            files.sort((a, b) => b.localeCompare(a));
 
             // Pass 1: căutare exactă pe matchId (cel mai fiabil)
-            for (const file of files) {
+            for (const filePath of files) {
                 try {
-                    const d = JSON.parse(fs.readFileSync(path.join(seasonsDir, file), 'utf8'));
+                    const d = JSON.parse(fs.readFileSync(filePath, 'utf8'));
                     for (const m of (d.meciuri || [])) {
-                        if (m.id_meci === matchId) return m;
+                        if (m.id_meci === matchId || m.id_flashscore === matchId) return m;
                     }
                 } catch (e) {}
             }
 
-            // Pass 2: fallback pe nume echipe + data meciului
-            for (const file of files) {
+            // Pass 2: fallback pe nume echipe + data meciului (OBLIGATORIU cu dată)
+            for (const filePath of files) {
                 try {
-                    const d = JSON.parse(fs.readFileSync(path.join(seasonsDir, file), 'utf8'));
+                    const d = JSON.parse(fs.readFileSync(filePath, 'utf8'));
                     for (const m of (d.meciuri || [])) {
                         const mHome = m.echipa_gazda && (m.echipa_gazda.nume || m.echipa_gazda.nume_complet);
                         const mAway = m.echipa_oaspete && (m.echipa_oaspete.nume || m.echipa_oaspete.nume_complet);
                         if (mHome === homeTeam && mAway === awayTeam) {
-                            // Verifică data meciului dacă e disponibilă
                             if (matchDate && m.data_ora && m.data_ora.data) {
-                                const mDate = m.data_ora.data; // format: DD.MM.YYYY sau YYYY-MM-DD
-                                // Normalizează ambele date la YYYY-MM-DD
-                                let mDateNorm = mDate;
-                                if (mDate.includes('.')) {
-                                    const parts = mDate.split('.');
+                                let mDateNorm = m.data_ora.data;
+                                if (mDateNorm.includes('.')) {
+                                    const parts = mDateNorm.split('.');
                                     mDateNorm = `${parts[2]}-${parts[1]}-${parts[0]}`;
                                 }
                                 if (mDateNorm === matchDate) return m;
-                            } else {
-                                // Fără dată disponibilă, returnează (backward compat)
-                                return m;
                             }
+                            // NU returnăm fără verificare dată — evităm meciuri din alte sezoane
                         }
                     }
                 } catch (e) {}
             }
 
-            // Pass 3: fallback fără verificare dată (ultima șansă)
-            for (const file of files) {
-                try {
-                    const d = JSON.parse(fs.readFileSync(path.join(seasonsDir, file), 'utf8'));
-                    for (const m of (d.meciuri || [])) {
-                        const mHome = m.echipa_gazda && (m.echipa_gazda.nume || m.echipa_gazda.nume_complet);
-                        const mAway = m.echipa_oaspete && (m.echipa_oaspete.nume || m.echipa_oaspete.nume_complet);
-                        if (mHome === homeTeam && mAway === awayTeam) return m;
-                    }
-                } catch (e) {}
-            }
+            // Pass 3: fallback pe matchId parțial (fără dată, doar dacă Pass 1+2 n-au găsit)
+            // Eliminat Pass 3 fără dată — cauza bug-urilor cu meciuri din alt sezon
         } catch (e) {}
         return null;
     }
