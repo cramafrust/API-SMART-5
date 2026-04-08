@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generatedAt": "2026-04-08T05:02:26.996Z",
+    "generatedAt": "2026-04-08T10:22:39.027Z",
     "date": "08.04.2026",
     "totalMatches": 26,
     "totalAlerts": 95
@@ -1071,7 +1071,7 @@
         },
         {
           "patternId": "S06",
-          "category": "OVER",
+          "category": "OVER TOTAL MECI",
           "team": "Atl. Madrid",
           "side": "oaspete",
           "streak": 5,
@@ -1080,7 +1080,7 @@
           "rate": 78.3,
           "streakUsed": 5,
           "source": "global",
-          "label": "Atl. Madrid meciurile au avut 3+ goluri în 5 meciuri la rând → prob. 2+ goluri — în 392 cazuri similare istorice, s-a întâmplat de 307 ori (78.3% reușită)"
+          "label": "Atl. Madrid meciurile au avut 3+ goluri TOTAL în 5 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 392 cazuri similare istorice, s-a întâmplat de 307 ori (78.3% reușită)"
         },
         {
           "patternId": "S01",
@@ -1250,7 +1250,7 @@
         },
         {
           "patternId": "S06",
-          "category": "OVER",
+          "category": "OVER TOTAL MECI",
           "team": "PSG",
           "side": "gazda",
           "streak": 4,
@@ -1259,7 +1259,7 @@
           "rate": 76.6,
           "streakUsed": 4,
           "source": "global",
-          "label": "PSG meciurile au avut 3+ goluri în 4 meciuri la rând → prob. 2+ goluri — în 760 cazuri similare istorice, s-a întâmplat de 582 ori (76.6% reușită)"
+          "label": "PSG meciurile au avut 3+ goluri TOTAL în 4 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 760 cazuri similare istorice, s-a întâmplat de 582 ori (76.6% reușită)"
         },
         {
           "patternId": "S01",
