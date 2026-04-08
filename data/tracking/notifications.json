@@ -68352,6 +68352,615 @@
         "validatedTimestamp": 1775576086561
       },
       "validation_result": "won"
+    },
+    {
+      "id": "CWqYzQU9_1775584414311",
+      "date": "07.04.2026",
+      "timestamp": 1775584414311,
+      "match": "Arka Gdynia vs Zaglebie",
+      "matchId": "CWqYzQU9",
+      "homeTeam": "Arka Gdynia",
+      "awayTeam": "Zaglebie",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 76.97,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_25",
+        "team": "meci",
+        "tier": "BOTTOM_16-20",
+        "position": 16,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-07T17:53:34.311Z",
+      "updated_at": "2026-04-07T21:41:21.657Z",
+      "initialOdd": 1.3,
+      "odds": {
+        "superbet": 1.3,
+        "description": "Încă un gol (peste 2.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Arka Gdynia",
+          "awayTeam": "Zaglebie",
+          "date": "07.04.2026, 20:53",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Arka Gdynia",
+            "away": "Zaglebie"
+          },
+          "score": {
+            "home": "2",
+            "away": "0"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.40",
+              "Ball Possession": "46",
+              "Total shots": "7",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "2",
+              "Yellow Cards": "2",
+              "Shots off target": "2",
+              "Offsides": "2",
+              "Free Kicks": "8",
+              "Throw ins": "7",
+              "Fouls": "8",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.26",
+              "Ball Possession": "54",
+              "Total shots": "5",
+              "Shots on target": "0",
+              "Big Chances": "0",
+              "Corner Kicks": "1",
+              "Yellow Cards": "2",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "8",
+              "Throw ins": "7",
+              "Fouls": "8",
+              "Goalkeeper Saves": "0"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Arka Gdynia",
+            "away": "Zaglebie"
+          },
+          "score": {
+            "home": "3",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.83",
+              "Ball Possession": "50",
+              "Total shots": "14",
+              "Shots on target": "5",
+              "Big Chances": "2",
+              "Corner Kicks": "5",
+              "Yellow Cards": "3",
+              "Red Cards": "0",
+              "Shots off target": "5",
+              "Offsides": "4",
+              "Free Kicks": "15",
+              "Throw ins": "17",
+              "Fouls": "13",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.85",
+              "Ball Possession": "50",
+              "Total shots": "11",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "5",
+              "Yellow Cards": "3",
+              "Red Cards": "1",
+              "Shots off target": "5",
+              "Offsides": "0",
+              "Free Kicks": "13",
+              "Throw ins": "17",
+              "Fouls": "15",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Arka Gdynia",
+            "away": "Zaglebie"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.43",
+              "Ball Possession": "53",
+              "Total shots": "7",
+              "Shots on target": "3",
+              "Big Chances": "2",
+              "Corner Kicks": "3",
+              "Yellow Cards": "1",
+              "Red Cards": "0",
+              "Shots off target": "3",
+              "Offsides": "2",
+              "Free Kicks": "7",
+              "Throw ins": "10",
+              "Fouls": "5",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.59",
+              "Ball Possession": "47",
+              "Total shots": "6",
+              "Shots on target": "2",
+              "Big Chances": "1",
+              "Corner Kicks": "4",
+              "Yellow Cards": "1",
+              "Red Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "5",
+              "Throw ins": "10",
+              "Fouls": "7",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "CWqYzQU9",
+          "extractedAt": "2026-04-07T21:41:21.506Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 86 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-07T21:41:21.657Z",
+      "validationDetails": {
+        "finalScore": "3-1",
+        "htScore": "2-0",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_25",
+            "team": "meci",
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 2-0 → FT: 3-1)",
+            "actualValue": 2,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-07T21:41:21.509Z",
+        "validatedTimestamp": 1775598081509
+      },
+      "validation_result": "won"
+    },
+    {
+      "id": "8QKM2Spd_1775591454949",
+      "date": "07.04.2026",
+      "timestamp": 1775591454949,
+      "match": "Real Madrid vs Bayern Munich",
+      "matchId": "8QKM2Spd",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Bayern Munich",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 88.33,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_22",
+        "team": "meci",
+        "tier": "TOP_1-8",
+        "position": null,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-07T19:50:54.949Z",
+      "updated_at": "2026-04-08T03:41:01.268Z",
+      "initialOdd": 1.1,
+      "odds": {
+        "superbet": 1.1,
+        "description": "Încă un gol (peste 1.5)"
+      },
+      "result": {
+        "match": {
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Bayern Munich",
+          "date": "07.04.2026, 22:50",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Real Madrid",
+            "away": "Bayern Munich"
+          },
+          "score": {
+            "home": "0",
+            "away": "1"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.81",
+              "Ball Possession": "41",
+              "Total shots": "9",
+              "Shots on target": "4",
+              "Big Chances": "1",
+              "Corner Kicks": "2",
+              "Yellow Cards": "1",
+              "Shots off target": "3",
+              "Offsides": "0",
+              "Free Kicks": "5",
+              "Throw ins": "8",
+              "Fouls": "5",
+              "Goalkeeper Saves": "1"
+            },
+            "away": {
+              "Expected Goals (xG)": "2.20",
+              "Ball Possession": "59",
+              "Total shots": "8",
+              "Shots on target": "3",
+              "Big Chances": "3",
+              "Corner Kicks": "5",
+              "Yellow Cards": "0",
+              "Shots off target": "2",
+              "Offsides": "0",
+              "Free Kicks": "5",
+              "Throw ins": "5",
+              "Fouls": "5",
+              "Goalkeeper Saves": "5"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Real Madrid",
+            "away": "Bayern Munich"
+          },
+          "score": {
+            "home": "1",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "2.20",
+              "Ball Possession": "48",
+              "Total shots": "20",
+              "Shots on target": "9",
+              "Big Chances": "4",
+              "Corner Kicks": "8",
+              "Yellow Cards": "1",
+              "Shots off target": "8",
+              "Offsides": "1",
+              "Free Kicks": "12",
+              "Throw ins": "10",
+              "Fouls": "12",
+              "Goalkeeper Saves": "5"
+            },
+            "away": {
+              "Expected Goals (xG)": "2.92",
+              "Ball Possession": "52",
+              "Total shots": "20",
+              "Shots on target": "8",
+              "Big Chances": "3",
+              "Corner Kicks": "11",
+              "Yellow Cards": "4",
+              "Shots off target": "6",
+              "Offsides": "2",
+              "Free Kicks": "12",
+              "Throw ins": "9",
+              "Fouls": "12",
+              "Goalkeeper Saves": "9"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Real Madrid",
+            "away": "Bayern Munich"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.39",
+              "Ball Possession": "56",
+              "Total shots": "11",
+              "Shots on target": "5",
+              "Big Chances": "3",
+              "Corner Kicks": "6",
+              "Yellow Cards": "0",
+              "Shots off target": "5",
+              "Offsides": "1",
+              "Free Kicks": "7",
+              "Throw ins": "2",
+              "Fouls": "7",
+              "Goalkeeper Saves": "4"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.72",
+              "Ball Possession": "44",
+              "Total shots": "12",
+              "Shots on target": "5",
+              "Big Chances": "0",
+              "Corner Kicks": "6",
+              "Yellow Cards": "4",
+              "Shots off target": "4",
+              "Offsides": "2",
+              "Free Kicks": "7",
+              "Throw ins": "4",
+              "Fouls": "7",
+              "Goalkeeper Saves": "4"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "8QKM2Spd",
+          "extractedAt": "2026-04-08T03:41:01.251Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 84 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-08T03:41:01.268Z",
+      "validationDetails": {
+        "finalScore": "1-2",
+        "htScore": "0-1",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_22",
+            "team": "meci",
+            "success": true,
+            "reason": "Meciul a avut 2 gol(uri) în R2 (HT: 0-1 → FT: 1-2)",
+            "actualValue": 2,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-08T03:41:01.251Z",
+        "validatedTimestamp": 1775619661251
+      },
+      "validation_result": "won"
+    },
+    {
+      "id": "045weCAt_1775602425299",
+      "date": "08.04.2026",
+      "timestamp": 1775602425299,
+      "match": "Independiente (Bol) vs Racing Club (Arg)",
+      "matchId": "045weCAt",
+      "homeTeam": "Independiente (Bol)",
+      "awayTeam": "Racing Club (Arg)",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 88.54,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "COMPLETED",
+      "pattern": {
+        "name": "PATTERN_3.3",
+        "team": "meci",
+        "tier": "MID_6-10",
+        "position": null,
+        "isEstimate": true
+      },
+      "created_at": "2026-04-07T22:53:45.299Z",
+      "updated_at": "2026-04-08T03:41:04.909Z",
+      "oddsMonitoringFailed": true,
+      "result": {
+        "match": {
+          "homeTeam": "Independiente (Bol)",
+          "awayTeam": "Racing Club (Arg)",
+          "date": "08.04.2026, 01:53",
+          "league": "Unknown League",
+          "country": "Unknown",
+          "season": "2025-2026",
+          "round": null,
+          "roundNumber": null,
+          "homePositionBefore": null,
+          "awayPositionBefore": null,
+          "homeTier": null,
+          "awayTier": null
+        },
+        "halftime": {
+          "teams": {
+            "home": "Independiente (Bol)",
+            "away": "Racing Club (Arg)"
+          },
+          "score": {
+            "home": "1",
+            "away": "2"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "1.73",
+              "Ball Possession": "46",
+              "Total shots": "6",
+              "Shots on target": "3",
+              "Big Chances": "3",
+              "Corner Kicks": "0",
+              "Yellow Cards": "1",
+              "Shots off target": "3",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "12",
+              "Fouls": "5",
+              "Goalkeeper Saves": "0"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.34",
+              "Ball Possession": "54",
+              "Total shots": "5",
+              "Shots on target": "2",
+              "Big Chances": "0",
+              "Corner Kicks": "3",
+              "Yellow Cards": "1",
+              "Shots off target": "1",
+              "Offsides": "0",
+              "Free Kicks": "5",
+              "Throw ins": "11",
+              "Fouls": "7",
+              "Goalkeeper Saves": "2"
+            }
+          }
+        },
+        "fulltime": {
+          "teams": {
+            "home": "Independiente (Bol)",
+            "away": "Racing Club (Arg)"
+          },
+          "score": {
+            "home": "1",
+            "away": "3"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "2.42",
+              "Ball Possession": "49",
+              "Total shots": "13",
+              "Shots on target": "5",
+              "Big Chances": "5",
+              "Corner Kicks": "1",
+              "Yellow Cards": "1",
+              "Shots off target": "6",
+              "Offsides": "1",
+              "Free Kicks": "13",
+              "Throw ins": "30",
+              "Fouls": "12",
+              "Goalkeeper Saves": "4"
+            },
+            "away": {
+              "Expected Goals (xG)": "1.11",
+              "Ball Possession": "51",
+              "Total shots": "14",
+              "Shots on target": "7",
+              "Big Chances": "1",
+              "Corner Kicks": "4",
+              "Yellow Cards": "3",
+              "Shots off target": "5",
+              "Offsides": "0",
+              "Free Kicks": "12",
+              "Throw ins": "20",
+              "Fouls": "13",
+              "Goalkeeper Saves": "3"
+            }
+          }
+        },
+        "secondhalf": {
+          "teams": {
+            "home": "Independiente (Bol)",
+            "away": "Racing Club (Arg)"
+          },
+          "statistics": {
+            "home": {
+              "Expected Goals (xG)": "0.69",
+              "Ball Possession": "52",
+              "Total shots": "7",
+              "Shots on target": "2",
+              "Big Chances": "2",
+              "Corner Kicks": "1",
+              "Yellow Cards": "0",
+              "Shots off target": "3",
+              "Offsides": "1",
+              "Free Kicks": "6",
+              "Throw ins": "18",
+              "Fouls": "7",
+              "Goalkeeper Saves": "4"
+            },
+            "away": {
+              "Expected Goals (xG)": "0.77",
+              "Ball Possession": "48",
+              "Total shots": "9",
+              "Shots on target": "5",
+              "Big Chances": "1",
+              "Corner Kicks": "1",
+              "Yellow Cards": "2",
+              "Shots off target": "4",
+              "Offsides": "0",
+              "Free Kicks": "7",
+              "Throw ins": "9",
+              "Fouls": "6",
+              "Goalkeeper Saves": "1"
+            }
+          }
+        },
+        "htScoreReal": null,
+        "metadata": {
+          "matchId": "045weCAt",
+          "extractedAt": "2026-04-08T03:41:04.882Z",
+          "source": "FlashScore API"
+        }
+      },
+      "failureReason": "Meci prea avansat (min 84 > 80) - STOP monitorizare cote",
+      "validated": true,
+      "validatedAt": "2026-04-08T03:41:04.909Z",
+      "validationDetails": {
+        "finalScore": "1-3",
+        "htScore": "1-2",
+        "totalPatterns": 1,
+        "successCount": 1,
+        "failCount": 0,
+        "unknownCount": 0,
+        "successRate": 100,
+        "patterns": [
+          {
+            "pattern": "PATTERN_3.3",
+            "team": "meci",
+            "success": true,
+            "reason": "Meciul a avut 1 gol(uri) în R2 (HT: 1-2 → FT: 1-3)",
+            "actualValue": 1,
+            "odds": {
+              "superbet": null,
+              "netbet": null,
+              "type": null
+            }
+          }
+        ],
+        "validatedAt": "2026-04-08T03:41:04.883Z",
+        "validatedTimestamp": 1775619664883
+      },
+      "validation_result": "won"
     }
   ]
 }
