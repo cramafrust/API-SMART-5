@@ -78,8 +78,8 @@ const STREAK_PATTERNS = [
         threshold: 1, nextThreshold: 1, minStreak: 3, type: 'team'
     },
     {
-        id: 'S06', category: 'OVER',
-        label: (n) => `meciurile au avut 3+ goluri în ${n} meciuri la rând → prob. 2+ goluri`,
+        id: 'S06', category: 'OVER TOTAL MECI',
+        label: (n) => `meciurile au avut 3+ goluri TOTAL în ${n} meciuri la rând → prob. 2+ goluri TOTAL MECI`,
         getStat: (m, h) => { if (!m.scor) return null; return m.scor.final_gazda + m.scor.final_oaspete; },
         threshold: 3, nextThreshold: 2, minStreak: 3, type: 'team'
     },
@@ -774,7 +774,9 @@ function formatTop30Email(top30) {
         const bgColor = isTop10 ? '#fff8e1' : (rank % 2 === 0 ? '#f8f9fa' : '#ffffff');
         const rateColor = a.rate >= 90 ? '#e65100' : a.rate >= 85 ? '#2e7d32' : '#1565c0';
         const medal = rank === 1 ? '🥇' : rank === 2 ? '🥈' : rank === 3 ? '🥉' : `#${rank}`;
-        const sideIcon = a.side === 'gazda' ? '🏠' : '✈️';
+        const isMatchLevel = (a.category || '').includes('TOTAL MECI') || (a.category || '').includes('OVER TOTAL');
+        const sideIcon = isMatchLevel ? '⚽' : (a.side === 'gazda' ? '🏠' : '✈️');
+        const teamDisplay = isMatchLevel ? `${a.homeTeam} vs ${a.awayTeam}` : a.team;
 
         // Extrage predicția scurtă din label (ex: "prob. 8+ șuturi", "prob. să marcheze")
         let shortPrediction = '';
@@ -796,7 +798,7 @@ function formatTop30Email(top30) {
             </td>
             <td style="padding: 10px 8px;">
                 <div style="font-weight: 600; font-size: 13px; color: #333;">
-                    ${sideIcon} ${a.team}
+                    ${sideIcon} ${teamDisplay}
                 </div>
                 <div style="font-size: 11px; color: #666; margin-top: 2px;">
                     ${a.homeTeam} vs ${a.awayTeam} • ${a.ora}
@@ -1003,7 +1005,9 @@ function formatTop30ReportEmail(predictions, yesterdayStr) {
             }
         }
 
-        const sideIcon = p.side === 'gazda' ? '🏠' : '✈️';
+        const isMatchLevel = (p.category || '').includes('TOTAL MECI') || (p.category || '').includes('OVER TOTAL');
+        const sideIcon = isMatchLevel ? '⚽' : (p.side === 'gazda' ? '🏠' : '✈️');
+        const teamDisplay = isMatchLevel ? `${p.homeTeam} vs ${p.awayTeam}` : p.team;
 
         rows += `
         <tr style="background-color: ${bgColor}; border-bottom: 1px solid #e0e0e0;">
@@ -1011,7 +1015,7 @@ function formatTop30ReportEmail(predictions, yesterdayStr) {
             <td style="padding: 8px 6px; text-align: center; font-size: 18px; width: 35px;">${statusIcon}</td>
             <td style="padding: 8px 6px;">
                 <div style="font-weight: 600; font-size: 12px; color: #333;">
-                    ${sideIcon} ${p.team}
+                    ${sideIcon} ${teamDisplay}
                 </div>
                 <div style="font-size: 11px; color: #666; margin-top: 2px;">
                     ${p.homeTeam} vs ${p.awayTeam} • ${p.ora}
@@ -1210,12 +1214,14 @@ function formatGoalsCardsEmail(goals, cards) {
             const rank = i + 1;
             const bgColor = rank <= 3 ? '#fff8e1' : (rank % 2 === 0 ? '#f8f9fa' : '#ffffff');
             const medal = rank === 1 ? '🥇' : rank === 2 ? '🥈' : rank === 3 ? '🥉' : '#' + rank;
-            const sideIcon = a.side === 'gazda' ? '🏠' : '✈️';
+            const isML = (a.category || '').includes('TOTAL MECI') || (a.category || '').includes('OVER TOTAL');
+            const sideIcon = isML ? '⚽' : (a.side === 'gazda' ? '🏠' : '✈️');
+            const teamDisp = isML ? (a.homeTeam + ' vs ' + a.awayTeam) : a.team;
 
             rows += '<tr style="background-color:' + bgColor + ';border-bottom:1px solid #e0e0e0;">' +
                 '<td style="padding:8px;text-align:center;font-weight:bold;width:40px;">' + medal + '</td>' +
                 '<td style="padding:8px;">' +
-                    '<div style="font-weight:600;font-size:13px;">' + sideIcon + ' ' + a.team + '</div>' +
+                    '<div style="font-weight:600;font-size:13px;">' + sideIcon + ' ' + teamDisp + '</div>' +
                     '<div style="font-size:11px;color:#666;">' + a.homeTeam + ' vs ' + a.awayTeam + ' • ' + a.ora + '</div>' +
                     '<div style="font-size:10px;color:#999;">' + a.liga + '</div>' +
                 '</td>' +
