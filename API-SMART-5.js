@@ -667,6 +667,73 @@ async function commandFullDay() {
 /**
  * Main
  */
+/**
+ * Comandă: all — TOTUL într-un singur proces
+ * Pornește: WATCHDOG + FULL workflow + AUTO-VALIDATOR
+ * Un singur proces, un singur restart, zero desincronizare.
+ */
+async function commandAll() {
+    showBanner();
+    logger.info('\n🚀 PORNIRE COMPLETĂ — TOATE MODULELE ÎNTR-UN SINGUR PROCES\n');
+    logger.info('='.repeat(60));
+
+    // 1. WATCHDOG (ca thread intern, nu proces separat)
+    logger.info('\n🐕 Pornire WATCHDOG intern...');
+    try {
+        const Watchdog = require('./WATCHDOG');
+        if (Watchdog && typeof Watchdog.startInternal === 'function') {
+            Watchdog.startInternal();
+            logger.info('   ✅ WATCHDOG pornit intern');
+        } else {
+            // Fallback: pornește WATCHDOG ca modul simplu (fără proces separat)
+            logger.info('   ℹ️  WATCHDOG va fi monitorizat prin health check intern');
+        }
+    } catch (e) {
+        logger.warn(`   ⚠️  WATCHDOG: ${e.message} — continuăm fără`);
+    }
+
+    // 2. AUTO-VALIDATOR (ca interval intern)
+    logger.info('\n🤖 Pornire AUTO-VALIDATOR intern...');
+    try {
+        const AutoValidator = require('./AUTO_VALIDATOR');
+        const VALIDATE_INTERVAL = 6 * 60 * 60 * 1000; // 6 ore
+
+        // Prima validare după 5 minute (să lase sistemul să pornească)
+        setTimeout(async () => {
+            try {
+                logger.info('\n🤖 AUTO-VALIDATOR — Prima validare...');
+                await AutoValidator.validatePendingNotifications();
+                await AutoValidator.validatePrematchPredictions();
+                logger.info('🤖 AUTO-VALIDATOR — Prima validare completă');
+            } catch (e) {
+                logger.error(`🤖 AUTO-VALIDATOR eroare: ${e.message}`);
+            }
+        }, 5 * 60 * 1000);
+
+        // Apoi la fiecare 6 ore
+        setInterval(async () => {
+            try {
+                logger.info('\n🤖 AUTO-VALIDATOR — Validare periodică...');
+                await AutoValidator.validatePendingNotifications();
+                await AutoValidator.validatePrematchPredictions();
+                const { sendTop30ValidationReport } = require('./PRE_MATCH_STREAKS');
+                await sendTop30ValidationReport();
+                logger.info('🤖 AUTO-VALIDATOR — Validare completă');
+            } catch (e) {
+                logger.error(`🤖 AUTO-VALIDATOR eroare: ${e.message}`);
+            }
+        }, VALIDATE_INTERVAL);
+
+        logger.info(`   ✅ AUTO-VALIDATOR pornit (interval: 6h, prima validare: 5min)`);
+    } catch (e) {
+        logger.error(`   ❌ AUTO-VALIDATOR: ${e.message}`);
+    }
+
+    // 3. FULL workflow (daily + schedule + monitor)
+    logger.info('\n📊 Pornire workflow FULL...\n');
+    await commandFull();
+}
+
 async function main() {
     const args = process.argv.slice(2);
     const command = args[0] || 'full';
@@ -717,6 +784,10 @@ async function main() {
 
         case 'fullday':
             await commandFullDay();
+            break;
+
+        case 'all':
+            await commandAll();
             break;
 
         case 'help':
