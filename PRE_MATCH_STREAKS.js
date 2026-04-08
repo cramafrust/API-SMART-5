@@ -426,8 +426,18 @@ async function generatePreMatchStreaks(matchesFile) {
         }
 
         if (matchAlerts.alerts.length > 0) {
-            // Sortăm alertele: cele cu rată mai mare primele
-            matchAlerts.alerts.sort((a, b) => b.rate - a.rate);
+            // DEDUPLICARE: un singur pronostic per echipă+categorie, cel cu rata cea mai bună
+            // Ex: S15 (10+ → 10+), S16 (12+ → 10+), S17 (12+ → 10+) = ACELAȘI pronostic "10+ șuturi"
+            const deduped = [];
+            const seenKeys = new Set();
+            matchAlerts.alerts.sort((a, b) => b.rate - a.rate); // Sortăm mai întâi
+            for (const alert of matchAlerts.alerts) {
+                const dedupKey = `${alert.team}|${alert.category}|${alert.side}`;
+                if (seenKeys.has(dedupKey)) continue;
+                seenKeys.add(dedupKey);
+                deduped.push(alert);
+            }
+            matchAlerts.alerts = deduped;
             results.matches[meci.matchId] = matchAlerts;
             results._meta.totalAlerts += matchAlerts.alerts.length;
 
