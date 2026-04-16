@@ -1,0 +1,545 @@
+{
+  "_meta": {
+    "generatedAt": "2026-04-16T05:02:22.687Z",
+    "date": "16.04.2026",
+    "totalMatches": 23,
+    "totalAlerts": 35
+  },
+  "matches": {
+    "UgtAjVKP": {
+      "matchId": "UgtAjVKP",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Freiburg",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1776357900,
+      "alerts": [
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Celta Vigo",
+          "side": "gazda",
+          "streak": 3,
+          "success": 1235,
+          "total": 1887,
+          "rate": 65.4,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Celta Vigo a comis 10+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 1887 cazuri similare istorice, s-a întâmplat de 1235 ori (65.4% reușită)"
+        }
+      ]
+    },
+    "dYZxV0nC": {
+      "matchId": "dYZxV0nC",
+      "homeTeam": "AZ Alkmaar",
+      "awayTeam": "Shakhtar Donetsk",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "19:45",
+      "timestamp": 1776357900,
+      "alerts": [
+        {
+          "patternId": "S09",
+          "category": "CORNERE",
+          "team": "AZ Alkmaar",
+          "side": "gazda",
+          "streak": 3,
+          "success": 960,
+          "total": 1182,
+          "rate": 81.2,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "AZ Alkmaar a avut 5+ cornere în 3 meciuri la rând → prob. să aibă 3+ cornere — în 1182 cazuri similare istorice, s-a întâmplat de 960 ori (81.2% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Shakhtar Donetsk",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1115,
+          "total": 1423,
+          "rate": 78.4,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Shakhtar Donetsk meciurile au avut 3+ goluri TOTAL în 3 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 1423 cazuri similare istorice, s-a întâmplat de 1115 ori (78.4% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "AZ Alkmaar",
+          "side": "gazda",
+          "streak": 4,
+          "success": 582,
+          "total": 760,
+          "rate": 76.6,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "AZ Alkmaar meciurile au avut 3+ goluri TOTAL în 4 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 760 cazuri similare istorice, s-a întâmplat de 582 ori (76.6% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Shakhtar Donetsk",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1246,
+          "total": 1832,
+          "rate": 68,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Shakhtar Donetsk a tras 10+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 1832 cazuri similare istorice, s-a întâmplat de 1246 ori (68% reușită)"
+        }
+      ]
+    },
+    "f34SiwCF": {
+      "matchId": "f34SiwCF",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Bologna",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1776366000,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Bologna",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 1118,
+          "total": 1220,
+          "rate": 91.6,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Bologna a luat 2+ cartonașe în 4 meciuri la rând → prob. 1+ cartonaș — în 1220 cazuri similare istorice, s-a întâmplat de 1118 ori (91.6% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Bologna",
+          "side": "oaspete",
+          "streak": 10,
+          "success": 179,
+          "total": 216,
+          "rate": 82.9,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Bologna a avut 4+ șuturi pe poartă în 10 meciuri la rând → prob. 3+ — în 216 cazuri similare istorice, s-a întâmplat de 179 ori (82.9% reușită)"
+        },
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Bologna",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 930,
+          "total": 1159,
+          "rate": 80.2,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Bologna a avut 4+ cornere în 4 meciuri la rând → prob. să aibă 3+ cornere — în 1159 cazuri similare istorice, s-a întâmplat de 930 ori (80.2% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Bologna",
+          "side": "oaspete",
+          "streak": 6,
+          "success": 285,
+          "total": 356,
+          "rate": 80.1,
+          "streakUsed": 6,
+          "source": "global",
+          "label": "Bologna a comis 12+ faulturi în 6 meciuri la rând → prob. 11+ faulturi — în 356 cazuri similare istorice, s-a întâmplat de 285 ori (80.1% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Bologna",
+          "side": "oaspete",
+          "streak": 12,
+          "success": 115,
+          "total": 147,
+          "rate": 78.2,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Bologna a tras 12+ șuturi în 12 meciuri la rând → prob. 10+ șuturi — în 147 cazuri similare istorice, s-a întâmplat de 115 ori (78.2% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Bologna",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1689,
+          "total": 2206,
+          "rate": 76.6,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Bologna a primit gol în 3 meciuri la rând → prob. să primească gol — în 2206 cazuri similare istorice, s-a întâmplat de 1689 ori (76.6% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Aston Villa",
+          "side": "gazda",
+          "streak": 11,
+          "success": 406,
+          "total": 561,
+          "rate": 72.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Aston Villa a marcat în 11 meciuri la rând → prob. să marcheze și acum — în 561 cazuri similare istorice, s-a întâmplat de 406 ori (72.4% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Bologna",
+          "side": "oaspete",
+          "streak": 10,
+          "success": 406,
+          "total": 561,
+          "rate": 72.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Bologna a marcat în 10 meciuri la rând → prob. să marcheze și acum — în 561 cazuri similare istorice, s-a întâmplat de 406 ori (72.4% reușită)"
+        }
+      ]
+    },
+    "dzaI5pJ0": {
+      "matchId": "dzaI5pJ0",
+      "homeTeam": "Betis",
+      "awayTeam": "Braga",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1776366000,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Braga",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1728,
+          "total": 1930,
+          "rate": 89.5,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Braga a luat 2+ cartonașe în 3 meciuri la rând → prob. 1+ cartonaș — în 1930 cazuri similare istorice, s-a întâmplat de 1728 ori (89.5% reușită)"
+        },
+        {
+          "patternId": "S13",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Betis",
+          "side": "gazda",
+          "streak": 5,
+          "success": 152,
+          "total": 175,
+          "rate": 86.9,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Betis a avut 5+ șuturi pe poartă în 5 meciuri la rând → prob. 3+ — în 175 cazuri similare istorice, s-a întâmplat de 152 ori (86.9% reușită)"
+        },
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Braga",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1429,
+          "total": 1814,
+          "rate": 78.8,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Braga a avut 4+ cornere în 3 meciuri la rând → prob. să aibă 3+ cornere — în 1814 cazuri similare istorice, s-a întâmplat de 1429 ori (78.8% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Betis",
+          "side": "gazda",
+          "streak": 9,
+          "success": 352,
+          "total": 462,
+          "rate": 76.2,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Betis a tras 10+ șuturi în 9 meciuri la rând → prob. 10+ șuturi — în 462 cazuri similare istorice, s-a întâmplat de 352 ori (76.2% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Braga",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1235,
+          "total": 1887,
+          "rate": 65.4,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Braga a comis 10+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 1887 cazuri similare istorice, s-a întâmplat de 1235 ori (65.4% reușită)"
+        }
+      ]
+    },
+    "ve27R6OM": {
+      "matchId": "ve27R6OM",
+      "homeTeam": "Nottingham",
+      "awayTeam": "FC Porto",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1776366000,
+      "alerts": [
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Nottingham",
+          "side": "gazda",
+          "streak": 4,
+          "success": 1262,
+          "total": 1656,
+          "rate": 76.2,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Nottingham a primit gol în 4 meciuri la rând → prob. să primească gol — în 1656 cazuri similare istorice, s-a întâmplat de 1262 ori (76.2% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "FC Porto",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 352,
+          "total": 462,
+          "rate": 76.2,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "FC Porto a tras 10+ șuturi în 7 meciuri la rând → prob. 10+ șuturi — în 462 cazuri similare istorice, s-a întâmplat de 352 ori (76.2% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "FC Porto",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1173,
+          "total": 1563,
+          "rate": 75,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "FC Porto a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 1563 cazuri similare istorice, s-a întâmplat de 1173 ori (75% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "FC Porto",
+          "side": "oaspete",
+          "streak": 16,
+          "success": 406,
+          "total": 561,
+          "rate": 72.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "FC Porto a marcat în 16 meciuri la rând → prob. să marcheze și acum — în 561 cazuri similare istorice, s-a întâmplat de 406 ori (72.4% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "FC Porto",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 91,
+          "total": 196,
+          "rate": 46.4,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "FC Porto a marcat în R1 în 5 meciuri la rând → prob. să marcheze în R1 — în 196 cazuri similare istorice, s-a întâmplat de 91 ori (46.4% reușită)"
+        }
+      ]
+    },
+    "vFf5G1XI": {
+      "matchId": "vFf5G1XI",
+      "homeTeam": "AEK Athens",
+      "awayTeam": "Rayo Vallecano",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1776366000,
+      "alerts": [
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Rayo Vallecano",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1173,
+          "total": 1563,
+          "rate": 75,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Rayo Vallecano a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 1563 cazuri similare istorice, s-a întâmplat de 1173 ori (75% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "AEK Athens",
+          "side": "gazda",
+          "streak": 4,
+          "success": 959,
+          "total": 1388,
+          "rate": 69.1,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "AEK Athens a comis 10+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 1388 cazuri similare istorice, s-a întâmplat de 959 ori (69.1% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Rayo Vallecano",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 959,
+          "total": 1388,
+          "rate": 69.1,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Rayo Vallecano a comis 10+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 1388 cazuri similare istorice, s-a întâmplat de 959 ori (69.1% reușită)"
+        }
+      ]
+    },
+    "nTXCk4hM": {
+      "matchId": "nTXCk4hM",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Crystal Palace",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1776366000,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Fiorentina",
+          "side": "gazda",
+          "streak": 10,
+          "success": 324,
+          "total": 359,
+          "rate": 90.3,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Fiorentina a luat 2+ cartonașe în 10 meciuri la rând → prob. 1+ cartonaș — în 359 cazuri similare istorice, s-a întâmplat de 324 ori (90.3% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Fiorentina",
+          "side": "gazda",
+          "streak": 5,
+          "success": 307,
+          "total": 392,
+          "rate": 78.3,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Fiorentina meciurile au avut 3+ goluri TOTAL în 5 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 392 cazuri similare istorice, s-a întâmplat de 307 ori (78.3% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Fiorentina",
+          "side": "gazda",
+          "streak": 9,
+          "success": 524,
+          "total": 680,
+          "rate": 77.1,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Fiorentina a primit gol în 9 meciuri la rând → prob. să primească gol — în 680 cazuri similare istorice, s-a întâmplat de 524 ori (77.1% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Crystal Palace",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1173,
+          "total": 1563,
+          "rate": 75,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Crystal Palace a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 1563 cazuri similare istorice, s-a întâmplat de 1173 ori (75% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Fiorentina",
+          "side": "gazda",
+          "streak": 10,
+          "success": 436,
+          "total": 607,
+          "rate": 71.8,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Fiorentina a comis 10+ faulturi în 10 meciuri la rând → prob. 11+ faulturi — în 607 cazuri similare istorice, s-a întâmplat de 436 ori (71.8% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Crystal Palace",
+          "side": "oaspete",
+          "streak": 14,
+          "success": 436,
+          "total": 607,
+          "rate": 71.8,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Crystal Palace a comis 10+ faulturi în 14 meciuri la rând → prob. 11+ faulturi — în 607 cazuri similare istorice, s-a întâmplat de 436 ori (71.8% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Crystal Palace",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 899,
+          "total": 1254,
+          "rate": 71.7,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Crystal Palace a tras 12+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 1254 cazuri similare istorice, s-a întâmplat de 899 ori (71.7% reușită)"
+        }
+      ]
+    },
+    "GzdoKOGd": {
+      "matchId": "GzdoKOGd",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Mainz",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1776366000,
+      "alerts": [
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Strasbourg",
+          "side": "gazda",
+          "streak": 9,
+          "success": 524,
+          "total": 680,
+          "rate": 77.1,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Strasbourg a primit gol în 9 meciuri la rând → prob. să primească gol — în 680 cazuri similare istorice, s-a întâmplat de 524 ori (77.1% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Mainz",
+          "side": "oaspete",
+          "streak": 10,
+          "success": 436,
+          "total": 607,
+          "rate": 71.8,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Mainz a comis 10+ faulturi în 10 meciuri la rând → prob. 11+ faulturi — în 607 cazuri similare istorice, s-a întâmplat de 436 ori (71.8% reușită)"
+        }
+      ]
+    }
+  }
+}
