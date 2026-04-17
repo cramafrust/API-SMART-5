@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "created": "2026-04-17",
+  "subscribers": [
+    {
+      "id": "florian_admin",
+      "email": "",
+      "name": "Florian",
+      "role": "admin",
+      "plan": "premium",
+      "active": true,
+      "preferences": {
+        "notify_ht": true,
+        "notify_prematch": true,
+        "notify_results": true,
+        "min_prob_ht": 70,
+        "min_prob_prematch": 75,
+        "leagues": [],
+        "patterns": []
+      },
+      "created_at": "2026-04-17",
+      "notes": "Owner — primește tot"
+    }
+  ]
+}
