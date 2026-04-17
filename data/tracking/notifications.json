@@ -83910,7 +83910,7 @@
       "minute_odd_1_50": "20:53:13",
       "minute_odd_2_00": "20:53:14",
       "minute_fulfilled": null,
-      "status": "MONITORING",
+      "status": "COMPLETED",
       "pattern": {
         "name": "PATTERN_2.5",
         "team": "gazda",
@@ -83919,12 +83919,14 @@
         "isEstimate": false
       },
       "created_at": "2026-04-17T17:51:22.547Z",
-      "updated_at": "2026-04-17T17:53:14.720Z",
+      "updated_at": "2026-04-17T18:43:32.749Z",
       "initialOdd": 1.55,
       "odds": {
         "superbet": 1.55,
         "description": "Djurgarden peste 0.5 goluri"
-      }
+      },
+      "result": "EXPIRED",
+      "failureReason": "Meci prea avansat (min 84 > 80) - STOP monitorizare cote"
     },
     {
       "id": "WOHcQU3c_1776448348248",
@@ -83940,7 +83942,7 @@
       "minute_odd_1_50": null,
       "minute_odd_2_00": null,
       "minute_fulfilled": null,
-      "status": "MONITORING",
+      "status": "COMPLETED",
       "pattern": {
         "name": "PATTERN_3.3",
         "team": "meci",
@@ -83949,12 +83951,14 @@
         "isEstimate": true
       },
       "created_at": "2026-04-17T17:52:28.248Z",
-      "updated_at": "2026-04-17T17:52:28.248Z",
+      "updated_at": "2026-04-17T18:43:34.410Z",
       "initialOdd": 1.12,
       "odds": {
         "superbet": 1.12,
         "description": "Încă un gol (peste 3.5)"
-      }
+      },
+      "result": "EXPIRED",
+      "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote"
     }
   ]
 }
