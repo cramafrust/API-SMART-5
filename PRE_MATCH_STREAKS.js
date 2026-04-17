@@ -902,6 +902,25 @@ async function sendTop30PreMatchEmail() {
         if (result.success) {
             logger.info(`   🏆 Email TOP 30 prematch trimis: ${top30.length} pronosticuri (${maxRate}% - ${minRate}%)`);
 
+            // Trimite la abonați
+            try {
+                const { notifyAll } = require('./SUBSCRIBER_MANAGER');
+                for (const a of top30) {
+                    await notifyAll('prematch', {
+                        matchId: a.matchId,
+                        homeTeam: a.homeTeam,
+                        awayTeam: a.awayTeam,
+                        league: a.liga,
+                        pattern: a.patternId,
+                        probability: a.rate,
+                        label: a.label,
+                        date: today,
+                    });
+                }
+            } catch (subErr) {
+                logger.debug(`   ⚠️  Subscriber prematch: ${subErr.message}`);
+            }
+
             // Salvează predicțiile TOP 30 în tracker pentru validare automată
             // Grupează alertele pe matchId pentru formatul așteptat de PrematchTracker
             const matchGroups = {};

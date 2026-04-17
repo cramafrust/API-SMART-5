@@ -356,6 +356,24 @@ class EmailNotifier {
 
             logger.info(`   ✅ Email trimis cu ${dedupedPatterns.length} pattern-uri: ${result.messageId}`);
 
+            // 4.5. TRIMITE LA ABONAȚI
+            try {
+                const { notifyAll } = require('./SUBSCRIBER_MANAGER');
+                for (const pattern of dedupedPatterns) {
+                    await notifyAll('ht', {
+                        matchId: matchData.matchId,
+                        homeTeam,
+                        awayTeam,
+                        league: matchData.leagueName || '',
+                        pattern: pattern.name,
+                        probability: pattern.probability,
+                    });
+                }
+            } catch (subErr) {
+                // Nu blocăm fluxul principal
+                logger.debug(`   ⚠️  Subscriber notify: ${subErr.message}`);
+            }
+
             // 5. ACTUALIZEAZĂ COTELE pe notificările existente din tracking
             logger.info(`\n   📊 Actualizare cote în tracking...`);
 
