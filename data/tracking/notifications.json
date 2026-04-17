@@ -83959,6 +83959,66 @@
       },
       "result": "EXPIRED",
       "failureReason": "Meci prea avansat (min 83 > 80) - STOP monitorizare cote"
+    },
+    {
+      "id": "UHDmneiR_1776454676934",
+      "date": "17.04.2026",
+      "timestamp": 1776454676934,
+      "match": "Lens vs Toulouse",
+      "matchId": "UHDmneiR",
+      "homeTeam": "Lens",
+      "awayTeam": "Toulouse",
+      "event": "Meci va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 84.57,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "MONITORING",
+      "pattern": {
+        "name": "PATTERN_25",
+        "team": "meci",
+        "tier": "TOP_1-5",
+        "position": 2,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-17T19:37:56.934Z",
+      "updated_at": "2026-04-17T19:37:56.934Z",
+      "initialOdd": 1.08,
+      "odds": {
+        "superbet": 1.08,
+        "description": "Încă un gol (peste 2.5)"
+      }
+    },
+    {
+      "id": "UHDmneiR_1776454677084",
+      "date": "17.04.2026",
+      "timestamp": 1776454677084,
+      "match": "Lens vs Toulouse",
+      "matchId": "UHDmneiR",
+      "homeTeam": "Lens",
+      "awayTeam": "Toulouse",
+      "event": "Lens va marca în repriza 2",
+      "initial_odd": 1.25,
+      "probability": 75,
+      "minute_odd_1_50": null,
+      "minute_odd_2_00": null,
+      "minute_fulfilled": null,
+      "status": "MONITORING",
+      "pattern": {
+        "name": "PATTERN_1.2",
+        "team": "gazda",
+        "tier": "TOP_1-5",
+        "position": 2,
+        "isEstimate": false
+      },
+      "created_at": "2026-04-17T19:37:57.084Z",
+      "updated_at": "2026-04-17T19:37:57.084Z",
+      "initialOdd": 1.11,
+      "odds": {
+        "superbet": 1.11,
+        "description": "Lens peste 0.5 goluri"
+      }
     }
   ]
 }
