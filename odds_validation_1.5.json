@@ -2354,5 +2354,53 @@
     "validation_result": null,
     "validation_timestamp": null,
     "date": "17.04.2026"
+  },
+  {
+    "id": "IT5v7opK_1776615828957",
+    "match": "Javor vs Sp. Subotica",
+    "homeTeam": "Javor",
+    "awayTeam": "Sp. Subotica",
+    "event": "Sp. Subotica va marca în repriza 2",
+    "pattern": {
+      "name": "PATTERN_2.4",
+      "team": "oaspete",
+      "tier": "LOW_11-15",
+      "position": 15,
+      "isEstimate": false
+    },
+    "probability": 80,
+    "odd_1_5_reached": true,
+    "odd_1_5_value": 1.78,
+    "odd_1_5_type": "Sp. Subotica > 0.5",
+    "odd_1_5_timestamp": "2026-04-19T16:24:36.023Z",
+    "odd_1_5_minute": "19:24:36",
+    "validated": false,
+    "validation_result": null,
+    "validation_timestamp": null,
+    "date": "19.04.2026"
+  },
+  {
+    "id": "tIQAG22K_1776628378259",
+    "match": "Coritiba vs Atletico-MG",
+    "homeTeam": "Coritiba",
+    "awayTeam": "Atletico-MG",
+    "event": "Atletico-MG va marca în repriza 2",
+    "pattern": {
+      "name": "PATTERN_2.5",
+      "team": "oaspete",
+      "tier": "LOW_11-15",
+      "position": 11,
+      "isEstimate": false
+    },
+    "probability": 84.62,
+    "odd_1_5_reached": true,
+    "odd_1_5_value": 13,
+    "odd_1_5_type": "Atletico-MG > 2.5",
+    "odd_1_5_timestamp": "2026-04-19T19:54:36.371Z",
+    "odd_1_5_minute": "22:54:36",
+    "validated": false,
+    "validation_result": null,
+    "validation_timestamp": null,
+    "date": "19.04.2026"
   }
 ]
