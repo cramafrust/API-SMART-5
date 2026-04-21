@@ -1,0 +1,824 @@
+{
+  "_meta": {
+    "generatedAt": "2026-04-21T05:03:23.220Z",
+    "date": "21.04.2026",
+    "totalMatches": 20,
+    "totalAlerts": 52
+  },
+  "matches": {
+    "hCkiXyf3": {
+      "matchId": "hCkiXyf3",
+      "homeTeam": "Altach",
+      "awayTeam": "Tirol",
+      "liga": "AUSTRIA: Bundesliga - Relegation Group",
+      "ora": "19:30",
+      "timestamp": 1776789000,
+      "alerts": [
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Tirol",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 6,
+          "total": 6,
+          "rate": 100,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Tirol meciurile au avut 3+ goluri TOTAL în 5 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 6 cazuri similare istorice, s-a întâmplat de 6 ori (100% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Tirol",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 32,
+          "total": 37,
+          "rate": 86.5,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Tirol a primit gol în 5 meciuri la rând → prob. să primească gol — în 37 cazuri similare istorice, s-a întâmplat de 32 ori (86.5% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Altach",
+          "side": "gazda",
+          "streak": 7,
+          "success": 11,
+          "total": 16,
+          "rate": 68.8,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Altach a comis 10+ faulturi în 7 meciuri la rând → prob. 11+ faulturi — în 16 cazuri similare istorice, s-a întâmplat de 11 ori (68.8% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Altach",
+          "side": "gazda",
+          "streak": 5,
+          "success": 26,
+          "total": 38,
+          "rate": 68.4,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Altach a marcat în 5 meciuri la rând → prob. să marcheze și acum — în 38 cazuri similare istorice, s-a întâmplat de 26 ori (68.4% reușită)"
+        }
+      ]
+    },
+    "0I259Y1d": {
+      "matchId": "0I259Y1d",
+      "homeTeam": "BW Linz",
+      "awayTeam": "Wolfsberger AC",
+      "liga": "AUSTRIA: Bundesliga - Relegation Group",
+      "ora": "19:30",
+      "timestamp": 1776789000,
+      "alerts": [
+        {
+          "patternId": "S09",
+          "category": "CORNERE",
+          "team": "Wolfsberger AC",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 17,
+          "total": 20,
+          "rate": 85,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Wolfsberger AC a avut 5+ cornere în 4 meciuri la rând → prob. să aibă 3+ cornere — în 20 cazuri similare istorice, s-a întâmplat de 17 ori (85% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "BW Linz",
+          "side": "gazda",
+          "streak": 7,
+          "success": 46,
+          "total": 64,
+          "rate": 71.9,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "BW Linz a avut 4+ șuturi pe poartă în 7 meciuri la rând → prob. 3+ — în 64 cazuri similare istorice, s-a întâmplat de 46 ori (71.9% reușită)"
+        }
+      ]
+    },
+    "vTmaVFOF": {
+      "matchId": "vTmaVFOF",
+      "homeTeam": "Ried",
+      "awayTeam": "Grazer AK",
+      "liga": "AUSTRIA: Bundesliga - Relegation Group",
+      "ora": "21:30",
+      "timestamp": 1776796200,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Ried",
+          "side": "gazda",
+          "streak": 5,
+          "success": 26,
+          "total": 31,
+          "rate": 83.9,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Ried a luat 2+ cartonașe în 5 meciuri la rând → prob. 1+ cartonaș — în 31 cazuri similare istorice, s-a întâmplat de 26 ori (83.9% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Grazer AK",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 15,
+          "total": 19,
+          "rate": 78.9,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Grazer AK a primit gol în 4 meciuri la rând → prob. să primească gol — în 19 cazuri similare istorice, s-a întâmplat de 15 ori (78.9% reușită)"
+        },
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Ried",
+          "side": "gazda",
+          "streak": 3,
+          "success": 39,
+          "total": 51,
+          "rate": 76.5,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Ried a avut 4+ cornere în 3 meciuri la rând → prob. să aibă 3+ cornere — în 51 cazuri similare istorice, s-a întâmplat de 39 ori (76.5% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Ried",
+          "side": "gazda",
+          "streak": 3,
+          "success": 43,
+          "total": 60,
+          "rate": 71.7,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Ried a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 60 cazuri similare istorice, s-a întâmplat de 43 ori (71.7% reușită)"
+        }
+      ]
+    },
+    "Ya6nhjbt": {
+      "matchId": "Ya6nhjbt",
+      "homeTeam": "Genk",
+      "awayTeam": "Charleroi",
+      "liga": "BELGIUM: Jupiler Pro League - Conference League Group",
+      "ora": "21:30",
+      "timestamp": 1776796200,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Charleroi",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1728,
+          "total": 1930,
+          "rate": 89.5,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Charleroi a luat 2+ cartonașe în 3 meciuri la rând → prob. 1+ cartonaș — în 1930 cazuri similare istorice, s-a întâmplat de 1728 ori (89.5% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Charleroi",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 738,
+          "total": 931,
+          "rate": 79.3,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Charleroi a avut 4+ șuturi pe poartă în 4 meciuri la rând → prob. 3+ — în 931 cazuri similare istorice, s-a întâmplat de 738 ori (79.3% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Genk",
+          "side": "gazda",
+          "streak": 3,
+          "success": 1689,
+          "total": 2206,
+          "rate": 76.6,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Genk a primit gol în 3 meciuri la rând → prob. să primească gol — în 2206 cazuri similare istorice, s-a întâmplat de 1689 ori (76.6% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Genk",
+          "side": "gazda",
+          "streak": 4,
+          "success": 582,
+          "total": 760,
+          "rate": 76.6,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Genk meciurile au avut 3+ goluri TOTAL în 4 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 760 cazuri similare istorice, s-a întâmplat de 582 ori (76.6% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Charleroi",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 931,
+          "total": 1225,
+          "rate": 76,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Charleroi a primit gol în 5 meciuri la rând → prob. să primească gol — în 1225 cazuri similare istorice, s-a întâmplat de 931 ori (76% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Genk",
+          "side": "gazda",
+          "streak": 4,
+          "success": 631,
+          "total": 847,
+          "rate": 74.5,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Genk a comis 12+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 847 cazuri similare istorice, s-a întâmplat de 631 ori (74.5% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Charleroi",
+          "side": "oaspete",
+          "streak": 11,
+          "success": 436,
+          "total": 607,
+          "rate": 71.8,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Charleroi a comis 10+ faulturi în 11 meciuri la rând → prob. 11+ faulturi — în 607 cazuri similare istorice, s-a întâmplat de 436 ori (71.8% reușită)"
+        }
+      ]
+    },
+    "Kf1lHcX8": {
+      "matchId": "Kf1lHcX8",
+      "homeTeam": "Leuven",
+      "awayTeam": "Westerlo",
+      "liga": "BELGIUM: Jupiler Pro League - Conference League Group",
+      "ora": "21:30",
+      "timestamp": 1776796200,
+      "alerts": [
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Leuven",
+          "side": "gazda",
+          "streak": 5,
+          "success": 931,
+          "total": 1225,
+          "rate": 76,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Leuven a primit gol în 5 meciuri la rând → prob. să primească gol — în 1225 cazuri similare istorice, s-a întâmplat de 931 ori (76% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Westerlo",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 959,
+          "total": 1388,
+          "rate": 69.1,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Westerlo a comis 10+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 1388 cazuri similare istorice, s-a întâmplat de 959 ori (69.1% reușită)"
+        }
+      ]
+    },
+    "UNN84Km3": {
+      "matchId": "UNN84Km3",
+      "homeTeam": "St. Liege",
+      "awayTeam": "Antwerp",
+      "liga": "BELGIUM: Jupiler Pro League - Conference League Group",
+      "ora": "21:30",
+      "timestamp": 1776796200,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 735,
+          "total": 799,
+          "rate": 92,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Antwerp a luat 2+ cartonașe în 5 meciuri la rând → prob. 1+ cartonaș — în 799 cazuri similare istorice, s-a întâmplat de 735 ori (92% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 6,
+          "success": 192,
+          "total": 235,
+          "rate": 81.7,
+          "streakUsed": 6,
+          "source": "global",
+          "label": "Antwerp a tras 12+ șuturi în 6 meciuri la rând → prob. 10+ șuturi — în 235 cazuri similare istorice, s-a întâmplat de 192 ori (81.7% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 6,
+          "success": 285,
+          "total": 356,
+          "rate": 80.1,
+          "streakUsed": 6,
+          "source": "global",
+          "label": "Antwerp a comis 12+ faulturi în 6 meciuri la rând → prob. 11+ faulturi — în 356 cazuri similare istorice, s-a întâmplat de 285 ori (80.1% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 761,
+          "total": 1067,
+          "rate": 71.3,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Antwerp a marcat în 5 meciuri la rând → prob. să marcheze și acum — în 1067 cazuri similare istorice, s-a întâmplat de 761 ori (71.3% reușită)"
+        }
+      ]
+    },
+    "487vUdAl": {
+      "matchId": "487vUdAl",
+      "homeTeam": "Coventry",
+      "awayTeam": "Portsmouth",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1776797100,
+      "alerts": [
+        {
+          "patternId": "WIN_STREAK",
+          "category": "VICTORII",
+          "team": "Portsmouth",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 12,
+          "total": 14,
+          "rate": 85.7,
+          "label": "Portsmouth are 3 victorii la rând — în 14 cazuri similare istorice, 12 au câștigat și următorul meci (85.7% reușită)"
+        }
+      ]
+    },
+    "lG5P0eoQ": {
+      "matchId": "lG5P0eoQ",
+      "homeTeam": "Leicester",
+      "awayTeam": "Hull",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1776797100,
+      "alerts": [
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Leicester",
+          "side": "gazda",
+          "streak": 5,
+          "success": 55,
+          "total": 62,
+          "rate": 88.7,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Leicester a avut 4+ cornere în 5 meciuri la rând → prob. să aibă 3+ cornere — în 62 cazuri similare istorice, s-a întâmplat de 55 ori (88.7% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Leicester",
+          "side": "gazda",
+          "streak": 4,
+          "success": 93,
+          "total": 115,
+          "rate": 80.9,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Leicester a primit gol în 4 meciuri la rând → prob. să primească gol — în 115 cazuri similare istorice, s-a întâmplat de 93 ori (80.9% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Hull",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 64,
+          "total": 84,
+          "rate": 76.2,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Hull a tras 12+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 84 cazuri similare istorice, s-a întâmplat de 64 ori (76.2% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Leicester",
+          "side": "gazda",
+          "streak": 5,
+          "success": 22,
+          "total": 30,
+          "rate": 73.3,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Leicester a tras 12+ șuturi în 5 meciuri la rând → prob. 10+ șuturi — în 30 cazuri similare istorice, s-a întâmplat de 22 ori (73.3% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Leicester",
+          "side": "gazda",
+          "streak": 3,
+          "success": 69,
+          "total": 142,
+          "rate": 48.6,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Leicester a comis 10+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 142 cazuri similare istorice, s-a întâmplat de 69 ori (48.6% reușită)"
+        }
+      ]
+    },
+    "6X3eQE9D": {
+      "matchId": "6X3eQE9D",
+      "homeTeam": "Norwich",
+      "awayTeam": "Derby",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1776797100,
+      "alerts": [
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Norwich",
+          "side": "gazda",
+          "streak": 8,
+          "success": 35,
+          "total": 37,
+          "rate": 94.6,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Norwich a avut 4+ cornere în 8 meciuri la rând → prob. să aibă 3+ cornere — în 37 cazuri similare istorice, s-a întâmplat de 35 ori (94.6% reușită)"
+        },
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Norwich",
+          "side": "gazda",
+          "streak": 6,
+          "success": 31,
+          "total": 33,
+          "rate": 93.9,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "Norwich a luat 2+ cartonașe în 6 meciuri la rând → prob. 1+ cartonaș — în 33 cazuri similare istorice, s-a întâmplat de 31 ori (93.9% reușită)"
+        },
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Derby",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 78,
+          "total": 90,
+          "rate": 86.7,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Derby a luat 2+ cartonașe în 4 meciuri la rând → prob. 1+ cartonaș — în 90 cazuri similare istorice, s-a întâmplat de 78 ori (86.7% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Derby",
+          "side": "oaspete",
+          "streak": 6,
+          "success": 53,
+          "total": 65,
+          "rate": 81.5,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "Derby a marcat în 6 meciuri la rând → prob. să marcheze și acum — în 65 cazuri similare istorice, s-a întâmplat de 53 ori (81.5% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Norwich",
+          "side": "gazda",
+          "streak": 4,
+          "success": 93,
+          "total": 115,
+          "rate": 80.9,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Norwich a primit gol în 4 meciuri la rând → prob. să primească gol — în 115 cazuri similare istorice, s-a întâmplat de 93 ori (80.9% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Derby",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 196,
+          "total": 250,
+          "rate": 78.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Derby a comis 12+ faulturi în 7 meciuri la rând → prob. 11+ faulturi — în 250 cazuri similare istorice, s-a întâmplat de 196 ori (78.4% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Norwich",
+          "side": "gazda",
+          "streak": 3,
+          "success": 64,
+          "total": 84,
+          "rate": 76.2,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Norwich a tras 12+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 84 cazuri similare istorice, s-a întâmplat de 64 ori (76.2% reușită)"
+        }
+      ]
+    },
+    "6mUaE2pp": {
+      "matchId": "6mUaE2pp",
+      "homeTeam": "Oxford Utd",
+      "awayTeam": "Wrexham",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1776797100,
+      "alerts": [
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Oxford Utd",
+          "side": "gazda",
+          "streak": 4,
+          "success": 58,
+          "total": 90,
+          "rate": 64.4,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Oxford Utd a tras 10+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 90 cazuri similare istorice, s-a întâmplat de 58 ori (64.4% reușită)"
+        }
+      ]
+    },
+    "v1S7CtFd": {
+      "matchId": "v1S7CtFd",
+      "homeTeam": "QPR",
+      "awayTeam": "Swansea",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1776797100,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "QPR",
+          "side": "gazda",
+          "streak": 6,
+          "success": 8,
+          "total": 9,
+          "rate": 88.9,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "QPR a luat 2+ cartonașe în 6 meciuri la rând → prob. 1+ cartonaș — în 9 cazuri similare istorice, s-a întâmplat de 8 ori (88.9% reușită)"
+        }
+      ]
+    },
+    "bRjslI1K": {
+      "matchId": "bRjslI1K",
+      "homeTeam": "Southampton",
+      "awayTeam": "Bristol City",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1776797100,
+      "alerts": [
+        {
+          "patternId": "S13",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Southampton",
+          "side": "gazda",
+          "streak": 5,
+          "success": 12,
+          "total": 13,
+          "rate": 92.3,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Southampton a avut 5+ șuturi pe poartă în 5 meciuri la rând → prob. 3+ — în 13 cazuri similare istorice, s-a întâmplat de 12 ori (92.3% reușită)"
+        },
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Southampton",
+          "side": "gazda",
+          "streak": 7,
+          "success": 57,
+          "total": 66,
+          "rate": 86.4,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Southampton a avut 4+ cornere în 7 meciuri la rând → prob. să aibă 3+ cornere — în 66 cazuri similare istorice, s-a întâmplat de 57 ori (86.4% reușită)"
+        },
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Southampton",
+          "side": "gazda",
+          "streak": 5,
+          "success": 5,
+          "total": 6,
+          "rate": 83.3,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Southampton a marcat 2+ goluri în 5 meciuri la rând → prob. să marcheze 1+ gol — în 6 cazuri similare istorice, s-a întâmplat de 5 ori (83.3% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Southampton",
+          "side": "gazda",
+          "streak": 5,
+          "success": 36,
+          "total": 47,
+          "rate": 76.6,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Southampton a tras 12+ șuturi în 5 meciuri la rând → prob. 10+ șuturi — în 47 cazuri similare istorice, s-a întâmplat de 36 ori (76.6% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Southampton",
+          "side": "gazda",
+          "streak": 4,
+          "success": 38,
+          "total": 68,
+          "rate": 55.9,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Southampton meciurile au avut 3+ goluri TOTAL în 4 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 68 cazuri similare istorice, s-a întâmplat de 38 ori (55.9% reușită)"
+        }
+      ]
+    },
+    "IBXDrdPs": {
+      "matchId": "IBXDrdPs",
+      "homeTeam": "Stoke",
+      "awayTeam": "Millwall",
+      "liga": "ENGLAND: Championship",
+      "ora": "21:45",
+      "timestamp": 1776797100,
+      "alerts": [
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Millwall",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 119,
+          "total": 170,
+          "rate": 70,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Millwall a tras 10+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 170 cazuri similare istorice, s-a întâmplat de 119 ori (70% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Millwall",
+          "side": "oaspete",
+          "streak": 24,
+          "success": 50,
+          "total": 73,
+          "rate": 68.5,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Millwall a marcat în 24 meciuri la rând → prob. să marcheze și acum — în 73 cazuri similare istorice, s-a întâmplat de 50 ori (68.5% reușită)"
+        }
+      ]
+    },
+    "jubPoemo": {
+      "matchId": "jubPoemo",
+      "homeTeam": "Brighton",
+      "awayTeam": "Chelsea",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1776798000,
+      "alerts": [
+        {
+          "patternId": "S13",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Brighton",
+          "side": "gazda",
+          "streak": 6,
+          "success": 6,
+          "total": 6,
+          "rate": 100,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "Brighton a avut 5+ șuturi pe poartă în 6 meciuri la rând → prob. 3+ — în 6 cazuri similare istorice, s-a întâmplat de 6 ori (100% reușită)"
+        },
+        {
+          "patternId": "S13",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Chelsea",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 7,
+          "total": 8,
+          "rate": 87.5,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Chelsea a avut 5+ șuturi pe poartă în 5 meciuri la rând → prob. 3+ — în 8 cazuri similare istorice, s-a întâmplat de 7 ori (87.5% reușită)"
+        },
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Chelsea",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 99,
+          "total": 115,
+          "rate": 86.1,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Chelsea a luat 2+ cartonașe în 3 meciuri la rând → prob. 1+ cartonaș — în 115 cazuri similare istorice, s-a întâmplat de 99 ori (86.1% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Brighton",
+          "side": "gazda",
+          "streak": 9,
+          "success": 24,
+          "total": 29,
+          "rate": 82.8,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Brighton a tras 10+ șuturi în 9 meciuri la rând → prob. 10+ șuturi — în 29 cazuri similare istorice, s-a întâmplat de 24 ori (82.8% reușită)"
+        },
+        {
+          "patternId": "S09",
+          "category": "CORNERE",
+          "team": "Chelsea",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 65,
+          "total": 82,
+          "rate": 79.3,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Chelsea a avut 5+ cornere în 3 meciuri la rând → prob. să aibă 3+ cornere — în 82 cazuri similare istorice, s-a întâmplat de 65 ori (79.3% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Chelsea",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 35,
+          "total": 45,
+          "rate": 77.8,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Chelsea a tras 12+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 45 cazuri similare istorice, s-a întâmplat de 35 ori (77.8% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Chelsea",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 70,
+          "total": 106,
+          "rate": 66,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Chelsea a primit gol în 4 meciuri la rând → prob. să primească gol — în 106 cazuri similare istorice, s-a întâmplat de 70 ori (66% reușită)"
+        }
+      ]
+    }
+  }
+}
