@@ -1,0 +1,161 @@
+{
+  "campionat": {
+    "nume": "Jupiler Pro League",
+    "nume_complet": "BELGIUM: Jupiler Pro League - Championship Group",
+    "tara": "BELGIUM",
+    "id_flashscore": "BELGIUMJUPILERPROLEAGUECHAMPIONSHIPGROUP_2025_2026",
+    "sezon": "2025-2026",
+    "sistem_organizare": "GRUPE",
+    "numar_echipe": null,
+    "numar_total_etape": null,
+    "data_start_sezon": null,
+    "data_sfarsit_sezon": null,
+    "explicatie_sistem": null
+  },
+  "meciuri": [
+    {
+      "id_meci": "23YEjw7U",
+      "id_flashscore": "23YEjw7U",
+      "sezon": "2025-2026",
+      "faza": "GRUPE",
+      "etapa": null,
+      "data_ora": {
+        "data": "2026-04-22",
+        "ora": "21:30",
+        "zi_saptamana": "Miercuri"
+      },
+      "echipa_gazda": {
+        "nume": "Royale Union SG",
+        "nume_complet": "Royale Union SG",
+        "pozitie_clasament_inainte": null
+      },
+      "echipa_oaspete": {
+        "nume": "Gent",
+        "nume_complet": "Gent",
+        "pozitie_clasament_inainte": null
+      },
+      "scor": {
+        "final_gazda": 0,
+        "final_oaspete": 0,
+        "pauza_gazda": 0,
+        "pauza_oaspete": 0
+      },
+      "statistici": {
+        "suturi_pe_poarta": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 5,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 5,
+          "total_oaspete": 0
+        },
+        "total_suturi": {
+          "pauza_gazda": 3,
+          "pauza_oaspete": 3,
+          "repriza_2_gazda": 15,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 18,
+          "total_oaspete": 3
+        },
+        "cornere": {
+          "pauza_gazda": 4,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 5,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 9,
+          "total_oaspete": 1
+        },
+        "cartonase_galbene": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 0,
+          "total_oaspete": 3
+        },
+        "cartonase_rosii": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 0,
+          "total_oaspete": 0
+        },
+        "suturi_salvate": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 5,
+          "total_gazda": 0,
+          "total_oaspete": 5
+        },
+        "posesie": {
+          "pauza_gazda": 50,
+          "pauza_oaspete": 50,
+          "repriza_2_gazda": 65,
+          "repriza_2_oaspete": 35,
+          "total_gazda": 57,
+          "total_oaspete": 43
+        },
+        "xG": {
+          "pauza_gazda": 0.19,
+          "pauza_oaspete": 0.26,
+          "repriza_2_gazda": 1.05,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 1.24,
+          "total_oaspete": 0.26
+        },
+        "ocazii_mari": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 2,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 2,
+          "total_oaspete": 0
+        },
+        "ofsaiduri": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 1,
+          "total_gazda": 2,
+          "total_oaspete": 1
+        },
+        "faulturi": {
+          "pauza_gazda": 6,
+          "pauza_oaspete": 6,
+          "repriza_2_gazda": 7,
+          "repriza_2_oaspete": 5,
+          "total_gazda": 13,
+          "total_oaspete": 11
+        },
+        "lovituri_libere": {
+          "pauza_gazda": 6,
+          "pauza_oaspete": 6,
+          "repriza_2_gazda": 5,
+          "repriza_2_oaspete": 7,
+          "total_gazda": 11,
+          "total_oaspete": 13
+        },
+        "suturi_pe_langa": {
+          "pauza_gazda": 3,
+          "pauza_oaspete": 2,
+          "repriza_2_gazda": 5,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 8,
+          "total_oaspete": 2
+        },
+        "aruncari_de_la_margine": {
+          "pauza_gazda": 14,
+          "pauza_oaspete": 10,
+          "repriza_2_gazda": 13,
+          "repriza_2_oaspete": 8,
+          "total_gazda": 27,
+          "total_oaspete": 18
+        }
+      },
+      "tier_gazda": null,
+      "tier_oaspete": null
+    }
+  ]
+}
