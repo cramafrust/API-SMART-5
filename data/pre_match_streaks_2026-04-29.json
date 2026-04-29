@@ -1,0 +1,157 @@
+{
+  "_meta": {
+    "generatedAt": "2026-04-29T05:02:32.660Z",
+    "date": "29.04.2026",
+    "totalMatches": 20,
+    "totalAlerts": 9
+  },
+  "matches": {
+    "YFHWul74": {
+      "matchId": "YFHWul74",
+      "homeTeam": "Tromso",
+      "awayTeam": "Brann",
+      "liga": "NORWAY: Eliteserien",
+      "ora": "20:00",
+      "timestamp": 1777482000,
+      "alerts": [
+        {
+          "patternId": "S09",
+          "category": "CORNERE",
+          "team": "Brann",
+          "side": "oaspete",
+          "streak": 8,
+          "success": 24,
+          "total": 27,
+          "rate": 88.9,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Brann a avut 5+ cornere în 8 meciuri la rând → prob. să aibă 3+ cornere — în 27 cazuri similare istorice, s-a întâmplat de 24 ori (88.9% reușită)"
+        },
+        {
+          "patternId": "S13",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Tromso",
+          "side": "gazda",
+          "streak": 8,
+          "success": 41,
+          "total": 49,
+          "rate": 83.7,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Tromso a avut 5+ șuturi pe poartă în 8 meciuri la rând → prob. 3+ — în 49 cazuri similare istorice, s-a întâmplat de 41 ori (83.7% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Brann",
+          "side": "oaspete",
+          "streak": 9,
+          "success": 147,
+          "total": 184,
+          "rate": 79.9,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Brann a primit gol în 9 meciuri la rând → prob. să primească gol — în 184 cazuri similare istorice, s-a întâmplat de 147 ori (79.9% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Tromso",
+          "side": "gazda",
+          "streak": 11,
+          "success": 115,
+          "total": 147,
+          "rate": 78.2,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Tromso a tras 12+ șuturi în 11 meciuri la rând → prob. 10+ șuturi — în 147 cazuri similare istorice, s-a întâmplat de 115 ori (78.2% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Brann",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 7,
+          "total": 9,
+          "rate": 77.8,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Brann a avut 4+ șuturi pe poartă în 4 meciuri la rând → prob. 3+ — în 9 cazuri similare istorice, s-a întâmplat de 7 ori (77.8% reușită)"
+        }
+      ]
+    },
+    "rX6hagpg": {
+      "matchId": "rX6hagpg",
+      "homeTeam": "Atl. Madrid",
+      "awayTeam": "Arsenal",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1777489200,
+      "alerts": [
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Arsenal",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 3037,
+          "total": 3764,
+          "rate": 80.7,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Arsenal a avut 4+ cornere în 3 meciuri la rând → prob. să aibă 3+ cornere — în 3764 cazuri similare istorice, s-a întâmplat de 3037 ori (80.7% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Atl. Madrid",
+          "side": "gazda",
+          "streak": 15,
+          "success": 406,
+          "total": 561,
+          "rate": 72.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Atl. Madrid a marcat în 15 meciuri la rând → prob. să marcheze și acum — în 561 cazuri similare istorice, s-a întâmplat de 406 ori (72.4% reușită)"
+        }
+      ]
+    },
+    "Ya1ycHJ5": {
+      "matchId": "Ya1ycHJ5",
+      "homeTeam": "Sporting CP",
+      "awayTeam": "Tondela",
+      "liga": "PORTUGAL: Liga Portugal",
+      "ora": "22:15",
+      "timestamp": 1777490100,
+      "alerts": [
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Sporting CP",
+          "side": "gazda",
+          "streak": 6,
+          "success": 39,
+          "total": 47,
+          "rate": 83,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "Sporting CP a tras 10+ șuturi în 6 meciuri la rând → prob. 10+ șuturi — în 47 cazuri similare istorice, s-a întâmplat de 39 ori (83% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Sporting CP",
+          "side": "gazda",
+          "streak": 6,
+          "success": 45,
+          "total": 63,
+          "rate": 71.4,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "Sporting CP a marcat în 6 meciuri la rând → prob. să marcheze și acum — în 63 cazuri similare istorice, s-a întâmplat de 45 ori (71.4% reușită)"
+        }
+      ]
+    }
+  }
+}
