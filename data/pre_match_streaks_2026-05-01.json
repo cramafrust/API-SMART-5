@@ -1,0 +1,633 @@
+{
+  "_meta": {
+    "generatedAt": "2026-05-01T05:03:20.128Z",
+    "date": "01.05.2026",
+    "totalMatches": 22,
+    "totalAlerts": 41
+  },
+  "matches": {
+    "SEWEJ9e5": {
+      "matchId": "SEWEJ9e5",
+      "homeTeam": "Rizespor",
+      "awayTeam": "Konyaspor",
+      "liga": "TURKEY: Super Lig",
+      "ora": "17:00",
+      "timestamp": 1777644000,
+      "alerts": [
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Konyaspor",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 7,
+          "total": 7,
+          "rate": 100,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Konyaspor a marcat 2+ goluri în 4 meciuri la rând → prob. să marcheze 1+ gol — în 7 cazuri similare istorice, s-a întâmplat de 7 ori (100% reușită)"
+        },
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Rizespor",
+          "side": "gazda",
+          "streak": 7,
+          "success": 9,
+          "total": 10,
+          "rate": 90,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Rizespor a luat 2+ cartonașe în 7 meciuri la rând → prob. 1+ cartonaș — în 10 cazuri similare istorice, s-a întâmplat de 9 ori (90% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Konyaspor",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 23,
+          "total": 30,
+          "rate": 76.7,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Konyaspor a comis 12+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 30 cazuri similare istorice, s-a întâmplat de 23 ori (76.7% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Konyaspor",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 41,
+          "total": 58,
+          "rate": 70.7,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Konyaspor a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 58 cazuri similare istorice, s-a întâmplat de 41 ori (70.7% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Rizespor",
+          "side": "gazda",
+          "streak": 6,
+          "success": 23,
+          "total": 33,
+          "rate": 69.7,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "Rizespor a primit gol în 6 meciuri la rând → prob. să primească gol — în 33 cazuri similare istorice, s-a întâmplat de 23 ori (69.7% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Rizespor",
+          "side": "gazda",
+          "streak": 13,
+          "success": 17,
+          "total": 26,
+          "rate": 65.4,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Rizespor a comis 10+ faulturi în 13 meciuri la rând → prob. 11+ faulturi — în 26 cazuri similare istorice, s-a întâmplat de 17 ori (65.4% reușită)"
+        }
+      ]
+    },
+    "xWUaLamD": {
+      "matchId": "xWUaLamD",
+      "homeTeam": "Korona Kielce",
+      "awayTeam": "Piast Gliwice",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "18:30",
+      "timestamp": 1777649400,
+      "alerts": [
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Korona Kielce",
+          "side": "gazda",
+          "streak": 5,
+          "success": 29,
+          "total": 34,
+          "rate": 85.3,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Korona Kielce a avut 4+ cornere în 5 meciuri la rând → prob. să aibă 3+ cornere — în 34 cazuri similare istorice, s-a întâmplat de 29 ori (85.3% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Korona Kielce",
+          "side": "gazda",
+          "streak": 5,
+          "success": 16,
+          "total": 19,
+          "rate": 84.2,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Korona Kielce a tras 12+ șuturi în 5 meciuri la rând → prob. 10+ șuturi — în 19 cazuri similare istorice, s-a întâmplat de 16 ori (84.2% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Korona Kielce",
+          "side": "gazda",
+          "streak": 4,
+          "success": 42,
+          "total": 54,
+          "rate": 77.8,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Korona Kielce a primit gol în 4 meciuri la rând → prob. să primească gol — în 54 cazuri similare istorice, s-a întâmplat de 42 ori (77.8% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Piast Gliwice",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 14,
+          "total": 19,
+          "rate": 73.7,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Piast Gliwice a primit gol în 7 meciuri la rând → prob. să primească gol — în 19 cazuri similare istorice, s-a întâmplat de 14 ori (73.7% reușită)"
+        }
+      ]
+    },
+    "42WjT14F": {
+      "matchId": "42WjT14F",
+      "homeTeam": "Viking",
+      "awayTeam": "Rosenborg",
+      "liga": "NORWAY: Eliteserien",
+      "ora": "19:00",
+      "timestamp": 1777651200,
+      "alerts": [
+        {
+          "patternId": "S09",
+          "category": "CORNERE",
+          "team": "Rosenborg",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 13,
+          "total": 14,
+          "rate": 92.9,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Rosenborg a avut 5+ cornere în 3 meciuri la rând → prob. să aibă 3+ cornere — în 14 cazuri similare istorice, s-a întâmplat de 13 ori (92.9% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Viking",
+          "side": "gazda",
+          "streak": 7,
+          "success": 12,
+          "total": 13,
+          "rate": 92.3,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Viking a avut 4+ șuturi pe poartă în 7 meciuri la rând → prob. 3+ — în 13 cazuri similare istorice, s-a întâmplat de 12 ori (92.3% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Viking",
+          "side": "gazda",
+          "streak": 7,
+          "success": 15,
+          "total": 18,
+          "rate": 83.3,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Viking a tras 10+ șuturi în 7 meciuri la rând → prob. 10+ șuturi — în 18 cazuri similare istorice, s-a întâmplat de 15 ori (83.3% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Viking",
+          "side": "gazda",
+          "streak": 14,
+          "success": 36,
+          "total": 44,
+          "rate": 81.8,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Viking a marcat în 14 meciuri la rând → prob. să marcheze și acum — în 44 cazuri similare istorice, s-a întâmplat de 36 ori (81.8% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Viking",
+          "side": "gazda",
+          "streak": 3,
+          "success": 75,
+          "total": 96,
+          "rate": 78.1,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Viking meciurile au avut 3+ goluri TOTAL în 3 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 96 cazuri similare istorice, s-a întâmplat de 75 ori (78.1% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Viking",
+          "side": "gazda",
+          "streak": 14,
+          "success": 9,
+          "total": 16,
+          "rate": 56.3,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Viking a marcat în R1 în 14 meciuri la rând → prob. să marcheze în R1 — în 16 cazuri similare istorice, s-a întâmplat de 9 ori (56.3% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Rosenborg",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 5,
+          "total": 15,
+          "rate": 33.3,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Rosenborg a comis 10+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 15 cazuri similare istorice, s-a întâmplat de 5 ori (33.3% reușită)"
+        }
+      ]
+    },
+    "OtQNHmQH": {
+      "matchId": "OtQNHmQH",
+      "homeTeam": "Gaziantep",
+      "awayTeam": "Besiktas",
+      "liga": "TURKEY: Super Lig",
+      "ora": "20:00",
+      "timestamp": 1777654800,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Gaziantep",
+          "side": "gazda",
+          "streak": 4,
+          "success": 39,
+          "total": 43,
+          "rate": 90.7,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Gaziantep a luat 2+ cartonașe în 4 meciuri la rând → prob. 1+ cartonaș — în 43 cazuri similare istorice, s-a întâmplat de 39 ori (90.7% reușită)"
+        },
+        {
+          "patternId": "S09",
+          "category": "CORNERE",
+          "team": "Besiktas",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 67,
+          "total": 75,
+          "rate": 89.3,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Besiktas a avut 5+ cornere în 4 meciuri la rând → prob. să aibă 3+ cornere — în 75 cazuri similare istorice, s-a întâmplat de 67 ori (89.3% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Gaziantep",
+          "side": "gazda",
+          "streak": 3,
+          "success": 44,
+          "total": 51,
+          "rate": 86.3,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Gaziantep meciurile au avut 3+ goluri TOTAL în 3 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 51 cazuri similare istorice, s-a întâmplat de 44 ori (86.3% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Besiktas",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 18,
+          "total": 23,
+          "rate": 78.3,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Besiktas a tras 12+ șuturi în 7 meciuri la rând → prob. 10+ șuturi — în 23 cazuri similare istorice, s-a întâmplat de 18 ori (78.3% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Gaziantep",
+          "side": "gazda",
+          "streak": 7,
+          "success": 11,
+          "total": 16,
+          "rate": 68.8,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Gaziantep a tras 10+ șuturi în 7 meciuri la rând → prob. 10+ șuturi — în 16 cazuri similare istorice, s-a întâmplat de 11 ori (68.8% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Gaziantep",
+          "side": "gazda",
+          "streak": 12,
+          "success": 17,
+          "total": 26,
+          "rate": 65.4,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Gaziantep a comis 10+ faulturi în 12 meciuri la rând → prob. 11+ faulturi — în 26 cazuri similare istorice, s-a întâmplat de 17 ori (65.4% reușită)"
+        }
+      ]
+    },
+    "84P0FIJt": {
+      "matchId": "84P0FIJt",
+      "homeTeam": "Csikszereda M. Ciuc",
+      "awayTeam": "FCSB",
+      "liga": "ROMANIA: Superliga - Relegation Group",
+      "ora": "20:30",
+      "timestamp": 1777656600,
+      "alerts": [
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "FCSB",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 5,
+          "total": 5,
+          "rate": 100,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "FCSB meciurile au avut 3+ goluri TOTAL în 3 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 5 cazuri similare istorice, s-a întâmplat de 5 ori (100% reușită)"
+        },
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "FCSB",
+          "side": "oaspete",
+          "streak": 8,
+          "success": 75,
+          "total": 94,
+          "rate": 79.8,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "FCSB a avut 4+ cornere în 8 meciuri la rând → prob. să aibă 3+ cornere — în 94 cazuri similare istorice, s-a întâmplat de 75 ori (79.8% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "FCSB",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 11,
+          "total": 14,
+          "rate": 78.6,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "FCSB a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 14 cazuri similare istorice, s-a întâmplat de 11 ori (78.6% reușită)"
+        },
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "FCSB",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 127,
+          "total": 162,
+          "rate": 78.4,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "FCSB a marcat 2+ goluri în 3 meciuri la rând → prob. să marcheze 1+ gol — în 162 cazuri similare istorice, s-a întâmplat de 127 ori (78.4% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "FCSB",
+          "side": "oaspete",
+          "streak": 16,
+          "success": 74,
+          "total": 107,
+          "rate": 69.2,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "FCSB a tras 10+ șuturi în 16 meciuri la rând → prob. 10+ șuturi — în 107 cazuri similare istorice, s-a întâmplat de 74 ori (69.2% reușită)"
+        }
+      ]
+    },
+    "4rq3AzLO": {
+      "matchId": "4rq3AzLO",
+      "homeTeam": "Waalwijk",
+      "awayTeam": "Roda",
+      "liga": "NETHERLANDS: Eredivisie - Relegation - Play Offs",
+      "ora": "21:00",
+      "timestamp": 1777658400,
+      "alerts": [
+        {
+          "patternId": "S13",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Waalwijk",
+          "side": "gazda",
+          "streak": 3,
+          "success": 44,
+          "total": 51,
+          "rate": 86.3,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Waalwijk a avut 5+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 51 cazuri similare istorice, s-a întâmplat de 44 ori (86.3% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Waalwijk",
+          "side": "gazda",
+          "streak": 4,
+          "success": 73,
+          "total": 86,
+          "rate": 84.9,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Waalwijk a primit gol în 4 meciuri la rând → prob. să primească gol — în 86 cazuri similare istorice, s-a întâmplat de 73 ori (84.9% reușită)"
+        },
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Waalwijk",
+          "side": "gazda",
+          "streak": 5,
+          "success": 29,
+          "total": 36,
+          "rate": 80.6,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Waalwijk a avut 4+ cornere în 5 meciuri la rând → prob. să aibă 3+ cornere — în 36 cazuri similare istorice, s-a întâmplat de 29 ori (80.6% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Waalwijk",
+          "side": "gazda",
+          "streak": 4,
+          "success": 30,
+          "total": 38,
+          "rate": 78.9,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Waalwijk a tras 12+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 38 cazuri similare istorice, s-a întâmplat de 30 ori (78.9% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Roda",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 46,
+          "total": 87,
+          "rate": 52.9,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Roda a comis 10+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 87 cazuri similare istorice, s-a întâmplat de 46 ori (52.9% reușită)"
+        }
+      ]
+    },
+    "GnmSODx8": {
+      "matchId": "GnmSODx8",
+      "homeTeam": "Legia",
+      "awayTeam": "Widzew Lodz",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1777660200,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Widzew Lodz",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 27,
+          "total": 33,
+          "rate": 81.8,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Widzew Lodz a luat 2+ cartonașe în 3 meciuri la rând → prob. 1+ cartonaș — în 33 cazuri similare istorice, s-a întâmplat de 27 ori (81.8% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Legia",
+          "side": "gazda",
+          "streak": 3,
+          "success": 17,
+          "total": 21,
+          "rate": 81,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Legia a comis 12+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 21 cazuri similare istorice, s-a întâmplat de 17 ori (81% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Widzew Lodz",
+          "side": "oaspete",
+          "streak": 14,
+          "success": 4,
+          "total": 6,
+          "rate": 66.7,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Widzew Lodz a comis 12+ faulturi în 14 meciuri la rând → prob. 11+ faulturi — în 6 cazuri similare istorice, s-a întâmplat de 4 ori (66.7% reușită)"
+        }
+      ]
+    },
+    "Sz3IKFZR": {
+      "matchId": "Sz3IKFZR",
+      "homeTeam": "Livingston",
+      "awayTeam": "Aberdeen",
+      "liga": "SCOTLAND: Premiership - Relegation Group",
+      "ora": "21:45",
+      "timestamp": 1777661100,
+      "alerts": [
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Livingston",
+          "side": "gazda",
+          "streak": 3,
+          "success": 16,
+          "total": 20,
+          "rate": 80,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Livingston a marcat 2+ goluri în 3 meciuri la rând → prob. să marcheze 1+ gol — în 20 cazuri similare istorice, s-a întâmplat de 16 ori (80% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Aberdeen",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 196,
+          "total": 250,
+          "rate": 78.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Aberdeen a comis 12+ faulturi în 7 meciuri la rând → prob. 11+ faulturi — în 250 cazuri similare istorice, s-a întâmplat de 196 ori (78.4% reușită)"
+        }
+      ]
+    },
+    "EBUD9Jdk": {
+      "matchId": "EBUD9Jdk",
+      "homeTeam": "Leeds",
+      "awayTeam": "Burnley",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1777662000,
+      "alerts": [
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Leeds",
+          "side": "gazda",
+          "streak": 3,
+          "success": 20,
+          "total": 24,
+          "rate": 83.3,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Leeds meciurile au avut 3+ goluri TOTAL în 3 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 24 cazuri similare istorice, s-a întâmplat de 20 ori (83.3% reușită)"
+        },
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Leeds",
+          "side": "gazda",
+          "streak": 3,
+          "success": 6,
+          "total": 8,
+          "rate": 75,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Leeds a marcat 2+ goluri în 3 meciuri la rând → prob. să marcheze 1+ gol — în 8 cazuri similare istorice, s-a întâmplat de 6 ori (75% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Leeds",
+          "side": "gazda",
+          "streak": 12,
+          "success": 74,
+          "total": 107,
+          "rate": 69.2,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Leeds a tras 10+ șuturi în 12 meciuri la rând → prob. 10+ șuturi — în 107 cazuri similare istorice, s-a întâmplat de 74 ori (69.2% reușită)"
+        }
+      ]
+    }
+  }
+}
