@@ -732,6 +732,438 @@
       },
       "tier_gazda": null,
       "tier_oaspete": null
+    },
+    {
+      "id_meci": "pAd5VwAj",
+      "id_flashscore": "pAd5VwAj",
+      "sezon": "2025-2026",
+      "faza": "GRUPE",
+      "etapa": null,
+      "data_ora": {
+        "data": "2026-05-02",
+        "ora": "19:00",
+        "zi_saptamana": "Sâmbătă"
+      },
+      "echipa_gazda": {
+        "nume": "Lausanne",
+        "nume_complet": "Lausanne",
+        "pozitie_clasament_inainte": null
+      },
+      "echipa_oaspete": {
+        "nume": "Luzern",
+        "nume_complet": "Luzern",
+        "pozitie_clasament_inainte": null
+      },
+      "scor": {
+        "final_gazda": 1,
+        "final_oaspete": 3,
+        "pauza_gazda": 1,
+        "pauza_oaspete": 0
+      },
+      "statistici": {
+        "suturi_pe_poarta": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 1,
+          "repriza_2_oaspete": 6,
+          "total_gazda": 3,
+          "total_oaspete": 7
+        },
+        "total_suturi": {
+          "pauza_gazda": 7,
+          "pauza_oaspete": 6,
+          "repriza_2_gazda": 5,
+          "repriza_2_oaspete": 10,
+          "total_gazda": 12,
+          "total_oaspete": 16
+        },
+        "cornere": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 3,
+          "repriza_2_oaspete": 6,
+          "total_gazda": 5,
+          "total_oaspete": 7
+        },
+        "cartonase_galbene": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 2,
+          "total_oaspete": 2
+        },
+        "cartonase_rosii": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 0,
+          "total_oaspete": 0
+        },
+        "suturi_salvate": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 3,
+          "repriza_2_oaspete": 1,
+          "total_gazda": 3,
+          "total_oaspete": 2
+        },
+        "posesie": {
+          "pauza_gazda": 53,
+          "pauza_oaspete": 47,
+          "repriza_2_gazda": 44,
+          "repriza_2_oaspete": 56,
+          "total_gazda": 48,
+          "total_oaspete": 52
+        },
+        "xG": {
+          "pauza_gazda": 1.27,
+          "pauza_oaspete": 0.5,
+          "repriza_2_gazda": 0.38,
+          "repriza_2_oaspete": 1.36,
+          "total_gazda": 1.65,
+          "total_oaspete": 1.86
+        },
+        "ocazii_mari": {
+          "pauza_gazda": 3,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 3,
+          "total_oaspete": 2
+        },
+        "ofsaiduri": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 0,
+          "total_oaspete": 1
+        },
+        "faulturi": {
+          "pauza_gazda": 4,
+          "pauza_oaspete": 2,
+          "repriza_2_gazda": 2,
+          "repriza_2_oaspete": 8,
+          "total_gazda": 6,
+          "total_oaspete": 10
+        },
+        "lovituri_libere": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 4,
+          "repriza_2_gazda": 8,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 10,
+          "total_oaspete": 6
+        },
+        "suturi_pe_langa": {
+          "pauza_gazda": 5,
+          "pauza_oaspete": 4,
+          "repriza_2_gazda": 2,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 7,
+          "total_oaspete": 6
+        },
+        "aruncari_de_la_margine": {
+          "pauza_gazda": 13,
+          "pauza_oaspete": 13,
+          "repriza_2_gazda": 8,
+          "repriza_2_oaspete": 14,
+          "total_gazda": 21,
+          "total_oaspete": 27
+        }
+      },
+      "tier_gazda": null,
+      "tier_oaspete": null
+    },
+    {
+      "id_meci": "vBUXmnQH",
+      "id_flashscore": "vBUXmnQH",
+      "sezon": "2025-2026",
+      "faza": "GRUPE",
+      "etapa": null,
+      "data_ora": {
+        "data": "2026-05-02",
+        "ora": "19:00",
+        "zi_saptamana": "Sâmbătă"
+      },
+      "echipa_gazda": {
+        "nume": "Winterthur",
+        "nume_complet": "Winterthur",
+        "pozitie_clasament_inainte": null
+      },
+      "echipa_oaspete": {
+        "nume": "Zurich",
+        "nume_complet": "Zurich",
+        "pozitie_clasament_inainte": null
+      },
+      "scor": {
+        "final_gazda": 2,
+        "final_oaspete": 2,
+        "pauza_gazda": 1,
+        "pauza_oaspete": 1
+      },
+      "statistici": {
+        "suturi_pe_poarta": {
+          "pauza_gazda": 3,
+          "pauza_oaspete": 2,
+          "repriza_2_gazda": 3,
+          "repriza_2_oaspete": 3,
+          "total_gazda": 6,
+          "total_oaspete": 5
+        },
+        "total_suturi": {
+          "pauza_gazda": 7,
+          "pauza_oaspete": 9,
+          "repriza_2_gazda": 11,
+          "repriza_2_oaspete": 7,
+          "total_gazda": 18,
+          "total_oaspete": 16
+        },
+        "cornere": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 4,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 6,
+          "total_oaspete": 3
+        },
+        "cartonase_galbene": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 3,
+          "repriza_2_gazda": 1,
+          "repriza_2_oaspete": 1,
+          "total_gazda": 3,
+          "total_oaspete": 4
+        },
+        "cartonase_rosii": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 0,
+          "total_oaspete": 0
+        },
+        "suturi_salvate": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 2,
+          "repriza_2_gazda": 2,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 3,
+          "total_oaspete": 4
+        },
+        "posesie": {
+          "pauza_gazda": 48,
+          "pauza_oaspete": 52,
+          "repriza_2_gazda": 51,
+          "repriza_2_oaspete": 49,
+          "total_gazda": 50,
+          "total_oaspete": 50
+        },
+        "xG": {
+          "pauza_gazda": 0.43,
+          "pauza_oaspete": 0.5,
+          "repriza_2_gazda": 1.39,
+          "repriza_2_oaspete": 1.35,
+          "total_gazda": 1.82,
+          "total_oaspete": 1.85
+        },
+        "ocazii_mari": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 1,
+          "repriza_2_oaspete": 1,
+          "total_gazda": 2,
+          "total_oaspete": 2
+        },
+        "ofsaiduri": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 1,
+          "total_oaspete": 0
+        },
+        "faulturi": {
+          "pauza_gazda": 6,
+          "pauza_oaspete": 10,
+          "repriza_2_gazda": 8,
+          "repriza_2_oaspete": 8,
+          "total_gazda": 14,
+          "total_oaspete": 18
+        },
+        "lovituri_libere": {
+          "pauza_gazda": 10,
+          "pauza_oaspete": 6,
+          "repriza_2_gazda": 8,
+          "repriza_2_oaspete": 8,
+          "total_gazda": 18,
+          "total_oaspete": 14
+        },
+        "suturi_pe_langa": {
+          "pauza_gazda": 2,
+          "pauza_oaspete": 3,
+          "repriza_2_gazda": 4,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 6,
+          "total_oaspete": 5
+        },
+        "aruncari_de_la_margine": {
+          "pauza_gazda": 14,
+          "pauza_oaspete": 9,
+          "repriza_2_gazda": 16,
+          "repriza_2_oaspete": 11,
+          "total_gazda": 30,
+          "total_oaspete": 20
+        }
+      },
+      "tier_gazda": null,
+      "tier_oaspete": null
+    },
+    {
+      "id_meci": "OzzdZRgR",
+      "id_flashscore": "OzzdZRgR",
+      "sezon": "2025-2026",
+      "faza": "GRUPE",
+      "etapa": null,
+      "data_ora": {
+        "data": "2026-05-02",
+        "ora": "21:30",
+        "zi_saptamana": "Sâmbătă"
+      },
+      "echipa_gazda": {
+        "nume": "Basel",
+        "nume_complet": "Basel",
+        "pozitie_clasament_inainte": null
+      },
+      "echipa_oaspete": {
+        "nume": "Thun",
+        "nume_complet": "Thun",
+        "pozitie_clasament_inainte": null
+      },
+      "scor": {
+        "final_gazda": 3,
+        "final_oaspete": 1,
+        "pauza_gazda": 1,
+        "pauza_oaspete": 1
+      },
+      "statistici": {
+        "suturi_pe_poarta": {
+          "pauza_gazda": 3,
+          "pauza_oaspete": 2,
+          "repriza_2_gazda": 3,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 6,
+          "total_oaspete": 2
+        },
+        "total_suturi": {
+          "pauza_gazda": 4,
+          "pauza_oaspete": 4,
+          "repriza_2_gazda": 14,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 18,
+          "total_oaspete": 6
+        },
+        "cornere": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 2,
+          "repriza_2_gazda": 4,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 5,
+          "total_oaspete": 2
+        },
+        "cartonase_galbene": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 3,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 1,
+          "total_oaspete": 5
+        },
+        "cartonase_rosii": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 0,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 0,
+          "total_oaspete": 2
+        },
+        "suturi_salvate": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 2,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 1,
+          "total_gazda": 1,
+          "total_oaspete": 3
+        },
+        "posesie": {
+          "pauza_gazda": 53,
+          "pauza_oaspete": 47,
+          "repriza_2_gazda": 68,
+          "repriza_2_oaspete": 32,
+          "total_gazda": 60,
+          "total_oaspete": 40
+        },
+        "xG": {
+          "pauza_gazda": 0.28,
+          "pauza_oaspete": 0.29,
+          "repriza_2_gazda": 1.24,
+          "repriza_2_oaspete": 0.09,
+          "total_gazda": 1.52,
+          "total_oaspete": 0.38
+        },
+        "ocazii_mari": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 1,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 1,
+          "total_oaspete": 1
+        },
+        "ofsaiduri": {
+          "pauza_gazda": 1,
+          "pauza_oaspete": 3,
+          "repriza_2_gazda": 0,
+          "repriza_2_oaspete": 0,
+          "total_gazda": 1,
+          "total_oaspete": 3
+        },
+        "faulturi": {
+          "pauza_gazda": 5,
+          "pauza_oaspete": 9,
+          "repriza_2_gazda": 4,
+          "repriza_2_oaspete": 12,
+          "total_gazda": 9,
+          "total_oaspete": 21
+        },
+        "lovituri_libere": {
+          "pauza_gazda": 9,
+          "pauza_oaspete": 5,
+          "repriza_2_gazda": 12,
+          "repriza_2_oaspete": 4,
+          "total_gazda": 21,
+          "total_oaspete": 9
+        },
+        "suturi_pe_langa": {
+          "pauza_gazda": 0,
+          "pauza_oaspete": 1,
+          "repriza_2_gazda": 1,
+          "repriza_2_oaspete": 2,
+          "total_gazda": 1,
+          "total_oaspete": 3
+        },
+        "aruncari_de_la_margine": {
+          "pauza_gazda": 13,
+          "pauza_oaspete": 7,
+          "repriza_2_gazda": 13,
+          "repriza_2_oaspete": 4,
+          "total_gazda": 26,
+          "total_oaspete": 11
+        }
+      },
+      "tier_gazda": null,
+      "tier_oaspete": null
     }
   ]
 }
