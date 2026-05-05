@@ -1,0 +1,95 @@
+{
+  "_meta": {
+    "generatedAt": "2026-05-05T05:04:45.906Z",
+    "date": "05.05.2026",
+    "totalMatches": 8,
+    "totalAlerts": 5
+  },
+  "matches": {
+    "0loMKuil": {
+      "matchId": "0loMKuil",
+      "homeTeam": "Dunfermline",
+      "awayTeam": "Arbroath",
+      "liga": "SCOTLAND: Premiership - Relegation",
+      "ora": "21:45",
+      "timestamp": 1778006700,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Dunfermline",
+          "side": "gazda",
+          "streak": 5,
+          "success": 23,
+          "total": 24,
+          "rate": 95.8,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Dunfermline a luat 2+ cartonașe în 5 meciuri la rând → prob. 1+ cartonaș — în 24 cazuri similare istorice, s-a întâmplat de 23 ori (95.8% reușită)"
+        },
+        {
+          "patternId": "S04",
+          "category": "GOLURI PRIMITE",
+          "team": "Dunfermline",
+          "side": "gazda",
+          "streak": 3,
+          "success": 30,
+          "total": 36,
+          "rate": 83.3,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Dunfermline a primit 2+ goluri în 3 meciuri la rând → prob. să primească 1+ gol — în 36 cazuri similare istorice, s-a întâmplat de 30 ori (83.3% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Dunfermline",
+          "side": "gazda",
+          "streak": 7,
+          "success": 179,
+          "total": 216,
+          "rate": 82.9,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Dunfermline a avut 4+ șuturi pe poartă în 7 meciuri la rând → prob. 3+ — în 216 cazuri similare istorice, s-a întâmplat de 179 ori (82.9% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Dunfermline",
+          "side": "gazda",
+          "streak": 3,
+          "success": 28,
+          "total": 39,
+          "rate": 71.8,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Dunfermline a comis 12+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 39 cazuri similare istorice, s-a întâmplat de 28 ori (71.8% reușită)"
+        }
+      ]
+    },
+    "jcA0cXE5": {
+      "matchId": "jcA0cXE5",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Atl. Madrid",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1778007600,
+      "alerts": [
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Atl. Madrid",
+          "side": "oaspete",
+          "streak": 16,
+          "success": 406,
+          "total": 561,
+          "rate": 72.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Atl. Madrid a marcat în 16 meciuri la rând → prob. să marcheze și acum — în 561 cazuri similare istorice, s-a întâmplat de 406 ori (72.4% reușită)"
+        }
+      ]
+    }
+  }
+}
