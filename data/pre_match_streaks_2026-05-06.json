@@ -1,0 +1,161 @@
+{
+  "_meta": {
+    "generatedAt": "2026-05-06T05:02:25.349Z",
+    "date": "06.05.2026",
+    "totalMatches": 16,
+    "totalAlerts": 11
+  },
+  "matches": {
+    "WzCGgkEU": {
+      "matchId": "WzCGgkEU",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "PSG",
+      "liga": "EUROPE: Champions League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1778094000,
+      "alerts": [
+        {
+          "patternId": "WIN_STREAK",
+          "category": "VICTORII",
+          "team": "PSG",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 7,
+          "total": 7,
+          "rate": 100,
+          "label": "PSG are 5 victorii la rând — în 7 cazuri similare istorice, 7 au câștigat și următorul meci (100% reușită)"
+        },
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "PSG",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 17,
+          "total": 19,
+          "rate": 89.5,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "PSG a marcat 2+ goluri în 7 meciuri la rând → prob. să marcheze 1+ gol — în 19 cazuri similare istorice, s-a întâmplat de 17 ori (89.5% reușită)"
+        },
+        {
+          "patternId": "S13",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Bayern Munich",
+          "side": "gazda",
+          "streak": 5,
+          "success": 497,
+          "total": 577,
+          "rate": 86.1,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Bayern Munich a avut 5+ șuturi pe poartă în 5 meciuri la rând → prob. 3+ — în 577 cazuri similare istorice, s-a întâmplat de 497 ori (86.1% reușită)"
+        },
+        {
+          "patternId": "S09",
+          "category": "CORNERE",
+          "team": "Bayern Munich",
+          "side": "gazda",
+          "streak": 5,
+          "success": 700,
+          "total": 835,
+          "rate": 83.8,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Bayern Munich a avut 5+ cornere în 5 meciuri la rând → prob. să aibă 3+ cornere — în 835 cazuri similare istorice, s-a întâmplat de 700 ori (83.8% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "PSG",
+          "side": "oaspete",
+          "streak": 21,
+          "success": 179,
+          "total": 216,
+          "rate": 82.9,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "PSG a avut 4+ șuturi pe poartă în 21 meciuri la rând → prob. 3+ — în 216 cazuri similare istorice, s-a întâmplat de 179 ori (82.9% reușită)"
+        },
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Bayern Munich",
+          "side": "gazda",
+          "streak": 5,
+          "success": 339,
+          "total": 414,
+          "rate": 81.9,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Bayern Munich a marcat 2+ goluri în 5 meciuri la rând → prob. să marcheze 1+ gol — în 414 cazuri similare istorice, s-a întâmplat de 339 ori (81.9% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Bayern Munich",
+          "side": "gazda",
+          "streak": 9,
+          "success": 223,
+          "total": 274,
+          "rate": 81.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Bayern Munich meciurile au avut 3+ goluri TOTAL în 9 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 274 cazuri similare istorice, s-a întâmplat de 223 ori (81.4% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Bayern Munich",
+          "side": "gazda",
+          "streak": 5,
+          "success": 1485,
+          "total": 1955,
+          "rate": 76,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Bayern Munich a tras 10+ șuturi în 5 meciuri la rând → prob. 10+ șuturi — în 1955 cazuri similare istorice, s-a întâmplat de 1485 ori (76% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Bayern Munich",
+          "side": "gazda",
+          "streak": 9,
+          "success": 855,
+          "total": 1139,
+          "rate": 75.1,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Bayern Munich a primit gol în 9 meciuri la rând → prob. să primească gol — în 1139 cazuri similare istorice, s-a întâmplat de 855 ori (75.1% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "PSG",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 899,
+          "total": 1254,
+          "rate": 71.7,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "PSG a tras 12+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 1254 cazuri similare istorice, s-a întâmplat de 899 ori (71.7% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Bayern Munich",
+          "side": "gazda",
+          "streak": 5,
+          "success": 299,
+          "total": 561,
+          "rate": 53.3,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Bayern Munich a marcat în R1 în 5 meciuri la rând → prob. să marcheze în R1 — în 561 cazuri similare istorice, s-a întâmplat de 299 ori (53.3% reușită)"
+        }
+      ]
+    }
+  }
+}
