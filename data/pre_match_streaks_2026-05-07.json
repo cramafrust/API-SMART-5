@@ -1,0 +1,297 @@
+{
+  "_meta": {
+    "generatedAt": "2026-05-07T05:02:10.990Z",
+    "date": "07.05.2026",
+    "totalMatches": 20,
+    "totalAlerts": 19
+  },
+  "matches": {
+    "SOEkFMVh": {
+      "matchId": "SOEkFMVh",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Nottingham",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1778180400,
+      "alerts": [
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Aston Villa",
+          "side": "gazda",
+          "streak": 3,
+          "success": 1173,
+          "total": 1563,
+          "rate": 75,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Aston Villa a avut 4+ șuturi pe poartă în 3 meciuri la rând → prob. 3+ — în 1563 cazuri similare istorice, s-a întâmplat de 1173 ori (75% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Aston Villa",
+          "side": "gazda",
+          "streak": 3,
+          "success": 1235,
+          "total": 1887,
+          "rate": 65.4,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Aston Villa a comis 10+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 1887 cazuri similare istorice, s-a întâmplat de 1235 ori (65.4% reușită)"
+        }
+      ]
+    },
+    "ngB5BvVH": {
+      "matchId": "ngB5BvVH",
+      "homeTeam": "Freiburg",
+      "awayTeam": "Braga",
+      "liga": "EUROPE: Europa League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1778180400,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Braga",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 735,
+          "total": 799,
+          "rate": 92,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Braga a luat 2+ cartonașe în 5 meciuri la rând → prob. 1+ cartonaș — în 799 cazuri similare istorice, s-a întâmplat de 735 ori (92% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Braga",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 1689,
+          "total": 2206,
+          "rate": 76.6,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Braga a primit gol în 3 meciuri la rând → prob. să primească gol — în 2206 cazuri similare istorice, s-a întâmplat de 1689 ori (76.6% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Freiburg",
+          "side": "gazda",
+          "streak": 4,
+          "success": 582,
+          "total": 760,
+          "rate": 76.6,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Freiburg meciurile au avut 3+ goluri TOTAL în 4 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 760 cazuri similare istorice, s-a întâmplat de 582 ori (76.6% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Braga",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 631,
+          "total": 847,
+          "rate": 74.5,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Braga a comis 12+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 847 cazuri similare istorice, s-a întâmplat de 631 ori (74.5% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Freiburg",
+          "side": "gazda",
+          "streak": 4,
+          "success": 198,
+          "total": 433,
+          "rate": 45.7,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Freiburg a marcat în R1 în 4 meciuri la rând → prob. să marcheze în R1 — în 433 cazuri similare istorice, s-a întâmplat de 198 ori (45.7% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Braga",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 198,
+          "total": 433,
+          "rate": 45.7,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Braga a marcat în R1 în 4 meciuri la rând → prob. să marcheze în R1 — în 433 cazuri similare istorice, s-a întâmplat de 198 ori (45.7% reușită)"
+        }
+      ]
+    },
+    "AVlNTLpn": {
+      "matchId": "AVlNTLpn",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Shakhtar Donetsk",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1778180400,
+      "alerts": [
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Crystal Palace",
+          "side": "gazda",
+          "streak": 3,
+          "success": 1115,
+          "total": 1423,
+          "rate": 78.4,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Crystal Palace meciurile au avut 3+ goluri TOTAL în 3 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 1423 cazuri similare istorice, s-a întâmplat de 1115 ori (78.4% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Shakhtar Donetsk",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 307,
+          "total": 392,
+          "rate": 78.3,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Shakhtar Donetsk meciurile au avut 3+ goluri TOTAL în 5 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 392 cazuri similare istorice, s-a întâmplat de 307 ori (78.3% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Crystal Palace",
+          "side": "gazda",
+          "streak": 4,
+          "success": 631,
+          "total": 847,
+          "rate": 74.5,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Crystal Palace a comis 12+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 847 cazuri similare istorice, s-a întâmplat de 631 ori (74.5% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Shakhtar Donetsk",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 899,
+          "total": 1254,
+          "rate": 71.7,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Shakhtar Donetsk a tras 12+ șuturi în 3 meciuri la rând → prob. 10+ șuturi — în 1254 cazuri similare istorice, s-a întâmplat de 899 ori (71.7% reușită)"
+        },
+        {
+          "patternId": "S02",
+          "category": "GOLURI",
+          "team": "Shakhtar Donetsk",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 761,
+          "total": 1067,
+          "rate": 71.3,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Shakhtar Donetsk a marcat în 5 meciuri la rând → prob. să marcheze și acum — în 1067 cazuri similare istorice, s-a întâmplat de 761 ori (71.3% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Crystal Palace",
+          "side": "gazda",
+          "streak": 4,
+          "success": 198,
+          "total": 433,
+          "rate": 45.7,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Crystal Palace a marcat în R1 în 4 meciuri la rând → prob. să marcheze în R1 — în 433 cazuri similare istorice, s-a întâmplat de 198 ori (45.7% reușită)"
+        }
+      ]
+    },
+    "UZVXduGO": {
+      "matchId": "UZVXduGO",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Rayo Vallecano",
+      "liga": "EUROPE: Conference League - Play Offs",
+      "ora": "22:00",
+      "timestamp": 1778180400,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Strasbourg",
+          "side": "gazda",
+          "streak": 3,
+          "success": 1728,
+          "total": 1930,
+          "rate": 89.5,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Strasbourg a luat 2+ cartonașe în 3 meciuri la rând → prob. 1+ cartonaș — în 1930 cazuri similare istorice, s-a întâmplat de 1728 ori (89.5% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Rayo Vallecano",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 448,
+          "total": 546,
+          "rate": 82.1,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Rayo Vallecano a avut 4+ șuturi pe poartă în 5 meciuri la rând → prob. 3+ — în 546 cazuri similare istorice, s-a întâmplat de 448 ori (82.1% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Rayo Vallecano",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 631,
+          "total": 847,
+          "rate": 74.5,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Rayo Vallecano a comis 12+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 847 cazuri similare istorice, s-a întâmplat de 631 ori (74.5% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Rayo Vallecano",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 900,
+          "total": 1225,
+          "rate": 73.5,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Rayo Vallecano a tras 10+ șuturi în 4 meciuri la rând → prob. 10+ șuturi — în 1225 cazuri similare istorice, s-a întâmplat de 900 ori (73.5% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Strasbourg",
+          "side": "gazda",
+          "streak": 3,
+          "success": 1235,
+          "total": 1887,
+          "rate": 65.4,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Strasbourg a comis 10+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 1887 cazuri similare istorice, s-a întâmplat de 1235 ori (65.4% reușită)"
+        }
+      ]
+    }
+  }
+}
