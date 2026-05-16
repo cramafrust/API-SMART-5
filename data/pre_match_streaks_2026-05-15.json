@@ -1,0 +1,444 @@
+{
+  "_meta": {
+    "generatedAt": "2026-05-15T05:02:12.254Z",
+    "date": "15.05.2026",
+    "totalMatches": 9,
+    "totalAlerts": 28
+  },
+  "matches": {
+    "jyAA4A7c": {
+      "matchId": "jyAA4A7c",
+      "homeTeam": "Zaglebie",
+      "awayTeam": "Pogon Szczecin",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "19:00",
+      "timestamp": 1778860800,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Zaglebie",
+          "side": "gazda",
+          "streak": 4,
+          "success": 40,
+          "total": 43,
+          "rate": 93,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Zaglebie a luat 2+ cartonașe în 4 meciuri la rând → prob. 1+ cartonaș — în 43 cazuri similare istorice, s-a întâmplat de 40 ori (93% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Pogon Szczecin",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 40,
+          "total": 51,
+          "rate": 78.4,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Pogon Szczecin a comis 10+ faulturi în 4 meciuri la rând → prob. 11+ faulturi — în 51 cazuri similare istorice, s-a întâmplat de 40 ori (78.4% reușită)"
+        }
+      ]
+    },
+    "vB1kcGqR": {
+      "matchId": "vB1kcGqR",
+      "homeTeam": "Rizespor",
+      "awayTeam": "Besiktas",
+      "liga": "TURKEY: Super Lig",
+      "ora": "20:00",
+      "timestamp": 1778864400,
+      "alerts": [
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Besiktas",
+          "side": "oaspete",
+          "streak": 8,
+          "success": 18,
+          "total": 23,
+          "rate": 78.3,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Besiktas a tras 12+ șuturi în 8 meciuri la rând → prob. 10+ șuturi — în 23 cazuri similare istorice, s-a întâmplat de 18 ori (78.3% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Rizespor",
+          "side": "gazda",
+          "streak": 7,
+          "success": 17,
+          "total": 23,
+          "rate": 73.9,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Rizespor a primit gol în 7 meciuri la rând → prob. să primească gol — în 23 cazuri similare istorice, s-a întâmplat de 17 ori (73.9% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Rizespor",
+          "side": "gazda",
+          "streak": 14,
+          "success": 17,
+          "total": 26,
+          "rate": 65.4,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Rizespor a comis 10+ faulturi în 14 meciuri la rând → prob. 11+ faulturi — în 26 cazuri similare istorice, s-a întâmplat de 17 ori (65.4% reușită)"
+        }
+      ]
+    },
+    "lUe93UEb": {
+      "matchId": "lUe93UEb",
+      "homeTeam": "St Etienne",
+      "awayTeam": "Rodez",
+      "liga": "FRANCE: Ligue 1 - Relegation - Play Offs",
+      "ora": "21:30",
+      "timestamp": 1778869800,
+      "alerts": [
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "St Etienne",
+          "side": "gazda",
+          "streak": 6,
+          "success": 16,
+          "total": 18,
+          "rate": 88.9,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "St Etienne meciurile au avut 3+ goluri TOTAL în 6 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 18 cazuri similare istorice, s-a întâmplat de 16 ori (88.9% reușită)"
+        },
+        {
+          "patternId": "S04",
+          "category": "GOLURI PRIMITE",
+          "team": "St Etienne",
+          "side": "gazda",
+          "streak": 7,
+          "success": 59,
+          "total": 69,
+          "rate": 85.5,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "St Etienne a primit 2+ goluri în 7 meciuri la rând → prob. să primească 1+ gol — în 69 cazuri similare istorice, s-a întâmplat de 59 ori (85.5% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "St Etienne",
+          "side": "gazda",
+          "streak": 3,
+          "success": 64,
+          "total": 103,
+          "rate": 62.1,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "St Etienne a comis 12+ faulturi în 3 meciuri la rând → prob. 11+ faulturi — în 103 cazuri similare istorice, s-a întâmplat de 64 ori (62.1% reușită)"
+        }
+      ]
+    },
+    "h06R0S6M": {
+      "matchId": "h06R0S6M",
+      "homeTeam": "Korona Kielce",
+      "awayTeam": "Widzew Lodz",
+      "liga": "POLAND: Ekstraklasa",
+      "ora": "21:30",
+      "timestamp": 1778869800,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Korona Kielce",
+          "side": "gazda",
+          "streak": 4,
+          "success": 19,
+          "total": 20,
+          "rate": 95,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Korona Kielce a luat 2+ cartonașe în 4 meciuri la rând → prob. 1+ cartonaș — în 20 cazuri similare istorice, s-a întâmplat de 19 ori (95% reușită)"
+        },
+        {
+          "patternId": "S15",
+          "category": "TOTAL ȘUTURI",
+          "team": "Korona Kielce",
+          "side": "gazda",
+          "streak": 7,
+          "success": 7,
+          "total": 8,
+          "rate": 87.5,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Korona Kielce a tras 10+ șuturi în 7 meciuri la rând → prob. 10+ șuturi — în 8 cazuri similare istorice, s-a întâmplat de 7 ori (87.5% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Korona Kielce",
+          "side": "gazda",
+          "streak": 6,
+          "success": 7,
+          "total": 13,
+          "rate": 53.8,
+          "streakUsed": 6,
+          "source": "league",
+          "label": "Korona Kielce a primit gol în 6 meciuri la rând → prob. să primească gol — în 13 cazuri similare istorice, s-a întâmplat de 7 ori (53.8% reușită)"
+        }
+      ]
+    },
+    "EekNIA8D": {
+      "matchId": "EekNIA8D",
+      "homeTeam": "Leuven",
+      "awayTeam": "Antwerp",
+      "liga": "BELGIUM: Jupiler Pro League - Conference League Group",
+      "ora": "21:45",
+      "timestamp": 1778870700,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 324,
+          "total": 359,
+          "rate": 90.3,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Antwerp a luat 2+ cartonașe în 7 meciuri la rând → prob. 1+ cartonaș — în 359 cazuri similare istorice, s-a întâmplat de 324 ori (90.3% reușită)"
+        },
+        {
+          "patternId": "S04",
+          "category": "GOLURI PRIMITE",
+          "team": "Leuven",
+          "side": "gazda",
+          "streak": 5,
+          "success": 175,
+          "total": 218,
+          "rate": 80.3,
+          "streakUsed": 5,
+          "source": "global",
+          "label": "Leuven a primit 2+ goluri în 5 meciuri la rând → prob. să primească 1+ gol — în 218 cazuri similare istorice, s-a întâmplat de 175 ori (80.3% reușită)"
+        },
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 4,
+          "success": 930,
+          "total": 1159,
+          "rate": 80.2,
+          "streakUsed": 4,
+          "source": "global",
+          "label": "Antwerp a avut 4+ cornere în 4 meciuri la rând → prob. să aibă 3+ cornere — în 1159 cazuri similare istorice, s-a întâmplat de 930 ori (80.2% reușită)"
+        },
+        {
+          "patternId": "S08",
+          "category": "CORNERE",
+          "team": "Leuven",
+          "side": "gazda",
+          "streak": 3,
+          "success": 1429,
+          "total": 1814,
+          "rate": 78.8,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Leuven a avut 4+ cornere în 3 meciuri la rând → prob. să aibă 3+ cornere — în 1814 cazuri similare istorice, s-a întâmplat de 1429 ori (78.8% reușită)"
+        },
+        {
+          "patternId": "S20",
+          "category": "FAULTURI",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 8,
+          "success": 196,
+          "total": 250,
+          "rate": 78.4,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Antwerp a comis 12+ faulturi în 8 meciuri la rând → prob. 11+ faulturi — în 250 cazuri similare istorice, s-a întâmplat de 196 ori (78.4% reușită)"
+        },
+        {
+          "patternId": "S16",
+          "category": "TOTAL ȘUTURI",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 8,
+          "success": 115,
+          "total": 147,
+          "rate": 78.2,
+          "streakUsed": 7,
+          "source": "global",
+          "label": "Antwerp a tras 12+ șuturi în 8 meciuri la rând → prob. 10+ șuturi — în 147 cazuri similare istorice, s-a întâmplat de 115 ori (78.2% reușită)"
+        },
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Antwerp",
+          "side": "oaspete",
+          "streak": 3,
+          "success": 520,
+          "total": 668,
+          "rate": 77.8,
+          "streakUsed": 3,
+          "source": "global",
+          "label": "Antwerp a marcat 2+ goluri în 3 meciuri la rând → prob. să marcheze 1+ gol — în 668 cazuri similare istorice, s-a întâmplat de 520 ori (77.8% reușită)"
+        }
+      ]
+    },
+    "fF2DgsPa": {
+      "matchId": "fF2DgsPa",
+      "homeTeam": "Partick Thistle",
+      "awayTeam": "Dunfermline",
+      "liga": "SCOTLAND: Premiership - Relegation",
+      "ora": "21:45",
+      "timestamp": 1778870700,
+      "alerts": [
+        {
+          "patternId": "S22",
+          "category": "CARTONAȘE",
+          "team": "Dunfermline",
+          "side": "oaspete",
+          "streak": 7,
+          "success": 13,
+          "total": 13,
+          "rate": 100,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Dunfermline a luat 2+ cartonașe în 7 meciuri la rând → prob. 1+ cartonaș — în 13 cazuri similare istorice, s-a întâmplat de 13 ori (100% reușită)"
+        },
+        {
+          "patternId": "S18",
+          "category": "FAULTURI",
+          "team": "Dunfermline",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 21,
+          "total": 30,
+          "rate": 70,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Dunfermline a comis 10+ faulturi în 5 meciuri la rând → prob. 11+ faulturi — în 30 cazuri similare istorice, s-a întâmplat de 21 ori (70% reușită)"
+        }
+      ]
+    },
+    "AyZEYQVH": {
+      "matchId": "AyZEYQVH",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Liverpool",
+      "liga": "ENGLAND: Premier League",
+      "ora": "22:00",
+      "timestamp": 1778871600,
+      "alerts": [
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Liverpool",
+          "side": "oaspete",
+          "streak": 15,
+          "success": 10,
+          "total": 11,
+          "rate": 90.9,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Liverpool a marcat 2+ goluri în 15 meciuri la rând → prob. să marcheze 1+ gol — în 11 cazuri similare istorice, s-a întâmplat de 10 ori (90.9% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Liverpool",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 45,
+          "total": 50,
+          "rate": 90,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Liverpool meciurile au avut 3+ goluri TOTAL în 5 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 50 cazuri similare istorice, s-a întâmplat de 45 ori (90% reușită)"
+        },
+        {
+          "patternId": "S06",
+          "category": "OVER TOTAL MECI",
+          "team": "Aston Villa",
+          "side": "gazda",
+          "streak": 4,
+          "success": 75,
+          "total": 90,
+          "rate": 83.3,
+          "streakUsed": 4,
+          "source": "league",
+          "label": "Aston Villa meciurile au avut 3+ goluri TOTAL în 4 meciuri la rând → prob. 2+ goluri TOTAL MECI — în 90 cazuri similare istorice, s-a întâmplat de 75 ori (83.3% reușită)"
+        },
+        {
+          "patternId": "S12",
+          "category": "ȘUTURI PE POARTĂ",
+          "team": "Liverpool",
+          "side": "oaspete",
+          "streak": 5,
+          "success": 64,
+          "total": 78,
+          "rate": 82.1,
+          "streakUsed": 5,
+          "source": "league",
+          "label": "Liverpool a avut 4+ șuturi pe poartă în 5 meciuri la rând → prob. 3+ — în 78 cazuri similare istorice, s-a întâmplat de 64 ori (82.1% reușită)"
+        },
+        {
+          "patternId": "S01",
+          "category": "GOLURI",
+          "team": "Aston Villa",
+          "side": "gazda",
+          "streak": 3,
+          "success": 78,
+          "total": 98,
+          "rate": 79.6,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Aston Villa a marcat 2+ goluri în 3 meciuri la rând → prob. să marcheze 1+ gol — în 98 cazuri similare istorice, s-a întâmplat de 78 ori (79.6% reușită)"
+        },
+        {
+          "patternId": "S03",
+          "category": "GOLURI PRIMITE",
+          "team": "Aston Villa",
+          "side": "gazda",
+          "streak": 18,
+          "success": 44,
+          "total": 63,
+          "rate": 69.8,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Aston Villa a primit gol în 18 meciuri la rând → prob. să primească gol — în 63 cazuri similare istorice, s-a întâmplat de 44 ori (69.8% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Aston Villa",
+          "side": "gazda",
+          "streak": 3,
+          "success": 63,
+          "total": 122,
+          "rate": 51.6,
+          "streakUsed": 3,
+          "source": "league",
+          "label": "Aston Villa a marcat în R1 în 3 meciuri la rând → prob. să marcheze în R1 — în 122 cazuri similare istorice, s-a întâmplat de 63 ori (51.6% reușită)"
+        },
+        {
+          "patternId": "S05",
+          "category": "GOLURI R1",
+          "team": "Liverpool",
+          "side": "oaspete",
+          "streak": 11,
+          "success": 6,
+          "total": 12,
+          "rate": 50,
+          "streakUsed": 7,
+          "source": "league",
+          "label": "Liverpool a marcat în R1 în 11 meciuri la rând → prob. să marcheze în R1 — în 12 cazuri similare istorice, s-a întâmplat de 6 ori (50% reușită)"
+        }
+      ]
+    }
+  }
+}
