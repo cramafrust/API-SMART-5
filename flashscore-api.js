@@ -16,6 +16,28 @@ const https = require('https');
 const http = require('http');
 const { URL } = require('url');
 
+// ═══════════════════════════════════════════════════════
+// RATE LIMITER (global, pentru tot procesul)
+// ═══════════════════════════════════════════════════════
+// Toate request-urile către Flashscore trec prin fetchFromAPI(). Aici
+// le serializăm într-o coadă cu min 250ms între ele (~4 req/s peak).
+// Previne IP ban-ul Flashscore când mai multe daemonuri bat în paralel.
+
+let lastRequestTime = 0;
+const MIN_REQUEST_INTERVAL_MS = 250;
+let requestQueue = Promise.resolve();
+
+function rateLimit() {
+    requestQueue = requestQueue.then(async () => {
+        const now = Date.now();
+        const elapsed = now - lastRequestTime;
+        const wait = MIN_REQUEST_INTERVAL_MS - elapsed;
+        if (wait > 0) await new Promise(r => setTimeout(r, wait));
+        lastRequestTime = Date.now();
+    });
+    return requestQueue;
+}
+
 /**
  * Parse FlashScore's custom data format
  *
@@ -75,6 +97,7 @@ async function fetchFromAPI(url, retryCount = 0) {
     const MAX_RETRIES = 3;
     const RETRY_DELAY = 2000; // 2 secunde
 
+    await rateLimit();
     try {
         return await fetchFromAPIRaw(url);
     } catch (error) {

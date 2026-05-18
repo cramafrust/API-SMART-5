@@ -93,6 +93,16 @@ class Watchdog {
                 const state = JSON.parse(data);
                 this.systemWasCrashed = state.crashed || false;
                 this.lastCrashNotificationTime = state.lastCrashTime || 0;
+
+                // Auto-clear stale crash state (mai vechi de 24h fără reset)
+                // Bug istoric: crash din 08.04.2026 rămas activ permanent.
+                const ageMs = Date.now() - (state.lastCrashTime || 0);
+                const STALE_THRESHOLD_MS = 24 * 60 * 60 * 1000;
+                if (this.systemWasCrashed && ageMs > STALE_THRESHOLD_MS) {
+                    console.log(`   🧹 Crash state mai vechi de 24h — auto-clear (era din ${state.timestamp})`);
+                    this.systemWasCrashed = false;
+                    this.saveCrashState(false);
+                }
             }
         } catch (err) {
             this.systemWasCrashed = false;
