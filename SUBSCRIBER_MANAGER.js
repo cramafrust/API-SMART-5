@@ -117,7 +117,30 @@ async function notifyAll(type, notification) {
         logger.info(`   📤 Total: ${sent}/${eligible.length} abonați notificați`);
     }
 
+    // În paralel, notifică userii din Supabase prin webhook-ul Vercel.
+    // Eșecul nu afectează fluxul principal — abonații locali sunt deja notificați.
+    notifyVercelWebhook(type, notification).catch(err =>
+        logger.debug(`   ⚠️  Webhook Vercel: ${err.message}`)
+    );
+
     return { sent, total: eligible.length };
+}
+
+async function notifyVercelWebhook(type, notification) {
+    const WEBHOOK_URL = process.env.SMART_PREDICTIONS_WEBHOOK_URL || 'https://smart.frust.ro/api/webhook';
+    const WEBHOOK_SECRET = process.env.SMART_PREDICTIONS_WEBHOOK_SECRET || 'smart5-webhook-secret';
+    const response = await fetch(WEBHOOK_URL, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${WEBHOOK_SECRET}`,
+        },
+        body: JSON.stringify({ type, notification }),
+    });
+    if (response.ok) {
+        const result = await response.json();
+        if (result.sent > 0) logger.info(`   📡 Vercel webhook: ${result.sent} abonați Supabase notificați`);
+    }
 }
 
 function formatSubject(type, n) {

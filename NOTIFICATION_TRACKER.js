@@ -69,21 +69,42 @@ class NotificationTracker {
      */
     addNotification(params) {
         const storage = this.readStorage();
+        const PatternDescriptor = require('./PATTERN_DESCRIPTOR');
 
-        // 🚨 DEDUPLICARE: Verifică dacă există deja notificare pentru acest meci + pattern
+        // 🚨 DEDUPLICARE LOGICĂ: pattern-uri diferite pot prezice ACELAȘI lucru
+        // (ex: PATTERN_22 nivel meci + PATTERN_1.3 pe oaspete → ambele zic
+        // "Girona va marca după pauză"). Cheia = matchId + predictionKey.
         const patternName = params.pattern?.name;
-        const existingNotification = storage.notifications.find(n =>
-            n.matchId === params.matchId &&
-            n.pattern?.name === patternName &&
-            n.status === 'MONITORING'
+        const newPredKey = PatternDescriptor.getPredictionKey(
+            patternName, params.pattern?.team, params.homeTeam, params.awayTeam
         );
 
+        const existingNotification = storage.notifications.find(n => {
+            if (n.matchId !== params.matchId || n.status !== 'MONITORING') return false;
+            const existingPredKey = PatternDescriptor.getPredictionKey(
+                n.pattern?.name, n.pattern?.team, n.homeTeam, n.awayTeam
+            );
+            return existingPredKey === newPredKey;
+        });
+
         if (existingNotification) {
-            console.log(`⚠️  Notificare DUPLICAT detectată - SKIP`);
-            console.log(`   Match: ${params.homeTeam} vs ${params.awayTeam}`);
-            console.log(`   Pattern: ${patternName}`);
-            console.log(`   Existing ID: ${existingNotification.id}`);
-            return existingNotification; // Returnează notificarea existentă
+            // Dacă noua notificare are probabilitate mai mare, înlocuim pattern-ul (păstrăm id-ul)
+            const newProb = params.probability || params.pattern?.probability || 0;
+            const oldProb = existingNotification.probability || existingNotification.pattern?.probability || 0;
+            if (newProb > oldProb) {
+                existingNotification.pattern = params.pattern;
+                existingNotification.probability = params.probability;
+                existingNotification.event = params.event;
+                existingNotification.initial_odd = params.initialOdd;
+                existingNotification.updated_at = new Date().toISOString();
+                this.writeStorage(storage);
+                console.log(`🔄 Notificare ACTUALIZATĂ (rate mai mare ${newProb}% vs ${oldProb}%): ${existingNotification.id}`);
+            } else {
+                console.log(`⚠️  Notificare DUPLICAT (predicție identică) - SKIP`);
+                console.log(`   Match: ${params.homeTeam} vs ${params.awayTeam}`);
+                console.log(`   Predicție: ${newPredKey} | Pattern nou: ${patternName} (${newProb}%) vs existing (${oldProb}%)`);
+            }
+            return existingNotification;
         }
 
         const notification = {

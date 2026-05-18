@@ -399,8 +399,69 @@ class PatternDescriptor {
             return `${teamUpper} A AVUT ${corners} CORNERE VS ≤1 ADVERSAR LA PAUZĂ. ÎN ${prob}% DIN CAZURI, MECIUL A AVUT PESTE 8.5 CORNERE TOTAL.`;
         }
 
+        // PATTERN 21 - Meci deschis extrem (egal ≥1-1 & 10+ șuturi pe poartă combinate)
+        if (patternId === 'PATTERN_21') {
+            const shots = stats.totalSuturiPePtPauza || 10;
+            return `CELE DOUĂ ECHIPE AU MARCAT CÎTE UN GOL LA PAUZĂ (SCOR EGAL) ȘI AU TRAS ÎMPREUNĂ ${shots} ȘUTURI PE POARTĂ, IAR ÎN ${prob}% DIN CAZURILE CÎND AM ÎNREGISTRAT ACESTE MECIURI EXTREM DE DESCHISE, S-A MAI MARCAT CEL PUȚIN UN GOL ÎN REPRIZA A DOUA.`;
+        }
+
+        // PATTERN 22 - Un gol HT + presiune ofensivă (1-0 sau 0-1 cu 6+ șuturi pe poartă)
+        if (patternId === 'PATTERN_22') {
+            const shots = stats.totalSuturiPePtPauza || 6;
+            return `S-A MARCAT UN SINGUR GOL PÎNĂ LA PAUZĂ, IAR CELE DOUĂ ECHIPE AU TRAS ÎMPREUNĂ ${shots} ȘUTURI PE POARTĂ, IAR ÎN ${prob}% DIN CAZURILE CÎND AM ÎNREGISTRAT ACEASTĂ PRESIUNE OFENSIVĂ, ORICARE DIN CELE DOUĂ ECHIPE A MAI MARCAT CEL PUȚIN UN GOL ÎN REPRIZA A DOUA.`;
+        }
+
+        // PATTERN 23 - Meci cu goluri și șuturi (2+ goluri HT & 8+ șuturi pe poartă)
+        if (patternId === 'PATTERN_23') {
+            const goals = stats.totalGoluriPauza || 2;
+            const shots = stats.totalSuturiPePtPauza || 8;
+            return `S-AU MARCAT ${goals}+ GOLURI PÎNĂ LA PAUZĂ, IAR CELE DOUĂ ECHIPE AU TRAS ÎMPREUNĂ ${shots} ȘUTURI PE POARTĂ, IAR ÎN ${prob}% DIN CAZURILE CÎND AM ÎNREGISTRAT ASTFEL DE MECIURI SPECTACULOASE, ORICARE DIN CELE DOUĂ ECHIPE A MAI MARCAT CEL PUȚIN UN GOL ÎN REPRIZA A DOUA.`;
+        }
+
+        // PATTERN 24 - Multe cornere (8+ cornere total HT)
+        if (patternId === 'PATTERN_24') {
+            const corners = stats.totalCornerePauza || 8;
+            return `CELE DOUĂ ECHIPE AU OBȚINUT ÎMPREUNĂ ${corners} CORNERE PÎNĂ LA PAUZĂ, IAR ÎN ${prob}% DIN CAZURILE CÎND AM ÎNREGISTRAT ACEASTĂ PRESIUNE OFENSIVĂ CONSTANTĂ, S-A MARCAT CEL PUȚIN UN GOL ÎN REPRIZA A DOUA.`;
+        }
+
+        // PATTERN 25 - Dominanță clară (HT 2-0 sau 0-2)
+        if (patternId === 'PATTERN_25') {
+            return `O ECHIPĂ CONDUCE CU 2-0 LA PAUZĂ (DOMINANȚĂ CLARĂ), IAR ÎN ${prob}% DIN CAZURILE CÎND AM ÎNREGISTRAT ACEST AVANTAJ EVIDENT, S-A MAI MARCAT CEL PUȚIN UN GOL ÎN REPRIZA A DOUA, INDIFERENT DE CARE ECHIPĂ.`;
+        }
+
         // Fallback (pentru pattern-uri necunoscute)
         return `${teamUpper} A ÎNDEPLINIT PATTERN-UL ${patternId}, IAR ÎN ${prob}% DIN CAZURILE CÂND AM ÎNREGISTRAT ACEASTĂ SITUAȚIE, ECHIPA ÎN CAUZĂ A MARCAT UN GOL DUPĂ PAUZĂ.`;
+    }
+
+    /**
+     * Cheie de deduplicare LOGICĂ: două pattern-uri care prezic ACELAȘI lucru
+     * pentru aceeași țintă (echipă sau meci) trebuie să fie deduplicate.
+     *
+     * Toate pattern-urile HT prezic "se va marca în repriza 2".
+     * Diferența e doar ținta:
+     *  - pattern de tip 'echipa' (PATTERN_1.x, 2.x, 4.x, 5.x, 6.x, 7.x, 8.x, 10.x, 11.x,
+     *    12.x, 13.x, 14, 16, 17, 18, 20) → "ECHIPA X va marca după pauză"
+     *  - pattern de tip 'meci' (PATTERN_3.x, 9.x, 19, 21, 22, 23, 24, 25) → "MECI: se va marca după pauză"
+     *
+     * @param {string} patternName - ex: "PATTERN_1.3", "PATTERN_22"
+     * @param {string} team - 'gazda', 'oaspete', 'meci' SAU numele echipei
+     * @param {string} homeTeam, awayTeam - opțional, pentru a normaliza team-ul
+     * @returns {string} ex: "ECHIPA:Girona", "MECI"
+     */
+    getPredictionKey(patternName, team, homeTeam, awayTeam) {
+        // Pattern-uri tip MECI (predicție: se va marca în meci după pauză)
+        const matchLevelPatterns = /^PATTERN_(3|9|19|21|22|23|24|25)(\.|$)/;
+        if (matchLevelPatterns.test(patternName || '')) {
+            return 'MECI';
+        }
+
+        // Pattern-uri tip ECHIPA — normalizăm numele
+        let teamName = team;
+        if (team === 'gazda' || team === 'home') teamName = homeTeam || 'GAZDA';
+        else if (team === 'oaspete' || team === 'away') teamName = awayTeam || 'OASPETE';
+        else if (team === 'meci') return 'MECI';
+
+        return 'ECHIPA:' + (teamName || 'UNKNOWN');
     }
 }
 

@@ -180,19 +180,25 @@ function calculateRealScore(summary) {
 
 /**
  * Mapare statistici FlashScore → format SMART 4
+ * Matching e case-insensitive (Flashscore schimbă case-ul ocazional).
  */
 const STATS_MAPPING = {
-    'Shots on target': 'suturi_pe_poarta',
-    'Total shots': 'total_suturi',
-    'Corner Kicks': 'cornere',
-    'Yellow Cards': 'cartonase_galbene',
-    'Red Cards': 'cartonase_rosii',
-    'Goalkeeper Saves': 'suturi_salvate',
-    'Fouls': 'faulturi',
-    'Offsides': 'ofsaiduri',
-    'Expected Goals (xG)': 'xG',
-    'Ball Possession': 'posesie'
+    'shots on target': 'suturi_pe_poarta',
+    'total shots': 'total_suturi',
+    'corner kicks': 'cornere',
+    'yellow cards': 'cartonase_galbene',
+    'red cards': 'cartonase_rosii',
+    'goalkeeper saves': 'suturi_salvate',
+    'fouls': 'faulturi',
+    'offsides': 'ofsaiduri',
+    'expected goals (xg)': 'xG',
+    'ball possession': 'posesie'
 };
+
+function lookupStatMapping(flashscoreName) {
+    if (!flashscoreName) return null;
+    return STATS_MAPPING[flashscoreName.trim().toLowerCase()] || null;
+}
 
 /**
  * Parse valoare statistică (poate fi "5", "50%", "75% (15/20)", etc)
@@ -305,10 +311,9 @@ async function extractMatchStats(verificare, procenteLoader, emailNotifier) {
             const parsedStats = new Set();
             statsToUse.forEach(stat => {
                 const flashscoreName = stat.SG ? stat.SG.trim() : null;
+                const smart4Name = lookupStatMapping(flashscoreName);
 
-                // Verifică dacă e una din statisticile noastre
-                if (flashscoreName && STATS_MAPPING[flashscoreName]) {
-                    const smart4Name = STATS_MAPPING[flashscoreName];
+                if (smart4Name) {
                     parsedStats.add(smart4Name);
 
                     // Cornere folosesc repriza_1_ în loc de pauza_

@@ -274,34 +274,49 @@ class NotificationTracker {
     // ═══════════════════════════════════════
 
     async saveNotification(matchData, patterns, odds = null) {
-        const results = [];
-        for (const pattern of patterns) {
-            const teamName = pattern.team === 'gazda' ? matchData.homeTeam :
-                            pattern.team === 'oaspete' ? matchData.awayTeam : 'Meci';
+        // Salvăm DOAR cel mai probabil pattern per meci.
+        // Motivul: emailul trimis e UN SINGUR mesaj (cu mai multe pattern-uri într-un email,
+        // dar 1 meci = 1 alertă). Dacă salvăm toate pattern-urile separat în tracking,
+        // raportul zilnic afișează același meci de 2-N ori și acuratețea statisticilor
+        // e distorsionată (1 win se numără de mai multe ori).
+        if (!patterns || patterns.length === 0) {
+            return { success: false, notificationId: null, patternsCount: 0 };
+        }
 
-            const notification = this.addNotification({
-                matchId: matchData.matchId,
-                homeTeam: matchData.homeTeam,
-                awayTeam: matchData.awayTeam,
-                league: matchData.leagueName || null,
-                event: `${teamName} va marca în repriza 2`,
-                initialOdd: odds?.peste_1_5 || 1.25,
-                probability: pattern.probability,
-                pattern: {
-                    name: pattern.name,
-                    team: pattern.team,
-                    tier: pattern.tier,
-                    position: pattern.position,
-                    isEstimate: pattern.isEstimate || false
-                }
-            });
-            if (notification) results.push(notification);
+        // Alegem pattern-ul cu probabilitatea maximă
+        const bestPattern = patterns.reduce((best, current) =>
+            (current.probability || 0) > (best.probability || 0) ? current : best
+        );
+
+        const teamName = bestPattern.team === 'gazda' ? matchData.homeTeam :
+                        bestPattern.team === 'oaspete' ? matchData.awayTeam : 'Meci';
+
+        const notification = this.addNotification({
+            matchId: matchData.matchId,
+            homeTeam: matchData.homeTeam,
+            awayTeam: matchData.awayTeam,
+            league: matchData.leagueName || null,
+            event: `${teamName} va marca în repriza 2`,
+            initialOdd: odds?.peste_1_5 || 1.25,
+            probability: bestPattern.probability,
+            pattern: {
+                name: bestPattern.name,
+                team: bestPattern.team,
+                tier: bestPattern.tier,
+                position: bestPattern.position,
+                isEstimate: bestPattern.isEstimate || false
+            }
+        });
+
+        if (patterns.length > 1) {
+            const others = patterns.filter(p => p !== bestPattern).map(p => `${p.name}@${Math.round(p.probability)}%`).join(', ');
+            console.log(`   📋 Salvat cel mai probabil: ${bestPattern.name} (${Math.round(bestPattern.probability)}%) | ignorate: ${others}`);
         }
 
         return {
-            success: results.length > 0,
-            notificationId: results[0]?.id,
-            patternsCount: results.length
+            success: notification != null,
+            notificationId: notification?.id,
+            patternsCount: 1
         };
     }
 

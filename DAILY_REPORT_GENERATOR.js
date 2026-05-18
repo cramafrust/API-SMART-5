@@ -71,9 +71,36 @@ function generateDailyReport(targetDate) {
     }
 
     // Filtrează notificările din ziua specificată
-    const dailyNotifications = notifications.filter(n => isFromDate(n, targetDate));
+    let dailyNotifications = notifications.filter(n => isFromDate(n, targetDate));
 
     console.log(`📋 Notificări găsite pentru ${targetDate}: ${dailyNotifications.length}`);
+
+    // 🚨 DEDUPLICARE LOGICĂ: pattern-uri diferite care prezic ACELAȘI lucru pentru
+    // același meci+echipă (ex: PATTERN_22 nivel meci + PATTERN_1.3 pe oaspete = ambele
+    // "Girona va marca după pauză"). Păstrăm doar pe cel cu probabilitate maximă.
+    {
+        const dedupMap = new Map(); // key = matchId|predictionKey → best notification
+        for (const n of dailyNotifications) {
+            const matchId = n.matchId || n.match?.matchId || n.match?.id;
+            if (!matchId) continue;
+            const patternName = n.pattern?.name || n.patterns?.[0]?.patternName || n.patterns?.[0]?.name;
+            const patternTeam = n.pattern?.team || n.patterns?.[0]?.team || n.patterns?.[0]?.teamName;
+            const predKey = PatternDescriptor.getPredictionKey(patternName, patternTeam, n.homeTeam, n.awayTeam);
+            const fullKey = matchId + '|' + predKey;
+            const prob = n.probability || n.pattern?.probability || n.patterns?.[0]?.probability || 0;
+
+            const existing = dedupMap.get(fullKey);
+            if (!existing || (prob > (existing.probability || existing.pattern?.probability || 0))) {
+                dedupMap.set(fullKey, n);
+            }
+        }
+        const deduped = [...dedupMap.values()];
+        const removed = dailyNotifications.length - deduped.length;
+        if (removed > 0) {
+            console.log(`   🧹 Deduplicare logică: -${removed} notificări (același pronostic din pattern-uri diferite)`);
+        }
+        dailyNotifications = deduped;
+    }
 
     if (dailyNotifications.length === 0) {
         return {

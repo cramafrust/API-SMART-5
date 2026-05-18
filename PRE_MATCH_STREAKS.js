@@ -699,19 +699,22 @@ async function checkAndSendPreMatchEmails() {
     // Verifică dacă s-a trimis deja azi
     if (isDailyEmailSent()) return;
 
+    // LOCK ATOMIC: marcăm ca trimis ÎNAINTE de a începe, pentru a preveni
+    // race condition între procese paralele (08.04.2026: 2 procese suprapuse
+    // au trimis același email și au salvat duplicate în prematch_tracking).
+    markDailyEmailSent();
     logger.info('   📊 Ora 12:00 — trimitere emailuri zilnice pre-meci...');
 
     const sent = await sendDailyPreMatchEmail();
     if (sent) {
-        markDailyEmailSent();
-        logger.info('   ✅ Email zilnic pre-meci marcat ca trimis');
+        logger.info('   ✅ Email zilnic pre-meci trimis');
 
-        // Trimite și TOP 30 (doar dacă nu s-a trimis deja)
+        // Trimite și TOP 30 (doar dacă nu s-a trimis deja — lock atomic și aici)
         if (!isTop30Sent()) {
+            markTop30Sent();
             const top30sent = await sendTop30PreMatchEmail();
             if (top30sent) {
-                markTop30Sent();
-                logger.info('   🏆 Email TOP 30 prematch marcat ca trimis');
+                logger.info('   🏆 Email TOP 30 prematch trimis');
             }
         }
     }

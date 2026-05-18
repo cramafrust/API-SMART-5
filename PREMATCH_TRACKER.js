@@ -59,14 +59,28 @@ class PrematchTracker {
 
         for (const { matchId, matchData, alerts } of allMatchesData) {
             for (const alert of alerts) {
-                // Deduplicare: verifică dacă există deja
+                // Deduplicare pe team+category+side+date (același pronostic logic).
+                // S15/S16/S17 ("10+ șuturi") și S18/S19/S20 ("11+ faulturi") sunt pattern-uri
+                // diferite dar generează același pronostic — păstrăm doar cel cu rate maxim.
                 const exists = storage.predictions.find(p =>
                     p.matchId === matchId &&
-                    p.patternId === alert.patternId &&
                     p.team === alert.team &&
+                    p.category === alert.category &&
+                    p.side === alert.side &&
                     p.date === today
                 );
-                if (exists) continue;
+                if (exists) {
+                    // Dacă noul alert are rate mai mare, înlocuim valorile (păstrăm id-ul vechi)
+                    if ((alert.rate || 0) > (exists.rate || 0)) {
+                        exists.patternId = alert.patternId;
+                        exists.streak = alert.streak;
+                        exists.rate = alert.rate;
+                        exists.success = alert.success;
+                        exists.total = alert.total;
+                        exists.label = alert.label;
+                    }
+                    continue;
+                }
 
                 const prediction = {
                     id: `PM_${matchId}_${alert.patternId}_${alert.side}_${Date.now()}`,
